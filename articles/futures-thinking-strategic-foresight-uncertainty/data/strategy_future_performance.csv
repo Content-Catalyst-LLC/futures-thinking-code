@@ -1,0 +1,25 @@
+strategy,future,performance
+Short-Term Optimization,Stable Continuity,0.88
+Short-Term Optimization,Technology Disruption,0.38
+Short-Term Optimization,Climate Stress,0.32
+Short-Term Optimization,Institutional Fragmentation,0.34
+Short-Term Optimization,Geopolitical Shock,0.30
+Short-Term Optimization,Sustainability Transition,0.42
+Incremental Adaptation,Stable Continuity,0.78
+Incremental Adaptation,Technology Disruption,0.60
+Incremental Adaptation,Climate Stress,0.56
+Incremental Adaptation,Institutional Fragmentation,0.55
+Incremental Adaptation,Geopolitical Shock,0.50
+Incremental Adaptation,Sustainability Transition,0.62
+Futures-Oriented Strategy,Stable Continuity,0.72
+Futures-Oriented Strategy,Technology Disruption,0.78
+Futures-Oriented Strategy,Climate Stress,0.74
+Futures-Oriented Strategy,Institutional Fragmentation,0.73
+Futures-Oriented Strategy,Geopolitical Shock,0.69
+Futures-Oriented Strategy,Sustainability Transition,0.80
+Transformational Strategy,Stable Continuity,0.62
+Transformational Strategy,Technology Disruption,0.82
+Transformational Strategy,Climate Stress,0.84
+Transformational Strategy,Institutional Fragmentation,0.70
+Transformational Strategy,Geopolitical Shock,0.66
+Transformational Strategy,Sustainability Transition,0.88

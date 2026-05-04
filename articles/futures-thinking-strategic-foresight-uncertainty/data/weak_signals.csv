@@ -1,0 +1,6 @@
+signal_id,signal_domain,signal_description,novelty,uncertainty,potential_impact,monitoring_priority
+1,Technology,Early adoption of local AI agents in public-service workflows,0.72,0.68,0.78,0.73
+2,Climate,Insurance withdrawal from repeated climate-risk regions,0.64,0.60,0.86,0.75
+3,Governance,Rising use of anticipatory policy labs in national governments,0.58,0.52,0.66,0.59
+4,Economics,Regional supply-chain redundancy becoming a board-level strategy,0.61,0.55,0.74,0.67
+5,Society,Public fatigue with platform-mediated information systems,0.69,0.72,0.70,0.70

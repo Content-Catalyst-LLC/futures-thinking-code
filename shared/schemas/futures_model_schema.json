@@ -1,0 +1,19 @@
+{
+  "schema_name": "futures_model_schema",
+  "description": "Metadata schema for futures-thinking models.",
+  "fields": [
+    {"name": "project_id", "type": "integer"},
+    {"name": "project_name", "type": "string"},
+    {"name": "time_horizon", "type": "string"},
+    {"name": "driver_name", "type": "string"},
+    {"name": "driver_domain", "type": "string"},
+    {"name": "uncertainty_level", "type": "number"},
+    {"name": "impact_level", "type": "number"},
+    {"name": "signal_description", "type": "string"},
+    {"name": "scenario_name", "type": "string"},
+    {"name": "scenario_logic", "type": "string"},
+    {"name": "strategy_name", "type": "string"},
+    {"name": "performance_score", "type": "number"},
+    {"name": "interpretation_note", "type": "string"}
+  ]
+}
