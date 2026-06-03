@@ -1,0 +1,7 @@
+signal_id,domain,signal,uncertainty,impact,watch_score,monitoring_priority
+S003,governance,Public trust fragmentation across institutions,0.82,0.86,0.84,high
+S001,technology,AI decision systems moving into public services,0.76,0.88,0.82,high
+S002,climate,Compound heat and infrastructure stress events increasing,0.7,0.92,0.81,high
+S006,energy,Storage and grid bottlenecks slowing transition pathways,0.68,0.78,0.73,medium
+S004,economy,Supply-chain regionalization after repeated shocks,0.64,0.74,0.69,medium
+S005,society,Demographic aging reshaping care and labor systems,0.48,0.8,0.64,medium

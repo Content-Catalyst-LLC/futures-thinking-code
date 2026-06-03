@@ -1,0 +1,5 @@
+strategy,mean_performance,worst_case,best_case,volatility,robustness_score,mean_regret,max_regret
+Flexible Foresight Strategy,0.7283,0.69,0.78,0.0302,0.5594,0.0783,0.13
+Transformational Strategy,0.7583,0.62,0.84,0.0699,0.5304,0.0483,0.29
+Defensive Continuity Strategy,0.5867,0.52,0.7,0.0565,0.428,0.22,0.29
+Forecast-Optimized Strategy,0.4683,0.34,0.91,0.1992,0.2771,0.3383,0.46
