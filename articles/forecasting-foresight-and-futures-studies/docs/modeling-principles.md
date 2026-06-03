@@ -1,7 +1,7 @@
 # Modeling Principles
 
-Article: What Is Futures Thinking?
+Article: Forecasting, Foresight, and Futures Studies
 
-Disciplined exploration of possible futures for better present-day judgment, strategy, and decision-making under uncertainty.
+Comparison of prediction, projection, forecasting, foresight, futures literacy, scenario work, and futures studies.
 
 Use forecasting for estimation, foresight for preparedness, futures thinking for disciplined anticipatory judgment, and futures studies for critical understanding of future-making.

@@ -1,41 +1,33 @@
 # Forecasting, Foresight, and Futures Studies
 
-This companion directory supports the Futures Thinking article:
+Companion repository directory for the Futures Thinking article:
 
 **Forecasting, Foresight, and Futures Studies**
 
-Focus: Comparison of prediction, projection, forecasting, foresight, futures literacy, scenario work, and futures studies.
+## Focus
 
-## Repository Directory
+Comparison of prediction, projection, forecasting, foresight, futures literacy, scenario work, and futures studies.
+
+## Directory
 
 `articles/forecasting-foresight-and-futures-studies/`
 
-## Directory Structure
+## Structure
 
-- `python/` — strategic readiness, scenario robustness, signal tracking, forecast error, and uncertainty examples.
-- `r/` — foresight profiles, orientation comparison, scenario matrices, and readiness summaries.
-- `julia/` — dynamic scenario and uncertainty examples.
-- `sql/` — drivers, signals, uncertainties, scenarios, assumptions, forecasts, and strategy-evaluation schemas.
-- `rust/` — command-line futures diagnostics scaffold.
-- `go/` — signal and scenario utility scaffold.
-- `cpp/` — efficient scenario-performance examples.
-- `fortran/` — dynamic readiness examples.
-- `c/` — low-level scenario scoring utilities.
-- `docs/` — article notes, modeling principles, assumption registers, and reproducibility guidance.
-- `data/` — synthetic datasets.
-- `outputs/` — generated outputs.
-- `notebooks/` — notebook placeholders.
+- `python/` — Python examples and workflows
+- `r/` — R examples and summaries
+- `julia/` — Julia dynamic uncertainty examples
+- `sql/` — schemas for drivers, signals, assumptions, scenarios, forecasts, and evaluations
+- `rust/` — Rust command-line diagnostics scaffold
+- `go/` — Go utilities
+- `cpp/` — C++ scenario-performance examples
+- `fortran/` — Fortran readiness examples
+- `c/` — C scoring utilities
+- `docs/` — notes and modeling principles
+- `data/` — synthetic datasets
+- `outputs/` — generated outputs
+- `notebooks/` — notebook placeholders
 
-## Run
-
-From this article directory:
-
-```bash
-bash run_smoke_tests.sh
-```
-
-The default Python workflow uses only the Python standard library.
-
-## GitHub Link
+## GitHub URL
 
 https://github.com/Content-Catalyst-LLC/futures-thinking-code/tree/main/articles/forecasting-foresight-and-futures-studies/
