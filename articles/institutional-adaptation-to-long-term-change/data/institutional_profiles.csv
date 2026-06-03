@@ -1,0 +1,9 @@
+institution_id,institution_name,institution_type,learning_capacity,structural_flexibility,coordination_capacity,legitimacy,feedback_sensitivity,resource_mobility,shock_responsiveness,rigidity,intergenerational_responsibility,description
+I1,National Strategy Agency,national_government,0.66,0.48,0.62,0.58,0.56,0.50,0.58,0.66,0.62,Central agency with foresight capacity but constrained by political cycles and procedural rigidity.
+I2,City Resilience Office,local_government,0.70,0.66,0.64,0.72,0.74,0.58,0.72,0.42,0.68,Local institution with strong community feedback and practical adaptation capacity.
+I3,Legacy Public Utility,public_utility,0.48,0.36,0.54,0.50,0.44,0.42,0.46,0.76,0.46,Infrastructure institution with deep assets and high path dependency.
+I4,International Coordination Body,international_organization,0.62,0.44,0.72,0.60,0.58,0.44,0.60,0.58,0.66,Global coordination institution facing asymmetry and slow consensus.
+I5,Regulatory Authority,regulator,0.58,0.42,0.54,0.56,0.52,0.46,0.50,0.68,0.54,Regulator balancing stability legal authority and emerging technology governance.
+I6,Public Health Preparedness Agency,public_health,0.76,0.58,0.72,0.70,0.80,0.62,0.78,0.48,0.72,Preparedness institution with strong feedback systems and surge learning capacity.
+I7,Participatory Governance Assembly,civic_governance,0.72,0.68,0.66,0.86,0.76,0.54,0.70,0.40,0.82,Public deliberation institution emphasizing voice legitimacy and long-term responsibility.
+I8,Digital Modernization Office,digital_governance,0.64,0.60,0.58,0.46,0.66,0.70,0.62,0.54,0.50,Technology office with resources and feedback but weak legitimacy safeguards.

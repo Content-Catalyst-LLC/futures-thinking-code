@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,learning_systems,adaptive_legal_design,cross_agency_coordination,participatory_governance,long_term_budgeting,feedback_infrastructure,accountability_safeguards,resource_mobility,power_analysis,description
+ST1,Institutional Learning System,learning,0.88,0.58,0.66,0.56,0.60,0.86,0.70,0.62,0.58,Builds evaluation memory feedback interpretation and revision routines into institutional practice.
+ST2,Adaptive Governance Framework,governance_design,0.78,0.82,0.80,0.64,0.72,0.72,0.76,0.70,0.66,Connects adaptive rules coordination triggers accountability and implementation authority.
+ST3,Participatory Legitimacy Strategy,participation,0.68,0.60,0.66,0.90,0.58,0.72,0.82,0.56,0.78,Centers affected communities voice contestability repair and legitimacy in adaptation.
+ST4,Long-Term Budget and Capacity Strategy,public_finance,0.66,0.68,0.72,0.54,0.90,0.64,0.70,0.84,0.60,Links adaptation to prevention budgets lifecycle costing staffing and resource reallocation.
+ST5,Technology Accountability Strategy,digital_governance,0.72,0.76,0.68,0.62,0.60,0.78,0.88,0.66,0.72,Pairs digital modernization with auditability rights transparency and public oversight.
+ST6,Global Alignment and Coordination Strategy,global_governance,0.70,0.64,0.88,0.60,0.70,0.68,0.74,0.72,0.76,Improves multi-level coordination finance responsibility and institutional alignment under global stress.

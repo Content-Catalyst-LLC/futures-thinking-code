@@ -1,0 +1,321 @@
+pathway_id,institution_id,scenario_id,pathway_name,time_step,institutional_viability,legitimacy_score,learning_score
+PW1,I1,S1,National Strategy Agency Renewal Pathway,1,1.0,0.58,0.66
+PW1,I1,S1,National Strategy Agency Renewal Pathway,2,1.3609,0.6094,0.6932
+PW1,I1,S1,National Strategy Agency Renewal Pathway,3,1.7339,0.6388,0.7264
+PW1,I1,S1,National Strategy Agency Renewal Pathway,4,1.8,0.6682,0.7596
+PW1,I1,S1,National Strategy Agency Renewal Pathway,5,1.8,0.6976,0.7928
+PW1,I1,S1,National Strategy Agency Renewal Pathway,6,1.8,0.727,0.826
+PW1,I1,S1,National Strategy Agency Renewal Pathway,7,1.8,0.7524,0.8572
+PW1,I1,S1,National Strategy Agency Renewal Pathway,8,1.8,0.7818,0.8904
+PW1,I1,S1,National Strategy Agency Renewal Pathway,9,1.8,0.8112,0.9236
+PW1,I1,S1,National Strategy Agency Renewal Pathway,10,1.8,0.8406,0.9568
+PW1,I1,S1,National Strategy Agency Renewal Pathway,11,1.8,0.87,0.99
+PW1,I1,S1,National Strategy Agency Renewal Pathway,12,1.8,0.8994,1.0232
+PW1,I1,S1,National Strategy Agency Renewal Pathway,13,1.8,0.9288,1.0564
+PW1,I1,S1,National Strategy Agency Renewal Pathway,14,1.8,0.9542,1.0876
+PW1,I1,S1,National Strategy Agency Renewal Pathway,15,1.8,0.9836,1.1208
+PW1,I1,S1,National Strategy Agency Renewal Pathway,16,1.8,1.013,1.154
+PW1,I1,S1,National Strategy Agency Renewal Pathway,17,1.8,1.0424,1.1872
+PW1,I1,S1,National Strategy Agency Renewal Pathway,18,1.8,1.0718,1.2204
+PW1,I1,S1,National Strategy Agency Renewal Pathway,19,1.8,1.1012,1.2536
+PW1,I1,S1,National Strategy Agency Renewal Pathway,20,1.8,1.1306,1.2868
+PW1,I1,S1,National Strategy Agency Renewal Pathway,21,1.8,1.156,1.318
+PW1,I1,S1,National Strategy Agency Renewal Pathway,22,1.8,1.1854,1.3512
+PW1,I1,S1,National Strategy Agency Renewal Pathway,23,1.8,1.2148,1.3844
+PW1,I1,S1,National Strategy Agency Renewal Pathway,24,1.8,1.2442,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,25,1.8,1.2736,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,26,1.8,1.303,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,27,1.8,1.3324,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,28,1.8,1.3578,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,29,1.8,1.3872,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,30,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,31,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,32,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,33,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,34,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,35,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,36,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,37,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,38,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,39,1.8,1.4,1.4
+PW1,I1,S1,National Strategy Agency Renewal Pathway,40,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,1,1.0,0.72,0.7
+PW2,I2,S6,City Resilience Participatory Pathway,2,1.5107,0.768,0.7492
+PW2,I2,S6,City Resilience Participatory Pathway,3,1.8,0.816,0.7984
+PW2,I2,S6,City Resilience Participatory Pathway,4,1.8,0.864,0.8476
+PW2,I2,S6,City Resilience Participatory Pathway,5,1.8,0.912,0.8968
+PW2,I2,S6,City Resilience Participatory Pathway,6,1.8,0.96,0.946
+PW2,I2,S6,City Resilience Participatory Pathway,7,1.8,1.004,0.9932
+PW2,I2,S6,City Resilience Participatory Pathway,8,1.8,1.052,1.0424
+PW2,I2,S6,City Resilience Participatory Pathway,9,1.8,1.1,1.0916
+PW2,I2,S6,City Resilience Participatory Pathway,10,1.8,1.148,1.1408
+PW2,I2,S6,City Resilience Participatory Pathway,11,1.8,1.196,1.19
+PW2,I2,S6,City Resilience Participatory Pathway,12,1.8,1.244,1.2392
+PW2,I2,S6,City Resilience Participatory Pathway,13,1.8,1.292,1.2884
+PW2,I2,S6,City Resilience Participatory Pathway,14,1.8,1.336,1.3356
+PW2,I2,S6,City Resilience Participatory Pathway,15,1.8,1.384,1.3848
+PW2,I2,S6,City Resilience Participatory Pathway,16,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,17,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,18,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,19,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,20,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,21,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,22,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,23,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,24,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,25,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,26,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,27,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,28,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,29,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,30,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,31,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,32,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,33,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,34,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,35,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,36,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,37,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,38,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,39,1.8,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,40,1.8,1.4,1.4
+PW3,I3,S2,Legacy Utility Drift Pathway,1,1.0,0.5,0.48
+PW3,I3,S2,Legacy Utility Drift Pathway,2,1.2211,0.518,0.4984
+PW3,I3,S2,Legacy Utility Drift Pathway,3,1.449,0.536,0.5168
+PW3,I3,S2,Legacy Utility Drift Pathway,4,1.684,0.554,0.5352
+PW3,I3,S2,Legacy Utility Drift Pathway,5,1.8,0.572,0.5536
+PW3,I3,S2,Legacy Utility Drift Pathway,6,1.8,0.59,0.572
+PW3,I3,S2,Legacy Utility Drift Pathway,7,1.8,0.604,0.5884
+PW3,I3,S2,Legacy Utility Drift Pathway,8,1.8,0.622,0.6068
+PW3,I3,S2,Legacy Utility Drift Pathway,9,1.8,0.64,0.6252
+PW3,I3,S2,Legacy Utility Drift Pathway,10,1.8,0.658,0.6436
+PW3,I3,S2,Legacy Utility Drift Pathway,11,1.8,0.676,0.662
+PW3,I3,S2,Legacy Utility Drift Pathway,12,1.8,0.694,0.6804
+PW3,I3,S2,Legacy Utility Drift Pathway,13,1.8,0.712,0.6988
+PW3,I3,S2,Legacy Utility Drift Pathway,14,1.8,0.726,0.7152
+PW3,I3,S2,Legacy Utility Drift Pathway,15,1.8,0.744,0.7336
+PW3,I3,S2,Legacy Utility Drift Pathway,16,1.8,0.762,0.752
+PW3,I3,S2,Legacy Utility Drift Pathway,17,1.8,0.78,0.7704
+PW3,I3,S2,Legacy Utility Drift Pathway,18,1.8,0.798,0.7888
+PW3,I3,S2,Legacy Utility Drift Pathway,19,1.8,0.816,0.8072
+PW3,I3,S2,Legacy Utility Drift Pathway,20,1.8,0.834,0.8256
+PW3,I3,S2,Legacy Utility Drift Pathway,21,1.8,0.848,0.842
+PW3,I3,S2,Legacy Utility Drift Pathway,22,1.8,0.866,0.8604
+PW3,I3,S2,Legacy Utility Drift Pathway,23,1.8,0.884,0.8788
+PW3,I3,S2,Legacy Utility Drift Pathway,24,1.8,0.902,0.8972
+PW3,I3,S2,Legacy Utility Drift Pathway,25,1.8,0.92,0.9156
+PW3,I3,S2,Legacy Utility Drift Pathway,26,1.8,0.938,0.934
+PW3,I3,S2,Legacy Utility Drift Pathway,27,1.8,0.956,0.9524
+PW3,I3,S2,Legacy Utility Drift Pathway,28,1.8,0.97,0.9688
+PW3,I3,S2,Legacy Utility Drift Pathway,29,1.8,0.988,0.9872
+PW3,I3,S2,Legacy Utility Drift Pathway,30,1.8,1.006,1.0056
+PW3,I3,S2,Legacy Utility Drift Pathway,31,1.8,1.024,1.024
+PW3,I3,S2,Legacy Utility Drift Pathway,32,1.8,1.042,1.0424
+PW3,I3,S2,Legacy Utility Drift Pathway,33,1.8,1.06,1.0608
+PW3,I3,S2,Legacy Utility Drift Pathway,34,1.8,1.078,1.0792
+PW3,I3,S2,Legacy Utility Drift Pathway,35,1.8,1.092,1.0956
+PW3,I3,S2,Legacy Utility Drift Pathway,36,1.8,1.11,1.114
+PW3,I3,S2,Legacy Utility Drift Pathway,37,1.8,1.128,1.1324
+PW3,I3,S2,Legacy Utility Drift Pathway,38,1.8,1.146,1.1508
+PW3,I3,S2,Legacy Utility Drift Pathway,39,1.8,1.164,1.1692
+PW3,I3,S2,Legacy Utility Drift Pathway,40,1.8,1.182,1.1876
+PW4,I4,S7,International Coordination Strain Pathway,1,1.0,0.6,0.62
+PW4,I4,S7,International Coordination Strain Pathway,2,1.3745,0.6352,0.6572
+PW4,I4,S7,International Coordination Strain Pathway,3,1.7628,0.6704,0.6944
+PW4,I4,S7,International Coordination Strain Pathway,4,1.8,0.7056,0.7316
+PW4,I4,S7,International Coordination Strain Pathway,5,1.8,0.7408,0.7688
+PW4,I4,S7,International Coordination Strain Pathway,6,1.8,0.776,0.806
+PW4,I4,S7,International Coordination Strain Pathway,7,1.8,0.8072,0.8412
+PW4,I4,S7,International Coordination Strain Pathway,8,1.8,0.8424,0.8784
+PW4,I4,S7,International Coordination Strain Pathway,9,1.8,0.8776,0.9156
+PW4,I4,S7,International Coordination Strain Pathway,10,1.8,0.9128,0.9528
+PW4,I4,S7,International Coordination Strain Pathway,11,1.8,0.948,0.99
+PW4,I4,S7,International Coordination Strain Pathway,12,1.8,0.9832,1.0272
+PW4,I4,S7,International Coordination Strain Pathway,13,1.8,1.0184,1.0644
+PW4,I4,S7,International Coordination Strain Pathway,14,1.8,1.0496,1.0996
+PW4,I4,S7,International Coordination Strain Pathway,15,1.8,1.0848,1.1368
+PW4,I4,S7,International Coordination Strain Pathway,16,1.8,1.12,1.174
+PW4,I4,S7,International Coordination Strain Pathway,17,1.8,1.1552,1.2112
+PW4,I4,S7,International Coordination Strain Pathway,18,1.8,1.1904,1.2484
+PW4,I4,S7,International Coordination Strain Pathway,19,1.8,1.2256,1.2856
+PW4,I4,S7,International Coordination Strain Pathway,20,1.8,1.2608,1.3228
+PW4,I4,S7,International Coordination Strain Pathway,21,1.8,1.292,1.358
+PW4,I4,S7,International Coordination Strain Pathway,22,1.8,1.3272,1.3952
+PW4,I4,S7,International Coordination Strain Pathway,23,1.8,1.3624,1.4
+PW4,I4,S7,International Coordination Strain Pathway,24,1.8,1.3976,1.4
+PW4,I4,S7,International Coordination Strain Pathway,25,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,26,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,27,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,28,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,29,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,30,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,31,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,32,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,33,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,34,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,35,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,36,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,37,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,38,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,39,1.8,1.4,1.4
+PW4,I4,S7,International Coordination Strain Pathway,40,1.8,1.4,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,1,1.0,0.56,0.58
+PW5,I5,S4,Regulatory Technology Lag Pathway,2,1.2977,0.5852,0.607
+PW5,I5,S4,Regulatory Technology Lag Pathway,3,1.6054,0.6104,0.634
+PW5,I5,S4,Regulatory Technology Lag Pathway,4,1.8,0.6356,0.661
+PW5,I5,S4,Regulatory Technology Lag Pathway,5,1.8,0.6608,0.688
+PW5,I5,S4,Regulatory Technology Lag Pathway,6,1.8,0.686,0.715
+PW5,I5,S4,Regulatory Technology Lag Pathway,7,1.8,0.7072,0.74
+PW5,I5,S4,Regulatory Technology Lag Pathway,8,1.8,0.7324,0.767
+PW5,I5,S4,Regulatory Technology Lag Pathway,9,1.8,0.7576,0.794
+PW5,I5,S4,Regulatory Technology Lag Pathway,10,1.8,0.7828,0.821
+PW5,I5,S4,Regulatory Technology Lag Pathway,11,1.8,0.808,0.848
+PW5,I5,S4,Regulatory Technology Lag Pathway,12,1.8,0.8332,0.875
+PW5,I5,S4,Regulatory Technology Lag Pathway,13,1.8,0.8584,0.902
+PW5,I5,S4,Regulatory Technology Lag Pathway,14,1.8,0.8796,0.927
+PW5,I5,S4,Regulatory Technology Lag Pathway,15,1.8,0.9048,0.954
+PW5,I5,S4,Regulatory Technology Lag Pathway,16,1.8,0.93,0.981
+PW5,I5,S4,Regulatory Technology Lag Pathway,17,1.8,0.9552,1.008
+PW5,I5,S4,Regulatory Technology Lag Pathway,18,1.8,0.9804,1.035
+PW5,I5,S4,Regulatory Technology Lag Pathway,19,1.8,1.0056,1.062
+PW5,I5,S4,Regulatory Technology Lag Pathway,20,1.8,1.0308,1.089
+PW5,I5,S4,Regulatory Technology Lag Pathway,21,1.8,1.052,1.114
+PW5,I5,S4,Regulatory Technology Lag Pathway,22,1.8,1.0772,1.141
+PW5,I5,S4,Regulatory Technology Lag Pathway,23,1.8,1.1024,1.168
+PW5,I5,S4,Regulatory Technology Lag Pathway,24,1.8,1.1276,1.195
+PW5,I5,S4,Regulatory Technology Lag Pathway,25,1.8,1.1528,1.222
+PW5,I5,S4,Regulatory Technology Lag Pathway,26,1.8,1.178,1.249
+PW5,I5,S4,Regulatory Technology Lag Pathway,27,1.8,1.2032,1.276
+PW5,I5,S4,Regulatory Technology Lag Pathway,28,1.8,1.2244,1.301
+PW5,I5,S4,Regulatory Technology Lag Pathway,29,1.8,1.2496,1.328
+PW5,I5,S4,Regulatory Technology Lag Pathway,30,1.8,1.2748,1.355
+PW5,I5,S4,Regulatory Technology Lag Pathway,31,1.8,1.3,1.382
+PW5,I5,S4,Regulatory Technology Lag Pathway,32,1.8,1.3252,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,33,1.8,1.3504,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,34,1.8,1.3756,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,35,1.8,1.3968,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,36,1.8,1.4,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,37,1.8,1.4,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,38,1.8,1.4,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,39,1.8,1.4,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,40,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,1,1.0,0.7,0.76
+PW6,I6,S3,Public Health Crisis Learning Pathway,2,1.5269,0.7488,0.8132
+PW6,I6,S3,Public Health Crisis Learning Pathway,3,1.8,0.7976,0.8664
+PW6,I6,S3,Public Health Crisis Learning Pathway,4,1.8,0.8464,0.9196
+PW6,I6,S3,Public Health Crisis Learning Pathway,5,1.8,0.8952,0.9728
+PW6,I6,S3,Public Health Crisis Learning Pathway,6,1.8,0.944,1.026
+PW6,I6,S3,Public Health Crisis Learning Pathway,7,1.8,0.9888,1.0772
+PW6,I6,S3,Public Health Crisis Learning Pathway,8,1.8,1.0376,1.1304
+PW6,I6,S3,Public Health Crisis Learning Pathway,9,1.8,1.0864,1.1836
+PW6,I6,S3,Public Health Crisis Learning Pathway,10,1.8,1.1352,1.2368
+PW6,I6,S3,Public Health Crisis Learning Pathway,11,1.8,1.184,1.29
+PW6,I6,S3,Public Health Crisis Learning Pathway,12,1.8,1.2328,1.3432
+PW6,I6,S3,Public Health Crisis Learning Pathway,13,1.8,1.2816,1.3964
+PW6,I6,S3,Public Health Crisis Learning Pathway,14,1.8,1.3264,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,15,1.8,1.3752,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,16,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,17,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,18,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,19,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,20,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,21,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,22,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,23,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,24,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,25,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,26,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,27,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,28,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,29,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,30,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,31,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,32,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,33,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,34,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,35,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,36,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,37,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,38,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,39,1.8,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,40,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,1,1.0,0.86,0.72
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,2,1.5439,0.9152,0.7716
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,3,1.8,0.9704,0.8232
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,4,1.8,1.0256,0.8748
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,5,1.8,1.0808,0.9264
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,6,1.8,1.136,0.978
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,7,1.8,1.1872,1.0276
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,8,1.8,1.2424,1.0792
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,9,1.8,1.2976,1.1308
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,10,1.8,1.3528,1.1824
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,11,1.8,1.4,1.234
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,12,1.8,1.4,1.2856
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,13,1.8,1.4,1.3372
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,14,1.8,1.4,1.3868
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,15,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,16,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,17,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,18,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,19,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,20,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,21,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,22,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,23,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,24,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,25,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,26,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,27,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,28,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,29,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,30,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,31,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,32,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,33,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,34,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,35,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,36,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,37,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,38,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,39,1.8,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,40,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,1,1.0,0.46,0.64
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,2,1.4196,0.4904,0.6794
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,3,1.8,0.5208,0.7188
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,4,1.8,0.5512,0.7582
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,5,1.8,0.5816,0.7976
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,6,1.8,0.612,0.837
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,7,1.8,0.6384,0.8744
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,8,1.8,0.6688,0.9138
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,9,1.8,0.6992,0.9532
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,10,1.8,0.7296,0.9926
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,11,1.8,0.76,1.032
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,12,1.8,0.7904,1.0714
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,13,1.8,0.8208,1.1108
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,14,1.8,0.8472,1.1482
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,15,1.8,0.8776,1.1876
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,16,1.8,0.908,1.227
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,17,1.8,0.9384,1.2664
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,18,1.8,0.9688,1.3058
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,19,1.8,0.9992,1.3452
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,20,1.8,1.0296,1.3846
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,21,1.8,1.056,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,22,1.8,1.0864,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,23,1.8,1.1168,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,24,1.8,1.1472,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,25,1.8,1.1776,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,26,1.8,1.208,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,27,1.8,1.2384,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,28,1.8,1.2648,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,29,1.8,1.2952,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,30,1.8,1.3256,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,31,1.8,1.356,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,32,1.8,1.3864,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,33,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,34,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,35,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,36,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,37,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,38,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,39,1.8,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,40,1.8,1.4,1.4

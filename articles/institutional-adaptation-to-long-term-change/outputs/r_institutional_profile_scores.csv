@@ -1,0 +1,9 @@
+"institution_id","institution_name","institution_type","learning_capacity","structural_flexibility","coordination_capacity","legitimacy","feedback_sensitivity","resource_mobility","shock_responsiveness","rigidity","intergenerational_responsibility","description","adaptive_profile_score","fragility_pressure_score"
+"I7","Participatory Governance Assembly","civic_governance",0.72,0.68,0.66,0.86,0.76,0.54,0.7,0.4,0.82,"Public deliberation institution emphasizing voice legitimacy and long-term responsibility.",0.6736,0.3152
+"I6","Public Health Preparedness Agency","public_health",0.76,0.58,0.72,0.7,0.8,0.62,0.78,0.48,0.72,"Preparedness institution with strong feedback systems and surge learning capacity.",0.66,0.3388
+"I2","City Resilience Office","local_government",0.7,0.66,0.64,0.72,0.74,0.58,0.72,0.42,0.68,"Local institution with strong community feedback and practical adaptation capacity.",0.6392,0.3436
+"I8","Digital Modernization Office","digital_governance",0.64,0.6,0.58,0.46,0.66,0.7,0.62,0.54,0.5,"Technology office with resources and feedback but weak legitimacy safeguards.",0.5464,0.424
+"I4","International Coordination Body","international_organization",0.62,0.44,0.72,0.6,0.58,0.44,0.6,0.58,0.66,"Global coordination institution facing asymmetry and slow consensus.",0.5228,0.46
+"I1","National Strategy Agency","national_government",0.66,0.48,0.62,0.58,0.56,0.5,0.58,0.66,0.62,"Central agency with foresight capacity but constrained by political cycles and procedural rigidity.",0.5096,0.476
+"I5","Regulatory Authority","regulator",0.58,0.42,0.54,0.56,0.52,0.46,0.5,0.68,0.54,"Regulator balancing stability legal authority and emerging technology governance.",0.4488,0.5248
+"I3","Legacy Public Utility","public_utility",0.48,0.36,0.54,0.5,0.44,0.42,0.46,0.76,0.46,"Infrastructure institution with deep assets and high path dependency.",0.3832,0.5872

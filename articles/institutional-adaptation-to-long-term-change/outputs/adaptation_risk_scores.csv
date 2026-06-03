@@ -1,0 +1,9 @@
+risk_id,institution_id,risk_name,risk_type,adaptation_risk_priority_score,mitigation_capacity,description
+R3,I3,Infrastructure path dependency,lock_in,0.7056,0.34,Legacy assets and cost recovery can block adaptation even when risks are known.
+R8,I8,Technology modernization without accountability,digital_governance,0.688,0.36,Digital tools can improve efficiency while reducing transparency rights and public trust.
+R4,I4,Global coordination failure,coordination_failure,0.6768,0.36,International bodies can agree in principle while failing to align financing responsibility and action.
+R5,I5,Regulatory lag under technology change,regulatory_lag,0.6588,0.4,Rules designed for older systems struggle to govern platforms AI biotechnology and energy transitions.
+R7,I7,Symbolic participation without authority,legitimacy_failure,0.6316,0.42,Participation becomes fragile when public voice is not connected to decision rights or budgets.
+R1,I1,Strategic foresight without budget authority,implementation_gap,0.6128,0.42,Foresight products fail when not linked to fiscal authority staffing and implementation.
+R6,I6,Crisis memory decay,institutional_memory,0.594,0.48,Preparedness lessons fade after crises when attention funding and staff continuity decline.
+R2,I2,Local capacity overload,capacity_constraint,0.5748,0.5,Local offices face expanding mandates without stable funding or technical support.

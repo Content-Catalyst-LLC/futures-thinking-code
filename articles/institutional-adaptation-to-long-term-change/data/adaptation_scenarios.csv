@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,environmental_pressure,technological_change,demographic_pressure,fiscal_constraint,public_trust,coordination_demand,crisis_frequency,description
+S1,Anticipatory Institutional Renewal,renewal,0.56,0.58,0.52,0.46,0.72,0.68,0.44,Institutions build foresight feedback participation and adaptive governance before crisis.
+S2,Institutional Drift,drift,0.68,0.62,0.58,0.60,0.44,0.58,0.56,Formal structures remain stable while conditions shift around them.
+S3,Crisis-Driven Reform,crisis_reform,0.76,0.64,0.60,0.66,0.48,0.72,0.84,Shocks create reform windows but can favor rapid patching over structural learning.
+S4,Technological Modernization Without Accountability,digital_modernization,0.48,0.86,0.44,0.50,0.38,0.58,0.46,Institutions adopt digital tools faster than governance legitimacy and oversight.
+S5,Captured Adaptation,capture,0.62,0.60,0.50,0.58,0.36,0.56,0.52,Reform language is shaped by powerful incumbents preserving existing authority and rents.
+S6,Participatory Adaptive Governance,participatory_governance,0.58,0.56,0.54,0.48,0.82,0.70,0.46,Institutions combine foresight public voice feedback and adaptive implementation.
+S7,Global Coordination Strain,global_alignment,0.78,0.66,0.64,0.72,0.42,0.86,0.68,Global risks require coordination across unequal institutions with different capacities and incentives.

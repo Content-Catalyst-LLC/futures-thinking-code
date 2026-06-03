@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,institutional_stress_pressure_score,adaptation_opportunity_score,description
+S7,Global Coordination Strain,global_alignment,0.704,0.3776,Global risks require coordination across unequal institutions with different capacities and incentives.
+S3,Crisis-Driven Reform,crisis_reform,0.678,0.3676,Shocks create reform windows but can favor rapid patching over structural learning.
+S2,Institutional Drift,drift,0.6032,0.4212,Formal structures remain stable while conditions shift around them.
+S5,Captured Adaptation,capture,0.5772,0.4224,Reform language is shaped by powerful incumbents preserving existing authority and rents.
+S4,Technological Modernization Without Accountability,digital_modernization,0.572,0.446,Institutions adopt digital tools faster than governance legitimacy and oversight.
+S1,Anticipatory Institutional Renewal,renewal,0.5104,0.5724,Institutions build foresight feedback participation and adaptive governance before crisis.
+S6,Participatory Adaptive Governance,participatory_governance,0.5088,0.59,Institutions combine foresight public voice feedback and adaptive implementation.

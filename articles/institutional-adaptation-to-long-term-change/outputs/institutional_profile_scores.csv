@@ -1,0 +1,9 @@
+institution_id,institution_name,institution_type,adaptive_profile_score,fragility_pressure_score,adaptation_class,description
+I7,Participatory Governance Assembly,civic_governance,0.6736,0.3152,Strong adaptive profile,Public deliberation institution emphasizing voice legitimacy and long-term responsibility.
+I6,Public Health Preparedness Agency,public_health,0.66,0.3388,Strong adaptive profile,Preparedness institution with strong feedback systems and surge learning capacity.
+I2,City Resilience Office,local_government,0.6392,0.3436,Strong adaptive profile,Local institution with strong community feedback and practical adaptation capacity.
+I8,Digital Modernization Office,digital_governance,0.5464,0.424,Contested adaptation profile,Technology office with resources and feedback but weak legitimacy safeguards.
+I4,International Coordination Body,international_organization,0.5228,0.46,Contested adaptation profile,Global coordination institution facing asymmetry and slow consensus.
+I1,National Strategy Agency,national_government,0.5096,0.476,Contested adaptation profile,Central agency with foresight capacity but constrained by political cycles and procedural rigidity.
+I5,Regulatory Authority,regulator,0.4488,0.5248,Contested adaptation profile,Regulator balancing stability legal authority and emerging technology governance.
+I3,Legacy Public Utility,public_utility,0.3832,0.5872,High institutional fragility,Infrastructure institution with deep assets and high path dependency.

@@ -1,0 +1,9 @@
+risk_id,institution_id,risk_name,risk_type,probability,severity,detection_difficulty,governance_gap,legitimacy_exposure,implementation_exposure,mitigation_capacity,description
+R1,I1,Strategic foresight without budget authority,implementation_gap,0.60,0.70,0.52,0.62,0.50,0.72,0.42,Foresight products fail when not linked to fiscal authority staffing and implementation.
+R2,I2,Local capacity overload,capacity_constraint,0.58,0.66,0.48,0.50,0.58,0.68,0.50,Local offices face expanding mandates without stable funding or technical support.
+R3,I3,Infrastructure path dependency,lock_in,0.74,0.82,0.58,0.68,0.62,0.76,0.34,Legacy assets and cost recovery can block adaptation even when risks are known.
+R4,I4,Global coordination failure,coordination_failure,0.66,0.78,0.62,0.72,0.64,0.60,0.36,International bodies can agree in principle while failing to align financing responsibility and action.
+R5,I5,Regulatory lag under technology change,regulatory_lag,0.70,0.72,0.60,0.66,0.68,0.58,0.40,Rules designed for older systems struggle to govern platforms AI biotechnology and energy transitions.
+R6,I6,Crisis memory decay,institutional_memory,0.56,0.72,0.54,0.58,0.52,0.64,0.48,Preparedness lessons fade after crises when attention funding and staff continuity decline.
+R7,I7,Symbolic participation without authority,legitimacy_failure,0.62,0.68,0.56,0.60,0.82,0.54,0.42,Participation becomes fragile when public voice is not connected to decision rights or budgets.
+R8,I8,Technology modernization without accountability,digital_governance,0.68,0.76,0.64,0.70,0.74,0.60,0.36,Digital tools can improve efficiency while reducing transparency rights and public trust.

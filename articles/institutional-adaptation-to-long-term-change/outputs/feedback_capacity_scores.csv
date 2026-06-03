@@ -1,0 +1,9 @@
+feedback_id,institution_id,feedback_dimension,feedback_capacity_score,feedback_gap_score,description
+F6,I6,Public health surveillance and learning,0.7116,0.2884,Preparedness agencies need strong surveillance plus lasting institutional memory.
+F2,I2,Local resilience learning loop,0.6608,0.3392,Local resilience offices combine technical feedback with lived community information.
+F7,I7,Participatory feedback and deliberation,0.6456,0.3544,Civic assemblies surface legitimacy and justice signals often missed by formal institutions.
+F8,I8,Digital service monitoring,0.5744,0.4256,Digital modernization offices detect usage signals but may miss rights and legitimacy concerns.
+F1,I1,National foresight feedback system,0.5732,0.4268,Central strategy capacity is strong but revision authority and community feedback are limited.
+F5,I5,Regulatory evidence review,0.5616,0.4384,Regulators can evaluate evidence but may lack speed and public participation.
+F4,I4,International monitoring and review,0.5468,0.4532,Global systems gather information but struggle with enforcement and revision authority.
+F3,I3,Utility asset feedback system,0.4756,0.5244,Asset monitoring is stronger than public feedback or authority for structural change.

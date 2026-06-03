@@ -1,0 +1,9 @@
+"feedback_id","institution_id","feedback_dimension","signal_detection","interpretation_capacity","evaluation_quality","memory_retention","revision_authority","community_feedback","public_reporting","description","feedback_capacity_score","feedback_gap_score"
+"F6","I6","Public health surveillance and learning",0.84,0.76,0.74,0.7,0.64,0.54,0.68,"Preparedness agencies need strong surveillance plus lasting institutional memory.",0.7116,0.2884
+"F2","I2","Local resilience learning loop",0.68,0.66,0.62,0.6,0.58,0.82,0.7,"Local resilience offices combine technical feedback with lived community information.",0.6608,0.3392
+"F7","I7","Participatory feedback and deliberation",0.6,0.68,0.62,0.58,0.46,0.9,0.76,"Civic assemblies surface legitimacy and justice signals often missed by formal institutions.",0.6456,0.3544
+"F8","I8","Digital service monitoring",0.78,0.64,0.6,0.52,0.54,0.36,0.44,"Digital modernization offices detect usage signals but may miss rights and legitimacy concerns.",0.5744,0.4256
+"F1","I1","National foresight feedback system",0.7,0.68,0.6,0.56,0.46,0.38,0.54,"Central strategy capacity is strong but revision authority and community feedback are limited.",0.5732,0.4268
+"F5","I5","Regulatory evidence review",0.58,0.6,0.64,0.56,0.52,0.38,0.62,"Regulators can evaluate evidence but may lack speed and public participation.",0.5616,0.4384
+"F4","I4","International monitoring and review",0.64,0.6,0.58,0.62,0.34,0.42,0.58,"Global systems gather information but struggle with enforcement and revision authority.",0.5468,0.4532
+"F3","I3","Utility asset feedback system",0.52,0.48,0.56,0.54,0.38,0.34,0.46,"Asset monitoring is stronger than public feedback or authority for structural change.",0.4756,0.5244

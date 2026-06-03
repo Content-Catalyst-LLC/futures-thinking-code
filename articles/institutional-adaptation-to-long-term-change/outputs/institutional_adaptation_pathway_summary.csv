@@ -1,0 +1,9 @@
+pathway_id,institution_id,scenario_id,pathway_name,final_institutional_viability,mean_institutional_viability,final_legitimacy_score,final_learning_score
+PW1,I1,S1,National Strategy Agency Renewal Pathway,1.8,1.7674,1.4,1.4
+PW2,I2,S6,City Resilience Participatory Pathway,1.8,1.7728,1.4,1.4
+PW3,I3,S2,Legacy Utility Drift Pathway,1.8,1.7539,1.182,1.1876
+PW4,I4,S7,International Coordination Strain Pathway,1.8,1.7684,1.4,1.4
+PW5,I5,S4,Regulatory Technology Lag Pathway,1.8,1.7626,1.4,1.4
+PW6,I6,S3,Public Health Crisis Learning Pathway,1.8,1.7732,1.4,1.4
+PW7,I7,S6,Participatory Assembly Adaptation Pathway,1.8,1.7736,1.4,1.4
+PW8,I8,S4,Digital Modernization Accountability Gap Pathway,1.8,1.7705,1.4,1.4
