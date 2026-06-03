@@ -1,0 +1,7 @@
+"issue_id","issue_title","domain","likelihood","impact","uncertainty","urgency","governance_relevance","monitoring_need","description","priority_score","uncertainty_adjusted_priority"
+"I6","Institutional trust fragmentation","governance_culture",0.76,0.84,0.58,0.86,0.88,0.88,"Declining trust may weaken implementation capacity across technology health climate and public policy.",0.834,0.9307
+"I2","Climate adaptation finance under compound risk","climate_infrastructure",0.72,0.9,0.52,0.88,0.84,0.9,"Compound climate hazards may overwhelm existing adaptation finance and infrastructure planning.",0.842,0.9296
+"I1","Public AI accountability before deployment","technology_governance",0.67,0.87,0.48,0.82,0.9,0.86,"Public-sector AI systems may scale faster than accountability due-process and audit institutions.",0.8135,0.8916
+"I4","Grid modernization and just energy transition","energy_systems",0.7,0.88,0.5,0.8,0.82,0.84,"Clean energy transition depends on grid capacity workforce planning affordability and legitimacy.",0.806,0.8866
+"I3","Care workforce resilience under demographic pressure","health_labor",0.74,0.86,0.44,0.84,0.8,0.82,"Care systems face workforce stress aging populations and public-health shock exposure.",0.813,0.8845
+"I5","Food-water-ecology stress in urban regions","food_water_ecology",0.64,0.82,0.56,0.76,0.78,0.8,"Food water and ecological stresses may converge in urban and regional planning systems.",0.755,0.8396

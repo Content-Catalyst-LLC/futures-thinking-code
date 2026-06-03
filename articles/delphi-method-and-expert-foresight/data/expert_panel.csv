@@ -1,0 +1,13 @@
+expert_id,expertise_domain,sector,formal_expert,practice_expert,community_expert,ethics_expert,years_experience,panel_weight,blind_spot_risk,description
+E01,technology_governance,university,true,false,false,true,18,0.92,0.38,Researches AI governance accountability and digital public infrastructure.
+E02,public_policy,government,true,true,false,false,16,0.88,0.34,Works on public-sector strategy regulatory design and interagency implementation.
+E03,climate_adaptation,public_agency,true,true,false,false,20,0.90,0.30,Leads regional climate adaptation planning and resilience investment.
+E04,community_resilience,civil_society,false,true,true,false,14,0.84,0.18,Works with frontline communities on heat housing and climate-risk preparedness.
+E05,public_health,health_system,true,true,false,false,22,0.90,0.28,Studies public-health preparedness workforce capacity and care-system resilience.
+E06,energy_systems,utility_planning,true,true,false,false,19,0.86,0.42,Analyzes grid modernization clean energy reliability and demand flexibility.
+E07,labor_transition,labor_organization,false,true,true,false,17,0.82,0.24,Represents worker transition concerns in technology and energy systems.
+E08,foresight_methods,consulting_research,true,true,false,false,15,0.84,0.36,Designs strategic foresight scenario planning and Delphi processes.
+E09,ethics_and_rights,nonprofit_policy,true,false,true,true,13,0.88,0.20,Works on civil rights digital accountability and public-interest governance.
+E10,infrastructure_finance,finance_public,true,true,false,false,21,0.86,0.44,Analyzes long-term infrastructure finance public investment and risk transfer.
+E11,ecology_and_thresholds,research_institute,true,true,false,false,18,0.88,0.32,Studies ecological thresholds climate stress and coupled social-ecological systems.
+E12,education_futures,university,true,true,false,false,15,0.80,0.36,Studies future skills curriculum design and anticipatory learning systems.

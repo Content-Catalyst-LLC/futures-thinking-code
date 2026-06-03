@@ -1,0 +1,7 @@
+output_id,issue_id,output_type,output_title,decision_use,monitoring_indicator,review_frequency,review_weight
+O1,I1,policy_option,Create public AI accountability office,Policy design and institutional capacity planning,algorithmic_complaints_index,quarterly,0.88
+O2,I1,scenario_input,AI deployment outpaces public oversight,Scenario planning and governance stress testing,public_ai_pilot_to_operations_ratio,quarterly,0.88
+O3,I2,policy_option,Create climate adaptation finance trigger system,Climate resilience and public finance planning,compound_climate_loss_index,quarterly,0.88
+O4,I3,research_priority,Measure care workforce resilience and informal workarounds,Public health and labor-system preparedness,care_workforce_vacancy_rate,quarterly,0.88
+O5,I4,scenario_input,Grid bottlenecks slow clean energy transition,Energy futures and transition pathway analysis,interconnection_delay_index,quarterly,0.88
+O6,I6,monitoring_priority,Track public trust divergence across policy domains,Institutional legitimacy and implementation risk,trust_divergence_index,semiannual,0.68
