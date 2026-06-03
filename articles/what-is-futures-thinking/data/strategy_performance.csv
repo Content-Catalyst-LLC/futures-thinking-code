@@ -1,0 +1,25 @@
+strategy,future,performance
+Forecast-Optimized Strategy,Expected Continuity,0.91
+Forecast-Optimized Strategy,Technology Disruption,0.42
+Forecast-Optimized Strategy,Climate Stress,0.38
+Forecast-Optimized Strategy,Institutional Fragmentation,0.36
+Forecast-Optimized Strategy,Supply Constraint,0.40
+Forecast-Optimized Strategy,Public Trust Shock,0.34
+Flexible Foresight Strategy,Expected Continuity,0.78
+Flexible Foresight Strategy,Technology Disruption,0.75
+Flexible Foresight Strategy,Climate Stress,0.72
+Flexible Foresight Strategy,Institutional Fragmentation,0.70
+Flexible Foresight Strategy,Supply Constraint,0.73
+Flexible Foresight Strategy,Public Trust Shock,0.69
+Transformational Strategy,Expected Continuity,0.62
+Transformational Strategy,Technology Disruption,0.81
+Transformational Strategy,Climate Stress,0.84
+Transformational Strategy,Institutional Fragmentation,0.76
+Transformational Strategy,Supply Constraint,0.78
+Transformational Strategy,Public Trust Shock,0.74
+Defensive Continuity Strategy,Expected Continuity,0.70
+Defensive Continuity Strategy,Technology Disruption,0.52
+Defensive Continuity Strategy,Climate Stress,0.55
+Defensive Continuity Strategy,Institutional Fragmentation,0.58
+Defensive Continuity Strategy,Supply Constraint,0.57
+Defensive Continuity Strategy,Public Trust Shock,0.60

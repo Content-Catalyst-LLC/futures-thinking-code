@@ -1,10 +1,10 @@
 # Modeling Principles
 
-Article: Forecasting, Foresight, and Futures Studies
+Article: What Is Futures Thinking?
 
 ## Focus
 
-Comparison of prediction, projection, forecasting, foresight, futures literacy, scenario work, and futures studies.
+Disciplined exploration of possible futures for better present-day judgment, strategy, and decision-making under uncertainty.
 
 ## Working Principle
 

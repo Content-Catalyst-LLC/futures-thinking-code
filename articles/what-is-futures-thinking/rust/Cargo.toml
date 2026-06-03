@@ -1,5 +1,5 @@
 [package]
-name = "futures_thinking_cli"
+name = "futures_diagnostics"
 version = "0.1.0"
 edition = "2021"
 

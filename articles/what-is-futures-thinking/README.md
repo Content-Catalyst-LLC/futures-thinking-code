@@ -1,14 +1,14 @@
-# Forecasting, Foresight, and Futures Studies
+# What Is Futures Thinking?
 
 This companion directory supports the Futures Thinking article:
 
-**Forecasting, Foresight, and Futures Studies**
+**What Is Futures Thinking?**
 
-Focus: Comparison of prediction, projection, forecasting, foresight, futures literacy, scenario work, and futures studies.
+Focus: Disciplined exploration of possible futures for better present-day judgment, strategy, and decision-making under uncertainty.
 
 ## Repository Directory
 
-`articles/forecasting-foresight-and-futures-studies/`
+`articles/what-is-futures-thinking/`
 
 ## Directory Structure
 
@@ -38,4 +38,4 @@ The default Python workflow uses only the Python standard library.
 
 ## GitHub Link
 
-https://github.com/Content-Catalyst-LLC/futures-thinking-code/tree/main/articles/forecasting-foresight-and-futures-studies/
+https://github.com/Content-Catalyst-LLC/futures-thinking-code/tree/main/articles/what-is-futures-thinking/

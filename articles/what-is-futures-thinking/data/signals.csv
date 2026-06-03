@@ -1,0 +1,7 @@
+signal_id,domain,signal,uncertainty,impact,monitoring_priority
+S001,technology,AI decision systems moving into public services,0.76,0.88,high
+S002,climate,Compound heat and infrastructure stress events increasing,0.70,0.92,high
+S003,governance,Public trust fragmentation across institutions,0.82,0.86,high
+S004,economy,Supply-chain regionalization after repeated shocks,0.64,0.74,medium
+S005,society,Demographic aging reshaping care and labor systems,0.48,0.80,medium
+S006,energy,Storage and grid bottlenecks slowing transition pathways,0.68,0.78,medium

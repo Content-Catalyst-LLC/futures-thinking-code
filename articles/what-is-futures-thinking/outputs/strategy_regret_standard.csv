@@ -1,0 +1,25 @@
+strategy,future,performance,best_future_performance,regret
+Forecast-Optimized Strategy,Expected Continuity,0.91,0.91,0.0
+Forecast-Optimized Strategy,Technology Disruption,0.42,0.81,0.39
+Forecast-Optimized Strategy,Climate Stress,0.38,0.84,0.46
+Forecast-Optimized Strategy,Institutional Fragmentation,0.36,0.76,0.4
+Forecast-Optimized Strategy,Supply Constraint,0.4,0.78,0.38
+Forecast-Optimized Strategy,Public Trust Shock,0.34,0.74,0.4
+Flexible Foresight Strategy,Expected Continuity,0.78,0.91,0.13
+Flexible Foresight Strategy,Technology Disruption,0.75,0.81,0.06
+Flexible Foresight Strategy,Climate Stress,0.72,0.84,0.12
+Flexible Foresight Strategy,Institutional Fragmentation,0.7,0.76,0.06
+Flexible Foresight Strategy,Supply Constraint,0.73,0.78,0.05
+Flexible Foresight Strategy,Public Trust Shock,0.69,0.74,0.05
+Transformational Strategy,Expected Continuity,0.62,0.91,0.29
+Transformational Strategy,Technology Disruption,0.81,0.81,0.0
+Transformational Strategy,Climate Stress,0.84,0.84,0.0
+Transformational Strategy,Institutional Fragmentation,0.76,0.76,0.0
+Transformational Strategy,Supply Constraint,0.78,0.78,0.0
+Transformational Strategy,Public Trust Shock,0.74,0.74,0.0
+Defensive Continuity Strategy,Expected Continuity,0.7,0.91,0.21
+Defensive Continuity Strategy,Technology Disruption,0.52,0.81,0.29
+Defensive Continuity Strategy,Climate Stress,0.55,0.84,0.29
+Defensive Continuity Strategy,Institutional Fragmentation,0.58,0.76,0.18
+Defensive Continuity Strategy,Supply Constraint,0.57,0.78,0.21
+Defensive Continuity Strategy,Public Trust Shock,0.6,0.74,0.14
