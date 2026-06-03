@@ -1,0 +1,9 @@
+governance_id,governance_strategy,governance_type,detection_capacity,interpretation_capacity,scenario_capacity,preparedness_capacity,legitimacy,coordination_capacity,adaptive_authority,equity_safeguards,learning_capacity,implementation_connection,description
+G1,Reactive Crisis Governance,reactive_governance,0.36,0.34,0.28,0.42,0.40,0.38,0.32,0.34,0.36,0.48,Responds after disruption becomes visible and underinvests in prevention and adaptive authority.
+G2,Strategic Foresight Unit,foresight_unit,0.72,0.76,0.82,0.58,0.54,0.60,0.46,0.48,0.68,0.50,Builds scanning and scenario capacity but may remain weakly connected to budgets and delivery.
+G3,Adaptive Regulation System,adaptive_regulation,0.66,0.68,0.66,0.62,0.56,0.68,0.82,0.58,0.70,0.66,Uses monitoring review triggers risk tiers audits and revision authority for emerging technologies.
+G4,Participatory Anticipatory Governance,participatory_governance,0.68,0.74,0.78,0.70,0.86,0.72,0.68,0.88,0.78,0.64,Combines public participation strategic foresight adaptive policy and democratic contestability.
+G5,Preparedness and Early Warning System,early_warning,0.86,0.72,0.70,0.84,0.62,0.74,0.66,0.66,0.74,0.72,Builds strong signal detection preparedness and response triggers for emerging risks.
+G6,Policy Lab and Experimentation Model,policy_lab,0.62,0.66,0.64,0.56,0.60,0.62,0.58,0.62,0.72,0.56,Uses pilots prototypes sandboxes and evaluation to learn before large scale implementation.
+G7,Long Term Public Investment Framework,public_finance,0.58,0.62,0.68,0.76,0.64,0.70,0.64,0.68,0.66,0.84,Links foresight to prevention budgets lifecycle costing resilience investment and implementation capacity.
+G8,Security Dominated Anticipation,security_governance,0.78,0.66,0.56,0.72,0.38,0.70,0.76,0.30,0.46,0.62,Builds threat detection and rapid authority but risks surveillance rights erosion and legitimacy failure.

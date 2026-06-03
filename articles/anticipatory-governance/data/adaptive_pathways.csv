@@ -1,0 +1,9 @@
+pathway_id,governance_id,scenario_id,pathway_name,detection,interpretation,preparedness,legitimacy,coordination,adaptive_authority,equity,learning,initial_capacity,time_horizon
+P1,G1,SC7,Reactive Crisis Governance Under Fragmentation,0.36,0.34,0.42,0.40,0.38,0.32,0.34,0.36,0.46,40
+P2,G2,SC2,Strategic Foresight Unit Without Implementation,0.72,0.76,0.58,0.54,0.60,0.46,0.48,0.68,0.64,40
+P3,G3,SC3,Adaptive Regulation Under Technology Acceleration,0.66,0.68,0.62,0.56,0.68,0.82,0.58,0.70,0.66,40
+P4,G4,SC6,Participatory Anticipatory Governance Pathway,0.68,0.74,0.70,0.86,0.72,0.68,0.88,0.78,0.72,40
+P5,G5,SC1,Preparedness and Early Warning Capacity Pathway,0.86,0.72,0.84,0.62,0.74,0.66,0.66,0.74,0.74,40
+P6,G6,SC1,Policy Lab Experimentation and Learning Pathway,0.62,0.66,0.56,0.60,0.62,0.58,0.62,0.72,0.60,40
+P7,G7,SC1,Long Term Public Investment Pathway,0.58,0.62,0.76,0.64,0.70,0.64,0.68,0.66,0.68,40
+P8,G8,SC4,Security Dominated Anticipation Pathway,0.78,0.66,0.72,0.38,0.70,0.76,0.30,0.46,0.62,40

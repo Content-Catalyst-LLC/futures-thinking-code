@@ -1,0 +1,9 @@
+governance_id,governance_strategy,governance_type,anticipatory_capacity_score,anticipatory_fragility_pressure_score,governance_class,description
+G4,Participatory Anticipatory Governance,participatory_governance,0.7482,0.2576,Strong anticipatory governance profile,Combines public participation strategic foresight adaptive policy and democratic contestability.
+G5,Preparedness and Early Warning System,early_warning,0.7294,0.266,Strong anticipatory governance profile,Builds strong signal detection preparedness and response triggers for emerging risks.
+G7,Long Term Public Investment Framework,public_finance,0.6702,0.322,Contested anticipatory capacity,Links foresight to prevention budgets lifecycle costing resilience investment and implementation capacity.
+G3,Adaptive Regulation System,adaptive_regulation,0.66,0.3408,Contested anticipatory capacity,Uses monitoring review triggers risk tiers audits and revision authority for emerging technologies.
+G2,Strategic Foresight Unit,foresight_unit,0.6274,0.4276,Contested anticipatory capacity,Builds scanning and scenario capacity but may remain weakly connected to budgets and delivery.
+G6,Policy Lab and Experimentation Model,policy_lab,0.6176,0.3936,Contested anticipatory capacity,Uses pilots prototypes sandboxes and evaluation to learn before large scale implementation.
+G8,Security Dominated Anticipation,security_governance,0.6052,0.3944,Contested anticipatory capacity,Builds threat detection and rapid authority but risks surveillance rights erosion and legitimacy failure.
+G1,Reactive Crisis Governance,reactive_governance,0.3624,0.6216,High anticipatory fragility,Responds after disruption becomes visible and underinvests in prevention and adaptive authority.

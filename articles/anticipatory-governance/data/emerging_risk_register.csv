@@ -1,0 +1,9 @@
+risk_id,governance_id,risk_name,risk_domain,probability,severity,uncertainty,detection_difficulty,justice_exposure,governance_gap,mitigation_capacity,description
+R1,G1,Preparedness Decay After Crisis,public_capacity,0.72,0.78,0.48,0.50,0.66,0.70,0.34,Preparedness systems can decay between crises when attention and funding fade.
+R2,G2,Foresight Without Implementation,governance_design,0.64,0.70,0.46,0.44,0.54,0.72,0.38,Scanning and scenarios fail when not connected to authority finance or delivery.
+R3,G3,Regulatory Lag Under Technology Change,technology_governance,0.68,0.76,0.60,0.58,0.70,0.66,0.42,Technology deployment can outrun review audit and rights protection.
+R4,G4,Symbolic Participation Without Power,democratic_governance,0.62,0.68,0.50,0.52,0.82,0.60,0.44,Participation becomes fragile when public voice does not change decisions or budgets.
+R5,G5,Warning Ignored by Decision Makers,early_warning,0.58,0.74,0.52,0.46,0.64,0.68,0.46,Signals can be detected but ignored if institutions lack receptivity or authority.
+R6,G6,Experimentation Risk Transfer,policy_experimentation,0.56,0.66,0.54,0.50,0.78,0.58,0.48,Pilots and sandboxes can shift risk onto vulnerable groups without safeguards.
+R7,G7,Long Term Investment Politically Deferred,public_finance,0.70,0.80,0.44,0.42,0.72,0.74,0.36,Prevention and maintenance can be delayed because benefits are less visible than crisis response.
+R8,G8,Securitized Anticipation and Rights Erosion,security_governance,0.60,0.78,0.62,0.56,0.86,0.70,0.34,Threat anticipation can justify surveillance emergency power and weak democratic oversight.

@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,technology_acceleration,climate_stress,public_trust,geopolitical_volatility,fiscal_pressure,institutional_capacity,participation_quality,crisis_frequency,description
+SC1,Embedded Anticipatory Public Capacity,public_capacity,0.56,0.58,0.76,0.46,0.44,0.78,0.72,0.42,Institutions connect foresight early warning participation and adaptive authority to public delivery.
+SC2,Foresight Without Implementation,symbolic_foresight,0.58,0.60,0.48,0.50,0.56,0.52,0.42,0.50,Reports and workshops proliferate while budgets regulation and implementation remain unchanged.
+SC3,Technocratic Anticipation,technocratic_governance,0.72,0.54,0.44,0.48,0.46,0.66,0.30,0.44,Expert led future analysis expands but public contestability and justice safeguards remain weak.
+SC4,Security Dominated Anticipation,securitization,0.66,0.58,0.36,0.78,0.54,0.70,0.24,0.66,Emerging risks are framed through threat control surveillance and emergency authority.
+SC5,Captured Future Governance,capture,0.64,0.56,0.38,0.52,0.50,0.58,0.28,0.48,Powerful actors shape future narratives to protect rents and delay accountability.
+SC6,Participatory Anticipatory Governance,democratic_foresight,0.54,0.60,0.82,0.42,0.46,0.72,0.88,0.42,Communities officials researchers and civic institutions co create future oriented policy capacity.
+SC7,Fragmented Reactive Crisis System,crisis_reactivity,0.62,0.76,0.34,0.68,0.72,0.40,0.32,0.86,Institutions remain fragmented and respond after risks escalate into crisis.

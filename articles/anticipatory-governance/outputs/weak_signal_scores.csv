@@ -1,0 +1,9 @@
+signal_id,signal_name,domain,weak_signal_priority_score,response_gap_score,description
+S2,Rapid Public Sector AI Procurement,ai_governance,0.6688,0.6,Fast adoption of automated systems can outrun audit rights procurement safeguards and public trust.
+S6,Public Health Surveillance Anomaly,public_health,0.6352,0.38,Unusual surveillance patterns can indicate emerging disease ecology or service strain.
+S1,Insurance Retreat from Climate Exposed Areas,climate_infrastructure,0.6328,0.56,Insurance withdrawal can indicate rising climate financial exposure and housing vulnerability.
+S5,Platform Labor Coordination Breakdown,digital_economy,0.6252,0.62,Worker signals may reveal new labor vulnerabilities in platform mediated markets.
+S8,Youth Trust Decline in Public Institutions,democracy,0.614,0.58,Declining trust among young people can indicate long term legitimacy and democratic participation risk.
+S3,Heat Related School and Work Disruption,climate_health,0.5856,0.5,Heat disruption reveals emerging climate effects on education labor health and infrastructure.
+S4,Local Water Stress Complaints,water_systems,0.5776,0.52,Community complaints can reveal water stress before official crisis declarations.
+S7,Supply Chain Chokepoint Delay,supply_chains,0.5632,0.48,Delayed critical inputs can reveal geopolitical dependency or infrastructure vulnerability.

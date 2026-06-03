@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,future_stress_pressure_score,democratic_anticipatory_opportunity_score,description
+SC7,Fragmented Reactive Crisis System,crisis_reactivity,0.6932,0.314,Institutions remain fragmented and respond after risks escalate into crisis.
+SC4,Security Dominated Anticipation,securitization,0.6172,0.4108,Emerging risks are framed through threat control surveillance and emergency authority.
+SC5,Captured Future Governance,capture,0.5608,0.442,Powerful actors shape future narratives to protect rents and delay accountability.
+SC2,Foresight Without Implementation,symbolic_foresight,0.5452,0.4696,Reports and workshops proliferate while budgets regulation and implementation remain unchanged.
+SC3,Technocratic Anticipation,technocratic_governance,0.5384,0.4892,Expert led future analysis expands but public contestability and justice safeguards remain weak.
+SC1,Embedded Anticipatory Public Capacity,public_capacity,0.4228,0.6756,Institutions connect foresight early warning participation and adaptive authority to public delivery.
+SC6,Participatory Anticipatory Governance,democratic_foresight,0.4048,0.7092,Communities officials researchers and civic institutions co create future oriented policy capacity.

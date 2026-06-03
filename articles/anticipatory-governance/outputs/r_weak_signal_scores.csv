@@ -1,0 +1,9 @@
+"signal_id","signal_name","domain","signal_strength","novelty","uncertainty","system_relevance","justice_relevance","detection_difficulty","response_readiness","description","weak_signal_priority_score","response_gap_score"
+"S2","Rapid Public Sector AI Procurement","ai_governance",0.76,0.62,0.58,0.78,0.74,0.5,0.4,"Fast adoption of automated systems can outrun audit rights procurement safeguards and public trust.",0.6688,0.6
+"S6","Public Health Surveillance Anomaly","public_health",0.72,0.58,0.64,0.82,0.68,0.5,0.62,"Unusual surveillance patterns can indicate emerging disease ecology or service strain.",0.6352,0.38
+"S1","Insurance Retreat from Climate Exposed Areas","climate_infrastructure",0.7,0.52,0.48,0.84,0.76,0.42,0.44,"Insurance withdrawal can indicate rising climate financial exposure and housing vulnerability.",0.6328,0.56
+"S5","Platform Labor Coordination Breakdown","digital_economy",0.6,0.54,0.56,0.68,0.78,0.54,0.38,"Worker signals may reveal new labor vulnerabilities in platform mediated markets.",0.6252,0.62
+"S8","Youth Trust Decline in Public Institutions","democracy",0.62,0.48,0.56,0.7,0.72,0.58,0.42,"Declining trust among young people can indicate long term legitimacy and democratic participation risk.",0.614,0.58
+"S3","Heat Related School and Work Disruption","climate_health",0.64,0.44,0.46,0.72,0.82,0.38,0.5,"Heat disruption reveals emerging climate effects on education labor health and infrastructure.",0.5856,0.5
+"S4","Local Water Stress Complaints","water_systems",0.58,0.4,0.52,0.76,0.7,0.46,0.48,"Community complaints can reveal water stress before official crisis declarations.",0.5776,0.52
+"S7","Supply Chain Chokepoint Delay","supply_chains",0.66,0.46,0.5,0.74,0.56,0.44,0.52,"Delayed critical inputs can reveal geopolitical dependency or infrastructure vulnerability.",0.5632,0.48
