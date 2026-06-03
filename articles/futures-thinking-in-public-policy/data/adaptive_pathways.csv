@@ -1,0 +1,9 @@
+pathway_id,policy_id,scenario_id,pathway_name,robustness,adaptability,coordination,legitimacy,equity,implementation_capacity,learning_capacity,initial_viability,time_horizon
+AP1,P2,S1,Adaptive Long-Horizon Policy in Stable Reform Window,0.82,0.84,0.73,0.68,0.69,0.62,0.78,1.00,40
+AP2,P5,S7,Participatory Anticipatory Policy in Participatory Renewal,0.80,0.82,0.76,0.86,0.84,0.56,0.82,1.00,40
+AP3,P1,S2,Short-Term Reactive Policy in Fragmented Crisis Governance,0.38,0.36,0.44,0.40,0.42,0.62,0.34,1.00,40
+AP4,P3,S3,Technocratic Efficiency Policy in Technological Disruption,0.56,0.48,0.52,0.44,0.41,0.70,0.46,1.00,40
+AP5,P4,S4,Resilient Equity-Oriented Policy in Climate Stress,0.74,0.72,0.68,0.78,0.81,0.58,0.70,1.00,40
+AP6,P6,S6,Fiscal Retrenchment Policy in Supply Shock,0.34,0.30,0.38,0.34,0.32,0.66,0.28,1.00,40
+AP7,P7,S5,Preparedness and Prevention Policy in Demographic Care Pressure,0.78,0.76,0.74,0.70,0.72,0.60,0.80,1.00,40
+AP8,P8,S6,Strategic Industrial Transition Policy in Geopolitical Supply Shock,0.72,0.70,0.78,0.62,0.66,0.64,0.68,1.00,40

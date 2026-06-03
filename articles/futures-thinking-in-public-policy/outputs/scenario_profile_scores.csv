@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,policy_stress_pressure_score,governance_opportunity_score,description
+S2,Fragmented Crisis Governance,crisis_governance,0.678,0.3456,Repeated shocks and low trust push institutions into reactive crisis response.
+S6,Geopolitical Supply Shock,geopolitical_shock,0.628,0.4004,Trade conflict security risks energy volatility and supply-chain disruption challenge policy resilience.
+S4,Climate Stress and Infrastructure Strain,climate_infrastructure,0.5964,0.414,Heat flooding drought wildfire and infrastructure fragility stress public budgets and local capacity.
+S3,Accelerated Technological Disruption,technology_disruption,0.5684,0.4908,AI automation platforms and digital systems reshape labor regulation education and public services quickly.
+S5,Demographic Care Pressure,demographic_transition,0.4992,0.5312,Ageing migration and care demand reshape healthcare labor housing education and fiscal systems.
+S7,Participatory Renewal,democratic_renewal,0.4412,0.652,Civic participation public learning and institutional reform improve legitimacy and adaptive capacity.
+S1,Stable Reform Window,reform_window,0.3872,0.654,Moderate uncertainty and reasonable trust create space for anticipatory institutional reform.

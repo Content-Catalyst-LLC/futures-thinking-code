@@ -1,0 +1,9 @@
+policy_id,policy_name,policy_domain,policy_futures_profile_score,policy_fragility_pressure_score,long_term_responsibility_score,policy_class,description
+P5,Participatory Anticipatory Policy,democratic_governance,0.7964,0.2116,0.8296,Strong futures-oriented policy profile,Combines foresight with public participation community voice adaptive design and transparent accountability.
+P2,Adaptive Long-Horizon Policy,strategic_governance,0.7498,0.25,0.7604,Strong futures-oriented policy profile,Uses scenarios monitoring adaptive triggers and institutional learning to remain viable under changing conditions.
+P7,Preparedness and Prevention Policy,public_health_resilience,0.7384,0.2644,0.7736,Strong futures-oriented policy profile,Invests in prevention early warning maintenance emergency capacity and public learning before crisis.
+P4,Resilient Equity-Oriented Policy,social_resilience,0.732,0.2792,0.762,Strong futures-oriented policy profile,Prioritizes robustness equity public legitimacy and resilience under uncertain future conditions.
+P8,Strategic Industrial Transition Policy,economic_transition,0.6932,0.3072,0.694,Contested policy profile,Coordinates industrial policy labor transition regional investment supply chains and long-term competitiveness.
+P3,Technocratic Efficiency Policy,public_management,0.498,0.4916,0.4536,Contested policy profile,Optimizes measurable efficiency while risking legitimacy equity and resilience gaps.
+P1,Short-Term Reactive Policy,general_governance,0.4068,0.5864,0.3532,High policy fragility pressure,Responds to visible pressure but underinvests in prevention adaptation and long-term capacity.
+P6,Fiscal Retrenchment Policy,public_finance,0.3524,0.6372,0.2904,High policy fragility pressure,Prioritizes short-term budget reduction while increasing deferred risk and future crisis exposure.

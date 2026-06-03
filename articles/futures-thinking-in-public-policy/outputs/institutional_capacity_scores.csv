@@ -1,0 +1,8 @@
+capacity_id,institution_name,institution_type,anticipatory_governance_capacity_score,capacity_gap_score,description
+C3,Public Health Preparedness Agency,public_health,0.7004,0.2996,Maintains surveillance preparedness surge planning and institutional memory for health shocks.
+C1,Central Strategy Unit,national_government,0.6428,0.3572,Coordinates strategic foresight but risks distance from delivery and public participation.
+C4,Infrastructure Planning Authority,infrastructure,0.6124,0.3876,Plans long-lived infrastructure under climate technological and fiscal uncertainty.
+C2,Local Resilience Office,local_government,0.602,0.398,Connects foresight to local implementation community knowledge and resilience planning.
+C6,Independent Evaluation Office,evaluation,0.6008,0.3992,Assesses policy performance assumptions equity effects and institutional learning.
+C7,Participatory Futures Assembly,civic_participation,0.5832,0.4168,Brings community voice lived knowledge and intergenerational deliberation into futures work.
+C5,Education and Workforce Council,education_workforce,0.5624,0.4376,Links skills policy labor-market foresight lifelong learning and regional transition planning.

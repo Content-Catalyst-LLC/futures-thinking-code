@@ -1,0 +1,8 @@
+"scenario_id","scenario_name","scenario_family","economic_volatility","technological_disruption","climate_stress","demographic_pressure","geopolitical_instability","public_trust","institutional_capacity","fiscal_space","description","policy_stress_pressure_score","governance_opportunity_score"
+"S2","Fragmented Crisis Governance","crisis_governance",0.74,0.66,0.72,0.6,0.7,0.34,0.42,0.38,"Repeated shocks and low trust push institutions into reactive crisis response.",0.678,0.3456
+"S6","Geopolitical Supply Shock","geopolitical_shock",0.7,0.6,0.56,0.48,0.86,0.44,0.5,0.4,"Trade conflict security risks energy volatility and supply-chain disruption challenge policy resilience.",0.628,0.4004
+"S4","Climate Stress and Infrastructure Strain","climate_infrastructure",0.54,0.5,0.88,0.56,0.52,0.44,0.48,0.42,"Heat flooding drought wildfire and infrastructure fragility stress public budgets and local capacity.",0.5964,0.414
+"S3","Accelerated Technological Disruption","technology_disruption",0.58,0.86,0.48,0.46,0.52,0.46,0.54,0.5,"AI automation platforms and digital systems reshape labor regulation education and public services quickly.",0.5684,0.4908
+"S5","Demographic Care Pressure","demographic_transition",0.46,0.42,0.52,0.84,0.38,0.54,0.56,0.46,"Ageing migration and care demand reshape healthcare labor housing education and fiscal systems.",0.4992,0.5312
+"S7","Participatory Renewal","democratic_renewal",0.42,0.52,0.58,0.48,0.42,0.78,0.76,0.58,"Civic participation public learning and institutional reform improve legitimacy and adaptive capacity.",0.4412,0.652
+"S1","Stable Reform Window","reform_window",0.36,0.44,0.46,0.42,0.34,0.68,0.7,0.64,"Moderate uncertainty and reasonable trust create space for anticipatory institutional reform.",0.3872,0.654

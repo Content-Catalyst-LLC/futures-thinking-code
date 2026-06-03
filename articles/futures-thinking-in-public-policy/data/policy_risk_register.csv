@@ -1,0 +1,9 @@
+risk_id,policy_id,risk_name,risk_type,probability,severity,detection_difficulty,governance_gap,equity_exposure,implementation_exposure,mitigation_capacity,description
+R1,P1,Reactive policy lock-in,short_termism,0.72,0.76,0.54,0.64,0.58,0.70,0.34,Repeated crisis response becomes normalized while prevention and adaptation remain underfunded.
+R2,P2,Adaptive governance implementation gap,implementation,0.52,0.62,0.48,0.54,0.46,0.68,0.52,Long-horizon adaptive policy can fail if monitoring triggers and budgets are not operationalized.
+R3,P3,Technocratic legitimacy failure,public_legitimacy,0.64,0.72,0.58,0.66,0.70,0.52,0.40,Efficiency-focused policy may face opposition if public voice and equity are weak.
+R4,P4,Equity-oriented policy underfunding,fiscal_capacity,0.58,0.68,0.50,0.56,0.72,0.60,0.46,Resilient equity-oriented policy can be weakened if funding and delivery capacity are inadequate.
+R5,P5,Participatory process without authority,symbolic_participation,0.62,0.64,0.56,0.60,0.66,0.54,0.42,Participation can become symbolic if community input does not alter decisions or budgets.
+R6,P6,Deferred risk accumulation,fiscal_retrenchment,0.76,0.84,0.62,0.70,0.78,0.74,0.30,Budget cuts can postpone maintenance prevention and preparedness until future crises become more costly.
+R7,P7,Preparedness fatigue,preparedness,0.56,0.66,0.52,0.58,0.54,0.62,0.48,Preparedness systems can decay between crises if political attention and funding fade.
+R8,P8,Industrial policy capture,political_economy,0.60,0.72,0.64,0.68,0.58,0.56,0.38,Powerful incumbent interests may shape industrial transition policy to preserve rents.

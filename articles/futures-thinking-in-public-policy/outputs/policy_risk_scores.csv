@@ -1,0 +1,9 @@
+risk_id,policy_id,risk_name,risk_type,policy_risk_priority_score,mitigation_capacity,description
+R6,P6,Deferred risk accumulation,fiscal_retrenchment,0.742,0.3,Budget cuts can postpone maintenance prevention and preparedness until future crises become more costly.
+R1,P1,Reactive policy lock-in,short_termism,0.666,0.34,Repeated crisis response becomes normalized while prevention and adaptation remain underfunded.
+R3,P3,Technocratic legitimacy failure,public_legitimacy,0.6404,0.4,Efficiency-focused policy may face opposition if public voice and equity are weak.
+R8,P8,Industrial policy capture,political_economy,0.6368,0.38,Powerful incumbent interests may shape industrial transition policy to preserve rents.
+R5,P5,Participatory process without authority,symbolic_participation,0.6044,0.42,Participation can become symbolic if community input does not alter decisions or budgets.
+R4,P4,Equity-oriented policy underfunding,fiscal_capacity,0.6016,0.46,Resilient equity-oriented policy can be weakened if funding and delivery capacity are inadequate.
+R7,P7,Preparedness fatigue,preparedness,0.5792,0.48,Preparedness systems can decay between crises if political attention and funding fade.
+R2,P2,Adaptive governance implementation gap,implementation,0.5464,0.52,Long-horizon adaptive policy can fail if monitoring triggers and budgets are not operationalized.

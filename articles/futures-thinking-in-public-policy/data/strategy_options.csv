@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,horizon_scanning,scenario_planning,adaptive_policy_design,public_participation,budget_alignment,evaluation_capacity,interagency_coordination,equity_analysis,implementation_support,description
+ST1,Occasional Foresight Workshop,symbolic_foresight,0.42,0.54,0.32,0.30,0.22,0.30,0.34,0.28,0.24,Foresight occurs periodically but remains weakly connected to budgets implementation and learning.
+ST2,Anticipatory Governance Program,institutional_reform,0.78,0.80,0.76,0.62,0.68,0.72,0.76,0.66,0.70,Builds standing foresight routines adaptive policy design and cross-agency coordination.
+ST3,Participatory Futures and Equity Strategy,participatory_governance,0.66,0.72,0.68,0.88,0.58,0.66,0.64,0.86,0.62,Centers affected communities distributional analysis public legitimacy and intergenerational responsibility.
+ST4,Policy Stress Testing and Early Warning,monitoring_evaluation,0.84,0.78,0.72,0.54,0.62,0.84,0.70,0.68,0.68,Uses indicators triggers scenario stress tests and evaluation to revise policy under changing conditions.
+ST5,Long-Term Budget and Investment Framework,public_finance,0.60,0.66,0.70,0.52,0.88,0.72,0.68,0.64,0.82,Links foresight to lifecycle costing public investment prevention budgets and implementation capacity.
+ST6,Local Adaptive Governance Network,local_capacity,0.68,0.70,0.74,0.82,0.60,0.68,0.72,0.78,0.76,Builds local foresight capacity community resilience and shared learning across municipalities and regions.

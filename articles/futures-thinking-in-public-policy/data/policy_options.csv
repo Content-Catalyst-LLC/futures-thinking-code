@@ -1,0 +1,9 @@
+policy_id,policy_name,policy_domain,robustness,equity,adaptability,coordination,legitimacy,implementation_capacity,political_feasibility,learning_capacity,intergenerational_responsibility,description
+P1,Short-Term Reactive Policy,general_governance,0.38,0.42,0.36,0.44,0.40,0.62,0.68,0.34,0.28,Responds to visible pressure but underinvests in prevention adaptation and long-term capacity.
+P2,Adaptive Long-Horizon Policy,strategic_governance,0.82,0.69,0.84,0.73,0.68,0.62,0.58,0.78,0.76,Uses scenarios monitoring adaptive triggers and institutional learning to remain viable under changing conditions.
+P3,Technocratic Efficiency Policy,public_management,0.56,0.41,0.48,0.52,0.44,0.70,0.66,0.46,0.40,Optimizes measurable efficiency while risking legitimacy equity and resilience gaps.
+P4,Resilient Equity-Oriented Policy,social_resilience,0.74,0.81,0.72,0.68,0.78,0.58,0.54,0.70,0.80,Prioritizes robustness equity public legitimacy and resilience under uncertain future conditions.
+P5,Participatory Anticipatory Policy,democratic_governance,0.80,0.84,0.82,0.76,0.86,0.56,0.56,0.82,0.84,Combines foresight with public participation community voice adaptive design and transparent accountability.
+P6,Fiscal Retrenchment Policy,public_finance,0.34,0.32,0.30,0.38,0.34,0.66,0.62,0.28,0.22,Prioritizes short-term budget reduction while increasing deferred risk and future crisis exposure.
+P7,Preparedness and Prevention Policy,public_health_resilience,0.78,0.72,0.76,0.74,0.70,0.60,0.52,0.80,0.82,Invests in prevention early warning maintenance emergency capacity and public learning before crisis.
+P8,Strategic Industrial Transition Policy,economic_transition,0.72,0.66,0.70,0.78,0.62,0.64,0.56,0.68,0.74,Coordinates industrial policy labor transition regional investment supply chains and long-term competitiveness.

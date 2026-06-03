@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,foresight_capacity_strategy_score,operational_governance_strategy_score,description
+ST2,Anticipatory Governance Program,institutional_reform,0.7256,0.7268,Builds standing foresight routines adaptive policy design and cross-agency coordination.
+ST6,Local Adaptive Governance Network,local_capacity,0.7156,0.7,Builds local foresight capacity community resilience and shared learning across municipalities and regions.
+ST4,Policy Stress Testing and Early Warning,monitoring_evaluation,0.714,0.7244,Uses indicators triggers scenario stress tests and evaluation to revise policy under changing conditions.
+ST3,Participatory Futures and Equity Strategy,participatory_governance,0.7012,0.6536,Centers affected communities distributional analysis public legitimacy and intergenerational responsibility.
+ST5,Long-Term Budget and Investment Framework,public_finance,0.6804,0.7384,Links foresight to lifecycle costing public investment prevention budgets and implementation capacity.
+ST1,Occasional Foresight Workshop,symbolic_foresight,0.342,0.308,Foresight occurs periodically but remains weakly connected to budgets implementation and learning.

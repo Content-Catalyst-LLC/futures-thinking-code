@@ -1,0 +1,9 @@
+pathway_id,policy_id,scenario_id,pathway_name,final_policy_viability,mean_policy_viability,final_legitimacy_score,final_equity_score,final_adaptive_learning_score
+AP1,P2,S1,Adaptive Long-Horizon Policy in Stable Reform Window,1.8,1.713,1.4,1.4,1.4
+AP2,P5,S7,Participatory Anticipatory Policy in Participatory Renewal,1.8,1.729,1.4,1.4,1.4
+AP4,P3,S3,Technocratic Efficiency Policy in Technological Disruption,1.8,1.4118,1.4,1.4,1.4
+AP5,P4,S4,Resilient Equity-Oriented Policy in Climate Stress,1.8,1.7118,1.4,1.4,1.4
+AP7,P7,S5,Preparedness and Prevention Policy in Demographic Care Pressure,1.8,1.7113,1.4,1.4,1.4
+AP8,P8,S6,Strategic Industrial Transition Policy in Geopolitical Supply Shock,1.8,1.6919,1.4,1.4,1.4
+AP3,P1,S2,Short-Term Reactive Policy in Fragmented Crisis Governance,1.6676,0.8235,1.4,1.4,1.4
+AP6,P6,S6,Fiscal Retrenchment Policy in Supply Shock,0.3154,0.2426,1.1604,1.2473,1.2486

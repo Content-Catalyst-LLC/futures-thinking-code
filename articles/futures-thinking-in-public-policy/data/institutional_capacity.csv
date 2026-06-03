@@ -1,0 +1,8 @@
+capacity_id,institution_name,institution_type,detection_capacity,learning_capacity,coordination_quality,budget_alignment,implementation_capacity,public_participation,data_infrastructure,accountability_capacity,description
+C1,Central Strategy Unit,national_government,0.76,0.70,0.68,0.58,0.54,0.42,0.72,0.62,Coordinates strategic foresight but risks distance from delivery and public participation.
+C2,Local Resilience Office,local_government,0.62,0.66,0.58,0.42,0.62,0.74,0.52,0.64,Connects foresight to local implementation community knowledge and resilience planning.
+C3,Public Health Preparedness Agency,public_health,0.80,0.74,0.70,0.54,0.76,0.52,0.78,0.68,Maintains surveillance preparedness surge planning and institutional memory for health shocks.
+C4,Infrastructure Planning Authority,infrastructure,0.64,0.58,0.66,0.62,0.70,0.46,0.60,0.58,Plans long-lived infrastructure under climate technological and fiscal uncertainty.
+C5,Education and Workforce Council,education_workforce,0.56,0.62,0.58,0.46,0.60,0.54,0.56,0.52,Links skills policy labor-market foresight lifelong learning and regional transition planning.
+C6,Independent Evaluation Office,evaluation,0.60,0.82,0.54,0.48,0.44,0.42,0.70,0.84,Assesses policy performance assumptions equity effects and institutional learning.
+C7,Participatory Futures Assembly,civic_participation,0.54,0.68,0.60,0.36,0.42,0.90,0.48,0.76,Brings community voice lived knowledge and intergenerational deliberation into futures work.
