@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,public_interest_transformation_score,institutional_viability_score,description
+ST4,Justice-Centered Transformation,just_transformation,0.8364,0.8284,Centers equity repair public participation and ecological responsibility.
+ST3,Adaptive Public Capacity,adaptive_governance,0.7036,0.7124,Builds public capacity learning and adaptive governance across long-term pressures.
+ST2,Technocratic Transition Management,technocratic,0.5216,0.5352,Uses expert-led planning and technical capacity but weakens public voice.
+ST5,Market-Led Transformation,market_led,0.4468,0.4548,Allows capital and technological acceleration to shape transformation with limited safeguards.
+ST1,Incremental Continuity,incremental,0.3264,0.3356,Maintains existing institutions with limited adaptation and weak structural change.

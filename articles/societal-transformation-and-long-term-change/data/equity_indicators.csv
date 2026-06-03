@@ -1,0 +1,6 @@
+equity_id,scenario_id,equity_dimension,exposure,voice,protection,repair,burden_concentration,agency,description
+E1,SC1,Marginalized community exposure,0.86,0.28,0.34,0.22,0.88,0.26,Fragmented transition shifts burdens onto exposed communities with low voice and weak protection.
+E2,SC2,Adaptive public protection,0.48,0.70,0.74,0.60,0.42,0.68,Coordinated transformation improves protection and participation but still requires repair.
+E3,SC3,Technology-driven inequality,0.74,0.34,0.38,0.26,0.82,0.32,Uneven technology acceleration concentrates risk among workers and governed populations.
+E4,SC4,Ecological displacement risk,0.88,0.46,0.48,0.38,0.76,0.42,Ecological pressure reorganizes settlement labor health and migration under constraint.
+E5,SC5,Justice-centered transformation capacity,0.42,0.84,0.86,0.82,0.34,0.80,Just transformation lowers harm concentration and increases voice repair and agency.

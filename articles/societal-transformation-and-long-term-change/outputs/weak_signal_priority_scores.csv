@@ -1,0 +1,9 @@
+signal_id,driver_id,signal_name,signal_type,signal_priority_score,interpretation
+S2,D2,Insurance withdrawal from climate-exposed regions,structural_risk_signal,0.7896,Climate risk is shifting from hazard management into housing finance and public budgets.
+S1,D1,Rising public resistance to opaque automated decisions,accountability_signal,0.786,AI and automation may be reorganizing public power faster than accountability systems.
+S3,D3,Unpaid care burden reaching household breaking points,care_signal,0.7764,Care-system stress may indicate institutional assumptions about families and labor are failing.
+S5,D5,Trust divergence across communities,legitimacy_signal,0.776,Uneven trust may forecast fragmentation in public response capacity.
+S4,D4,Regional economic abandonment after repeated shocks,economic_signal,0.7608,Economic restructuring may create places left outside transition investment.
+S6,D6,Maintenance backlog becoming service failure,infrastructure_signal,0.76,Infrastructure fragility may be crossing from hidden deficit to visible system stress.
+S8,D8,Supply-chain fragmentation around strategic materials,geopolitical_signal,0.732,Geopolitical fragmentation may reshape technology energy and development pathways.
+S7,D7,Future pessimism among younger cohorts,cultural_signal,0.7084,Collective imagination may be shifting from progress narratives toward dread or distrust.

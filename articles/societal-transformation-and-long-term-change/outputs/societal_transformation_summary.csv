@@ -1,0 +1,6 @@
+pathway_id,scenario_id,pathway_name,final_viability,mean_viability,max_pressure,final_transformation_depth
+PW2,SC2,Coordinated Adaptive Transformation Pathway,2.0,1.8303,2.5,2.5
+PW5,SC5,Justice-Centered Public Transformation Pathway,2.0,1.8463,2.5,2.5
+PW1,SC1,Fragmented Disruptive Transition Pathway,0.0,0.1253,2.5,2.5
+PW3,SC3,Technologically Accelerated Uneven Pathway,0.0,0.1588,2.5,2.5
+PW4,SC4,Ecologically Constrained Reordering Pathway,0.0,0.1536,2.5,2.5

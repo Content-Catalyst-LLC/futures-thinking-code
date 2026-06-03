@@ -1,0 +1,6 @@
+scenario_id,scenario_name,scenario_family,time_horizon,transformation_depth_score,just_transformation_capacity_score,fragility_score,transformation_class,description
+SC5,Justice-Centered Public Transformation,just_transformation,2040,0.6688,0.7684,0.2668,Strong just-transformation capacity,Transformation is guided by public investment equity repair participation and ecological responsibility.
+SC2,Coordinated Adaptive Transformation,coordination,2035,0.6472,0.7344,0.2724,Strong just-transformation capacity,Public institutions coordinate adaptation investment and social trust across long-term pressures.
+SC4,Ecologically Constrained Social Reordering,ecological_constraint,2040,0.5644,0.457,0.5992,Contested transition pathway,Ecological stress forces social reordering under constrained infrastructure and resources.
+SC3,Technologically Accelerated Uneven Future,uneven_acceleration,2035,0.6006,0.4356,0.5904,Contested transition pathway,Technology and capital accelerate faster than governance equity and public legitimacy.
+SC1,Fragmented Disruptive Transition,fragmentation,2035,0.5326,0.3462,0.6824,Fragile or high-risk transformation,Transformation accelerates through stress disruption and uneven adaptation while institutions fragment.

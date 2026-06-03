@@ -1,0 +1,9 @@
+indicator_id,indicator_name,domain,baseline,current_value,threshold_value,trend_direction,review_frequency,owner,interpretation
+P1,climate_disruption_pressure,ecology,0.46,0.70,0.68,increasing,quarterly,Climate Resilience Office,Climate pressure has crossed the planning threshold.
+P2,infrastructure_backlog_stress,infrastructure,0.52,0.72,0.70,increasing,semiannual,Infrastructure Stewardship Office,Maintenance backlog is becoming a visible transformation pressure.
+P3,trust_divergence_index,governance,0.42,0.61,0.58,increasing,semiannual,Public Legitimacy Review Board,Trust divergence threatens public coordination.
+P4,care_system_strain,demography,0.48,0.66,0.64,increasing,quarterly,Care Systems Foresight Unit,Care burden is approaching institutional strain threshold.
+P5,economic_precarity_pressure,economy,0.50,0.67,0.65,increasing,quarterly,Economic Security Review Group,Economic restructuring is producing high social pressure.
+P6,technology_accountability_gap,technology,0.36,0.59,0.56,increasing,quarterly,Digital Accountability Office,Technology adoption may be outpacing governance capacity.
+P7,cultural_future_pessimism,culture,0.40,0.57,0.60,increasing,annual,Civic Futures Group,Future pessimism is near monitoring threshold.
+P8,geopolitical_supply_fragility,geopolitics,0.44,0.63,0.62,increasing,quarterly,Supply Security Intelligence Cell,Supply fragility has crossed warning threshold.

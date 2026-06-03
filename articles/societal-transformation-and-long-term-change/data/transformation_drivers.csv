@@ -1,0 +1,9 @@
+driver_id,driver_name,driver_domain,transformative_intensity,uncertainty,system_reach,feedback_strength,threshold_proximity,governance_relevance,equity_relevance,description
+D1,Technological reorganization,technology,0.86,0.74,0.88,0.80,0.62,0.78,0.82,Technology changes labor public administration infrastructure surveillance knowledge systems and power.
+D2,Climate and ecological pressure,ecology,0.92,0.70,0.94,0.86,0.78,0.88,0.90,Climate biodiversity water food and land pressures reshape infrastructure migration health and development.
+D3,Demographic and care-system change,demography,0.76,0.58,0.82,0.66,0.64,0.74,0.86,Aging migration fertility household change and care burdens reshape social institutions.
+D4,Economic restructuring and inequality,economy,0.84,0.68,0.86,0.78,0.70,0.82,0.88,Production finance debt labor market platform and inequality shifts reshape opportunity and legitimacy.
+D5,Institutional legitimacy and trust,governance,0.88,0.76,0.90,0.84,0.74,0.94,0.86,Trust legitimacy and state capacity condition cooperation adaptation and public decision-making.
+D6,Infrastructure fragility and path dependence,infrastructure,0.80,0.62,0.84,0.76,0.72,0.80,0.78,Energy transport housing water health digital and maintenance systems create lock-in or resilience.
+D7,Cultural meaning and collective imagination,culture,0.70,0.82,0.78,0.72,0.60,0.76,0.84,Stories identities memory values religion media and imagination shape what futures seem possible.
+D8,Geopolitical fragmentation and security,geopolitics,0.82,0.80,0.86,0.78,0.68,0.86,0.72,Conflict power shifts supply chains migration and strategic competition alter transformation pathways.
