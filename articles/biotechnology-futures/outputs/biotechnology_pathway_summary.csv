@@ -1,0 +1,8 @@
+pathway_id,scenario_id,pathway_name,final_viability,mean_biological_risk,final_access_capacity
+P1,S1,Public-Interest Bioinnovation Pathway,1.8,1.5229,1.4
+P7,S7,Democratic Biofutures Pathway,1.8,1.3271,1.4
+P2,S2,Bioeconomy Acceleration Pathway,1.0311,1.7273,1.4
+P5,S5,Ecological Biotechnology Turn Pathway,0.6537,1.7263,1.4
+P3,S3,Genomic Inequality Pathway,0.0,1.7186,0.8674
+P4,S4,Biosecurity Crisis Pathway,0.0,1.7495,0.6744
+P6,S6,Corporate Biological Enclosure Pathway,0.0,1.7364,1.021

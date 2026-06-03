@@ -1,0 +1,9 @@
+risk_id,capability_id,risk_name,risk_type,probability,severity,detection_difficulty,governance_gap,ecological_exposure,dual_use_relevance,mitigation_capacity,description
+R1,B1,Heritable editing legitimacy failure,ethics_governance,0.48,0.90,0.58,0.72,0.16,0.54,0.36,Heritable editing raises consent intergenerational and social legitimacy risks.
+R2,B2,Synthetic biology dual-use misuse,dual_use,0.58,0.86,0.74,0.66,0.52,0.88,0.42,Powerful design tools can lower barriers to harmful biological applications.
+R3,B3,Bioeconomy greenwashing and feedstock pressure,sustainability,0.62,0.66,0.52,0.48,0.64,0.26,0.50,Bio-based production may externalize land energy water or waste harms.
+R4,B4,Advanced therapy access inequality,health_equity,0.76,0.78,0.46,0.54,0.12,0.24,0.34,Cell and gene therapies may widen health inequality if access remains limited.
+R5,B5,Seed dependence and biodiversity loss,food_sovereignty,0.60,0.70,0.54,0.56,0.72,0.20,0.44,Agricultural biotechnology may concentrate control and reinforce monoculture.
+R6,B6,Ecological release uncertainty,ecological_risk,0.52,0.82,0.80,0.62,0.88,0.36,0.34,Environmental biotechnology may behave unpredictably outside controlled settings.
+R7,B7,AI-biology validation and misuse risk,ai_biosecurity,0.66,0.84,0.76,0.70,0.42,0.82,0.38,AI-enabled biological design requires stronger validation access control and governance.
+R8,B8,Biological surveillance overreach,surveillance_governance,0.54,0.72,0.62,0.58,0.24,0.56,0.48,Pathogen surveillance can improve preparedness but may create privacy stigma or geopolitical misuse.

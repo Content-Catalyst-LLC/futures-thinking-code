@@ -1,0 +1,9 @@
+capability_id,capability_name,domain,responsible_biotechnology_capacity_score,biological_risk_pressure_score,scientific_maturity,governance_readiness,equity_access,description
+B3,Biomanufacturing and precision fermentation,biomanufacturing,0.5866,0.4516,0.76,0.54,0.48,Biomanufacturing can produce materials foods and therapeutics but requires scale governance and sustainability analysis.
+B8,Pathogen surveillance and biosecurity systems,biosecurity,0.5582,0.5088,0.7,0.62,0.46,Genomic and biosurveillance systems can support preparedness but require trust privacy and international cooperation.
+B4,Cell and gene therapies,medicine,0.5496,0.4188,0.82,0.56,0.24,Advanced therapies can be transformative but remain expensive and hard to scale equitably.
+B5,Agricultural biotechnology,food_systems,0.5432,0.4856,0.74,0.52,0.44,Crop and microbial biotechnology may support food resilience but raises farmer autonomy and ecological questions.
+B2,Synthetic biology platforms,synthetic_biology,0.5052,0.5864,0.72,0.48,0.42,Programmable biological design can support medicine manufacturing sensing and climate applications.
+B6,Environmental biotechnology and bioremediation,environment,0.4878,0.5412,0.58,0.46,0.5,Environmental biotechnology may support remediation and monitoring but requires ecological caution.
+B7,AI-enabled biological design,computational_biology,0.4772,0.6168,0.8,0.4,0.36,AI can accelerate biological discovery and design while increasing validation and dual-use governance needs.
+B1,Human genome editing,genomics,0.4764,0.542,0.78,0.42,0.32,Genome editing has major therapeutic promise but raises access safety and heritable ethics concerns.

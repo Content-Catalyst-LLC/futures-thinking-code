@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,public_interest_biotechnology_score,justice_governance_score,description
+ST4,Democratic Biofutures Governance,democratic,0.8168,0.834,Builds affected-community voice consent repair and shared decision-making into biotechnology governance.
+ST2,Public-Interest Biotechnology Governance,public_interest,0.764,0.7632,Aligns biotech with health equity ecological responsibility and public accountability.
+ST5,Open Science and Public Manufacturing,open_public,0.7472,0.7576,Uses open standards and public manufacturing to expand access while maintaining safeguards.
+ST3,Precautionary Biosecurity Regime,precautionary,0.642,0.5616,Prioritizes risk control biosafety and biosecurity for high-consequence capabilities.
+ST1,Market-Led Bioeconomy Acceleration,market_led,0.3648,0.326,Prioritizes commercialization and rapid scaling with limited public-interest safeguards.

@@ -1,0 +1,9 @@
+capability_id,capability_name,domain,scientific_maturity,manufacturing_capacity,governance_readiness,public_legitimacy,equity_access,ecological_uncertainty,dual_use_risk,community_consent,description
+B1,Human genome editing,genomics,0.78,0.48,0.42,0.44,0.32,0.30,0.58,0.34,Genome editing has major therapeutic promise but raises access safety and heritable ethics concerns.
+B2,Synthetic biology platforms,synthetic_biology,0.72,0.66,0.48,0.46,0.42,0.56,0.68,0.38,Programmable biological design can support medicine manufacturing sensing and climate applications.
+B3,Biomanufacturing and precision fermentation,biomanufacturing,0.76,0.72,0.54,0.58,0.48,0.46,0.36,0.44,Biomanufacturing can produce materials foods and therapeutics but requires scale governance and sustainability analysis.
+B4,Cell and gene therapies,medicine,0.82,0.50,0.56,0.62,0.24,0.22,0.34,0.40,Advanced therapies can be transformative but remain expensive and hard to scale equitably.
+B5,Agricultural biotechnology,food_systems,0.74,0.62,0.52,0.50,0.44,0.58,0.30,0.42,Crop and microbial biotechnology may support food resilience but raises farmer autonomy and ecological questions.
+B6,Environmental biotechnology and bioremediation,environment,0.58,0.42,0.46,0.52,0.50,0.76,0.42,0.48,Environmental biotechnology may support remediation and monitoring but requires ecological caution.
+B7,AI-enabled biological design,computational_biology,0.80,0.58,0.40,0.46,0.36,0.48,0.76,0.32,AI can accelerate biological discovery and design while increasing validation and dual-use governance needs.
+B8,Pathogen surveillance and biosecurity systems,biosecurity,0.70,0.64,0.62,0.54,0.46,0.38,0.72,0.44,Genomic and biosurveillance systems can support preparedness but require trust privacy and international cooperation.

@@ -1,0 +1,9 @@
+risk_id,capability_id,risk_name,risk_type,risk_priority_score,mitigation_capacity,description
+R7,B7,AI-biology validation and misuse risk,ai_biosecurity,0.7068,0.38,AI-enabled biological design requires stronger validation access control and governance.
+R2,B2,Synthetic biology dual-use misuse,dual_use,0.7028,0.42,Powerful design tools can lower barriers to harmful biological applications.
+R6,B6,Ecological release uncertainty,ecological_risk,0.6824,0.34,Environmental biotechnology may behave unpredictably outside controlled settings.
+R1,B1,Heritable editing legitimacy failure,ethics_governance,0.604,0.36,Heritable editing raises consent intergenerational and social legitimacy risks.
+R5,B5,Seed dependence and biodiversity loss,food_sovereignty,0.578,0.44,Agricultural biotechnology may concentrate control and reinforce monoculture.
+R8,B8,Biological surveillance overreach,surveillance_governance,0.5636,0.48,Pathogen surveillance can improve preparedness but may create privacy stigma or geopolitical misuse.
+R3,B3,Bioeconomy greenwashing and feedstock pressure,sustainability,0.5496,0.5,Bio-based production may externalize land energy water or waste harms.
+R4,B4,Advanced therapy access inequality,health_equity,0.5464,0.34,Cell and gene therapies may widen health inequality if access remains limited.

@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,governance_strength,equity_access,community_consent,biosafety_capacity,biosecurity_capacity,open_science,public_manufacturing,ecological_monitoring,benefit_sharing,description
+ST1,Market-Led Bioeconomy Acceleration,market_led,0.42,0.34,0.28,0.48,0.46,0.30,0.26,0.38,0.28,Prioritizes commercialization and rapid scaling with limited public-interest safeguards.
+ST2,Public-Interest Biotechnology Governance,public_interest,0.82,0.80,0.76,0.78,0.76,0.66,0.72,0.74,0.78,Aligns biotech with health equity ecological responsibility and public accountability.
+ST3,Precautionary Biosecurity Regime,precautionary,0.78,0.50,0.54,0.84,0.88,0.42,0.46,0.72,0.48,Prioritizes risk control biosafety and biosecurity for high-consequence capabilities.
+ST4,Democratic Biofutures Governance,democratic,0.86,0.86,0.90,0.78,0.76,0.72,0.74,0.80,0.88,Builds affected-community voice consent repair and shared decision-making into biotechnology governance.
+ST5,Open Science and Public Manufacturing,open_public,0.76,0.78,0.66,0.72,0.70,0.88,0.84,0.66,0.76,Uses open standards and public manufacturing to expand access while maintaining safeguards.

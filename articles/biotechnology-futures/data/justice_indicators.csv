@@ -1,0 +1,9 @@
+justice_id,capability_id,justice_dimension,equitable_access,affected_voice,consent_strength,benefit_sharing,repair_capacity,harm_concentration,community_governance,description
+J1,B1,Genome editing and disability justice,0.28,0.34,0.42,0.30,0.32,0.70,0.36,Genome editing governance must include disability justice and affected communities.
+J2,B2,Synthetic biology community oversight,0.42,0.38,0.46,0.40,0.38,0.62,0.40,Synthetic biology needs public oversight and benefit sharing beyond technical review.
+J3,B3,Bioeconomy worker and community benefit,0.48,0.44,0.48,0.46,0.42,0.56,0.42,Biomanufacturing should be assessed for local benefit labor and ecological impacts.
+J4,B4,Advanced therapy health equity,0.24,0.40,0.58,0.34,0.36,0.78,0.38,Advanced therapies can deepen inequality without equitable financing and access design.
+J5,B5,Food sovereignty and farmer autonomy,0.44,0.50,0.52,0.46,0.42,0.60,0.54,Agricultural biotechnology must protect farmer voice seed sovereignty and biodiversity.
+J6,B6,Environmental justice in bioremediation,0.50,0.56,0.58,0.52,0.50,0.64,0.58,Communities exposed to pollution should shape environmental biotechnology use.
+J7,B7,AI-biology access and governance,0.36,0.32,0.40,0.34,0.34,0.66,0.34,AI-enabled biology may concentrate design power without shared governance.
+J8,B8,Pathogen surveillance rights and trust,0.46,0.48,0.50,0.44,0.46,0.58,0.50,Biosurveillance requires privacy trust consent and accountability.

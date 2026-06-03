@@ -1,0 +1,9 @@
+justice_id,capability_id,justice_dimension,biotechnology_justice_score,harm_concentration_score,description
+J6,B6,Environmental justice in bioremediation,0.5224,0.5176,Communities exposed to pollution should shape environmental biotechnology use.
+J5,B5,Food sovereignty and farmer autonomy,0.4696,0.5464,Agricultural biotechnology must protect farmer voice seed sovereignty and biodiversity.
+J8,B8,Pathogen surveillance rights and trust,0.4672,0.5408,Biosurveillance requires privacy trust consent and accountability.
+J3,B3,Bioeconomy worker and community benefit,0.4528,0.5512,Biomanufacturing should be assessed for local benefit labor and ecological impacts.
+J2,B2,Synthetic biology community oversight,0.406,0.6,Synthetic biology needs public oversight and benefit sharing beyond technical review.
+J4,B4,Advanced therapy health equity,0.3652,0.6676,Advanced therapies can deepen inequality without equitable financing and access design.
+J7,B7,AI-biology access and governance,0.3504,0.6512,AI-enabled biology may concentrate design power without shared governance.
+J1,B1,Genome editing and disability justice,0.3304,0.6732,Genome editing governance must include disability justice and affected communities.

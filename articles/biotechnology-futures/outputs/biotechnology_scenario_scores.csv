@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,responsible_biotechnology_capacity_score,biological_risk_pressure_score,justice_profile_score,scenario_class,description
+S7,Democratic Biofutures,democratic_governance,0.7684,0.2556,0.8405,High justice and governance capacity,Public deliberation affected-community voice and shared governance shape biological innovation.
+S1,Public-Interest Bioinnovation,public_interest,0.7366,0.2976,0.7627,High justice and governance capacity,Biotechnology is governed for health equity ecological responsibility and shared benefits.
+S2,Bioeconomy Acceleration,industrial_scale,0.5454,0.562,0.435,Contested biotechnology pathway,Biomanufacturing and synthetic biology scale rapidly while governance lags.
+S5,Ecological Biotechnology Turn,ecological_intervention,0.5308,0.5332,0.5296,Contested biotechnology pathway,Biotechnology becomes central to remediation climate adaptation and biodiversity monitoring.
+S3,Genomic Inequality,health_inequality,0.4816,0.546,0.3225,Contested biotechnology pathway,Advanced therapies and genetic services concentrate among wealthy populations.
+S6,Corporate Biological Enclosure,corporate_enclosure,0.4656,0.6288,0.3125,High biological risk pressure,Patents platforms datasets therapies seeds and biofoundries concentrate among powerful actors.
+S4,Biosecurity Crisis,biosecurity_crisis,0.3618,0.7272,0.2831,High biological risk pressure,A major accident misuse event or governance failure triggers distrust and restriction.

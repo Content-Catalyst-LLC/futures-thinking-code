@@ -1,0 +1,8 @@
+"scenario_id","scenario_name","scenario_family","scientific_maturity","governance_readiness","ecological_uncertainty","dual_use_risk","public_legitimacy","equity_access","manufacturing_capacity","community_consent","description","responsible_biotechnology_capacity_score","biological_risk_pressure_score","justice_profile_score"
+"S7","Democratic Biofutures","democratic_governance",0.68,0.82,0.46,0.34,0.84,0.86,0.62,0.88,"Public deliberation affected-community voice and shared governance shape biological innovation.",0.7684,0.2556,0.8405
+"S1","Public-Interest Bioinnovation","public_interest",0.72,0.78,0.42,0.36,0.76,0.8,0.68,0.74,"Biotechnology is governed for health equity ecological responsibility and shared benefits.",0.7366,0.2976,0.7627
+"S2","Bioeconomy Acceleration","industrial_scale",0.78,0.48,0.56,0.58,0.48,0.44,0.84,0.36,"Biomanufacturing and synthetic biology scale rapidly while governance lags.",0.5454,0.562,0.435
+"S5","Ecological Biotechnology Turn","ecological_intervention",0.58,0.58,0.74,0.54,0.52,0.56,0.54,0.5,"Biotechnology becomes central to remediation climate adaptation and biodiversity monitoring.",0.5308,0.5332,0.5296
+"S3","Genomic Inequality","health_inequality",0.82,0.42,0.34,0.42,0.36,0.22,0.72,0.28,"Advanced therapies and genetic services concentrate among wealthy populations.",0.4816,0.546,0.3225
+"S6","Corporate Biological Enclosure","corporate_enclosure",0.8,0.4,0.48,0.64,0.34,0.28,0.78,0.24,"Patents platforms datasets therapies seeds and biofoundries concentrate among powerful actors.",0.4656,0.6288,0.3125
+"S4","Biosecurity Crisis","biosecurity_crisis",0.64,0.36,0.62,0.88,0.28,0.3,0.42,0.22,"A major accident misuse event or governance failure triggers distrust and restriction.",0.3618,0.7272,0.2831
