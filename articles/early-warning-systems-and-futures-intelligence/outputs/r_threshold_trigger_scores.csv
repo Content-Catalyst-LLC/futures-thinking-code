@@ -1,0 +1,11 @@
+"indicator_id","domain","indicator_name","baseline","current_value","threshold_value","review_frequency","warning_owner","trigger_rule","response_protocol_id","threshold_gap","threshold_breached","review_weight","positive_gap","trigger_priority_score"
+"I1","climate_health","heat_health_burden_index",0.48,0.68,0.66,"quarterly","Climate Health Foresight Cell","Escalate if index exceeds threshold for one review cycle","RP1",0.02,TRUE,0.88,0.02,0.712
+"I4","infrastructure","infrastructure_backlog_risk_index",0.52,0.7,0.68,"semiannual","Infrastructure Stewardship Office","Escalate if backlog risk exceeds threshold","RP4",0.0199999999999999,TRUE,0.68,0.0199999999999999,0.697
+"I9","geopolitical_supply","supply_security_disruption_index",0.38,0.59,0.58,"quarterly","Supply Security Intelligence Cell","Escalate if supply disruption exceeds threshold","RP9",0.01,TRUE,0.88,0.01,0.6875
+"I6","food_water_ecology","food_water_ecology_stress_index",0.48,0.65,0.64,"semiannual","Regional Ecological Governance Group","Escalate if ecological stress exceeds threshold","RP6",0.01,TRUE,0.68,0.01,0.6825
+"I7","institutional_trust","trust_divergence_index",0.42,0.6,0.58,"semiannual","Public Legitimacy Review Board","Escalate if trust divergence exceeds threshold","RP7",0.02,TRUE,0.68,0.02,0.672
+"I2","ai_governance","public_ai_appeal_failure_rate",0.28,0.46,0.44,"quarterly","Digital Accountability Office","Pause review if appeal failures exceed threshold","RP2",0.02,TRUE,0.88,0.02,0.657
+"I5","energy_systems","energy_burden_grid_stress_index",0.46,0.63,0.64,"quarterly","Energy Resilience Office","Review if stress is within warning band","RP5",-0.01,FALSE,0.88,0,0.2455
+"I3","care_systems","care_workforce_strain_index",0.5,0.62,0.66,"quarterly","Care Systems Resilience Unit","Prepare escalation if strain approaches threshold","RP3",-0.04,FALSE,0.88,0,0.243
+"I8","public_finance","fiscal_resilience_gap_index",0.44,0.61,0.62,"quarterly","Public Finance Strategy Unit","Review if fiscal gap approaches threshold","RP8",-0.01,FALSE,0.88,0,0.2405
+"I10","education_civic_capacity","anticipatory_learning_gap_index",0.4,0.56,0.6,"annual","Civic Learning Foresight Group","Review if learning gap approaches threshold","RP10",-0.0399999999999999,FALSE,0.48,0,0.188

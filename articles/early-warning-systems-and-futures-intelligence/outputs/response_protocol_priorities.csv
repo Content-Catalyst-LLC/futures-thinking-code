@@ -1,0 +1,11 @@
+response_protocol_id,response_name,response_type,lead_agency,action_level,public_communication_required,accountability_review_required,linked_trigger_priority,response_priority_score,response_description
+RP1,Climate-health-housing escalation,cross_agency_response,Climate Health Foresight Cell,escalate,yes,yes,0.712,0.8416,Activate heat-health-housing review and expand protective measures.
+RP4,Infrastructure maintenance shift,budget_reallocation,Infrastructure Stewardship Office,escalate,yes,yes,0.697,0.8334,Shift funds toward maintenance and resilience priorities.
+RP6,Regional ecological governance review,regional_coordination,Regional Ecological Governance Group,escalate,yes,yes,0.6825,0.8254,Convene food-water-ecology governance and conflict-prevention review.
+RP7,Legitimacy and participation review,public_accountability,Public Legitimacy Review Board,escalate,yes,yes,0.672,0.8196,Activate public accountability participation and trust-repair process.
+RP2,Public AI accountability pause,governance_review,Digital Accountability Office,pause,yes,yes,0.657,0.8034,Pause high-risk automated decisions and strengthen appeal safeguards.
+RP9,Supply security stress test,supply_strategy_review,Supply Security Intelligence Cell,escalate,no,yes,0.6875,0.6781,Stress-test strategic material supply chain and contingency pathways.
+RP3,Care workforce resilience review,capacity_review,Care Systems Resilience Unit,prepare,yes,yes,0.243,0.5276,Prepare workforce stabilization and prevention investment review.
+RP5,Energy affordability and grid review,strategy_review,Energy Resilience Office,watch,yes,yes,0.2455,0.493,Review affordability stress grid resilience and emergency energy support.
+RP10,Civic futures learning review,learning_review,Civic Learning Foresight Group,watch,yes,yes,0.188,0.4614,Review curriculum civic capability and futures literacy investments.
+RP8,Fiscal resilience financing review,fiscal_review,Public Finance Strategy Unit,watch,no,yes,0.2405,0.3403,Review financing options for prevention resilience and emergency spending.

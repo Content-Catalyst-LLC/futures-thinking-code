@@ -1,0 +1,11 @@
+signal_id,signal_name,domain,signal_type,novelty,relevance,urgency,evidence_quality,affected_voice,vulnerability,lead_time_value,warning_score,warning_level,description
+S1,Rising heat-health emergency demand,climate_health,stress_signal,0.58,0.9,0.88,0.82,0.68,0.92,0.8,0.8166,Watch closely,Heat exposure and health burden are increasing before formal adaptation capacity catches up.
+S2,Public AI appeal failures,ai_governance,accountability_signal,0.72,0.86,0.78,0.74,0.74,0.86,0.72,0.7858,Watch closely,Appeals and complaints suggest automated public systems may be outpacing accountability capacity.
+S3,Care workforce exits,care_systems,labor_signal,0.6,0.84,0.8,0.78,0.76,0.9,0.7,0.7818,Watch closely,Care systems show early signs that hidden labor buffers are being exhausted.
+S5,Energy burden and peak-load stress,energy_systems,infrastructure_signal,0.62,0.86,0.82,0.78,0.66,0.86,0.74,0.78,Watch closely,Energy affordability and grid stress are converging with climate exposure.
+S4,Infrastructure service interruptions,infrastructure,resilience_signal,0.54,0.88,0.86,0.8,0.62,0.82,0.76,0.7776,Watch closely,Repeated interruptions suggest deferred maintenance is becoming visible risk.
+S6,Regional water conflict,food_water_ecology,ecological_signal,0.7,0.84,0.8,0.7,0.7,0.88,0.68,0.7724,Watch closely,Local water conflict may indicate broader food-water-ecology stress.
+S7,Trust divergence across communities,institutional_trust,legitimacy_signal,0.66,0.88,0.78,0.68,0.72,0.84,0.66,0.765,Watch closely,Uneven trust may signal fragmentation before cooperation breaks down.
+S8,Fiscal stress after repeated emergencies,public_finance,fiscal_signal,0.64,0.86,0.84,0.72,0.6,0.8,0.7,0.7606,Watch closely,Repeated emergency spending may crowd out prevention and resilience investment.
+S9,Supply security disruption patterns,geopolitical_supply,systemic_signal,0.72,0.82,0.78,0.7,0.56,0.74,0.64,0.7292,Monitor,Supply interruptions may indicate strategic material and logistics fragility.
+S10,Education-futures relevance gap,education_civic_capacity,learning_signal,0.68,0.76,0.66,0.62,0.74,0.72,0.6,0.6904,Monitor,Learning systems may be misaligned with civic uncertainty and future problem-solving.

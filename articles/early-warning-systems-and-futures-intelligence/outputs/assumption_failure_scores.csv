@@ -1,0 +1,8 @@
+assumption_id,domain,assumption_name,confidence,fragility,assumption_failure_risk,linked_indicator,revision_rule,assumption_text
+A5,institutional_trust,Trust cooperation assumption,0.4,0.88,0.754,trust_divergence_index,Activate legitimacy repair if trust divergence crosses threshold.,Public trust remains sufficient for cooperative action
+A2,ai_governance,AI accountability capacity assumption,0.42,0.86,0.734,public_ai_appeal_failure_rate,Pause high-risk deployment if appeal failures exceed threshold.,Public AI accountability mechanisms keep pace with deployment
+A6,public_finance,Fiscal resilience assumption,0.42,0.84,0.723,fiscal_resilience_gap_index,Review financing strategy if fiscal gap approaches threshold.,Public finance can absorb repeated emergencies without crowding out prevention
+A1,climate_health,Climate-health capacity assumption,0.44,0.84,0.714,heat_health_burden_index,Revise adaptation strategy if burden index exceeds threshold.,Climate-health burden remains within current response capacity
+A4,infrastructure,Infrastructure backlog manageability assumption,0.46,0.82,0.694,infrastructure_backlog_risk_index,Shift investment toward maintenance if backlog risk exceeds threshold.,Infrastructure backlog remains manageable within current funding cycles
+A7,geopolitical_supply,Supply disruption assumption,0.46,0.78,0.672,supply_security_disruption_index,Stress-test supply strategy if disruption exceeds threshold.,Supply disruptions remain temporary and manageable
+A3,care_systems,Care workforce stability assumption,0.48,0.78,0.663,care_workforce_strain_index,Activate workforce resilience review if strain approaches threshold.,Care workforce strain remains manageable through incremental staffing

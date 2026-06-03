@@ -1,0 +1,11 @@
+interaction_id,source_domain,target_domain,relationship_type,influence_weight,delay_risk,cascade_potential,description
+X1,climate_health,energy_systems,reinforces,0.84,0.58,0.86,Heat stress increases energy demand and grid stress.
+X2,energy_systems,climate_health,reinforces,0.78,0.50,0.82,Grid stress worsens heat-health exposure.
+X3,climate_health,care_systems,reinforces,0.82,0.54,0.80,Heat exposure increases care and health workload.
+X4,care_systems,institutional_trust,affects_legitimacy,0.70,0.52,0.72,Care-system failure erodes trust in public institutions.
+X5,ai_governance,institutional_trust,affects_legitimacy,0.76,0.44,0.78,AI accountability failures reduce institutional trust.
+X6,infrastructure,energy_systems,reinforces,0.78,0.62,0.84,Infrastructure backlog increases energy-system fragility.
+X7,food_water_ecology,public_finance,pressures,0.72,0.66,0.80,Ecological stress increases public emergency spending.
+X8,public_finance,infrastructure,constrains,0.80,0.70,0.86,Fiscal stress constrains maintenance and resilience investment.
+X9,geopolitical_supply,energy_systems,constrains,0.74,0.48,0.78,Supply disruption affects grid equipment and energy transition inputs.
+X10,institutional_trust,ai_governance,conditions,0.68,0.50,0.70,Trust conditions public acceptance of AI governance reforms.

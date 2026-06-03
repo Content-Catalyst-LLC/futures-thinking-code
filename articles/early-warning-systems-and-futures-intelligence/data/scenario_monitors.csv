@@ -1,0 +1,8 @@
+scenario_id,scenario_name,indicator_name,signal_direction,scenario_relevance,monitoring_weight,interpretation
+SC1,Coordinated Adaptation,heat_health_burden_index,decreasing_or_stabilizing,0.82,0.76,Falling heat-health burden supports a coordinated adaptation pathway.
+SC2,Institutional Fragmentation,trust_divergence_index,increasing,0.90,0.84,Rising trust divergence supports a fragmentation pathway.
+SC3,Technology Acceleration Without Governance,public_ai_appeal_failure_rate,increasing,0.88,0.82,Rising appeal failures suggest technology deployment outpacing governance.
+SC4,Compound Public-System Stress,infrastructure_backlog_risk_index,increasing,0.86,0.80,Backlog risk supports a compound public-system stress pathway.
+SC5,Fiscal Constraint,fiscal_resilience_gap_index,increasing,0.86,0.78,Fiscal stress supports constraint and austerity pathways.
+SC6,Regional Ecological Stress,food_water_ecology_stress_index,increasing,0.84,0.76,Ecological stress supports regional disruption pathways.
+SC7,Supply Security Fragmentation,supply_security_disruption_index,increasing,0.82,0.74,Supply disruption supports geopolitical fragmentation pathways.

@@ -1,0 +1,11 @@
+response_protocol_id,response_name,response_type,lead_agency,action_level,public_communication_required,accountability_review_required,response_description
+RP1,Climate-health-housing escalation,cross_agency_response,Climate Health Foresight Cell,escalate,yes,yes,Activate heat-health-housing review and expand protective measures.
+RP2,Public AI accountability pause,governance_review,Digital Accountability Office,pause,yes,yes,Pause high-risk automated decisions and strengthen appeal safeguards.
+RP3,Care workforce resilience review,capacity_review,Care Systems Resilience Unit,prepare,yes,yes,Prepare workforce stabilization and prevention investment review.
+RP4,Infrastructure maintenance shift,budget_reallocation,Infrastructure Stewardship Office,escalate,yes,yes,Shift funds toward maintenance and resilience priorities.
+RP5,Energy affordability and grid review,strategy_review,Energy Resilience Office,watch,yes,yes,Review affordability stress grid resilience and emergency energy support.
+RP6,Regional ecological governance review,regional_coordination,Regional Ecological Governance Group,escalate,yes,yes,Convene food-water-ecology governance and conflict-prevention review.
+RP7,Legitimacy and participation review,public_accountability,Public Legitimacy Review Board,escalate,yes,yes,Activate public accountability participation and trust-repair process.
+RP8,Fiscal resilience financing review,fiscal_review,Public Finance Strategy Unit,watch,no,yes,Review financing options for prevention resilience and emergency spending.
+RP9,Supply security stress test,supply_strategy_review,Supply Security Intelligence Cell,escalate,no,yes,Stress-test strategic material supply chain and contingency pathways.
+RP10,Civic futures learning review,learning_review,Civic Learning Foresight Group,watch,yes,yes,Review curriculum civic capability and futures literacy investments.
