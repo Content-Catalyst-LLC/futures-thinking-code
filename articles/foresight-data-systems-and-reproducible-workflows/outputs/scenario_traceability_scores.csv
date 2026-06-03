@@ -1,0 +1,6 @@
+scenario_id,scenario_name,scenario_family,version,time_horizon,linked_drivers,assumption_count,evidence_note_count,review_status,narrative_summary,linked_driver_count,scenario_traceability_score,traceability_class
+SC4,Compound Public-System Stress,compound_shock,2026-Q2,2035,D1;D4;D5;D6;D7;D8,7,9,reviewed,Climate infrastructure fiscal care and ecological pressures compound across public systems.,6,0.975,Strong traceability
+SC1,Coordinated Adaptation,cooperation,2026-Q2,2035,D1;D2;D4;D6,6,10,reviewed,Institutions coordinate investment maintain legitimacy and adapt across climate energy and fiscal stress.,4,0.93,Strong traceability
+SC5,Transformative Public Investment,transformation,2026-Q2,2040,D1;D2;D4;D5;D6;D8,6,8,needs_review,Public investment shifts institutions toward resilience legitimacy and long-term stewardship.,6,0.915,Strong traceability
+SC2,Institutional Fragmentation,fragmentation,2026-Q2,2035,D2;D3;D4;D5,5,7,reviewed,Trust divergence weak accountability and fiscal stress fragment public response.,4,0.805,Strong traceability
+SC3,Technology Acceleration Without Governance,technology_risk,2026-Q2,2035,D2;D3;D4,4,6,needs_review,Digital deployment accelerates faster than legal institutional and public safeguards.,3,0.625,Weak traceability

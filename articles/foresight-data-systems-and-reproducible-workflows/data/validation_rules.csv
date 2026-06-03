@@ -1,0 +1,11 @@
+rule_id,object_type,field_name,rule_type,rule_description,severity
+VR1,driver,driver_id,required,Every driver requires a stable driver ID,error
+VR2,driver,impact,range_0_1,Impact must be between 0 and 1,error
+VR3,driver,uncertainty,range_0_1,Uncertainty must be between 0 and 1,error
+VR4,signal,driver_id,foreign_key,Every signal must reference a valid driver,error
+VR5,scenario,linked_drivers,foreign_key_list,Linked drivers must exist in the driver register,error
+VR6,assumption,scenario_id,foreign_key,Every assumption must reference a valid scenario,error
+VR7,evaluation,scenario_id,foreign_key,Every strategy evaluation must reference a valid scenario,error
+VR8,lineage,source_object_id,required,Every lineage edge must include a source object,error
+VR9,lineage,target_object_id,required,Every lineage edge must include a target object,error
+VR10,workflow_run,generated_outputs,integrity,Generated outputs should match expected outputs,warning

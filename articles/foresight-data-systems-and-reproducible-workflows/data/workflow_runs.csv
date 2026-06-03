@@ -1,0 +1,4 @@
+run_id,workflow_name,input_version,script_name,expected_outputs,generated_outputs,status,run_date,notes
+WR1,foresight_data_quality,2026-Q2,python/foresight_data_systems_workflow.py,7,7,complete,2026-03-24,Default validation and report workflow.
+WR2,scenario_traceability,2026-Q2,r/foresight_data_systems_workflow.R,3,3,complete,2026-03-24,Base R traceability workflow.
+WR3,advanced_visuals,2026-Q2,python/foresight_data_systems_advanced.py,6,0,pending,2026-03-24,Optional pandas and matplotlib workflow.

@@ -1,0 +1,11 @@
+edge_id,source_object_id,source_object_type,target_object_id,target_object_type,relationship_type,dependency_strength,description
+L1,D1,driver,SC1,scenario,supports,0.82,Climate exposure is a core driver of coordinated adaptation.
+L2,D2,driver,SC2,scenario,supports,0.90,Trust divergence is central to institutional fragmentation.
+L3,D3,driver,SC3,scenario,supports,0.88,AI accountability capacity defines the technology risk pathway.
+L4,D4,driver,SC4,scenario,supports,0.76,Fiscal capacity affects compound public-system stress.
+L5,S3,signal,A3,assumption,challenges,0.84,AI appeal failures challenge governance maturity assumption.
+L6,S5,signal,A4,assumption,challenges,0.82,Infrastructure interruptions challenge backlog manageability.
+L7,A2,assumption,SC2,scenario,conditions,0.86,Trust cooperation assumption shapes fragmentation logic.
+L8,SC4,scenario,E4,evaluation,inputs_to,0.80,Compound stress scenario informs adaptive capacity evaluation.
+L9,SC5,scenario,E5,evaluation,inputs_to,0.78,Transformation scenario informs justice-centered strategy test.
+L10,E5,evaluation,R1,report,summarized_in,0.72,Justice-centered strategy evaluation appears in summary report.

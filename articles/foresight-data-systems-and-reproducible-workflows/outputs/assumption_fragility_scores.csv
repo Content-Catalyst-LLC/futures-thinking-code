@@ -1,0 +1,7 @@
+assumption_id,scenario_id,assumption_name,assumption_text,confidence,fragility,strategic_impact,linked_indicator,revision_rule,assumption_fragility_score
+A2,SC2,Trust remains sufficient for minimal cooperation,Public trust remains sufficient for minimal coordination under stress,0.42,0.86,0.90,trust_divergence_index,Strengthen fragmentation scenario if trust divergence increases.,0.774
+A3,SC3,AI governance can mature alongside deployment,AI governance can mature while public-sector deployment accelerates,0.44,0.84,0.88,public_ai_appeal_failure_rate,Revise technology scenario if appeal failure rate exceeds threshold.,0.754
+A4,SC4,Infrastructure backlog remains manageable,Infrastructure backlog remains manageable without major service breakdown,0.46,0.82,0.86,infrastructure_backlog_risk,Shift to higher-stress scenario if backlog crosses threshold.,0.734
+A6,SC4,Care capacity absorbs climate-health pressure,Care workforce capacity can absorb rising climate-health demand,0.48,0.78,0.84,care_workforce_strain,Revise compound stress scenario if care strain rises.,0.707
+A5,SC5,Transformative investment can preserve legitimacy,Transformative public investment can build public legitimacy while changing systems,0.56,0.68,0.82,public_participation_quality,Review if participation or equity indicators weaken.,0.638
+A1,SC1,Adaptation finance remains stable,Adaptation finance remains stable enough to support implementation,0.58,0.62,0.84,fiscal_resilience_gap,Revise coordinated adaptation scenario if fiscal gap exceeds threshold.,0.616

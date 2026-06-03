@@ -1,0 +1,7 @@
+evaluation_id,scenario_id,strategy_id,strategy_name,effectiveness,feasibility,equity,legitimacy,adaptability,reviewer,review_date,notes
+E1,SC1,T1,Robust Resilience Portfolio,0.82,0.76,0.78,0.80,0.72,Foresight Review Team,2026-03-20,Strong across coordinated adaptation conditions.
+E2,SC2,T1,Robust Resilience Portfolio,0.64,0.58,0.70,0.62,0.68,Foresight Review Team,2026-03-20,Constrained by legitimacy and fiscal fragmentation.
+E3,SC3,T2,Precautionary Public Safeguards,0.70,0.64,0.84,0.78,0.72,Foresight Review Team,2026-03-21,Strong against technology accountability risk.
+E4,SC4,T3,Adaptive Public Capacity,0.66,0.60,0.76,0.70,0.82,Foresight Review Team,2026-03-22,Useful if monitoring and capacity are funded.
+E5,SC5,T4,Justice-Centered Transformation,0.78,0.62,0.90,0.84,0.78,Foresight Review Team,2026-03-22,High legitimacy and equity with implementation complexity.
+E6,SC4,T5,Low-Cost Continuity,0.40,0.58,0.34,0.42,0.28,Foresight Review Team,2026-03-23,Fragile under compound system stress.

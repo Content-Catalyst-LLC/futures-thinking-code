@@ -1,0 +1,9 @@
+signal_id,driver_id,signal_name,signal_type,novelty,relevance,urgency,evidence_quality,affected_voice,source_traceability,collection_date,interpretation,data_quality_score,warning_priority_score
+S1,D1,Rising compound heat-health demand,early_warning,0.58,0.90,0.88,0.82,0.68,0.82,2026-02-15,Climate-health burden is approaching adaptation-capacity limits.,0.824,0.8
+S3,D3,Public AI appeal failures,accountability_signal,0.72,0.86,0.78,0.74,0.74,0.74,2026-02-25,AI deployment may be outpacing accountability mechanisms.,0.77,0.7744
+S5,D5,Service interruptions from maintenance backlog,infrastructure_signal,0.54,0.88,0.86,0.80,0.62,0.80,2026-03-05,Maintenance backlog is becoming visible public-system risk.,0.798,0.7728
+S6,D6,Energy burden and peak-load stress,energy_signal,0.62,0.86,0.82,0.78,0.66,0.78,2026-03-10,Energy affordability and grid stress are converging.,0.784,0.7704
+S7,D7,Care workforce exits,labor_signal,0.60,0.84,0.80,0.78,0.76,0.76,2026-03-12,Care systems may be exhausting hidden labor buffers.,0.787,0.766
+S8,D8,Regional water conflict and ecological stress,ecology_signal,0.70,0.84,0.80,0.70,0.70,0.72,2026-03-15,Local ecological stress may indicate broader regional fragility.,0.748,0.7576
+S4,D4,Fiscal stress after repeated emergencies,fiscal_signal,0.64,0.86,0.84,0.72,0.60,0.72,2026-03-01,Emergency spending may crowd out prevention.,0.748,0.7552
+S2,D2,Trust divergence across communities,legitimacy_signal,0.66,0.88,0.78,0.68,0.72,0.70,2026-02-20,Uneven trust may signal institutional fragmentation.,0.746,0.7528

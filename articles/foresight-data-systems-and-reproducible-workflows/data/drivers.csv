@@ -1,0 +1,9 @@
+driver_id,driver_name,domain,impact,uncertainty,source_traceability,freshness,completeness,validity,review_status,source_note
+D1,Climate exposure and compound hazards,climate,0.92,0.62,0.86,0.82,1.00,1.00,reviewed,Climate and disaster-risk evidence linked to adaptation planning.
+D2,Public trust and institutional legitimacy,governance,0.88,0.82,0.70,0.78,1.00,0.95,reviewed,Trust signals from public participation complaints and legitimacy analysis.
+D3,AI accountability capacity,technology,0.84,0.78,0.74,0.80,0.90,0.95,needs_review,AI governance evidence linked to appeals audit and procurement safeguards.
+D4,Public finance and fiscal capacity,finance,0.90,0.76,0.72,0.76,0.95,0.90,reviewed,Fiscal capacity signals from emergency spending and deferred investment.
+D5,Infrastructure maintenance backlog,infrastructure,0.86,0.66,0.80,0.78,0.92,0.94,reviewed,Asset condition service interruptions and maintenance backlog evidence.
+D6,Energy affordability and grid resilience,energy,0.86,0.70,0.78,0.80,0.94,0.92,reviewed,Energy burden peak-load and grid stress records.
+D7,Care workforce capacity,health_labor,0.82,0.68,0.76,0.74,0.90,0.90,needs_review,Workforce exits care strain and capacity monitoring signals.
+D8,Food-water-ecology stress,ecology,0.88,0.74,0.72,0.70,0.88,0.90,needs_review,Regional ecological stress water scarcity and food-system pressure.
