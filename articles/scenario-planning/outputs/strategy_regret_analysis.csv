@@ -1,0 +1,26 @@
+strategy_id,strategy,scenario_id,scenario_name,performance,best_scenario_performance,regret,notes
+ST1,Efficiency-Optimized Strategy,SC3,Climate and Infrastructure Stress,0.35,0.82,0.47,Efficiency optimization struggles with climate and infrastructure stress.
+ST1,Efficiency-Optimized Strategy,SC4,Fragmented Governance,0.38,0.82,0.44,Fragmentation undermines assumed coordination.
+ST1,Efficiency-Optimized Strategy,SC2,Disruptive Technology Shift,0.42,0.84,0.42,Fragile under disruptive technology and legitimacy pressure.
+ST1,Efficiency-Optimized Strategy,SC5,Participatory Transformation,0.46,0.88,0.42,Underinvests in participation and transformation capacity.
+ST3,Innovation-Bet Strategy,SC3,Climate and Infrastructure Stress,0.44,0.82,0.38,Weak under climate and infrastructure stress.
+ST3,Innovation-Bet Strategy,SC4,Fragmented Governance,0.48,0.82,0.34,Low institutional trust reduces adoption.
+ST3,Innovation-Bet Strategy,SC5,Participatory Transformation,0.58,0.88,0.3,Innovation helps but is not sufficient for transformation.
+ST5,Participatory Futures Strategy,SC1,Stable Adaptation,0.61,0.84,0.23,Participation may appear slower under stable continuity.
+ST3,Innovation-Bet Strategy,SC1,Stable Adaptation,0.62,0.84,0.22,Innovation bet produces modest gains under stability.
+ST4,Resilience-First Strategy,SC1,Stable Adaptation,0.66,0.84,0.18,Moderate under continuity because redundancy may seem costly.
+ST4,Resilience-First Strategy,SC2,Disruptive Technology Shift,0.68,0.84,0.16,Adaptable enough for technology stress.
+ST5,Participatory Futures Strategy,SC2,Disruptive Technology Shift,0.7,0.84,0.14,Public legitimacy improves technology governance.
+ST2,Robust Adaptive Strategy,SC4,Fragmented Governance,0.7,0.82,0.12,Performs moderately under fragmentation.
+ST4,Resilience-First Strategy,SC5,Participatory Transformation,0.76,0.88,0.12,Supports transformation but may need stronger participation.
+ST2,Robust Adaptive Strategy,SC1,Stable Adaptation,0.74,0.84,0.1,Acceptable under stable adaptation.
+ST2,Robust Adaptive Strategy,SC3,Climate and Infrastructure Stress,0.73,0.82,0.09,Robustness improves climate stress preparedness.
+ST2,Robust Adaptive Strategy,SC2,Disruptive Technology Shift,0.76,0.84,0.08,Flexible options support technology transition.
+ST2,Robust Adaptive Strategy,SC5,Participatory Transformation,0.8,0.88,0.08,Aligns with participatory transformation.
+ST4,Resilience-First Strategy,SC4,Fragmented Governance,0.74,0.82,0.08,Resilience capacities help under fragmentation.
+ST5,Participatory Futures Strategy,SC3,Climate and Infrastructure Stress,0.76,0.82,0.06,Community knowledge improves climate adaptation.
+ST1,Efficiency-Optimized Strategy,SC1,Stable Adaptation,0.84,0.84,0.0,Strong under stable continuity and moderate adaptation.
+ST3,Innovation-Bet Strategy,SC2,Disruptive Technology Shift,0.84,0.84,0.0,Strong under technology disruption.
+ST4,Resilience-First Strategy,SC3,Climate and Infrastructure Stress,0.82,0.82,0.0,Strong under climate and infrastructure stress.
+ST5,Participatory Futures Strategy,SC4,Fragmented Governance,0.82,0.82,0.0,Legitimacy and participation reduce fragmentation risk.
+ST5,Participatory Futures Strategy,SC5,Participatory Transformation,0.88,0.88,0.0,Best aligned with participatory transformation.

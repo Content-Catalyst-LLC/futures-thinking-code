@@ -1,0 +1,26 @@
+strategy_id,scenario_id,performance,confidence,notes
+ST1,SC1,0.84,0.78,Strong under stable continuity and moderate adaptation.
+ST1,SC2,0.42,0.54,Fragile under disruptive technology and legitimacy pressure.
+ST1,SC3,0.35,0.50,Efficiency optimization struggles with climate and infrastructure stress.
+ST1,SC4,0.38,0.48,Fragmentation undermines assumed coordination.
+ST1,SC5,0.46,0.46,Underinvests in participation and transformation capacity.
+ST2,SC1,0.74,0.72,Acceptable under stable adaptation.
+ST2,SC2,0.76,0.70,Flexible options support technology transition.
+ST2,SC3,0.73,0.68,Robustness improves climate stress preparedness.
+ST2,SC4,0.70,0.64,Performs moderately under fragmentation.
+ST2,SC5,0.80,0.68,Aligns with participatory transformation.
+ST3,SC1,0.62,0.60,Innovation bet produces modest gains under stability.
+ST3,SC2,0.84,0.64,Strong under technology disruption.
+ST3,SC3,0.44,0.56,Weak under climate and infrastructure stress.
+ST3,SC4,0.48,0.52,Low institutional trust reduces adoption.
+ST3,SC5,0.58,0.56,Innovation helps but is not sufficient for transformation.
+ST4,SC1,0.66,0.70,Moderate under continuity because redundancy may seem costly.
+ST4,SC2,0.68,0.66,Adaptable enough for technology stress.
+ST4,SC3,0.82,0.70,Strong under climate and infrastructure stress.
+ST4,SC4,0.74,0.66,Resilience capacities help under fragmentation.
+ST4,SC5,0.76,0.68,Supports transformation but may need stronger participation.
+ST5,SC1,0.61,0.62,Participation may appear slower under stable continuity.
+ST5,SC2,0.70,0.62,Public legitimacy improves technology governance.
+ST5,SC3,0.76,0.66,Community knowledge improves climate adaptation.
+ST5,SC4,0.82,0.60,Legitimacy and participation reduce fragmentation risk.
+ST5,SC5,0.88,0.70,Best aligned with participatory transformation.

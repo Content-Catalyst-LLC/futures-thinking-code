@@ -1,0 +1,6 @@
+strategy_id,strategy,strategy_type,description,adaptability,equity_sensitivity,implementation_difficulty
+ST1,Efficiency-Optimized Strategy,optimization,Maximizes near-term efficiency and assumes stable expected conditions.,0.31,0.34,0.36
+ST2,Robust Adaptive Strategy,robustness,Maintains options and performs adequately across multiple plausible futures.,0.84,0.68,0.58
+ST3,Innovation-Bet Strategy,option_bet,Places a major bet on disruptive innovation and rapid technological advantage.,0.62,0.44,0.66
+ST4,Resilience-First Strategy,resilience,Prioritizes redundancy preparedness recovery capacity and downside protection.,0.79,0.72,0.62
+ST5,Participatory Futures Strategy,participatory,Uses public participation community knowledge and legitimacy to shape strategy under uncertainty.,0.82,0.90,0.70

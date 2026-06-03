@@ -1,0 +1,9 @@
+signal_id,domain,signal,uncertainty,impact,novelty,watch_score,source_type,monitoring_priority
+SG3,governance,Declining public trust in administrative and scientific institutions,0.82,0.86,0.7,0.806,survey_trend,high
+SG1,technology,Public agencies piloting AI eligibility and decision-support systems,0.76,0.88,0.74,0.803,policy_scan,high
+SG2,climate,Infrastructure agencies revising heat flood and compound-risk design assumptions,0.68,0.92,0.66,0.771,technical_guidance,high
+SG6,participation,Local governments experimenting with citizen foresight assemblies,0.72,0.72,0.8,0.74,civic_scan,medium
+SG8,culture,Youth-led long-term responsibility campaigns expanding,0.72,0.7,0.82,0.737,civic_scan,medium
+SG5,energy,Grid interconnection queues delaying clean-energy deployment,0.62,0.8,0.6,0.687,energy_report,medium
+SG7,public_health,Public health agencies integrating climate and disease surveillance,0.58,0.78,0.64,0.675,health_report,medium
+SG4,economy,Firms increasing regional supply redundancy after repeated shocks,0.64,0.74,0.58,0.665,market_scan,medium

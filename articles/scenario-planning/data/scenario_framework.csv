@@ -1,0 +1,5 @@
+axis_id,axis_name,low_end,high_end,why_it_matters
+AX1,Institutional Coordination,Fragmented Governance,Coordinated Governance,Determines whether public and private actors can align around complex risks.
+AX2,System Stress,Moderate Stress,High Compound Stress,Determines whether strategies face manageable conditions or cascading disruption.
+AX3,Public Legitimacy,Low Trust,High Trust,Determines whether strategies can be implemented with compliance and public support.
+AX4,Technological Disruption,Incremental Change,Rapid Disruption,Determines whether institutions must adapt to fast technological transformation.

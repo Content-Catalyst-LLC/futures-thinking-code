@@ -1,0 +1,7 @@
+assumption_id,assumption_text,domain,confidence,exposure,reversibility,monitoring_signal
+A1,Historical conditions remain useful guides for strategic planning,forecasting,0.54,0.84,0.42,Forecast error rises across multiple domains.
+A2,Technological change can be governed through existing institutional processes,technology,0.46,0.82,0.38,Regulators lag behind deployment and harm detection.
+A3,Climate stress remains within manageable adaptation ranges,climate,0.40,0.92,0.30,Compound climate events exceed design assumptions.
+A4,Public institutions retain enough legitimacy for coordinated response,governance,0.52,0.86,0.44,Compliance and trust indicators diverge by community.
+A5,Efficiency-optimized systems can absorb shocks without major redesign,systems,0.38,0.88,0.34,Cascading failures appear across tightly coupled systems.
+A6,Participation slows strategy more than it improves legitimacy,participation,0.45,0.68,0.62,Community-led planning improves implementation quality.

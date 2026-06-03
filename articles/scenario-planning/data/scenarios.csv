@@ -1,0 +1,6 @@
+scenario_id,scenario_name,archetype,summary,plausibility,system_stress,time_horizon_years
+SC1,Stable Adaptation,continuity,Institutions adapt gradually while maintaining public trust and moderate economic stability.,0.72,0.44,10
+SC2,Disruptive Technology Shift,technology_disruption,AI automation data systems and platform infrastructures alter work governance and institutional decision-making.,0.68,0.76,10
+SC3,Climate and Infrastructure Stress,ecological_stress,Climate hazards infrastructure fragility fiscal constraints and public-health pressures combine.,0.74,0.88,15
+SC4,Fragmented Governance,fragmentation,Trust declines coordination weakens and institutional capacity becomes uneven across regions and communities.,0.64,0.84,10
+SC5,Participatory Transformation,transformation,Public participation adaptive governance and long-term investment create more resilient and legitimate institutions.,0.58,0.60,15

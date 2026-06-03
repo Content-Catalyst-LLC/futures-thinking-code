@@ -1,0 +1,9 @@
+driver_id,domain,driver_or_uncertainty,driver_type,uncertainty,impact,velocity,criticality_score,description
+DU1,technology,AI-mediated decision systems,driver,0.78,0.88,0.82,0.5628,AI and automated decision systems reshape work public services and governance.
+DU2,climate,Compound climate extremes,driver,0.66,0.94,0.76,0.4715,Heat floods drought wildfires and infrastructure stress interact.
+DU3,governance,Institutional trust and legitimacy,critical_uncertainty,0.84,0.86,0.62,0.4479,Public trust affects coordination compliance and reform.
+DU5,energy,Grid modernization and storage constraints,driver,0.64,0.82,0.7,0.3674,Energy transition depends on transmission storage governance and demand flexibility.
+DU4,economy,Supply-chain reconfiguration,critical_uncertainty,0.7,0.76,0.68,0.3618,Regionalization redundancy and geopolitical risk reshape economic systems.
+DU7,culture,Future imaginaries and public narratives,critical_uncertainty,0.82,0.72,0.6,0.3542,Hope dread technological visions and collapse narratives shape action.
+DU8,participation,Public participation and civic legitimacy,critical_uncertainty,0.74,0.8,0.58,0.3434,Participation can alter legitimacy feasibility and implementation.
+DU6,public_health,Chronic disease and preparedness capacity,driver,0.6,0.78,0.54,0.2527,Health futures depend on prevention surveillance workforce and system resilience.
