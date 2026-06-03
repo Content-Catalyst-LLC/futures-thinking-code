@@ -1,0 +1,21 @@
+code_id,issue_id,layer_level,layer_label,statement,diagnostic_weight,transformation_need,notes
+LC1,CLA1,1,litany,AI is moving faster than government can regulate it,0.78,0.68,Surface anxiety focuses on speed and institutional lag.
+LC2,CLA1,2,social_causes,Procurement rules audit capacity data governance and appeals systems are underdeveloped,0.86,0.84,Systemic diagnosis points to public accountability infrastructure.
+LC3,CLA1,3,worldview,Innovation is treated as inevitable while accountability is treated as a downstream correction,0.90,0.88,Worldview privileges speed and novelty over public legitimacy.
+LC4,CLA1,4,myth_metaphor,The dominant metaphor is AI as race,0.84,0.92,Alternative metaphors include public infrastructure civic trust and accountable tool.
+LC5,CLA2,1,litany,Climate disasters and housing stress are increasing,0.88,0.76,Surface crisis framing focuses on emergencies.
+LC6,CLA2,2,social_causes,Housing quality tree canopy energy access insurance zoning and public-health capacity shape exposure,0.92,0.90,Systemic diagnosis shows risk is socially produced.
+LC7,CLA2,3,worldview,Adaptation is framed as emergency management rather than housing labor ecology and justice,0.88,0.90,Worldview narrows responsibility.
+LC8,CLA2,4,myth_metaphor,The city is treated as a growth machine rather than shared habitat,0.86,0.92,Alternative metaphor is city as shared habitat and climate commons.
+LC9,CLA3,1,litany,Health and care systems are overwhelmed,0.78,0.70,Surface framing emphasizes capacity strain.
+LC10,CLA3,2,social_causes,Wages staffing ratios family care public finance and climate-health stress produce care-system fragility,0.88,0.88,Systemic analysis ties care to labor policy and public investment.
+LC11,CLA3,3,worldview,Care is treated as cost center instead of social infrastructure,0.86,0.90,Worldview devalues reproductive and relational labor.
+LC12,CLA3,4,myth_metaphor,The dominant metaphor is care as burden,0.80,0.88,Alternative metaphor is care as civic infrastructure and dignity foundation.
+LC13,CLA4,1,litany,Schools are not preparing people for the future,0.74,0.66,Surface framing reduces future learning to skills anxiety.
+LC14,CLA4,2,social_causes,Curriculum inequality digital access teacher capacity climate literacy and civic trust shape learning futures,0.82,0.84,Systemic causes broaden the education problem.
+LC15,CLA4,3,worldview,Education is framed as human capital supply,0.92,0.92,Worldview narrows learning to labor-market fit.
+LC16,CLA4,4,myth_metaphor,The dominant metaphor is the talent pipeline,0.90,0.94,Alternative metaphor is learning commons.
+LC17,CLA6,1,litany,Public trust is collapsing,0.86,0.78,Surface framing emphasizes legitimacy crisis.
+LC18,CLA6,2,social_causes,Administrative failure inequality misinformation corruption opacity and exclusion weaken trust,0.84,0.86,Systemic diagnosis links trust to experience and institutional design.
+LC19,CLA6,3,worldview,Trust is treated as messaging rather than earned accountability,0.88,0.90,Worldview confuses communication with legitimacy.
+LC20,CLA6,4,myth_metaphor,The public is treated as audience or customer,0.86,0.92,Alternative metaphor is public as co-governing community.

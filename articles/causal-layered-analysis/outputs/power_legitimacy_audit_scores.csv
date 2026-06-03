@@ -1,0 +1,7 @@
+audit_id,issue_id,dominant_voice,excluded_voice,power_risk,exclusion_risk,legitimacy_need,power_legitimacy_score,counter_narrative
+P2,CLA2,developers_insurers_emergency_managers,renters_outdoor_workers_elderly_residents_frontline_communities,0.92,0.9,0.94,0.92,Climate adaptation must be defined through housing justice public health and shared habitat.
+P5,CLA5,utilities_planners_resource_managers,ecologists_farmers_low_income_communities_indigenous_knowledge_holders,0.9,0.92,0.94,0.918,Food water and ecology must be governed as living regional systems.
+P3,CLA3,health_executives_budget_offices,care_workers_family_caregivers_patients,0.86,0.88,0.9,0.878,Care resilience requires valuing care labor and relational public infrastructure.
+P1,CLA1,technology_firms_and_agencies,public_service_users_workers_disabled_people,0.88,0.84,0.9,0.874,AI governance must begin from rights due process worker knowledge and public accountability.
+P6,CLA6,political_leaders_media_consultants,disenfranchised_publics_local_communities_public_servants,0.84,0.86,0.9,0.864,Trust is rebuilt through accountability participation public honesty and repair.
+P4,CLA4,employers_policy_elites,students_teachers_communities_youth,0.78,0.82,0.84,0.81,Education futures must cultivate human capability civic agency and futures literacy.

@@ -1,0 +1,9 @@
+metaphor_id,issue_id,dominant_metaphor,alternative_metaphor,dominant_effect,alternative_effect,metaphor_shift_score,ethical_relevance
+M1,CLA1,AI as race,AI as public infrastructure,Accelerates deployment and treats governance as drag,Centers accountability public value and institutional safeguards,0.88,0.92
+M2,CLA1,Technology as savior,Technology as accountable tool,Encourages solutionism and false inevitability,Restores human judgment public purpose and limits,0.84,0.88
+M3,CLA2,City as growth machine,City as shared habitat,Centers land value expansion and development competition,Centers livability ecology housing and mutual protection,0.92,0.94
+M4,CLA2,Climate crisis as emergency war,Climate adaptation as repair,Legitimates command response and sacrifice,Centers care preparation and structural change,0.86,0.90
+M5,CLA3,Care as burden,Care as civic infrastructure,Frames care as cost and dependency,Frames care as public capacity dignity and resilience,0.90,0.94
+M6,CLA4,Education as pipeline,Education as learning commons,Reduces learning to labor-market supply,Centers lifelong capability civic formation and shared knowledge,0.92,0.88
+M7,CLA5,Nature as resource,Region as living system,Normalizes extraction substitution and depletion,Centers reciprocity limits restoration and ecological responsibility,0.94,0.96
+M8,CLA6,Public as customer,Public as co-governing community,Reduces legitimacy to service satisfaction,Centers participation accountability and public relationship,0.88,0.90

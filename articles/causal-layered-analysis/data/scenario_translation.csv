@@ -1,0 +1,7 @@
+scenario_id,issue_id,reframed_scenario,scenario_logic,backcasting_target,monitoring_indicator,review_frequency
+S1,CLA1,Accountable Public AI Infrastructure,AI systems are treated as civic infrastructure requiring due process audit capacity and public oversight before scale,Public AI accountability office and procurement standards,public_ai_accountability_index,quarterly
+S2,CLA2,Shared Habitat Climate City,Housing health ecology and infrastructure are planned as a shared adaptation system,Climate housing justice and resilience compact,heat_housing_exposure_index,quarterly
+S3,CLA3,Care as Civic Resilience,Care work prevention public health and climate preparedness are treated as social infrastructure,Care workforce resilience and prevention investment plan,care_capacity_stress_index,quarterly
+S4,CLA4,Learning Commons for Uncertain Futures,Education cultivates civic ecological technical and ethical capability across the life course,Futures literacy and public learning curriculum,anticipatory_learning_access_index,semiannual
+S5,CLA5,Regional Living Systems,Food water land and ecology are planned as coupled regional systems rather than separate sectors,Food-water-ecology governance compact,regional_ecological_stress_index,semiannual
+S6,CLA6,Legitimacy Repair and Shared Governance,Trust is rebuilt through accountable institutions participatory capacity and public repair,Public legitimacy repair strategy,trust_divergence_index,semiannual
