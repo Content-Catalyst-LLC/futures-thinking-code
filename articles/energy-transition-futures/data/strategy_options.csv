@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,grid_investment,clean_power_deployment,electrification_support,fossil_phase_down_planning,justice_investment,labor_protection,material_governance,resilience_investment,public_finance,description
+ST1,Market-Led Clean Energy Expansion,market_led,0.48,0.78,0.52,0.30,0.34,0.28,0.32,0.42,0.38,Relies primarily on private clean-energy deployment with weak public planning and justice safeguards.
+ST2,Grid-First Transition Strategy,grid_first,0.88,0.76,0.70,0.56,0.58,0.54,0.50,0.72,0.70,Prioritizes transmission distribution storage interconnection reform and flexible demand.
+ST3,Managed Just Transition Strategy,just_transition,0.78,0.80,0.76,0.82,0.86,0.88,0.74,0.80,0.84,Aligns decarbonization with worker security community investment affordability and resilience.
+ST4,Material Justice and Circularity Strategy,material_justice,0.62,0.68,0.64,0.58,0.74,0.62,0.88,0.66,0.72,Reduces extraction harm through recycling substitution standards consent and material efficiency.
+ST5,Resilient Distributed Energy Strategy,resilience,0.74,0.76,0.78,0.66,0.82,0.72,0.70,0.90,0.82,Builds distributed resources microgrids resilience hubs efficiency storage and public infrastructure.
+ST6,Industrial Decarbonization Strategy,industrial_policy,0.72,0.70,0.66,0.74,0.62,0.76,0.68,0.64,0.86,Uses public procurement infrastructure finance standards and labor protections for heavy industry.

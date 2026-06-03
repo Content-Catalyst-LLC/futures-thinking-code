@@ -1,0 +1,9 @@
+justice_id,capability_id,justice_dimension,affordability,community_voice,worker_security,health_benefit,ownership_access,repair_capacity,harm_reduction,description
+J1,E1,Renewable siting and community benefit,0.50,0.52,0.44,0.58,0.42,0.46,0.54,Renewable projects require meaningful participation local benefit and ecological review.
+J2,E2,Grid investment and public legitimacy,0.54,0.58,0.50,0.56,0.46,0.48,0.58,Grid modernization should distribute reliability and cost benefits fairly.
+J3,E3,Storage flexibility and equitable resilience,0.48,0.46,0.42,0.50,0.44,0.44,0.52,Storage and microgrids should not be limited to wealthy households or regions.
+J4,E4,Building electrification justice,0.72,0.62,0.60,0.76,0.56,0.58,0.74,Retrofits and heat pumps can improve health and affordability if designed for low-income access.
+J5,E5,Mobility and charging justice,0.58,0.54,0.56,0.66,0.46,0.48,0.62,Transport electrification should include public transit freight workers and charging equity.
+J6,E6,Fossil-region just transition,0.62,0.68,0.84,0.70,0.52,0.78,0.76,Phase-down requires wage security pensions cleanup and regional investment.
+J7,E7,Industrial community transition,0.48,0.52,0.66,0.58,0.42,0.54,0.62,Industrial decarbonization must reduce pollution while protecting workers and communities.
+J8,E8,Material justice and extraction accountability,0.42,0.60,0.54,0.48,0.38,0.64,0.70,Mineral supply chains require consent labor standards ecological protection and benefit sharing.

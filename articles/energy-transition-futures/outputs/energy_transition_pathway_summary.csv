@@ -1,0 +1,8 @@
+pathway_id,scenario_id,pathway_name,final_transition_capacity,mean_emissions_pressure,final_justice_resilience_score
+PW1,S1,Managed Just Transition Pathway,1.8,0.0433,1.5
+PW2,S2,Renewables Without Grids Pathway,1.8,0.0838,1.5
+PW3,S3,Green Extraction Boom Pathway,1.8,0.0591,1.0764
+PW4,S4,Fossil Lock-In and Delay Pathway,1.8,0.4342,0.9319
+PW5,S5,Energy Security Nationalism Pathway,1.8,0.086,1.5
+PW6,S6,Affordability Backlash Pathway,1.8,0.153,0.9684
+PW7,S7,Resilient Distributed Energy Future Pathway,1.8,0.0547,1.5

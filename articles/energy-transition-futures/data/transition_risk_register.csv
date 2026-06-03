@@ -1,0 +1,9 @@
+risk_id,capability_id,risk_name,risk_type,probability,severity,detection_difficulty,governance_gap,infrastructure_exposure,justice_relevance,mitigation_capacity,description
+R1,E1,Renewable deployment without grid access,grid_bottleneck,0.70,0.74,0.54,0.58,0.82,0.54,0.44,Clean generation can become stranded when interconnection transmission and flexibility lag.
+R2,E2,Transmission siting conflict,public_legitimacy,0.62,0.66,0.50,0.56,0.70,0.68,0.50,Grid expansion can stall without participation benefit sharing and credible planning.
+R3,E3,Storage and flexibility underbuild,reliability,0.58,0.72,0.54,0.52,0.74,0.46,0.48,High-renewable systems need storage demand flexibility and market rules that reward reliability.
+R4,E4,Unequal retrofit access,energy_justice,0.68,0.70,0.46,0.62,0.52,0.84,0.38,Low-income households and renters may be excluded from electrification benefits.
+R5,E5,Charging inequality and grid stress,transport,0.60,0.64,0.50,0.54,0.66,0.66,0.46,EV adoption can outpace charging access and local grid readiness.
+R6,E6,Fossil worker and regional abandonment,just_transition,0.64,0.84,0.48,0.70,0.58,0.86,0.34,Fossil-dependent workers and regions face serious harm without funded transition planning.
+R7,E7,Industrial decarbonization delay,industrial_policy,0.62,0.76,0.58,0.64,0.70,0.52,0.42,Heavy industry may delay investment without public procurement infrastructure and standards.
+R8,E8,Green extraction and mineral conflict,material_justice,0.66,0.78,0.62,0.66,0.74,0.88,0.36,Clean technology supply chains can reproduce extractive harm without material justice.

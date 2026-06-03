@@ -1,0 +1,9 @@
+capability_id,capability_name,domain,transition_readiness_score,transition_risk_pressure_score,justice_resilience_capacity_score,description
+E2,Transmission and Distribution Modernization,grid_infrastructure,0.6768,0.3416,0.624,Grid modernization enables clean power integration electrification flexibility and resilience.
+E3,Battery Storage and Demand Flexibility,storage_flexibility,0.6404,0.3804,0.5592,Storage and flexible demand support reliability in high-renewable systems.
+E4,Building Electrification and Retrofits,buildings,0.64,0.3856,0.6408,Building electrification can reduce emissions and health harms if affordability and workforce capacity are addressed.
+E5,Transport Electrification and Public Mobility,transport,0.636,0.3976,0.5956,Transport electrification depends on charging networks public transit battery systems and equitable access.
+E6,Fossil Fuel Phase-Down and Remediation,fossil_phase_down,0.6048,0.36,0.6852,Managed phase-down requires worker protection regional investment methane control and cleanup.
+E7,Industrial Decarbonization,industry,0.5692,0.434,0.5596,Heavy industry requires electrification hydrogen carbon management circularity and public industrial strategy.
+E1,Utility-Scale Solar and Wind,clean_power,0.5496,0.52,0.4756,Renewable deployment can scale quickly but depends on grids storage land governance and supply chains.
+E8,Critical Minerals and Circular Materials,materials,0.53,0.4752,0.5128,Mineral governance recycling substitution and material efficiency shape the justice of clean technology scale-up.

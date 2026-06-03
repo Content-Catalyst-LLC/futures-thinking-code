@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,transition_readiness_score,transition_risk_pressure_score,justice_resilience_capacity_score,scenario_class,description
+S1,Managed Just Transition,just_transition,0.7892,0.2132,0.8028,High readiness and justice capacity,Clean power electrification grid buildout labor protection and public investment advance together.
+S7,Resilient Distributed Energy Future,resilience,0.7528,0.2404,0.7684,High readiness and justice capacity,Distributed resources storage microgrids efficiency and public infrastructure strengthen local resilience.
+S5,Energy Security Nationalism,geopolitical,0.5524,0.488,0.4784,Contested transition pathway,Countries localize energy technology minerals manufacturing and supply chains under strategic competition.
+S3,Green Extraction Boom,material_risk,0.5352,0.5464,0.394,Contested transition pathway,Clean technologies scale rapidly while mineral extraction land conflict and supply-chain harm intensify.
+S2,Renewables Without Grids,grid_bottleneck,0.5036,0.5636,0.4504,High transition risk pressure,Clean generation grows but transmission distribution storage and flexibility lag behind.
+S6,Affordability Backlash,legitimacy_crisis,0.4476,0.5864,0.3748,High transition risk pressure,Households experience cost pressure and uneven transition benefits creating political backlash.
+S4,Fossil Lock-In and Delay,delay,0.3868,0.6344,0.3488,High transition risk pressure,Clean-energy growth coexists with expanded fossil infrastructure and weak emissions decline.

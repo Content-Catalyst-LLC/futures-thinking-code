@@ -1,0 +1,9 @@
+capability_id,capability_name,domain,clean_power_expansion,grid_readiness,storage_flexibility,electrification_capacity,fossil_phase_down,energy_justice,labor_transition,material_responsibility,climate_resilience,description
+E1,Utility-Scale Solar and Wind,clean_power,0.86,0.48,0.46,0.62,0.56,0.48,0.44,0.42,0.50,Renewable deployment can scale quickly but depends on grids storage land governance and supply chains.
+E2,Transmission and Distribution Modernization,grid_infrastructure,0.72,0.82,0.70,0.76,0.62,0.58,0.56,0.52,0.74,Grid modernization enables clean power integration electrification flexibility and resilience.
+E3,Battery Storage and Demand Flexibility,storage_flexibility,0.70,0.68,0.84,0.72,0.58,0.54,0.48,0.46,0.68,Storage and flexible demand support reliability in high-renewable systems.
+E4,Building Electrification and Retrofits,buildings,0.62,0.58,0.52,0.82,0.66,0.70,0.62,0.58,0.66,Building electrification can reduce emissions and health harms if affordability and workforce capacity are addressed.
+E5,Transport Electrification and Public Mobility,transport,0.68,0.62,0.58,0.78,0.70,0.62,0.58,0.48,0.60,Transport electrification depends on charging networks public transit battery systems and equitable access.
+E6,Fossil Fuel Phase-Down and Remediation,fossil_phase_down,0.48,0.52,0.46,0.50,0.84,0.72,0.78,0.62,0.58,Managed phase-down requires worker protection regional investment methane control and cleanup.
+E7,Industrial Decarbonization,industry,0.58,0.60,0.52,0.56,0.66,0.50,0.62,0.54,0.50,Heavy industry requires electrification hydrogen carbon management circularity and public industrial strategy.
+E8,Critical Minerals and Circular Materials,materials,0.54,0.50,0.56,0.58,0.50,0.42,0.44,0.82,0.46,Mineral governance recycling substitution and material efficiency shape the justice of clean technology scale-up.

@@ -1,0 +1,9 @@
+justice_id,capability_id,justice_dimension,energy_justice_score,energy_justice_gap_score,description
+J6,E6,Fossil-region just transition,0.6988,0.3012,Phase-down requires wage security pensions cleanup and regional investment.
+J4,E4,Building electrification justice,0.6572,0.3428,Retrofits and heat pumps can improve health and affordability if designed for low-income access.
+J5,E5,Mobility and charging justice,0.5608,0.4392,Transport electrification should include public transit freight workers and charging equity.
+J7,E7,Industrial community transition,0.5452,0.4548,Industrial decarbonization must reduce pollution while protecting workers and communities.
+J2,E2,Grid investment and public legitimacy,0.5304,0.4696,Grid modernization should distribute reliability and cost benefits fairly.
+J8,E8,Material justice and extraction accountability,0.5272,0.4728,Mineral supply chains require consent labor standards ecological protection and benefit sharing.
+J1,E1,Renewable siting and community benefit,0.496,0.504,Renewable projects require meaningful participation local benefit and ecological review.
+J3,E3,Storage flexibility and equitable resilience,0.4648,0.5352,Storage and microgrids should not be limited to wealthy households or regions.

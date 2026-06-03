@@ -1,0 +1,8 @@
+"scenario_id","scenario_name","scenario_family","clean_power_expansion","grid_readiness","storage_flexibility","electrification_capacity","fossil_phase_down","energy_justice","labor_transition","material_responsibility","climate_resilience","description","transition_readiness_score","transition_risk_pressure_score"
+"S1","Managed Just Transition","just_transition",0.82,0.78,0.74,0.76,0.78,0.84,0.82,0.76,0.8,"Clean power electrification grid buildout labor protection and public investment advance together.",0.7892,0.2132
+"S7","Resilient Distributed Energy Future","resilience",0.76,0.72,0.8,0.72,0.68,0.82,0.74,0.72,0.86,"Distributed resources storage microgrids efficiency and public infrastructure strengthen local resilience.",0.7528,0.2404
+"S5","Energy Security Nationalism","geopolitical",0.72,0.58,0.6,0.62,0.5,0.42,0.46,0.44,0.54,"Countries localize energy technology minerals manufacturing and supply chains under strategic competition.",0.5524,0.488
+"S3","Green Extraction Boom","material_risk",0.86,0.52,0.56,0.68,0.62,0.28,0.36,0.24,0.5,"Clean technologies scale rapidly while mineral extraction land conflict and supply-chain harm intensify.",0.5352,0.5464
+"S2","Renewables Without Grids","grid_bottleneck",0.84,0.34,0.38,0.54,0.56,0.44,0.42,0.48,0.46,"Clean generation grows but transmission distribution storage and flexibility lag behind.",0.5036,0.5636
+"S6","Affordability Backlash","legitimacy_crisis",0.62,0.5,0.48,0.46,0.44,0.3,0.34,0.42,0.36,"Households experience cost pressure and uneven transition benefits creating political backlash.",0.4476,0.5864
+"S4","Fossil Lock-In and Delay","delay",0.48,0.46,0.42,0.42,0.24,0.34,0.3,0.4,0.38,"Clean-energy growth coexists with expanded fossil infrastructure and weak emissions decline.",0.3868,0.6344

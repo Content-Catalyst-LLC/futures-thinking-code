@@ -1,0 +1,281 @@
+pathway_id,scenario_id,pathway_name,time_step,transition_capacity,emissions_pressure,justice_resilience_score
+PW1,S1,Managed Just Transition Pathway,1,0.72,0.5792,0.825
+PW1,S1,Managed Just Transition Pathway,2,0.9333,0.4501,0.9127
+PW1,S1,Managed Just Transition Pathway,3,1.1537,0.3313,1.0003
+PW1,S1,Managed Just Transition Pathway,4,1.3808,0.222,1.088
+PW1,S1,Managed Just Transition Pathway,5,1.6145,0.1214,1.1757
+PW1,S1,Managed Just Transition Pathway,6,1.8,0.0289,1.2634
+PW1,S1,Managed Just Transition Pathway,7,1.8,0.0,1.351
+PW1,S1,Managed Just Transition Pathway,8,1.8,0.0,1.4387
+PW1,S1,Managed Just Transition Pathway,9,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,10,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,11,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,12,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,13,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,14,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,15,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,16,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,17,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,18,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,19,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,20,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,21,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,22,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,23,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,24,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,25,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,26,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,27,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,28,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,29,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,30,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,31,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,32,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,33,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,34,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,35,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,36,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,37,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,38,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,39,1.8,0.0,1.5
+PW1,S1,Managed Just Transition Pathway,40,1.8,0.0,1.5
+PW2,S2,Renewables Without Grids Pathway,1,0.58,0.6144,0.44
+PW2,S2,Renewables Without Grids Pathway,2,0.6696,0.5358,0.4699
+PW2,S2,Renewables Without Grids Pathway,3,0.7626,0.4636,0.4997
+PW2,S2,Renewables Without Grids Pathway,4,0.8587,0.3971,0.5296
+PW2,S2,Renewables Without Grids Pathway,5,0.9579,0.3359,0.5594
+PW2,S2,Renewables Without Grids Pathway,6,1.06,0.2797,0.5893
+PW2,S2,Renewables Without Grids Pathway,7,1.1648,0.2279,0.6191
+PW2,S2,Renewables Without Grids Pathway,8,1.2722,0.1802,0.649
+PW2,S2,Renewables Without Grids Pathway,9,1.3822,0.1364,0.6788
+PW2,S2,Renewables Without Grids Pathway,10,1.4896,0.0961,0.7063
+PW2,S2,Renewables Without Grids Pathway,11,1.6042,0.059,0.7362
+PW2,S2,Renewables Without Grids Pathway,12,1.721,0.0249,0.766
+PW2,S2,Renewables Without Grids Pathway,13,1.8,0.0,0.7959
+PW2,S2,Renewables Without Grids Pathway,14,1.8,0.0,0.8257
+PW2,S2,Renewables Without Grids Pathway,15,1.8,0.0,0.8556
+PW2,S2,Renewables Without Grids Pathway,16,1.8,0.0,0.8854
+PW2,S2,Renewables Without Grids Pathway,17,1.8,0.0,0.9153
+PW2,S2,Renewables Without Grids Pathway,18,1.8,0.0,0.9452
+PW2,S2,Renewables Without Grids Pathway,19,1.8,0.0,0.975
+PW2,S2,Renewables Without Grids Pathway,20,1.8,0.0,1.0025
+PW2,S2,Renewables Without Grids Pathway,21,1.8,0.0,1.0323
+PW2,S2,Renewables Without Grids Pathway,22,1.8,0.0,1.0622
+PW2,S2,Renewables Without Grids Pathway,23,1.8,0.0,1.092
+PW2,S2,Renewables Without Grids Pathway,24,1.8,0.0,1.1219
+PW2,S2,Renewables Without Grids Pathway,25,1.8,0.0,1.1517
+PW2,S2,Renewables Without Grids Pathway,26,1.8,0.0,1.1816
+PW2,S2,Renewables Without Grids Pathway,27,1.8,0.0,1.2115
+PW2,S2,Renewables Without Grids Pathway,28,1.8,0.0,1.2413
+PW2,S2,Renewables Without Grids Pathway,29,1.8,0.0,1.2712
+PW2,S2,Renewables Without Grids Pathway,30,1.8,0.0,1.2986
+PW2,S2,Renewables Without Grids Pathway,31,1.8,0.0,1.3285
+PW2,S2,Renewables Without Grids Pathway,32,1.8,0.0,1.3583
+PW2,S2,Renewables Without Grids Pathway,33,1.8,0.0,1.3882
+PW2,S2,Renewables Without Grids Pathway,34,1.8,0.0,1.418
+PW2,S2,Renewables Without Grids Pathway,35,1.8,0.0,1.4479
+PW2,S2,Renewables Without Grids Pathway,36,1.8,0.0,1.4778
+PW2,S2,Renewables Without Grids Pathway,37,1.8,0.0,1.5
+PW2,S2,Renewables Without Grids Pathway,38,1.8,0.0,1.5
+PW2,S2,Renewables Without Grids Pathway,39,1.8,0.0,1.5
+PW2,S2,Renewables Without Grids Pathway,40,1.8,0.0,1.5
+PW3,S3,Green Extraction Boom Pathway,1,0.56,0.5992,0.355
+PW3,S3,Green Extraction Boom Pathway,2,0.6574,0.4977,0.3737
+PW3,S3,Green Extraction Boom Pathway,3,0.7583,0.4043,0.3925
+PW3,S3,Green Extraction Boom Pathway,4,0.8625,0.3183,0.4112
+PW3,S3,Green Extraction Boom Pathway,5,0.9699,0.2392,0.43
+PW3,S3,Green Extraction Boom Pathway,6,1.0802,0.1665,0.4487
+PW3,S3,Green Extraction Boom Pathway,7,1.1932,0.0996,0.4675
+PW3,S3,Green Extraction Boom Pathway,8,1.3089,0.038,0.4862
+PW3,S3,Green Extraction Boom Pathway,9,1.4264,0.0,0.505
+PW3,S3,Green Extraction Boom Pathway,10,1.5398,0.0,0.5213
+PW3,S3,Green Extraction Boom Pathway,11,1.6588,0.0,0.54
+PW3,S3,Green Extraction Boom Pathway,12,1.7784,0.0,0.5588
+PW3,S3,Green Extraction Boom Pathway,13,1.8,0.0,0.5775
+PW3,S3,Green Extraction Boom Pathway,14,1.8,0.0,0.5963
+PW3,S3,Green Extraction Boom Pathway,15,1.8,0.0,0.615
+PW3,S3,Green Extraction Boom Pathway,16,1.8,0.0,0.6338
+PW3,S3,Green Extraction Boom Pathway,17,1.8,0.0,0.6525
+PW3,S3,Green Extraction Boom Pathway,18,1.8,0.0,0.6712
+PW3,S3,Green Extraction Boom Pathway,19,1.8,0.0,0.69
+PW3,S3,Green Extraction Boom Pathway,20,1.8,0.0,0.7063
+PW3,S3,Green Extraction Boom Pathway,21,1.8,0.0,0.7251
+PW3,S3,Green Extraction Boom Pathway,22,1.8,0.0,0.7438
+PW3,S3,Green Extraction Boom Pathway,23,1.8,0.0,0.7626
+PW3,S3,Green Extraction Boom Pathway,24,1.8,0.0,0.7813
+PW3,S3,Green Extraction Boom Pathway,25,1.8,0.0,0.8001
+PW3,S3,Green Extraction Boom Pathway,26,1.8,0.0,0.8188
+PW3,S3,Green Extraction Boom Pathway,27,1.8,0.0,0.8375
+PW3,S3,Green Extraction Boom Pathway,28,1.8,0.0,0.8563
+PW3,S3,Green Extraction Boom Pathway,29,1.8,0.0,0.875
+PW3,S3,Green Extraction Boom Pathway,30,1.8,0.0,0.8914
+PW3,S3,Green Extraction Boom Pathway,31,1.8,0.0,0.9101
+PW3,S3,Green Extraction Boom Pathway,32,1.8,0.0,0.9289
+PW3,S3,Green Extraction Boom Pathway,33,1.8,0.0,0.9476
+PW3,S3,Green Extraction Boom Pathway,34,1.8,0.0,0.9664
+PW3,S3,Green Extraction Boom Pathway,35,1.8,0.0,0.9851
+PW3,S3,Green Extraction Boom Pathway,36,1.8,0.0,1.0038
+PW3,S3,Green Extraction Boom Pathway,37,1.8,0.0,1.0226
+PW3,S3,Green Extraction Boom Pathway,38,1.8,0.0,1.0413
+PW3,S3,Green Extraction Boom Pathway,39,1.8,0.0,1.0601
+PW3,S3,Green Extraction Boom Pathway,40,1.8,0.0,1.0764
+PW4,S4,Fossil Lock-In and Delay Pathway,1,0.42,0.7512,0.34
+PW4,S4,Fossil Lock-In and Delay Pathway,2,0.4653,0.7149,0.3554
+PW4,S4,Fossil Lock-In and Delay Pathway,3,0.5123,0.6815,0.3708
+PW4,S4,Fossil Lock-In and Delay Pathway,4,0.5608,0.6508,0.3863
+PW4,S4,Fossil Lock-In and Delay Pathway,5,0.6107,0.6225,0.4017
+PW4,S4,Fossil Lock-In and Delay Pathway,6,0.6621,0.5965,0.4171
+PW4,S4,Fossil Lock-In and Delay Pathway,7,0.7148,0.5726,0.4325
+PW4,S4,Fossil Lock-In and Delay Pathway,8,0.7688,0.5506,0.448
+PW4,S4,Fossil Lock-In and Delay Pathway,9,0.824,0.5303,0.4634
+PW4,S4,Fossil Lock-In and Delay Pathway,10,0.8754,0.5117,0.4764
+PW4,S4,Fossil Lock-In and Delay Pathway,11,0.9328,0.4946,0.4918
+PW4,S4,Fossil Lock-In and Delay Pathway,12,0.9913,0.4788,0.5073
+PW4,S4,Fossil Lock-In and Delay Pathway,13,1.0509,0.4643,0.5227
+PW4,S4,Fossil Lock-In and Delay Pathway,14,1.1114,0.451,0.5381
+PW4,S4,Fossil Lock-In and Delay Pathway,15,1.173,0.4387,0.5535
+PW4,S4,Fossil Lock-In and Delay Pathway,16,1.2355,0.4274,0.569
+PW4,S4,Fossil Lock-In and Delay Pathway,17,1.2989,0.417,0.5844
+PW4,S4,Fossil Lock-In and Delay Pathway,18,1.3633,0.4074,0.5998
+PW4,S4,Fossil Lock-In and Delay Pathway,19,1.4285,0.3986,0.6152
+PW4,S4,Fossil Lock-In and Delay Pathway,20,1.4897,0.3906,0.6283
+PW4,S4,Fossil Lock-In and Delay Pathway,21,1.5565,0.3831,0.6437
+PW4,S4,Fossil Lock-In and Delay Pathway,22,1.6241,0.3763,0.6591
+PW4,S4,Fossil Lock-In and Delay Pathway,23,1.6926,0.37,0.6745
+PW4,S4,Fossil Lock-In and Delay Pathway,24,1.7618,0.3642,0.69
+PW4,S4,Fossil Lock-In and Delay Pathway,25,1.8,0.3588,0.7054
+PW4,S4,Fossil Lock-In and Delay Pathway,26,1.8,0.3539,0.7208
+PW4,S4,Fossil Lock-In and Delay Pathway,27,1.8,0.3494,0.7362
+PW4,S4,Fossil Lock-In and Delay Pathway,28,1.8,0.3453,0.7516
+PW4,S4,Fossil Lock-In and Delay Pathway,29,1.8,0.3414,0.7671
+PW4,S4,Fossil Lock-In and Delay Pathway,30,1.8,0.3379,0.7801
+PW4,S4,Fossil Lock-In and Delay Pathway,31,1.8,0.3347,0.7955
+PW4,S4,Fossil Lock-In and Delay Pathway,32,1.8,0.3317,0.8109
+PW4,S4,Fossil Lock-In and Delay Pathway,33,1.8,0.329,0.8264
+PW4,S4,Fossil Lock-In and Delay Pathway,34,1.8,0.3265,0.8418
+PW4,S4,Fossil Lock-In and Delay Pathway,35,1.8,0.3241,0.8572
+PW4,S4,Fossil Lock-In and Delay Pathway,36,1.8,0.322,0.8726
+PW4,S4,Fossil Lock-In and Delay Pathway,37,1.8,0.32,0.8881
+PW4,S4,Fossil Lock-In and Delay Pathway,38,1.8,0.3182,0.9035
+PW4,S4,Fossil Lock-In and Delay Pathway,39,1.8,0.3166,0.9189
+PW4,S4,Fossil Lock-In and Delay Pathway,40,1.8,0.3151,0.9319
+PW5,S5,Energy Security Nationalism Pathway,1,0.6,0.6516,0.46
+PW5,S5,Energy Security Nationalism Pathway,2,0.7103,0.5661,0.4949
+PW5,S5,Energy Security Nationalism Pathway,3,0.8243,0.4874,0.5298
+PW5,S5,Energy Security Nationalism Pathway,4,0.9418,0.415,0.5646
+PW5,S5,Energy Security Nationalism Pathway,5,1.0628,0.3484,0.5995
+PW5,S5,Energy Security Nationalism Pathway,6,1.187,0.2871,0.6344
+PW5,S5,Energy Security Nationalism Pathway,7,1.3143,0.2308,0.6693
+PW5,S5,Energy Security Nationalism Pathway,8,1.4445,0.1789,0.7042
+PW5,S5,Energy Security Nationalism Pathway,9,1.5776,0.1312,0.739
+PW5,S5,Energy Security Nationalism Pathway,10,1.7085,0.0873,0.7715
+PW5,S5,Energy Security Nationalism Pathway,11,1.8,0.0469,0.8064
+PW5,S5,Energy Security Nationalism Pathway,12,1.8,0.0098,0.8413
+PW5,S5,Energy Security Nationalism Pathway,13,1.8,0.0,0.8762
+PW5,S5,Energy Security Nationalism Pathway,14,1.8,0.0,0.911
+PW5,S5,Energy Security Nationalism Pathway,15,1.8,0.0,0.9459
+PW5,S5,Energy Security Nationalism Pathway,16,1.8,0.0,0.9808
+PW5,S5,Energy Security Nationalism Pathway,17,1.8,0.0,1.0157
+PW5,S5,Energy Security Nationalism Pathway,18,1.8,0.0,1.0506
+PW5,S5,Energy Security Nationalism Pathway,19,1.8,0.0,1.0854
+PW5,S5,Energy Security Nationalism Pathway,20,1.8,0.0,1.1179
+PW5,S5,Energy Security Nationalism Pathway,21,1.8,0.0,1.1528
+PW5,S5,Energy Security Nationalism Pathway,22,1.8,0.0,1.1877
+PW5,S5,Energy Security Nationalism Pathway,23,1.8,0.0,1.2226
+PW5,S5,Energy Security Nationalism Pathway,24,1.8,0.0,1.2574
+PW5,S5,Energy Security Nationalism Pathway,25,1.8,0.0,1.2923
+PW5,S5,Energy Security Nationalism Pathway,26,1.8,0.0,1.3272
+PW5,S5,Energy Security Nationalism Pathway,27,1.8,0.0,1.3621
+PW5,S5,Energy Security Nationalism Pathway,28,1.8,0.0,1.397
+PW5,S5,Energy Security Nationalism Pathway,29,1.8,0.0,1.4318
+PW5,S5,Energy Security Nationalism Pathway,30,1.8,0.0,1.4643
+PW5,S5,Energy Security Nationalism Pathway,31,1.8,0.0,1.4992
+PW5,S5,Energy Security Nationalism Pathway,32,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,33,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,34,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,35,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,36,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,37,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,38,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,39,1.8,0.0,1.5
+PW5,S5,Energy Security Nationalism Pathway,40,1.8,0.0,1.5
+PW6,S6,Affordability Backlash Pathway,1,0.5,0.6844,0.325
+PW6,S6,Affordability Backlash Pathway,2,0.5655,0.6218,0.3417
+PW6,S6,Affordability Backlash Pathway,3,0.6334,0.5643,0.3585
+PW6,S6,Affordability Backlash Pathway,4,0.7036,0.5114,0.3752
+PW6,S6,Affordability Backlash Pathway,5,0.7758,0.4626,0.392
+PW6,S6,Affordability Backlash Pathway,6,0.8501,0.4178,0.4087
+PW6,S6,Affordability Backlash Pathway,7,0.9264,0.3766,0.4255
+PW6,S6,Affordability Backlash Pathway,8,1.0044,0.3387,0.4422
+PW6,S6,Affordability Backlash Pathway,9,1.0841,0.3038,0.459
+PW6,S6,Affordability Backlash Pathway,10,1.1606,0.2717,0.4733
+PW6,S6,Affordability Backlash Pathway,11,1.2434,0.2421,0.49
+PW6,S6,Affordability Backlash Pathway,12,1.3277,0.215,0.5068
+PW6,S6,Affordability Backlash Pathway,13,1.4134,0.19,0.5235
+PW6,S6,Affordability Backlash Pathway,14,1.5005,0.167,0.5403
+PW6,S6,Affordability Backlash Pathway,15,1.5889,0.1458,0.557
+PW6,S6,Affordability Backlash Pathway,16,1.6786,0.1264,0.5738
+PW6,S6,Affordability Backlash Pathway,17,1.7694,0.1084,0.5905
+PW6,S6,Affordability Backlash Pathway,18,1.8,0.092,0.6072
+PW6,S6,Affordability Backlash Pathway,19,1.8,0.0768,0.624
+PW6,S6,Affordability Backlash Pathway,20,1.8,0.0629,0.6383
+PW6,S6,Affordability Backlash Pathway,21,1.8,0.05,0.6551
+PW6,S6,Affordability Backlash Pathway,22,1.8,0.0382,0.6718
+PW6,S6,Affordability Backlash Pathway,23,1.8,0.0274,0.6886
+PW6,S6,Affordability Backlash Pathway,24,1.8,0.0174,0.7053
+PW6,S6,Affordability Backlash Pathway,25,1.8,0.0082,0.7221
+PW6,S6,Affordability Backlash Pathway,26,1.8,0.0,0.7388
+PW6,S6,Affordability Backlash Pathway,27,1.8,0.0,0.7555
+PW6,S6,Affordability Backlash Pathway,28,1.8,0.0,0.7723
+PW6,S6,Affordability Backlash Pathway,29,1.8,0.0,0.789
+PW6,S6,Affordability Backlash Pathway,30,1.8,0.0,0.8034
+PW6,S6,Affordability Backlash Pathway,31,1.8,0.0,0.8201
+PW6,S6,Affordability Backlash Pathway,32,1.8,0.0,0.8369
+PW6,S6,Affordability Backlash Pathway,33,1.8,0.0,0.8536
+PW6,S6,Affordability Backlash Pathway,34,1.8,0.0,0.8704
+PW6,S6,Affordability Backlash Pathway,35,1.8,0.0,0.8871
+PW6,S6,Affordability Backlash Pathway,36,1.8,0.0,0.9038
+PW6,S6,Affordability Backlash Pathway,37,1.8,0.0,0.9206
+PW6,S6,Affordability Backlash Pathway,38,1.8,0.0,0.9373
+PW6,S6,Affordability Backlash Pathway,39,1.8,0.0,0.9541
+PW6,S6,Affordability Backlash Pathway,40,1.8,0.0,0.9684
+PW7,S7,Resilient Distributed Energy Future Pathway,1,0.7,0.6104,0.81
+PW7,S7,Resilient Distributed Energy Future Pathway,2,0.9008,0.4972,0.8944
+PW7,S7,Resilient Distributed Energy Future Pathway,3,1.1081,0.393,0.9788
+PW7,S7,Resilient Distributed Energy Future Pathway,4,1.3217,0.2972,1.0632
+PW7,S7,Resilient Distributed Energy Future Pathway,5,1.5413,0.209,1.1475
+PW7,S7,Resilient Distributed Energy Future Pathway,6,1.7667,0.1279,1.2319
+PW7,S7,Resilient Distributed Energy Future Pathway,7,1.8,0.0532,1.3163
+PW7,S7,Resilient Distributed Energy Future Pathway,8,1.8,0.0,1.4007
+PW7,S7,Resilient Distributed Energy Future Pathway,9,1.8,0.0,1.4851
+PW7,S7,Resilient Distributed Energy Future Pathway,10,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,11,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,12,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,13,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,14,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,15,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,16,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,17,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,18,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,19,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,20,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,21,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,22,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,23,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,24,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,25,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,26,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,27,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,28,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,29,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,30,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,31,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,32,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,33,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,34,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,35,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,36,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,37,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,38,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,39,1.8,0.0,1.5
+PW7,S7,Resilient Distributed Energy Future Pathway,40,1.8,0.0,1.5

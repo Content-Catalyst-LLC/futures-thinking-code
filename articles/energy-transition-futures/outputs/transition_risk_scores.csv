@@ -1,0 +1,9 @@
+risk_id,capability_id,risk_name,risk_type,transition_risk_priority_score,mitigation_capacity,description
+R8,E8,Green extraction and mineral conflict,material_justice,0.7148,0.36,Clean technology supply chains can reproduce extractive harm without material justice.
+R6,E6,Fossil worker and regional abandonment,just_transition,0.6864,0.34,Fossil-dependent workers and regions face serious harm without funded transition planning.
+R1,E1,Renewable deployment without grid access,grid_bottleneck,0.6556,0.44,Clean generation can become stranded when interconnection transmission and flexibility lag.
+R7,E7,Industrial decarbonization delay,industrial_policy,0.6424,0.42,Heavy industry may delay investment without public procurement infrastructure and standards.
+R4,E4,Unequal retrofit access,energy_justice,0.6368,0.38,Low-income households and renters may be excluded from electrification benefits.
+R2,E2,Transmission siting conflict,public_legitimacy,0.6128,0.5,Grid expansion can stall without participation benefit sharing and credible planning.
+R3,E3,Storage and flexibility underbuild,reliability,0.5972,0.48,High-renewable systems need storage demand flexibility and market rules that reward reliability.
+R5,E5,Charging inequality and grid stress,transport,0.5964,0.46,EV adoption can outpace charging access and local grid readiness.

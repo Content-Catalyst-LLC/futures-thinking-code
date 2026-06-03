@@ -1,0 +1,8 @@
+pathway_id,scenario_id,pathway_name,clean_power,grid,storage,electrification,fossil_phase_down,justice,labor,materials,resilience,initial_transition_capacity,time_horizon
+PW1,S1,Managed Just Transition Pathway,0.82,0.78,0.74,0.76,0.78,0.84,0.82,0.76,0.80,0.72,40
+PW2,S2,Renewables Without Grids Pathway,0.84,0.34,0.38,0.54,0.56,0.44,0.42,0.48,0.46,0.58,40
+PW3,S3,Green Extraction Boom Pathway,0.86,0.52,0.56,0.68,0.62,0.28,0.36,0.24,0.50,0.56,40
+PW4,S4,Fossil Lock-In and Delay Pathway,0.48,0.46,0.42,0.42,0.24,0.34,0.30,0.40,0.38,0.42,40
+PW5,S5,Energy Security Nationalism Pathway,0.72,0.58,0.60,0.62,0.50,0.42,0.46,0.44,0.54,0.60,40
+PW6,S6,Affordability Backlash Pathway,0.62,0.50,0.48,0.46,0.44,0.30,0.34,0.42,0.36,0.50,40
+PW7,S7,Resilient Distributed Energy Future Pathway,0.76,0.72,0.80,0.72,0.68,0.82,0.74,0.72,0.86,0.70,40
