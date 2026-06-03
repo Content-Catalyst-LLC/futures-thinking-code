@@ -1,0 +1,9 @@
+model_id,regulatory_model,model_type,future_ready_regulatory_capacity_score,regulatory_lag_pressure_score,regulatory_class,description
+RM4,Rights-Centered Technology Regulation,rights_centered_tech,0.7492,0.2496,Strong future-ready regulatory capacity,Centers due process appeal audit access equality privacy and public-interest oversight.
+RM7,Participatory Regulatory Foresight,participatory_foresight,0.7474,0.248,Strong future-ready regulatory capacity,Combines public participation foresight rights assessment and regulatory learning.
+RM5,Climate Foresight Regulation,climate_foresight,0.7336,0.2544,Developing regulatory futures capacity,Uses climate scenarios adaptation duties resilience standards and long-term review.
+RM3,Adaptive Regulation,adaptive_regulation,0.725,0.258,Developing regulatory futures capacity,Combines monitoring review triggers and revision authority with moderate rights safeguards.
+RM6,Regulatory Sandbox with Safeguards,sandbox_safeguards,0.6314,0.356,Developing regulatory futures capacity,Allows controlled experimentation but needs capture controls and rights safeguards.
+RM2,Principles-Based Regulation,principles_based,0.5396,0.4696,Developing regulatory futures capacity,Uses durable principles but may need stronger monitoring and revision mechanisms.
+RM1,Reactive Compliance Regulation,reactive_compliance,0.412,0.6072,High regulatory lag or capture risk,Relies on enforcement after harm is visible and struggles with fast emerging risks.
+RM8,Captured Innovation-First Regulation,captured_innovation,0.3998,0.5972,High regulatory lag or capture risk,Prioritizes rapid deployment and industry input while weakening public accountability.

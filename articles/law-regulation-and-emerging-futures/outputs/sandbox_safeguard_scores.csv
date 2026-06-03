@@ -1,0 +1,6 @@
+sandbox_id,model_id,sandbox_name,sandbox_safeguard_score,sandbox_capture_risk_score,description
+SB4,RM7,Participatory Technology Assessment Sandbox,0.7772,0.232,Combines controlled experimentation public deliberation rights review and public reporting.
+SB3,RM5,Climate Adaptation Regulatory Pilot,0.7184,0.299,Tests adaptive land-use and resilience rules under climate-risk scenarios.
+SB2,RM6,AI Public Service Pilot Sandbox,0.684,0.354,Tests AI-assisted public decisions with stronger audit and rights safeguards.
+SB1,RM6,Fintech Consumer Risk Sandbox,0.5772,0.466,Tests financial innovation but requires stronger capture controls and public reporting.
+SB5,RM8,Industry-Led Innovation Sandbox,0.3112,0.717,Privileged experimentation with weak safeguards and high capture risk.

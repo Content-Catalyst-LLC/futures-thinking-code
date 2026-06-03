@@ -1,0 +1,8 @@
+strategy_id,strategy_name,strategy_type,future_ready_regulatory_strategy_score,rights_accountability_strategy_score,description
+ST3,Rights and Remedy Framework,rights_remedy,0.7824,0.816,Builds notice explanation appeal audit compensation collective remedy and public enforcement.
+ST7,Capture Resistance and Evidence Access,capture_resistance,0.7796,0.7888,Expands audit rights independent evidence conflict rules lobbying transparency and public data access.
+ST6,Climate Legal Adaptation Review,climate_regulation,0.7746,0.7456,Connects climate scenarios land use infrastructure insurance resilience and review triggers.
+ST5,Sandbox Safeguards Protocol,experimental_governance,0.7718,0.7752,Defines nonwaivable rights eligibility transparency exit conditions and independent evaluation.
+ST4,Participatory Regulatory Assessment,public_participation,0.7472,0.7484,Centers affected communities workers experts and publics before regulatory lock-in.
+ST2,Adaptive Rule Review Architecture,adaptive_rule_design,0.7422,0.7148,Uses review clauses triggers sunset provisions risk tiers and public reporting.
+ST1,Regulatory Foresight Mandate,regulatory_foresight,0.7244,0.6852,Creates a formal mandate for horizon scanning scenario review weak signals and rulemaking pathways.

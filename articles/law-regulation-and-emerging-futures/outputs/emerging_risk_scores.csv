@@ -1,0 +1,9 @@
+risk_id,model_id,risk_name,risk_domain,emerging_regulatory_risk_score,mitigation_capacity,description
+ER8,RM8,Industry-Led Future Lock-In,capture,0.7612,0.28,Powerful actors shape standards evidence and timelines before public-interest regulation matures.
+ER5,RM5,Climate Adaptation Legal Delay,climate_regulation,0.7168,0.38,Land use infrastructure and insurance law may lag behind future climate exposure.
+ER1,RM1,Regulatory Lag in Automated Public Decisions,ai_governance,0.7094,0.36,Automated decision systems scale before appeal audit and explanation rights are operational.
+ER4,RM4,Rights Remedy Under-Enforcement,rights_remedy,0.6488,0.48,Rights frameworks fail when affected people cannot access explanation appeal or remedy.
+ER6,RM6,Sandbox Capture and Risk Transfer,experimental_governance,0.6328,0.4,Experimental regulation may shift risk onto users communities or workers without adequate safeguards.
+ER2,RM2,Principle Ambiguity Under Platform Power,digital_platforms,0.6244,0.42,Broad principles may be too vague to constrain concentrated digital power.
+ER7,RM7,Participation Without Legal Uptake,democratic_regulation,0.5584,0.46,Public participation can become symbolic if regulatory decisions and budgets do not change.
+ER3,RM3,Adaptive Rule Drift,regulatory_design,0.5582,0.5,Flexible regulation can drift without clear triggers accountability and public reporting.

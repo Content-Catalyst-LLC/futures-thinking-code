@@ -1,0 +1,8 @@
+remedy_id,model_id,rights_domain,notice,explanation,appeal,audit_access,public_enforcement,collective_remedy,compensation,accessibility,description
+RR1,RM1,General compliance harms,0.44,0.38,0.42,0.36,0.56,0.34,0.36,0.40,Reactive compliance offers limited notice explanation and collective remedy before harm occurs.
+RR2,RM3,Adaptive regulatory decisions,0.62,0.58,0.60,0.66,0.70,0.54,0.52,0.58,Adaptive systems provide stronger oversight but require clearer public explanation and remedy.
+RR3,RM4,Technology affected rights,0.82,0.86,0.84,0.88,0.78,0.76,0.72,0.80,Rights-centered technology regulation emphasizes notice explanation appeal audit and remedy.
+RR4,RM5,Climate and ecological harm,0.66,0.62,0.58,0.70,0.72,0.70,0.64,0.62,Climate regulation needs long-term remedies for delayed cumulative and uneven harm.
+RR5,RM6,Sandbox participants and affected users,0.60,0.56,0.52,0.64,0.58,0.46,0.54,0.56,Sandbox safeguards require consent complaint channels exit conditions and compensation.
+RR6,RM7,Participatory regulatory harms,0.74,0.70,0.68,0.72,0.76,0.72,0.66,0.78,Participatory regulatory foresight improves remedy design through affected-person voice.
+RR7,RM8,Innovation-first affected groups,0.32,0.30,0.28,0.24,0.34,0.22,0.26,0.30,Captured innovation-first systems often leave affected people without meaningful remedy.

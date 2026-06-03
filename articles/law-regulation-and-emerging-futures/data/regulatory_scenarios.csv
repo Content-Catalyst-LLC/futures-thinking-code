@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,technology_acceleration,climate_stress,public_trust,institutional_capacity,capture_pressure,rights_risk,international_fragmentation,learning_capacity,description
+SC1,Adaptive Rights-Centered Regulation,rights_adaptive,0.62,0.58,0.74,0.78,0.34,0.34,0.44,0.82,Law combines foresight review public participation rights protection and enforcement.
+SC2,Regulatory Lag and Crisis Response,reactive_lag,0.78,0.72,0.38,0.42,0.62,0.70,0.58,0.36,Rules arrive after systems scale and harm becomes visible.
+SC3,Innovation-First Deregulation,deregulation,0.84,0.56,0.44,0.50,0.76,0.72,0.52,0.42,Markets and experimentation move faster than public safeguards.
+SC4,Technocratic Regulatory Foresight,technocratic,0.72,0.56,0.48,0.70,0.48,0.54,0.46,0.66,Experts anticipate risks but public participation and contestability remain weak.
+SC5,Security-Dominated Regulation,securitization,0.66,0.58,0.36,0.70,0.54,0.82,0.62,0.50,Emerging futures are governed through threat surveillance and emergency authority.
+SC6,Fragmented Global Rulemaking,fragmentation,0.70,0.64,0.46,0.56,0.58,0.62,0.86,0.52,Jurisdictions diverge while digital ecological and financial systems remain transnational.
+SC7,Captured Future Governance,capture,0.76,0.60,0.34,0.48,0.88,0.74,0.60,0.34,Powerful actors shape standards evidence timelines and public narratives.

@@ -1,0 +1,9 @@
+"risk_id","model_id","risk_name","risk_domain","change_velocity","harm_severity","uncertainty","irreversibility","distributional_exposure","regulatory_gap","mitigation_capacity","description","emerging_regulatory_risk_score"
+"ER8","RM8","Industry-Led Future Lock-In","capture",0.78,0.82,0.64,0.72,0.78,0.82,0.28,"Powerful actors shape standards evidence and timelines before public-interest regulation matures.",0.7612
+"ER5","RM5","Climate Adaptation Legal Delay","climate_regulation",0.7,0.84,0.5,0.78,0.82,0.66,0.38,"Land use infrastructure and insurance law may lag behind future climate exposure.",0.7168
+"ER1","RM1","Regulatory Lag in Automated Public Decisions","ai_governance",0.82,0.78,0.62,0.56,0.76,0.72,0.36,"Automated decision systems scale before appeal audit and explanation rights are operational.",0.7094
+"ER4","RM4","Rights Remedy Under-Enforcement","rights_remedy",0.68,0.76,0.52,0.58,0.8,0.58,0.48,"Rights frameworks fail when affected people cannot access explanation appeal or remedy.",0.6488
+"ER6","RM6","Sandbox Capture and Risk Transfer","experimental_governance",0.64,0.68,0.6,0.52,0.72,0.64,0.4,"Experimental regulation may shift risk onto users communities or workers without adequate safeguards.",0.6328
+"ER2","RM2","Principle Ambiguity Under Platform Power","digital_platforms",0.72,0.7,0.56,0.48,0.68,0.6,0.42,"Broad principles may be too vague to constrain concentrated digital power.",0.6244
+"ER7","RM7","Participation Without Legal Uptake","democratic_regulation",0.56,0.62,0.5,0.42,0.7,0.54,0.46,"Public participation can become symbolic if regulatory decisions and budgets do not change.",0.5584
+"ER3","RM3","Adaptive Rule Drift","regulatory_design",0.6,0.66,0.58,0.46,0.54,0.52,0.5,"Flexible regulation can drift without clear triggers accountability and public reporting.",0.5582

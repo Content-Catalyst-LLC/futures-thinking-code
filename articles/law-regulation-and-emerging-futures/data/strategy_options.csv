@@ -1,0 +1,8 @@
+strategy_id,strategy_name,strategy_type,foresight_capacity,monitoring_design,rights_safeguards,public_participation,revision_triggers,enforcement_capacity,remedy_access,capture_resistance,legal_certainty,description
+ST1,Regulatory Foresight Mandate,regulatory_foresight,0.92,0.76,0.68,0.70,0.74,0.66,0.62,0.70,0.68,Creates a formal mandate for horizon scanning scenario review weak signals and rulemaking pathways.
+ST2,Adaptive Rule Review Architecture,adaptive_rule_design,0.78,0.80,0.70,0.62,0.94,0.72,0.66,0.68,0.72,Uses review clauses triggers sunset provisions risk tiers and public reporting.
+ST3,Rights and Remedy Framework,rights_remedy,0.68,0.72,0.94,0.72,0.70,0.84,0.92,0.76,0.74,Builds notice explanation appeal audit compensation collective remedy and public enforcement.
+ST4,Participatory Regulatory Assessment,public_participation,0.76,0.68,0.78,0.94,0.70,0.66,0.72,0.80,0.64,Centers affected communities workers experts and publics before regulatory lock-in.
+ST5,Sandbox Safeguards Protocol,experimental_governance,0.72,0.78,0.82,0.76,0.84,0.70,0.78,0.82,0.66,Defines nonwaivable rights eligibility transparency exit conditions and independent evaluation.
+ST6,Climate Legal Adaptation Review,climate_regulation,0.88,0.82,0.76,0.72,0.86,0.72,0.70,0.74,0.68,Connects climate scenarios land use infrastructure insurance resilience and review triggers.
+ST7,Capture Resistance and Evidence Access,capture_resistance,0.74,0.84,0.76,0.80,0.72,0.78,0.74,0.94,0.66,Expands audit rights independent evidence conflict rules lobbying transparency and public data access.

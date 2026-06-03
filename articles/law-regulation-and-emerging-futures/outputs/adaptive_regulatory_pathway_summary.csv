@@ -1,0 +1,8 @@
+pathway_id,model_id,scenario_id,pathway_name,final_regulatory_capacity,mean_regulatory_capacity,mean_regulatory_lag_pressure,final_rights_protection,final_public_trust,final_learning_score
+P1,RM1,SC2,Reactive Compliance Under Regulatory Lag,1.8,1.0216,0.4802,1.3323,1.4,1.4
+P2,RM3,SC1,Adaptive Regulation Capacity Pathway,1.8,1.6752,0.0249,1.4,1.4,1.4
+P3,RM4,SC1,Rights-Centered Technology Regulation Pathway,1.8,1.6665,0.0509,1.4,1.4,1.4
+P4,RM5,SC1,Climate Foresight Regulation Pathway,1.8,1.6749,0.0278,1.4,1.4,1.4
+P5,RM6,SC4,Regulatory Sandbox with Safeguards Pathway,1.8,1.616,0.0741,1.4,1.4,1.4
+P6,RM7,SC1,Participatory Regulatory Foresight Pathway,1.8,1.6746,0.0467,1.4,1.4,1.4
+P7,RM8,SC7,Captured Innovation-First Regulation Pathway,1.8,1.2451,0.3008,1.2931,1.4,1.4

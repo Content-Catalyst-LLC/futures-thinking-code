@@ -1,0 +1,8 @@
+pathway_id,model_id,scenario_id,pathway_name,foresight,monitoring,enforcement,rights,participation,revision,learning,capture_resistance,initial_trust,time_horizon
+P1,RM1,SC2,Reactive Compliance Under Regulatory Lag,0.30,0.42,0.58,0.46,0.28,0.34,0.36,0.40,0.46,40
+P2,RM3,SC1,Adaptive Regulation Capacity Pathway,0.78,0.80,0.70,0.68,0.58,0.86,0.82,0.62,0.62,40
+P3,RM4,SC1,Rights-Centered Technology Regulation Pathway,0.70,0.76,0.78,0.90,0.62,0.72,0.74,0.72,0.66,40
+P4,RM5,SC1,Climate Foresight Regulation Pathway,0.82,0.78,0.70,0.72,0.66,0.76,0.78,0.68,0.64,40
+P5,RM6,SC4,Regulatory Sandbox with Safeguards Pathway,0.66,0.70,0.58,0.64,0.54,0.70,0.76,0.48,0.56,40
+P6,RM7,SC1,Participatory Regulatory Foresight Pathway,0.76,0.72,0.66,0.78,0.88,0.72,0.80,0.76,0.68,40
+P7,RM8,SC7,Captured Innovation-First Regulation Pathway,0.54,0.46,0.38,0.42,0.30,0.40,0.42,0.20,0.40,40

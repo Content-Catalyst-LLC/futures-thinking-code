@@ -1,0 +1,8 @@
+remedy_id,model_id,rights_domain,rights_remedy_strength_score,appeal,audit_access,accessibility,description
+RR3,RM4,Technology affected rights,0.8152,0.84,0.88,0.8,Rights-centered technology regulation emphasizes notice explanation appeal audit and remedy.
+RR6,RM7,Participatory regulatory harms,0.7196,0.68,0.72,0.78,Participatory regulatory foresight improves remedy design through affected-person voice.
+RR4,RM5,Climate and ecological harm,0.6568,0.58,0.7,0.62,Climate regulation needs long-term remedies for delayed cumulative and uneven harm.
+RR2,RM3,Adaptive regulatory decisions,0.6078,0.6,0.66,0.58,Adaptive systems provide stronger oversight but require clearer public explanation and remedy.
+RR5,RM6,Sandbox participants and affected users,0.5608,0.52,0.64,0.56,Sandbox safeguards require consent complaint channels exit conditions and compensation.
+RR1,RM1,General compliance harms,0.4118,0.42,0.36,0.4,Reactive compliance offers limited notice explanation and collective remedy before harm occurs.
+RR7,RM8,Innovation-first affected groups,0.2836,0.28,0.24,0.3,Captured innovation-first systems often leave affected people without meaningful remedy.

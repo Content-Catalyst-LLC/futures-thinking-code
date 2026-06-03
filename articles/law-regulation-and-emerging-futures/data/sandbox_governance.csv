@@ -1,0 +1,6 @@
+sandbox_id,model_id,sandbox_name,public_interest_test,eligibility_transparency,rights_nonwaiver,participant_consent,independent_evaluation,exit_conditions,public_reporting,capture_control,description
+SB1,RM6,Fintech Consumer Risk Sandbox,0.62,0.58,0.64,0.60,0.56,0.60,0.54,0.42,Tests financial innovation but requires stronger capture controls and public reporting.
+SB2,RM6,AI Public Service Pilot Sandbox,0.70,0.62,0.76,0.68,0.70,0.72,0.66,0.58,Tests AI-assisted public decisions with stronger audit and rights safeguards.
+SB3,RM5,Climate Adaptation Regulatory Pilot,0.78,0.66,0.72,0.70,0.74,0.76,0.72,0.64,Tests adaptive land-use and resilience rules under climate-risk scenarios.
+SB4,RM7,Participatory Technology Assessment Sandbox,0.82,0.72,0.80,0.76,0.78,0.78,0.80,0.74,Combines controlled experimentation public deliberation rights review and public reporting.
+SB5,RM8,Industry-Led Innovation Sandbox,0.38,0.34,0.36,0.30,0.28,0.32,0.26,0.20,Privileged experimentation with weak safeguards and high capture risk.
