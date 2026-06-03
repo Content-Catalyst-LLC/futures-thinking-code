@@ -1,0 +1,9 @@
+trigger_id,system_id,indicator_name,baseline,threshold,review_frequency,trigger_rule,decision_response
+TR1,SYS1,heat_health_burden_index,0.48,0.66,quarterly,If heat-health burden rises above threshold,Escalate integrated climate-housing-health strategy review.
+TR2,SYS2,public_ai_appeal_failure_rate,0.32,0.48,quarterly,If appeal failures exceed threshold,Pause high-risk AI deployment and expand due-process safeguards.
+TR3,SYS3,care_workforce_strain_index,0.52,0.68,quarterly,If care strain exceeds threshold,Activate workforce resilience compact and prevention investment.
+TR4,SYS4,grid_affordability_stress_index,0.46,0.64,quarterly,If grid affordability stress exceeds threshold,Shift investment toward resilience and affordability protections.
+TR5,SYS5,regional_ecological_stress_index,0.50,0.66,semiannual,If ecological stress exceeds threshold,Convene regional food-water-ecology governance review.
+TR6,SYS6,trust_divergence_index,0.42,0.58,semiannual,If trust divergence widens,Activate legitimacy repair and participatory accountability process.
+TR7,SYS7,infrastructure_backlog_risk_index,0.54,0.70,semiannual,If backlog risk exceeds threshold,Reallocate funds to maintenance and resilience stewardship.
+TR8,SYS8,anticipatory_learning_gap_index,0.40,0.60,annual,If learning gap remains above threshold,Revise curriculum toward futures literacy and civic capability.

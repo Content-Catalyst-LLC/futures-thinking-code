@@ -1,0 +1,6 @@
+"strategy_id","strategy_name","strategy_type","final_pressure","mean_pressure","max_pressure","final_capacity","final_trust","final_vulnerability","structural_change_score"
+"ST4","Justice-Centered Transformation","transformation",0.4555,0.5951,0.731,0.9519,1,0.188,0.8043
+"ST3","Adaptive Governance","adaptive_governance",0.5043,0.627,0.7337,1,0.9984,0.5576,0.709
+"ST5","Institutional Learning Compact","learning_system",0.5265,0.6319,0.7341,1,0.9136,0.6008,0.6746
+"ST2","Resilience Investment Portfolio","resilience",0.5727,0.6652,0.7354,0.8781,0.7416,0.5288,0.6138
+"ST1","Continuity Management","continuity",0.7106,0.7394,0.7627,0.5778,0.5432,0.7544,0.4013

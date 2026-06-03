@@ -1,0 +1,11 @@
+loop_id,system_id,loop_name,loop_type,loop_polarity,feedback_strength,delay_risk,visibility,institutional_control,description
+FL1,SYS1,Heat exposure and emergency response loop,reinforcing,harmful,0.84,0.76,0.70,0.62,Climate heat exposure increases emergency burden which crowds out prevention and increases future vulnerability.
+FL2,SYS2,AI scaling before accountability loop,reinforcing,harmful,0.80,0.70,0.66,0.58,Automated systems scale before appeals audits and rights protections are mature.
+FL3,SYS3,Care burnout and shortage loop,reinforcing,harmful,0.86,0.74,0.72,0.54,Workforce shortages increase burnout which worsens retention and deepens shortages.
+FL4,SYS4,Grid stress and legitimacy loop,reinforcing,harmful,0.78,0.68,0.70,0.64,Grid failures undermine trust and make transition politics more difficult.
+FL5,SYS5,Ecological degradation and resource stress loop,reinforcing,harmful,0.88,0.82,0.62,0.52,Ecological degradation increases resource stress which drives further extractive pressure.
+FL6,SYS6,Trust failure and policy resistance loop,reinforcing,harmful,0.82,0.66,0.76,0.50,Institutional failure reduces trust which weakens cooperation and worsens policy performance.
+FL7,SYS7,Deferred maintenance and failure loop,reinforcing,harmful,0.86,0.84,0.58,0.60,Deferred maintenance hides risk until breakdowns require more expensive emergency spending.
+FL8,SYS8,Unequal learning and future opportunity loop,reinforcing,harmful,0.74,0.68,0.64,0.56,Unequal learning access reduces future capability and reinforces institutional disadvantage.
+FL9,SYS1,Adaptation investment and trust loop,reinforcing,beneficial,0.76,0.54,0.72,0.70,Visible adaptation investment improves trust and cooperation which supports further adaptation.
+FL10,SYS6,Accountability and legitimacy repair loop,reinforcing,beneficial,0.78,0.60,0.74,0.66,Public accountability and participation improve legitimacy which strengthens institutional cooperation.

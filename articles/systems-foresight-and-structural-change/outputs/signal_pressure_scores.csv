@@ -1,0 +1,9 @@
+signal_id,system_id,signal_name,signal_type,novelty,structural_relevance,urgency,visibility,affected_voice,signal_priority_score,interpretation
+SG1,SYS1,Rising heat-health emergency demand,stress_signal,0.64,0.86,0.88,0.78,0.62,0.784,Visible emergency burden suggests adaptation and housing-health integration are lagging.
+SG3,SYS3,Care worker exits and burnout reports,labor_signal,0.58,0.88,0.84,0.74,0.66,0.771,Hidden labor buffers are being exhausted and shortage loops may intensify.
+SG2,SYS2,Public complaints about automated service decisions,accountability_signal,0.7,0.84,0.82,0.7,0.58,0.754,Appeal and due-process issues indicate accountability infrastructure is immature.
+SG6,SYS6,Declining participation and rising procedural distrust,legitimacy_signal,0.62,0.86,0.78,0.74,0.64,0.753,Trust erosion signals deeper accountability and legitimacy issues.
+SG5,SYS5,Local watershed conflict and biodiversity loss,ecological_signal,0.66,0.9,0.82,0.62,0.54,0.748,Ecological governance fragmentation is producing conflict across land water and food systems.
+SG7,SYS7,Maintenance backlog and service interruptions,infrastructure_signal,0.56,0.88,0.86,0.68,0.52,0.743,Deferred maintenance is moving from hidden stock depletion into visible service failure.
+SG4,SYS4,Peak demand stress and affordability complaints,infrastructure_signal,0.6,0.82,0.8,0.76,0.6,0.74,Grid and affordability pressures are interacting with legitimacy risk.
+SG8,SYS8,Student disengagement with future relevance,learning_signal,0.68,0.76,0.7,0.64,0.66,0.7,Learning systems may be misaligned with uncertainty civic capacity and future problem-solving.

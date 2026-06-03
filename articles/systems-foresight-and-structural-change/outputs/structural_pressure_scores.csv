@@ -1,0 +1,9 @@
+system_id,system_domain,domain_type,system_stress,adaptive_capacity,public_trust,interdependence,distributional_vulnerability,institutional_fragmentation,structural_lock_in,structural_pressure_score,pressure_class,description
+SYS1,Climate Adaptation,climate_governance,0.86,0.46,0.52,0.88,0.9,0.78,0.82,0.7536,Significant structural pressure,Heat flooding housing infrastructure and public health remain fragmented across governance systems.
+SYS7,Infrastructure Stewardship,infrastructure_governance,0.83,0.44,0.5,0.89,0.8,0.76,0.88,0.7442,Significant structural pressure,Deferred maintenance and fragmented finance create long-term service fragility.
+SYS5,Food-Water-Ecology,ecological_systems,0.84,0.48,0.54,0.9,0.84,0.72,0.86,0.7362,Significant structural pressure,Food water land and biodiversity systems are governed through fragmented institutions despite strong interdependence.
+SYS6,Institutional Trust,governance_culture,0.76,0.38,0.36,0.78,0.82,0.8,0.74,0.7342,Significant structural pressure,Public trust is weakened by accountability gaps service failures exclusion and legitimacy deficits.
+SYS3,Care Workforce,health_labor,0.82,0.4,0.5,0.82,0.88,0.7,0.78,0.734,Significant structural pressure,Care systems rely on hidden labor buffers and underfunded workforce capacity.
+SYS2,Public AI Governance,technology_governance,0.78,0.42,0.44,0.76,0.86,0.74,0.7,0.7144,Significant structural pressure,AI deployment risks outpacing procurement rights appeals and oversight capacity.
+SYS4,Energy Transition,energy_infrastructure,0.8,0.52,0.56,0.86,0.76,0.66,0.84,0.6934,Significant structural pressure,Energy transition pressure interacts with grid resilience affordability permitting and public legitimacy.
+SYS8,Education for Uncertainty,education_civic_capacity,0.7,0.5,0.58,0.74,0.78,0.62,0.7,0.6392,Moderate structural pressure,Learning systems struggle to build civic ecological technical and anticipatory capacity for uncertain futures.

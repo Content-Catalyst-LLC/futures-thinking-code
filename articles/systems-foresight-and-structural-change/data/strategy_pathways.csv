@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,stress_reduction,capacity_gain,trust_gain,vulnerability_reduction,structural_depth,implementation_complexity,governance_dependency,description
+ST1,Continuity Management,continuity,0.004,0.004,0.002,0.003,0.20,0.28,0.34,Manages symptoms and service pressure without changing deeper system structure.
+ST2,Resilience Investment Portfolio,resilience,0.010,0.012,0.006,0.008,0.52,0.58,0.64,Invests in redundancy capacity infrastructure protection and risk reduction.
+ST3,Adaptive Governance,adaptive_governance,0.008,0.016,0.012,0.007,0.66,0.62,0.78,Builds monitoring triggers learning cycles and cross-agency decision routines.
+ST4,Justice-Centered Transformation,transformation,0.012,0.014,0.014,0.016,0.78,0.74,0.82,Targets rules power vulnerability legitimacy and structural inequity.
+ST5,Institutional Learning Compact,learning_system,0.007,0.018,0.010,0.006,0.62,0.56,0.76,Builds institutional memory feedback awareness and public learning routines.

@@ -1,0 +1,201 @@
+"strategy_id","strategy_name","strategy_type","time_step","stress","adaptive_capacity","trust","interdependence","distributional_vulnerability","structural_pressure"
+"ST1","Continuity Management","continuity",1,0.8552,0.4241,0.4622,0.86,0.8768,0.741
+"ST1","Continuity Management","continuity",2,0.8705,0.4282,0.4644,0.86,0.8736,0.7431
+"ST1","Continuity Management","continuity",3,0.8857,0.4323,0.4666,0.86,0.8704,0.7453
+"ST1","Continuity Management","continuity",4,0.901,0.4364,0.4688,0.86,0.8672,0.7474
+"ST1","Continuity Management","continuity",5,0.9163,0.4404,0.471,0.86,0.864,0.7496
+"ST1","Continuity Management","continuity",6,0.9316,0.4445,0.4732,0.86,0.8608,0.7518
+"ST1","Continuity Management","continuity",7,0.9468,0.4485,0.4754,0.86,0.8576,0.7539
+"ST1","Continuity Management","continuity",8,0.9621,0.4526,0.4776,0.86,0.8544,0.7561
+"ST1","Continuity Management","continuity",9,0.9774,0.4566,0.4798,0.86,0.8512,0.7583
+"ST1","Continuity Management","continuity",10,1,0.4606,0.4808,0.86,0.8486,0.7627
+"ST1","Continuity Management","continuity",11,1,0.4647,0.483,0.86,0.8454,0.7609
+"ST1","Continuity Management","continuity",12,1,0.4687,0.4852,0.86,0.8422,0.7591
+"ST1","Continuity Management","continuity",13,1,0.4727,0.4874,0.86,0.839,0.7573
+"ST1","Continuity Management","continuity",14,1,0.4767,0.4896,0.86,0.8358,0.7555
+"ST1","Continuity Management","continuity",15,1,0.4806,0.4918,0.86,0.8326,0.7537
+"ST1","Continuity Management","continuity",16,1,0.4846,0.494,0.86,0.8294,0.752
+"ST1","Continuity Management","continuity",17,1,0.4886,0.4962,0.86,0.8262,0.7502
+"ST1","Continuity Management","continuity",18,1,0.4926,0.4984,0.86,0.823,0.7484
+"ST1","Continuity Management","continuity",19,1,0.4965,0.5006,0.86,0.8198,0.7466
+"ST1","Continuity Management","continuity",20,1,0.5005,0.5016,0.86,0.8172,0.7452
+"ST1","Continuity Management","continuity",21,1,0.5044,0.5038,0.86,0.814,0.7434
+"ST1","Continuity Management","continuity",22,1,0.5083,0.506,0.86,0.8108,0.7416
+"ST1","Continuity Management","continuity",23,1,0.5123,0.5082,0.86,0.8076,0.7398
+"ST1","Continuity Management","continuity",24,1,0.5162,0.5104,0.86,0.8044,0.7381
+"ST1","Continuity Management","continuity",25,1,0.5201,0.5126,0.86,0.8012,0.7363
+"ST1","Continuity Management","continuity",26,1,0.524,0.5148,0.86,0.798,0.7345
+"ST1","Continuity Management","continuity",27,1,0.5279,0.517,0.86,0.7948,0.7328
+"ST1","Continuity Management","continuity",28,1,0.5318,0.5192,0.86,0.7916,0.731
+"ST1","Continuity Management","continuity",29,1,0.5356,0.5214,0.86,0.7884,0.7293
+"ST1","Continuity Management","continuity",30,1,0.5395,0.5224,0.86,0.7858,0.7278
+"ST1","Continuity Management","continuity",31,1,0.5434,0.5246,0.86,0.7826,0.726
+"ST1","Continuity Management","continuity",32,1,0.5472,0.5268,0.86,0.7794,0.7243
+"ST1","Continuity Management","continuity",33,1,0.5511,0.529,0.86,0.7762,0.7225
+"ST1","Continuity Management","continuity",34,1,0.5549,0.5312,0.86,0.773,0.7208
+"ST1","Continuity Management","continuity",35,1,0.5587,0.5334,0.86,0.7698,0.719
+"ST1","Continuity Management","continuity",36,1,0.5625,0.5356,0.86,0.7666,0.7173
+"ST1","Continuity Management","continuity",37,1,0.5664,0.5378,0.86,0.7634,0.7155
+"ST1","Continuity Management","continuity",38,1,0.5702,0.54,0.86,0.7602,0.7138
+"ST1","Continuity Management","continuity",39,1,0.574,0.5422,0.86,0.757,0.7121
+"ST1","Continuity Management","continuity",40,1,0.5778,0.5432,0.86,0.7544,0.7106
+"ST2","Resilience Investment Portfolio","resilience",1,0.8478,0.4326,0.4672,0.86,0.8712,0.7354
+"ST2","Resilience Investment Portfolio","resilience",2,0.8556,0.445,0.4743,0.86,0.8623,0.7319
+"ST2","Resilience Investment Portfolio","resilience",3,0.8635,0.4575,0.4815,0.86,0.8535,0.7286
+"ST2","Resilience Investment Portfolio","resilience",4,0.8715,0.4698,0.4886,0.86,0.8446,0.7252
+"ST2","Resilience Investment Portfolio","resilience",5,0.8796,0.4821,0.4958,0.86,0.8358,0.7219
+"ST2","Resilience Investment Portfolio","resilience",6,0.8877,0.4944,0.503,0.86,0.827,0.7186
+"ST2","Resilience Investment Portfolio","resilience",7,0.8959,0.5065,0.5101,0.86,0.8181,0.7154
+"ST2","Resilience Investment Portfolio","resilience",8,0.9041,0.5186,0.5173,0.86,0.8093,0.7121
+"ST2","Resilience Investment Portfolio","resilience",9,0.9124,0.5307,0.5244,0.86,0.8004,0.7089
+"ST2","Resilience Investment Portfolio","resilience",10,0.9807,0.5427,0.5304,0.86,0.7922,0.7217
+"ST2","Resilience Investment Portfolio","resilience",11,0.9892,0.5546,0.5376,0.86,0.7834,0.7186
+"ST2","Resilience Investment Portfolio","resilience",12,0.9977,0.5664,0.5447,0.86,0.7745,0.7154
+"ST2","Resilience Investment Portfolio","resilience",13,1,0.5782,0.5519,0.86,0.7657,0.7108
+"ST2","Resilience Investment Portfolio","resilience",14,1,0.59,0.559,0.86,0.7568,0.7055
+"ST2","Resilience Investment Portfolio","resilience",15,1,0.6016,0.5662,0.86,0.748,0.7002
+"ST2","Resilience Investment Portfolio","resilience",16,1,0.6132,0.5734,0.86,0.7392,0.6949
+"ST2","Resilience Investment Portfolio","resilience",17,1,0.6248,0.5805,0.86,0.7303,0.6897
+"ST2","Resilience Investment Portfolio","resilience",18,1,0.6363,0.5877,0.86,0.7215,0.6845
+"ST2","Resilience Investment Portfolio","resilience",19,1,0.6477,0.5948,0.86,0.7126,0.6793
+"ST2","Resilience Investment Portfolio","resilience",20,1,0.6591,0.6008,0.86,0.7044,0.6744
+"ST2","Resilience Investment Portfolio","resilience",21,1,0.6704,0.608,0.86,0.6956,0.6692
+"ST2","Resilience Investment Portfolio","resilience",22,1,0.6817,0.6151,0.86,0.6867,0.664
+"ST2","Resilience Investment Portfolio","resilience",23,1,0.6929,0.6223,0.86,0.6779,0.6588
+"ST2","Resilience Investment Portfolio","resilience",24,1,0.704,0.6294,0.86,0.669,0.6537
+"ST2","Resilience Investment Portfolio","resilience",25,1,0.7151,0.6366,0.86,0.6602,0.6485
+"ST2","Resilience Investment Portfolio","resilience",26,1,0.7261,0.6438,0.86,0.6514,0.6434
+"ST2","Resilience Investment Portfolio","resilience",27,1,0.7371,0.6509,0.86,0.6425,0.6383
+"ST2","Resilience Investment Portfolio","resilience",28,1,0.748,0.6581,0.86,0.6337,0.6332
+"ST2","Resilience Investment Portfolio","resilience",29,1,0.7588,0.6652,0.86,0.6248,0.6281
+"ST2","Resilience Investment Portfolio","resilience",30,1,0.7697,0.6712,0.86,0.6166,0.6233
+"ST2","Resilience Investment Portfolio","resilience",31,1,0.7805,0.6784,0.86,0.6078,0.6182
+"ST2","Resilience Investment Portfolio","resilience",32,1,0.7913,0.6855,0.86,0.5989,0.6131
+"ST2","Resilience Investment Portfolio","resilience",33,1,0.8022,0.6927,0.86,0.5901,0.6081
+"ST2","Resilience Investment Portfolio","resilience",34,1,0.813,0.6998,0.86,0.5812,0.603
+"ST2","Resilience Investment Portfolio","resilience",35,1,0.8239,0.707,0.86,0.5724,0.5979
+"ST2","Resilience Investment Portfolio","resilience",36,1,0.8347,0.7142,0.86,0.5636,0.5928
+"ST2","Resilience Investment Portfolio","resilience",37,1,0.8455,0.7213,0.86,0.5547,0.5877
+"ST2","Resilience Investment Portfolio","resilience",38,1,0.8564,0.7285,0.86,0.5459,0.5826
+"ST2","Resilience Investment Portfolio","resilience",39,1,0.8672,0.7356,0.86,0.537,0.5775
+"ST2","Resilience Investment Portfolio","resilience",40,1,0.8781,0.7416,0.86,0.5288,0.5727
+"ST3","Adaptive Governance","adaptive_governance",1,0.849,0.4369,0.4736,0.86,0.8719,0.7337
+"ST3","Adaptive Governance","adaptive_governance",2,0.8582,0.4538,0.4872,0.86,0.8638,0.7286
+"ST3","Adaptive Governance","adaptive_governance",3,0.8675,0.4705,0.5007,0.86,0.8556,0.7236
+"ST3","Adaptive Governance","adaptive_governance",4,0.8769,0.4871,0.5143,0.86,0.8475,0.7187
+"ST3","Adaptive Governance","adaptive_governance",5,0.8864,0.5036,0.5279,0.86,0.8394,0.7137
+"ST3","Adaptive Governance","adaptive_governance",6,0.896,0.52,0.5415,0.86,0.8313,0.7089
+"ST3","Adaptive Governance","adaptive_governance",7,0.9057,0.5362,0.5551,0.86,0.8232,0.7041
+"ST3","Adaptive Governance","adaptive_governance",8,0.9155,0.5524,0.5686,0.86,0.815,0.6993
+"ST3","Adaptive Governance","adaptive_governance",9,0.9254,0.5685,0.5822,0.86,0.8069,0.6946
+"ST3","Adaptive Governance","adaptive_governance",10,0.9954,0.5844,0.5946,0.86,0.7994,0.7059
+"ST3","Adaptive Governance","adaptive_governance",11,1,0.6003,0.6082,0.86,0.7913,0.6999
+"ST3","Adaptive Governance","adaptive_governance",12,1,0.616,0.6218,0.86,0.7832,0.6927
+"ST3","Adaptive Governance","adaptive_governance",13,1,0.6317,0.6353,0.86,0.775,0.6855
+"ST3","Adaptive Governance","adaptive_governance",14,1,0.6472,0.6489,0.86,0.7669,0.6783
+"ST3","Adaptive Governance","adaptive_governance",15,1,0.6627,0.6625,0.86,0.7588,0.6712
+"ST3","Adaptive Governance","adaptive_governance",16,1,0.678,0.6761,0.86,0.7507,0.6641
+"ST3","Adaptive Governance","adaptive_governance",17,1,0.6932,0.6897,0.86,0.7426,0.657
+"ST3","Adaptive Governance","adaptive_governance",18,1,0.7084,0.7032,0.86,0.7344,0.6499
+"ST3","Adaptive Governance","adaptive_governance",19,1,0.7234,0.7168,0.86,0.7263,0.6428
+"ST3","Adaptive Governance","adaptive_governance",20,1,0.7383,0.7292,0.86,0.7188,0.6361
+"ST3","Adaptive Governance","adaptive_governance",21,1,0.7532,0.7428,0.86,0.7107,0.6291
+"ST3","Adaptive Governance","adaptive_governance",22,1,0.7679,0.7564,0.86,0.7026,0.6221
+"ST3","Adaptive Governance","adaptive_governance",23,1,0.7827,0.7699,0.86,0.6944,0.6151
+"ST3","Adaptive Governance","adaptive_governance",24,1,0.7975,0.7835,0.86,0.6863,0.6081
+"ST3","Adaptive Governance","adaptive_governance",25,1,0.8122,0.7971,0.86,0.6782,0.6011
+"ST3","Adaptive Governance","adaptive_governance",26,1,0.827,0.8107,0.86,0.6701,0.5942
+"ST3","Adaptive Governance","adaptive_governance",27,1,0.8417,0.8243,0.86,0.662,0.5872
+"ST3","Adaptive Governance","adaptive_governance",28,1,0.8565,0.8378,0.86,0.6538,0.5802
+"ST3","Adaptive Governance","adaptive_governance",29,1,0.8713,0.8514,0.86,0.6457,0.5732
+"ST3","Adaptive Governance","adaptive_governance",30,1,0.886,0.8638,0.86,0.6382,0.5665
+"ST3","Adaptive Governance","adaptive_governance",31,1,0.9008,0.8774,0.86,0.6301,0.5595
+"ST3","Adaptive Governance","adaptive_governance",32,1,0.9155,0.891,0.86,0.622,0.5525
+"ST3","Adaptive Governance","adaptive_governance",33,1,0.9303,0.9045,0.86,0.6138,0.5455
+"ST3","Adaptive Governance","adaptive_governance",34,1,0.9451,0.9181,0.86,0.6057,0.5385
+"ST3","Adaptive Governance","adaptive_governance",35,1,0.9598,0.9317,0.86,0.5976,0.5316
+"ST3","Adaptive Governance","adaptive_governance",36,1,0.9746,0.9453,0.86,0.5895,0.5246
+"ST3","Adaptive Governance","adaptive_governance",37,1,0.9893,0.9589,0.86,0.5814,0.5176
+"ST3","Adaptive Governance","adaptive_governance",38,1,1,0.9724,0.86,0.5732,0.5115
+"ST3","Adaptive Governance","adaptive_governance",39,1,1,0.986,0.86,0.5651,0.5077
+"ST3","Adaptive Governance","adaptive_governance",40,1,1,0.9984,0.86,0.5576,0.5043
+"ST4","Justice-Centered Transformation","transformation",1,0.8445,0.4351,0.4759,0.86,0.8626,0.731
+"ST4","Justice-Centered Transformation","transformation",2,0.8491,0.4501,0.4919,0.86,0.8453,0.7232
+"ST4","Justice-Centered Transformation","transformation",3,0.8538,0.4649,0.5078,0.86,0.8279,0.7156
+"ST4","Justice-Centered Transformation","transformation",4,0.8586,0.4797,0.5238,0.86,0.8106,0.7079
+"ST4","Justice-Centered Transformation","transformation",5,0.8635,0.4943,0.5397,0.86,0.7932,0.7003
+"ST4","Justice-Centered Transformation","transformation",6,0.8685,0.5088,0.5556,0.86,0.7758,0.6928
+"ST4","Justice-Centered Transformation","transformation",7,0.8737,0.5232,0.5716,0.86,0.7585,0.6853
+"ST4","Justice-Centered Transformation","transformation",8,0.879,0.5375,0.5875,0.86,0.7411,0.6779
+"ST4","Justice-Centered Transformation","transformation",9,0.8844,0.5517,0.6035,0.86,0.7238,0.6705
+"ST4","Justice-Centered Transformation","transformation",10,0.9499,0.5658,0.6182,0.86,0.707,0.6791
+"ST4","Justice-Centered Transformation","transformation",11,0.9555,0.5797,0.6341,0.86,0.6896,0.6719
+"ST4","Justice-Centered Transformation","transformation",12,0.9612,0.5936,0.6501,0.86,0.6723,0.6647
+"ST4","Justice-Centered Transformation","transformation",13,0.967,0.6073,0.666,0.86,0.6549,0.6575
+"ST4","Justice-Centered Transformation","transformation",14,0.9729,0.6209,0.682,0.86,0.6376,0.6504
+"ST4","Justice-Centered Transformation","transformation",15,0.979,0.6345,0.6979,0.86,0.6202,0.6434
+"ST4","Justice-Centered Transformation","transformation",16,0.9851,0.6479,0.7138,0.86,0.6028,0.6364
+"ST4","Justice-Centered Transformation","transformation",17,0.9913,0.6612,0.7298,0.86,0.5855,0.6294
+"ST4","Justice-Centered Transformation","transformation",18,0.9977,0.6744,0.7457,0.86,0.5681,0.6225
+"ST4","Justice-Centered Transformation","transformation",19,1,0.6875,0.7617,0.86,0.5508,0.6146
+"ST4","Justice-Centered Transformation","transformation",20,1,0.7005,0.7764,0.86,0.534,0.6064
+"ST4","Justice-Centered Transformation","transformation",21,1,0.7134,0.7923,0.86,0.5166,0.5979
+"ST4","Justice-Centered Transformation","transformation",22,1,0.7262,0.8083,0.86,0.4993,0.5894
+"ST4","Justice-Centered Transformation","transformation",23,1,0.7389,0.8242,0.86,0.4819,0.581
+"ST4","Justice-Centered Transformation","transformation",24,1,0.7515,0.8402,0.86,0.4646,0.5726
+"ST4","Justice-Centered Transformation","transformation",25,1,0.7641,0.8561,0.86,0.4472,0.5642
+"ST4","Justice-Centered Transformation","transformation",26,1,0.7766,0.872,0.86,0.4298,0.5558
+"ST4","Justice-Centered Transformation","transformation",27,1,0.7891,0.888,0.86,0.4125,0.5474
+"ST4","Justice-Centered Transformation","transformation",28,1,0.8016,0.9039,0.86,0.3951,0.539
+"ST4","Justice-Centered Transformation","transformation",29,1,0.8141,0.9199,0.86,0.3778,0.5306
+"ST4","Justice-Centered Transformation","transformation",30,1,0.8267,0.9346,0.86,0.361,0.5225
+"ST4","Justice-Centered Transformation","transformation",31,1,0.8392,0.9505,0.86,0.3436,0.5141
+"ST4","Justice-Centered Transformation","transformation",32,1,0.8517,0.9665,0.86,0.3263,0.5057
+"ST4","Justice-Centered Transformation","transformation",33,1,0.8642,0.9824,0.86,0.3089,0.4973
+"ST4","Justice-Centered Transformation","transformation",34,1,0.8767,0.9984,0.86,0.2916,0.4889
+"ST4","Justice-Centered Transformation","transformation",35,1,0.8893,1,0.86,0.2742,0.483
+"ST4","Justice-Centered Transformation","transformation",36,1,0.9018,1,0.86,0.2568,0.4775
+"ST4","Justice-Centered Transformation","transformation",37,1,0.9143,1,0.86,0.2395,0.472
+"ST4","Justice-Centered Transformation","transformation",38,1,0.9268,1,0.86,0.2221,0.4664
+"ST4","Justice-Centered Transformation","transformation",39,1,0.9393,1,0.86,0.2048,0.4609
+"ST4","Justice-Centered Transformation","transformation",40,1,0.9519,1,0.86,0.188,0.4555
+"ST5","Institutional Learning Compact","learning_system",1,0.8502,0.4389,0.4715,0.86,0.873,0.7341
+"ST5","Institutional Learning Compact","learning_system",2,0.8606,0.4577,0.4829,0.86,0.8659,0.7295
+"ST5","Institutional Learning Compact","learning_system",3,0.8711,0.4764,0.4944,0.86,0.8589,0.7249
+"ST5","Institutional Learning Compact","learning_system",4,0.8817,0.495,0.5058,0.86,0.8518,0.7204
+"ST5","Institutional Learning Compact","learning_system",5,0.8924,0.5135,0.5173,0.86,0.8448,0.7159
+"ST5","Institutional Learning Compact","learning_system",6,0.9032,0.5318,0.5288,0.86,0.8378,0.7115
+"ST5","Institutional Learning Compact","learning_system",7,0.9142,0.55,0.5402,0.86,0.8307,0.7072
+"ST5","Institutional Learning Compact","learning_system",8,0.9252,0.5682,0.5517,0.86,0.8237,0.7028
+"ST5","Institutional Learning Compact","learning_system",9,0.9364,0.5862,0.5631,0.86,0.8166,0.6986
+"ST5","Institutional Learning Compact","learning_system",10,1,0.6041,0.5734,0.86,0.8102,0.7083
+"ST5","Institutional Learning Compact","learning_system",11,1,0.6219,0.5849,0.86,0.8032,0.7012
+"ST5","Institutional Learning Compact","learning_system",12,1,0.6395,0.5963,0.86,0.7961,0.6941
+"ST5","Institutional Learning Compact","learning_system",13,1,0.6571,0.6078,0.86,0.7891,0.6871
+"ST5","Institutional Learning Compact","learning_system",14,1,0.6745,0.6192,0.86,0.782,0.6801
+"ST5","Institutional Learning Compact","learning_system",15,1,0.6919,0.6307,0.86,0.775,0.6731
+"ST5","Institutional Learning Compact","learning_system",16,1,0.7091,0.6422,0.86,0.768,0.6661
+"ST5","Institutional Learning Compact","learning_system",17,1,0.7263,0.6536,0.86,0.7609,0.6591
+"ST5","Institutional Learning Compact","learning_system",18,1,0.7433,0.6651,0.86,0.7539,0.6522
+"ST5","Institutional Learning Compact","learning_system",19,1,0.7602,0.6765,0.86,0.7468,0.6453
+"ST5","Institutional Learning Compact","learning_system",20,1,0.7771,0.6868,0.86,0.7404,0.6387
+"ST5","Institutional Learning Compact","learning_system",21,1,0.794,0.6983,0.86,0.7334,0.6318
+"ST5","Institutional Learning Compact","learning_system",22,1,0.8109,0.7097,0.86,0.7263,0.6249
+"ST5","Institutional Learning Compact","learning_system",23,1,0.8277,0.7212,0.86,0.7193,0.618
+"ST5","Institutional Learning Compact","learning_system",24,1,0.8446,0.7326,0.86,0.7122,0.6111
+"ST5","Institutional Learning Compact","learning_system",25,1,0.8615,0.7441,0.86,0.7052,0.6042
+"ST5","Institutional Learning Compact","learning_system",26,1,0.8784,0.7556,0.86,0.6982,0.5973
+"ST5","Institutional Learning Compact","learning_system",27,1,0.8953,0.767,0.86,0.6911,0.5904
+"ST5","Institutional Learning Compact","learning_system",28,1,0.9121,0.7785,0.86,0.6841,0.5835
+"ST5","Institutional Learning Compact","learning_system",29,1,0.929,0.7899,0.86,0.677,0.5766
+"ST5","Institutional Learning Compact","learning_system",30,1,0.9459,0.8002,0.86,0.6706,0.57
+"ST5","Institutional Learning Compact","learning_system",31,1,0.9628,0.8117,0.86,0.6636,0.5631
+"ST5","Institutional Learning Compact","learning_system",32,1,0.9797,0.8231,0.86,0.6565,0.5562
+"ST5","Institutional Learning Compact","learning_system",33,1,0.9965,0.8346,0.86,0.6495,0.5493
+"ST5","Institutional Learning Compact","learning_system",34,1,1,0.846,0.86,0.6424,0.5453
+"ST5","Institutional Learning Compact","learning_system",35,1,1,0.8575,0.86,0.6354,0.5421
+"ST5","Institutional Learning Compact","learning_system",36,1,1,0.869,0.86,0.6284,0.5389
+"ST5","Institutional Learning Compact","learning_system",37,1,1,0.8804,0.86,0.6213,0.5357
+"ST5","Institutional Learning Compact","learning_system",38,1,1,0.8919,0.86,0.6143,0.5325
+"ST5","Institutional Learning Compact","learning_system",39,1,1,0.9033,0.86,0.6072,0.5294
+"ST5","Institutional Learning Compact","learning_system",40,1,1,0.9136,0.86,0.6008,0.5265

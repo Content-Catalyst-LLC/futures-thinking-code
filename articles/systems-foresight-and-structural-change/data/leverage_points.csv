@@ -1,0 +1,9 @@
+leverage_id,system_id,intervention,intervention_level,intervention_depth,system_reach,political_feasibility,legitimacy_quality,equity_quality,implementation_readiness,description
+LP1,SYS1,Integrated climate-housing-health governance,institutional_redesign,0.88,0.86,0.62,0.88,0.90,0.64,Creates authority and budget coordination across climate housing health energy and infrastructure.
+LP2,SYS2,Public AI appeal rights and procurement standards,rule_change,0.84,0.78,0.68,0.86,0.88,0.70,Requires auditability due process appeal rights and accountable procurement before deployment.
+LP3,SYS3,Care workforce resilience compact,institutional_redesign,0.82,0.80,0.58,0.90,0.92,0.60,Combines wages staffing prevention training and public investment in care capacity.
+LP4,SYS4,Energy affordability and grid resilience portfolio,infrastructure_investment,0.78,0.84,0.66,0.78,0.82,0.68,Combines grid investment affordability protections demand management and community resilience.
+LP5,SYS5,Regional food-water-ecology governance,institutional_redesign,0.86,0.88,0.54,0.88,0.90,0.56,Coordinates land water agriculture biodiversity and community stewardship across regions.
+LP6,SYS6,Public legitimacy repair and participatory accountability,paradigm_and_governance,0.90,0.82,0.60,0.92,0.88,0.58,Builds public accountability participation repair and contestable governance into institutional practice.
+LP7,SYS7,Long-term infrastructure stewardship fund,rule_and_finance_change,0.80,0.86,0.64,0.80,0.82,0.70,Protects maintenance and resilience investment from short budget cycles and deferred-risk incentives.
+LP8,SYS8,Futures literacy and civic capability curriculum,system_purpose_change,0.76,0.78,0.66,0.84,0.86,0.62,Shifts education toward long-term capability uncertainty reasoning and public problem-solving.

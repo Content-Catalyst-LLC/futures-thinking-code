@@ -1,0 +1,11 @@
+loop_id,system_id,loop_name,loop_type,loop_polarity,feedback_strength,delay_risk,visibility,institutional_control,feedback_priority_score,recommended_action,description
+FL5,SYS5,Ecological degradation and resource stress loop,reinforcing,harmful,0.88,0.82,0.62,0.52,0.5157,interrupt or redirect,Ecological degradation increases resource stress which drives further extractive pressure.
+FL7,SYS7,Deferred maintenance and failure loop,reinforcing,harmful,0.86,0.84,0.58,0.6,0.5005,interrupt or redirect,Deferred maintenance hides risk until breakdowns require more expensive emergency spending.
+FL3,SYS3,Care burnout and shortage loop,reinforcing,harmful,0.86,0.74,0.72,0.54,0.4455,interrupt or redirect,Workforce shortages increase burnout which worsens retention and deepens shortages.
+FL1,SYS1,Heat exposure and emergency response loop,reinforcing,harmful,0.84,0.76,0.7,0.62,0.4267,interrupt or redirect,Climate heat exposure increases emergency burden which crowds out prevention and increases future vulnerability.
+FL2,SYS2,AI scaling before accountability loop,reinforcing,harmful,0.8,0.7,0.66,0.58,0.4064,interrupt or redirect,Automated systems scale before appeals audits and rights protections are mature.
+FL6,SYS6,Trust failure and policy resistance loop,reinforcing,harmful,0.82,0.66,0.76,0.5,0.3985,interrupt or redirect,Institutional failure reduces trust which weakens cooperation and worsens policy performance.
+FL8,SYS8,Unequal learning and future opportunity loop,reinforcing,harmful,0.74,0.68,0.64,0.56,0.3789,interrupt or redirect,Unequal learning access reduces future capability and reinforces institutional disadvantage.
+FL4,SYS4,Grid stress and legitimacy loop,reinforcing,harmful,0.78,0.68,0.7,0.64,0.3666,interrupt or redirect,Grid failures undermine trust and make transition politics more difficult.
+FL10,SYS6,Accountability and legitimacy repair loop,reinforcing,beneficial,0.78,0.6,0.74,0.66,0.3276,protect and strengthen,Public accountability and participation improve legitimacy which strengthens institutional cooperation.
+FL9,SYS1,Adaptation investment and trust loop,reinforcing,beneficial,0.76,0.54,0.72,0.7,0.2964,protect and strengthen,Visible adaptation investment improves trust and cooperation which supports further adaptation.

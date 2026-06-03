@@ -1,0 +1,9 @@
+system_id,system_domain,domain_type,system_stress,adaptive_capacity,public_trust,interdependence,distributional_vulnerability,institutional_fragmentation,structural_lock_in,description
+SYS1,Climate Adaptation,climate_governance,0.86,0.46,0.52,0.88,0.90,0.78,0.82,Heat flooding housing infrastructure and public health remain fragmented across governance systems.
+SYS2,Public AI Governance,technology_governance,0.78,0.42,0.44,0.76,0.86,0.74,0.70,AI deployment risks outpacing procurement rights appeals and oversight capacity.
+SYS3,Care Workforce,health_labor,0.82,0.40,0.50,0.82,0.88,0.70,0.78,Care systems rely on hidden labor buffers and underfunded workforce capacity.
+SYS4,Energy Transition,energy_infrastructure,0.80,0.52,0.56,0.86,0.76,0.66,0.84,Energy transition pressure interacts with grid resilience affordability permitting and public legitimacy.
+SYS5,Food-Water-Ecology,ecological_systems,0.84,0.48,0.54,0.90,0.84,0.72,0.86,Food water land and biodiversity systems are governed through fragmented institutions despite strong interdependence.
+SYS6,Institutional Trust,governance_culture,0.76,0.38,0.36,0.78,0.82,0.80,0.74,Public trust is weakened by accountability gaps service failures exclusion and legitimacy deficits.
+SYS7,Infrastructure Stewardship,infrastructure_governance,0.83,0.44,0.50,0.89,0.80,0.76,0.88,Deferred maintenance and fragmented finance create long-term service fragility.
+SYS8,Education for Uncertainty,education_civic_capacity,0.70,0.50,0.58,0.74,0.78,0.62,0.70,Learning systems struggle to build civic ecological technical and anticipatory capacity for uncertain futures.
