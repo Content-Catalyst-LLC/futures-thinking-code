@@ -1,0 +1,7 @@
+strategy_id,strategy_name,max_regret,mean_regret
+T4,Justice-Centered Transformation,0.0,0.0
+T3,Adaptive Governance,0.0388,0.0387
+T6,Precautionary Public Safeguards,0.0436,0.0434
+T2,Robust Resilience Portfolio,0.064,0.0637
+T1,Efficiency Optimization,0.2621,0.2599
+T5,Low-Cost Continuity,0.3291,0.3266

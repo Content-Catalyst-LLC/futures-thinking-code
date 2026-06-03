@@ -1,0 +1,7 @@
+"strategy_id","strategy_name","worst_case_viability","mean_viability","best_case_viability","viability_range","threshold_failures"
+"T4","Justice-Centered Transformation",0.6149,0.6866,0.7914,0.1765,0
+"T3","Adaptive Governance",0.5762,0.6479,0.7527,0.1765,0
+"T6","Precautionary Public Safeguards",0.5715,0.6432,0.7481,0.1766,0
+"T2","Robust Resilience Portfolio",0.5511,0.6228,0.7277,0.1766,0
+"T1","Efficiency Optimization",0.3548,0.4267,0.5322,0.1774,4
+"T5","Low-Cost Continuity",0.2881,0.36,0.4656,0.1775,6

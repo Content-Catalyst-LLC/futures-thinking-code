@@ -1,0 +1,7 @@
+assumption_id,strategy_id,assumption_name,confidence,fragility,assumption_failure_risk,monitoring_indicator,revision_rule,assumption_text
+A5,T5,Continuity affordability assumption,0.34,0.9,0.792,infrastructure_or_disruption_index,Abandon continuity if failure modes intensify.,Short-term cost minimization does not create severe future liabilities
+A1,T1,Expected-case stability,0.38,0.86,0.752,compound_disruption_index,Revise if compound disruption exceeds threshold.,Future disruption remains moderate enough for optimized efficiency to remain viable
+A6,T6,Safeguards pace assumption,0.52,0.72,0.612,technology_accountability_gap,Pause high-risk deployment if accountability gap widens.,Precautionary safeguards can keep pace with technology acceleration
+A3,T3,Learning capacity assumption,0.56,0.68,0.572,public_trust_divergence,Strengthen governance if trust divergence increases.,Institutions can interpret indicators and act on triggers in time
+A4,T4,Transformation legitimacy assumption,0.6,0.64,0.532,equity_burden_index,Expand participation if equity burden rises.,Affected groups view transformation as legitimate and materially protective
+A2,T2,Resilience finance availability,0.58,0.62,0.53,fiscal_capacity_gap,Stage portfolio if fiscal gap widens.,Public or institutional finance can support redundancy buffers and adaptive capacity

@@ -1,0 +1,37 @@
+scenario_id,scenario_name,strategy_id,strategy_name,viability_score,best_scenario_viability,regret
+S6,Technology Acceleration Without Governance,T5,Low-Cost Continuity,0.3188,0.6479,0.3291
+S3,High Disruption,T5,Low-Cost Continuity,0.3019,0.6292,0.3273
+S4,Institutional Fragmentation,T5,Low-Cost Continuity,0.2881,0.6149,0.3268
+S5,Transformative Public Investment,T5,Low-Cost Continuity,0.4656,0.7914,0.3258
+S2,Fiscal Constraint,T5,Low-Cost Continuity,0.3391,0.6647,0.3256
+S1,Coordinated Adaptation,T5,Low-Cost Continuity,0.4463,0.7713,0.325
+S6,Technology Acceleration Without Governance,T1,Efficiency Optimization,0.3858,0.6479,0.2621
+S3,High Disruption,T1,Efficiency Optimization,0.3686,0.6292,0.2606
+S4,Institutional Fragmentation,T1,Efficiency Optimization,0.3548,0.6149,0.2601
+S5,Transformative Public Investment,T1,Efficiency Optimization,0.5322,0.7914,0.2592
+S2,Fiscal Constraint,T1,Efficiency Optimization,0.4057,0.6647,0.259
+S1,Coordinated Adaptation,T1,Efficiency Optimization,0.5129,0.7713,0.2584
+S6,Technology Acceleration Without Governance,T2,Robust Resilience Portfolio,0.5839,0.6479,0.064
+S3,High Disruption,T2,Robust Resilience Portfolio,0.5654,0.6292,0.0638
+S4,Institutional Fragmentation,T2,Robust Resilience Portfolio,0.5511,0.6149,0.0638
+S5,Transformative Public Investment,T2,Robust Resilience Portfolio,0.7277,0.7914,0.0637
+S2,Fiscal Constraint,T2,Robust Resilience Portfolio,0.6011,0.6647,0.0636
+S1,Coordinated Adaptation,T2,Robust Resilience Portfolio,0.7078,0.7713,0.0635
+S6,Technology Acceleration Without Governance,T6,Precautionary Public Safeguards,0.6043,0.6479,0.0436
+S3,High Disruption,T6,Precautionary Public Safeguards,0.5858,0.6292,0.0434
+S4,Institutional Fragmentation,T6,Precautionary Public Safeguards,0.5715,0.6149,0.0434
+S2,Fiscal Constraint,T6,Precautionary Public Safeguards,0.6214,0.6647,0.0433
+S5,Transformative Public Investment,T6,Precautionary Public Safeguards,0.7481,0.7914,0.0433
+S1,Coordinated Adaptation,T6,Precautionary Public Safeguards,0.7281,0.7713,0.0432
+S1,Coordinated Adaptation,T3,Adaptive Governance,0.7325,0.7713,0.0388
+S2,Fiscal Constraint,T3,Adaptive Governance,0.6259,0.6647,0.0388
+S4,Institutional Fragmentation,T3,Adaptive Governance,0.5762,0.6149,0.0387
+S5,Transformative Public Investment,T3,Adaptive Governance,0.7527,0.7914,0.0387
+S3,High Disruption,T3,Adaptive Governance,0.5906,0.6292,0.0386
+S6,Technology Acceleration Without Governance,T3,Adaptive Governance,0.6095,0.6479,0.0384
+S1,Coordinated Adaptation,T4,Justice-Centered Transformation,0.7713,0.7713,0.0
+S2,Fiscal Constraint,T4,Justice-Centered Transformation,0.6647,0.6647,0.0
+S3,High Disruption,T4,Justice-Centered Transformation,0.6292,0.6292,0.0
+S4,Institutional Fragmentation,T4,Justice-Centered Transformation,0.6149,0.6149,0.0
+S5,Transformative Public Investment,T4,Justice-Centered Transformation,0.7914,0.7914,0.0
+S6,Technology Acceleration Without Governance,T4,Justice-Centered Transformation,0.6479,0.6479,0.0

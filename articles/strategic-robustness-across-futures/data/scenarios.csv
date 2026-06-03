@@ -1,0 +1,7 @@
+scenario_id,scenario_name,scenario_family,disruption_level,public_trust,fiscal_capacity,implementation_capacity,ecological_stress,technology_volatility,distributional_pressure,description
+S1,Coordinated Adaptation,cooperation,0.42,0.76,0.70,0.74,0.56,0.48,0.52,Public institutions coordinate adaptation investment and maintain enough trust for implementation.
+S2,Fiscal Constraint,austerity,0.64,0.52,0.38,0.50,0.64,0.54,0.70,Fiscal pressure limits investment and forces difficult tradeoffs.
+S3,High Disruption,compound_shock,0.88,0.44,0.44,0.48,0.82,0.72,0.84,Compound shocks expose infrastructure social and institutional fragility.
+S4,Institutional Fragmentation,fragmentation,0.78,0.34,0.46,0.40,0.70,0.66,0.82,Low trust and fragmented authority weaken implementation.
+S5,Transformative Public Investment,transformation,0.50,0.82,0.78,0.82,0.58,0.56,0.50,Public investment strengthens legitimacy capacity and system learning.
+S6,Technology Acceleration Without Governance,technology_risk,0.62,0.40,0.54,0.46,0.60,0.90,0.78,Technology adoption outpaces accountability law and institutional capacity.

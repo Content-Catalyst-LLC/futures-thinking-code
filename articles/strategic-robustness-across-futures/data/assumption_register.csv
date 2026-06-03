@@ -1,0 +1,7 @@
+assumption_id,strategy_id,assumption_name,assumption_text,confidence,fragility,monitoring_indicator,revision_rule
+A1,T1,Expected-case stability,Future disruption remains moderate enough for optimized efficiency to remain viable,0.38,0.86,compound_disruption_index,Revise if compound disruption exceeds threshold.
+A2,T2,Resilience finance availability,Public or institutional finance can support redundancy buffers and adaptive capacity,0.58,0.62,fiscal_capacity_gap,Stage portfolio if fiscal gap widens.
+A3,T3,Learning capacity assumption,Institutions can interpret indicators and act on triggers in time,0.56,0.68,public_trust_divergence,Strengthen governance if trust divergence increases.
+A4,T4,Transformation legitimacy assumption,Affected groups view transformation as legitimate and materially protective,0.60,0.64,equity_burden_index,Expand participation if equity burden rises.
+A5,T5,Continuity affordability assumption,Short-term cost minimization does not create severe future liabilities,0.34,0.90,infrastructure_or_disruption_index,Abandon continuity if failure modes intensify.
+A6,T6,Safeguards pace assumption,Precautionary safeguards can keep pace with technology acceleration,0.52,0.72,technology_accountability_gap,Pause high-risk deployment if accountability gap widens.

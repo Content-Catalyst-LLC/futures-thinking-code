@@ -1,0 +1,7 @@
+criterion_id,criterion_name,weight,description
+C1,effectiveness,0.24,Ability to achieve the core strategic purpose.
+C2,feasibility,0.18,Implementation viability under capacity fiscal and institutional constraints.
+C3,legitimacy,0.18,Public trust accountability and justification.
+C4,equity,0.16,Distributional fairness and protection of vulnerable groups.
+C5,adaptability,0.14,Ability to revise strategy as conditions change.
+C6,transformability,0.10,Ability to support deeper structural change if the current system becomes untenable.

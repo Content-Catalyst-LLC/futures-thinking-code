@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,baseline_effectiveness,shock_absorption,equity_quality,adaptability,implementation_complexity,legitimacy_design,transformability,description
+T1,Efficiency Optimization,optimization,0.78,0.20,0.36,0.30,0.42,0.38,0.28,Optimizes expected-case performance but carries brittleness under disruption.
+T2,Robust Resilience Portfolio,resilience,0.74,0.72,0.76,0.64,0.62,0.72,0.58,Balances redundancy adaptation buffers and cross-scenario viability.
+T3,Adaptive Governance,adaptive,0.72,0.58,0.72,0.88,0.58,0.78,0.66,Uses monitoring triggers and institutional learning to revise strategy over time.
+T4,Justice-Centered Transformation,transformation,0.70,0.66,0.92,0.76,0.78,0.86,0.88,Targets structural vulnerability legitimacy and long-term public-purpose transformation.
+T5,Low-Cost Continuity,continuity,0.64,0.18,0.28,0.24,0.28,0.30,0.18,Minimizes short-term cost while preserving fragile existing assumptions.
+T6,Precautionary Public Safeguards,precautionary,0.68,0.62,0.84,0.70,0.66,0.82,0.70,Prioritizes rights safeguards reversibility accountability and risk prevention.

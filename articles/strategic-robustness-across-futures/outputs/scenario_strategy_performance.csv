@@ -1,0 +1,37 @@
+scenario_id,scenario_name,scenario_family,strategy_id,strategy_name,strategy_type,effectiveness,feasibility,legitimacy,equity,adaptability_score,transformability_score,viability_score
+S1,Coordinated Adaptation,cooperation,T1,Efficiency Optimization,optimization,0.678,0.719,0.49,0.289,0.4128,0.2848,0.5129
+S1,Coordinated Adaptation,cooperation,T2,Robust Resilience Portfolio,resilience,0.7814,0.659,0.706,0.77,0.6633,0.5848,0.7078
+S1,Coordinated Adaptation,cooperation,T3,Adaptive Governance,adaptive,0.7307,0.671,0.749,0.747,0.8279,0.6612,0.7325
+S1,Coordinated Adaptation,cooperation,T4,Justice-Centered Transformation,transformation,0.7286,0.611,0.791,0.981,0.7458,0.8272,0.7713
+S1,Coordinated Adaptation,cooperation,T5,Low-Cost Continuity,continuity,0.5314,0.761,0.445,0.187,0.3703,0.1992,0.4463
+S1,Coordinated Adaptation,cooperation,T6,Precautionary Public Safeguards,precautionary,0.6968,0.647,0.756,0.877,0.7029,0.6964,0.7281
+S2,Fiscal Constraint,austerity,T1,Efficiency Optimization,optimization,0.6211,0.4104,0.385,0.235,0.3384,0.2848,0.4057
+S2,Fiscal Constraint,austerity,T2,Robust Resilience Portfolio,resilience,0.7255,0.3504,0.601,0.716,0.5904,0.5848,0.6011
+S2,Fiscal Constraint,austerity,T3,Adaptive Governance,adaptive,0.6756,0.3624,0.644,0.693,0.7547,0.6612,0.6259
+S2,Fiscal Constraint,austerity,T4,Justice-Centered Transformation,transformation,0.6731,0.3024,0.686,0.927,0.6728,0.8272,0.6647
+S2,Fiscal Constraint,austerity,T5,Low-Cost Continuity,continuity,0.4743,0.4524,0.34,0.133,0.2959,0.1992,0.3391
+S2,Fiscal Constraint,austerity,T6,Precautionary Public Safeguards,precautionary,0.6411,0.3384,0.651,0.823,0.6297,0.6964,0.6214
+S3,High Disruption,compound_shock,T1,Efficiency Optimization,optimization,0.5476,0.3892,0.346,0.193,0.3252,0.2848,0.3686
+S3,High Disruption,compound_shock,T2,Robust Resilience Portfolio,resilience,0.655,0.3292,0.562,0.674,0.5819,0.5848,0.5654
+S3,High Disruption,compound_shock,T3,Adaptive Governance,adaptive,0.6073,0.3412,0.605,0.651,0.7449,0.6612,0.5906
+S3,High Disruption,compound_shock,T4,Justice-Centered Transformation,transformation,0.6038,0.2812,0.647,0.885,0.6638,0.8272,0.6292
+S3,High Disruption,compound_shock,T5,Low-Cost Continuity,continuity,0.4002,0.4312,0.301,0.091,0.2825,0.1992,0.3019
+S3,High Disruption,compound_shock,T6,Precautionary Public Safeguards,precautionary,0.5712,0.3172,0.612,0.781,0.6203,0.6964,0.5858
+S4,Institutional Fragmentation,fragmentation,T1,Efficiency Optimization,optimization,0.5813,0.3178,0.307,0.199,0.3036,0.2848,0.3548
+S4,Institutional Fragmentation,fragmentation,T2,Robust Resilience Portfolio,resilience,0.6877,0.2578,0.523,0.68,0.5588,0.5848,0.5511
+S4,Institutional Fragmentation,fragmentation,T3,Adaptive Governance,adaptive,0.6392,0.2698,0.566,0.657,0.7221,0.6612,0.5762
+S4,Institutional Fragmentation,fragmentation,T4,Justice-Centered Transformation,transformation,0.6361,0.2098,0.608,0.891,0.6408,0.8272,0.6149
+S4,Institutional Fragmentation,fragmentation,T5,Low-Cost Continuity,continuity,0.4341,0.3598,0.262,0.097,0.2609,0.1992,0.2881
+S4,Institutional Fragmentation,fragmentation,T6,Precautionary Public Safeguards,precautionary,0.6037,0.2458,0.573,0.787,0.5975,0.6964,0.5715
+S5,Transformative Public Investment,transformation,T1,Efficiency Optimization,optimization,0.656,0.8094,0.515,0.295,0.4336,0.2848,0.5322
+S5,Transformative Public Investment,transformation,T2,Robust Resilience Portfolio,resilience,0.7607,0.7494,0.731,0.776,0.6862,0.5848,0.7277
+S5,Transformative Public Investment,transformation,T3,Adaptive Governance,adaptive,0.711,0.7614,0.774,0.753,0.8502,0.6612,0.7527
+S5,Transformative Public Investment,transformation,T4,Justice-Centered Transformation,transformation,0.7085,0.7014,0.816,0.987,0.7685,0.8272,0.7914
+S5,Transformative Public Investment,transformation,T5,Low-Cost Continuity,continuity,0.5091,0.8514,0.47,0.193,0.391,0.1992,0.4656
+S5,Transformative Public Investment,transformation,T6,Precautionary Public Safeguards,precautionary,0.6764,0.7374,0.781,0.883,0.7254,0.6964,0.7481
+S6,Technology Acceleration Without Governance,technology_risk,T1,Efficiency Optimization,optimization,0.6161,0.4002,0.333,0.211,0.312,0.2848,0.3858
+S6,Technology Acceleration Without Governance,technology_risk,T2,Robust Resilience Portfolio,resilience,0.7266,0.3402,0.549,0.692,0.5734,0.5848,0.5839
+S6,Technology Acceleration Without Governance,technology_risk,T3,Adaptive Governance,adaptive,0.681,0.3522,0.592,0.669,0.7351,0.6612,0.6095
+S6,Technology Acceleration Without Governance,technology_risk,T4,Justice-Centered Transformation,transformation,0.6764,0.2922,0.634,0.903,0.6547,0.8272,0.6479
+S6,Technology Acceleration Without Governance,technology_risk,T5,Low-Cost Continuity,continuity,0.4682,0.4422,0.288,0.109,0.2691,0.1992,0.3188
+S6,Technology Acceleration Without Governance,technology_risk,T6,Precautionary Public Safeguards,precautionary,0.6433,0.3282,0.599,0.799,0.6109,0.6964,0.6043

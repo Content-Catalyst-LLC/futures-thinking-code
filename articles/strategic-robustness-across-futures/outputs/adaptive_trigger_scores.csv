@@ -1,0 +1,7 @@
+trigger_id,indicator_name,baseline,threshold_value,monitoring_gap,review_frequency,review_weight,linked_scenario,trigger_priority_score,trigger_rule,decision_response
+TR1,compound_disruption_index,0.42,0.62,0.2,quarterly,0.88,S3,0.483,If compound disruption exceeds threshold for two review periods,Activate resilience portfolio stress review.
+TR5,technology_accountability_gap,0.44,0.62,0.18,quarterly,0.88,S6,0.474,If technology accountability gap crosses threshold,Pause high-risk deployment and strengthen public safeguards.
+TR4,equity_burden_index,0.48,0.64,0.16,quarterly,0.88,S3,0.472,If equity burden rises above threshold,Rebalance strategy toward protection and distributional repair.
+TR3,fiscal_capacity_gap,0.4,0.58,0.18,quarterly,0.88,S2,0.46,If fiscal capacity gap widens,Shift toward staged no-regret investments and financing options.
+TR6,ecological_stress_threshold,0.5,0.68,0.18,semiannual,0.68,S3,0.455,If ecological stress approaches threshold,Revise strategies for ecological limits and transition pathways.
+TR2,public_trust_divergence,0.36,0.54,0.18,semiannual,0.68,S4,0.406,If trust divergence widens above threshold,Escalate legitimacy participation and accountability safeguards.
