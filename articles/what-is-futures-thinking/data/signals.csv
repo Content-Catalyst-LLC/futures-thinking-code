@@ -1,7 +1,9 @@
-signal_id,domain,signal,uncertainty,impact,monitoring_priority
-S001,technology,AI decision systems moving into public services,0.76,0.88,high
-S002,climate,Compound heat and infrastructure stress events increasing,0.70,0.92,high
-S003,governance,Public trust fragmentation across institutions,0.82,0.86,high
-S004,economy,Supply-chain regionalization after repeated shocks,0.64,0.74,medium
-S005,society,Demographic aging reshaping care and labor systems,0.48,0.80,medium
-S006,energy,Storage and grid bottlenecks slowing transition pathways,0.68,0.78,medium
+signal_id,domain,signal,uncertainty,impact,novelty,source_type,monitoring_priority
+SG1,technology,Public agencies piloting AI eligibility and decision-support systems,0.76,0.88,0.74,policy_scan,high
+SG2,climate,Infrastructure agencies revising heat flood and compound-risk design assumptions,0.68,0.92,0.66,technical_guidance,high
+SG3,governance,Declining public trust in administrative and scientific institutions,0.82,0.86,0.70,survey_trend,high
+SG4,economy,Firms increasing regional supply redundancy after repeated shocks,0.64,0.74,0.58,market_scan,medium
+SG5,demography,Local governments expanding age-friendly and care-infrastructure planning,0.50,0.72,0.42,municipal_scan,medium
+SG6,energy,Grid interconnection queues delaying clean-energy deployment,0.62,0.80,0.60,energy_report,medium
+SG7,public_health,Public health agencies integrating climate and disease surveillance,0.58,0.78,0.64,health_report,medium
+SG8,culture,Youth-led futures assemblies and long-term responsibility campaigns,0.72,0.70,0.82,civic_scan,medium

@@ -1,0 +1,6 @@
+"strategy_id","strategy_name","strategy_type","mean_performance","worst_case","best_case","robustness_proxy"
+"K2","Flexible Foresight Strategy","foresight",0.756,0.71,0.79,0.7307
+"K5","Participatory Futures Strategy","public_foresight",0.764,0.66,0.86,0.7068
+"K3","Transformational Strategy","systems_change",0.788,0.62,0.88,0.6956
+"K4","Defensive Continuity Strategy","risk_control",0.592,0.52,0.7,0.5524
+"K1","Forecast-Optimized Strategy","forecasting",0.512,0.36,0.91,0.4284

@@ -1,0 +1,13 @@
+metric,period,observed_value,forecast_value,domain
+service_demand,2026-Q1,108,101,public_services
+service_demand,2026-Q2,116,105,public_services
+service_demand,2026-Q3,124,109,public_services
+infrastructure_stress,2026-Q1,0.62,0.55,infrastructure
+infrastructure_stress,2026-Q2,0.71,0.58,infrastructure
+infrastructure_stress,2026-Q3,0.79,0.61,infrastructure
+trust_index,2026-Q1,0.58,0.63,governance
+trust_index,2026-Q2,0.53,0.62,governance
+trust_index,2026-Q3,0.49,0.61,governance
+signal_volume,2026-Q1,34,28,horizon_scanning
+signal_volume,2026-Q2,45,31,horizon_scanning
+signal_volume,2026-Q3,61,35,horizon_scanning

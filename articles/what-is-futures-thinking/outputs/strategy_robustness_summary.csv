@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,mean_performance,worst_case,best_case,volatility,adaptability,equity_sensitivity,implementation_difficulty,robustness_score,mean_regret,max_regret
+K2,Flexible Foresight Strategy,foresight,0.756,0.71,0.79,0.0287,0.84,0.72,0.58,0.711,0.096,0.13
+K5,Participatory Futures Strategy,public_foresight,0.764,0.66,0.86,0.0686,0.74,0.92,0.66,0.6859,0.088,0.25
+K3,Transformational Strategy,systems_change,0.788,0.62,0.88,0.0915,0.78,0.88,0.82,0.6657,0.064,0.29
+K4,Defensive Continuity Strategy,risk_control,0.592,0.52,0.7,0.0611,0.46,0.45,0.44,0.4944,0.26,0.31
+K1,Forecast-Optimized Strategy,forecasting,0.512,0.36,0.91,0.2039,0.28,0.32,0.34,0.342,0.34,0.47

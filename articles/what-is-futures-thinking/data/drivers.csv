@@ -1,0 +1,9 @@
+driver_id,domain,driver_name,uncertainty,impact,velocity,description
+D1,technology,AI-mediated decision systems,0.78,0.88,0.82,AI and automated decision systems reshape knowledge work public services and institutional judgment.
+D2,climate,Compound climate extremes,0.66,0.94,0.76,Heat floods droughts wildfires and infrastructure stress interact across regions.
+D3,governance,Institutional trust and legitimacy,0.84,0.86,0.62,Public trust affects compliance coordination reform and long-term policy capacity.
+D4,economy,Supply-chain reconfiguration,0.70,0.76,0.68,Regionalization redundancy chokepoints and geopolitical risk reshape economic systems.
+D5,demography,Aging migration and labor-market change,0.58,0.80,0.55,Population shifts affect care work education housing fiscal systems and labor markets.
+D6,energy,Grid modernization and storage constraints,0.64,0.82,0.70,Energy transition pathways depend on transmission storage demand flexibility and governance.
+D7,public_health,Chronic disease and preparedness capacity,0.60,0.78,0.54,Health futures depend on prevention surveillance workforce and system resilience.
+D8,culture,Future imaginaries and social narratives,0.82,0.72,0.60,Hope dread technological visions and collapse narratives shape present choices.

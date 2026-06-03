@@ -1,0 +1,6 @@
+scenario_id,scenario_name,summary,plausibility,time_horizon_years,system_stress
+S1,Expected Continuity,Current institutional assumptions remain mostly intact while change unfolds gradually.,0.72,10,0.42
+S2,Technology Disruption,AI automation data systems and platform infrastructures alter work governance knowledge and institutional coordination.,0.68,10,0.78
+S3,Climate and Infrastructure Stress,Climate impacts compound with aging infrastructure fiscal constraints public health risk and regional adaptation pressure.,0.74,15,0.86
+S4,Institutional Fragmentation,Public trust regulatory capacity coordination and legitimacy weaken under overlapping shocks.,0.62,10,0.82
+S5,Transformational Governance,Institutions build stronger anticipatory capacity public participation adaptive policy and long-horizon investment.,0.55,15,0.58

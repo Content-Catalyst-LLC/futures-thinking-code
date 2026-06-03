@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,description,adaptability,implementation_difficulty,equity_sensitivity
+K1,Forecast-Optimized Strategy,forecasting,Optimizes for expected continuity and near-term efficiency using a dominant forecast.,0.28,0.34,0.32
+K2,Flexible Foresight Strategy,foresight,Maintains adaptive options across plausible futures through scenario testing signal monitoring and modular commitments.,0.84,0.58,0.72
+K3,Transformational Strategy,systems_change,Pursues structural transition toward preferred futures with institutional redesign and long-term investment.,0.78,0.82,0.88
+K4,Defensive Continuity Strategy,risk_control,Protects core operations and existing capacity while limiting exposure to abrupt disruption.,0.46,0.44,0.45
+K5,Participatory Futures Strategy,public_foresight,Uses participatory deliberation local knowledge and public legitimacy to shape strategic pathways.,0.74,0.66,0.92

@@ -1,25 +1,26 @@
-strategy,future,performance
-Forecast-Optimized Strategy,Expected Continuity,0.91
-Forecast-Optimized Strategy,Technology Disruption,0.42
-Forecast-Optimized Strategy,Climate Stress,0.38
-Forecast-Optimized Strategy,Institutional Fragmentation,0.36
-Forecast-Optimized Strategy,Supply Constraint,0.40
-Forecast-Optimized Strategy,Public Trust Shock,0.34
-Flexible Foresight Strategy,Expected Continuity,0.78
-Flexible Foresight Strategy,Technology Disruption,0.75
-Flexible Foresight Strategy,Climate Stress,0.72
-Flexible Foresight Strategy,Institutional Fragmentation,0.70
-Flexible Foresight Strategy,Supply Constraint,0.73
-Flexible Foresight Strategy,Public Trust Shock,0.69
-Transformational Strategy,Expected Continuity,0.62
-Transformational Strategy,Technology Disruption,0.81
-Transformational Strategy,Climate Stress,0.84
-Transformational Strategy,Institutional Fragmentation,0.76
-Transformational Strategy,Supply Constraint,0.78
-Transformational Strategy,Public Trust Shock,0.74
-Defensive Continuity Strategy,Expected Continuity,0.70
-Defensive Continuity Strategy,Technology Disruption,0.52
-Defensive Continuity Strategy,Climate Stress,0.55
-Defensive Continuity Strategy,Institutional Fragmentation,0.58
-Defensive Continuity Strategy,Supply Constraint,0.57
-Defensive Continuity Strategy,Public Trust Shock,0.60
+strategy_id,scenario_id,performance,confidence,notes
+K1,S1,0.91,0.78,Strong under continuity but brittle when assumptions break.
+K1,S2,0.42,0.52,Low adaptation to rapid technology disruption.
+K1,S3,0.38,0.48,Historical assumptions weaken under climate stress.
+K1,S4,0.36,0.44,Institutional trust shock undermines forecast-optimized planning.
+K1,S5,0.49,0.46,Does not mobilize transformation effectively.
+K2,S1,0.78,0.74,Acceptable under continuity while preserving options.
+K2,S2,0.76,0.70,Adaptive options support response to technology shifts.
+K2,S3,0.74,0.68,Scenario testing improves preparedness for climate stress.
+K2,S4,0.71,0.64,Monitoring and modularity help but legitimacy risks remain.
+K2,S5,0.79,0.66,Works well with stronger anticipatory governance.
+K3,S1,0.62,0.58,May appear costly under continuity.
+K3,S2,0.82,0.62,Structural transition benefits under technology disruption.
+K3,S3,0.85,0.66,Strong under climate and infrastructure stress.
+K3,S4,0.77,0.60,Institutional redesign helps but political feasibility is difficult.
+K3,S5,0.88,0.70,Best aligned with transformational governance.
+K4,S1,0.70,0.72,Protects existing operations.
+K4,S2,0.52,0.58,Limited ability to adapt to technology disruption.
+K4,S3,0.56,0.60,Some resilience but weak transformation capacity.
+K4,S4,0.61,0.64,Defensive posture protects continuity under fragmentation.
+K4,S5,0.57,0.56,Underuses transformational opportunity.
+K5,S1,0.66,0.64,Participatory process may seem slower under continuity.
+K5,S2,0.72,0.62,Public legitimacy helps technology governance.
+K5,S3,0.78,0.66,Community knowledge strengthens adaptation.
+K5,S4,0.80,0.60,Legitimacy and participation reduce fragmentation risk.
+K5,S5,0.86,0.68,Strong alignment with transformational governance.
