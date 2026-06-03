@@ -1,0 +1,10 @@
+indicator_id,signal_id,indicator_name,evidence_count,repetition_score,clarity_score,measurement_quality,policy_attention,indicator_status,review_frequency
+EI1,WS1,Climate insurance stress reports,7,0.82,0.72,0.68,0.70,emerging_indicator,quarterly
+EI2,WS2,Community heat response repetition,5,0.70,0.62,0.54,0.48,watchlist_signal,quarterly
+EI3,WS3,AI workaround adoption across teams,6,0.76,0.66,0.58,0.52,watchlist_signal,quarterly
+EI4,WS4,Grid-storage pilot replication,4,0.62,0.58,0.60,0.50,exploratory_signal,semiannual
+EI5,WS5,Participatory governance pilots,4,0.56,0.52,0.46,0.54,exploratory_signal,semiannual
+EI6,WS6,Care-system workaround reports,6,0.74,0.64,0.56,0.58,watchlist_signal,quarterly
+EI7,WS7,Future generations claims in policy discourse,5,0.68,0.60,0.52,0.62,watchlist_signal,semiannual
+EI8,WS9,Public algorithm accountability complaints,7,0.80,0.70,0.62,0.74,emerging_indicator,quarterly
+EI9,WS10,Repeated ecological anomaly reports,5,0.72,0.58,0.64,0.48,watchlist_signal,quarterly

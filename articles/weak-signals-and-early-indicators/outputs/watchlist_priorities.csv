@@ -1,0 +1,9 @@
+watch_id,signal_id,watch_reason,owner_role,review_frequency,decision_linkage,watch_priority,trigger_condition
+W1,WS1,Climate insurance stress may become an early indicator of adaptation failure,climate_resilience_lead,quarterly,0.9,0.894,Repeated withdrawal premium shocks or public insurance interventions appear.
+W2,WS9,Algorithm accountability concerns may signal governance lag in public services,digital_governance_lead,quarterly,0.88,0.88,Public-service AI moves from pilot use to operational decisions.
+W3,WS10,Ecological anomalies may indicate threshold movement or regime stress,ecology_monitoring_lead,quarterly,0.84,0.852,Multiple field reports confirm pattern persistence or spread.
+W4,WS2,Community heat practices may reveal official preparedness gaps,public_health_lead,quarterly,0.82,0.838,Heat emergencies rise and informal networks carry response burden.
+W5,WS3,AI workarounds may indicate labor restructuring before formal policy catches up,labor_strategy_lead,quarterly,0.8,0.824,AI workarounds are replicated across teams sectors or workflows.
+W6,WS6,Care workarounds may indicate health-labor system stress,health_workforce_lead,quarterly,0.78,0.81,Care workaround reports increase across agencies or providers.
+W7,WS7,Future generations claims may reshape legitimacy expectations,participation_lead,semiannual,0.72,0.708,Claims enter legal policy curriculum or public-budget debates.
+W8,WS5,Local governance experiments may indicate anticipatory governance demand,public_policy_lead,semiannual,0.68,0.68,Pilots become replicated funded or formally evaluated.

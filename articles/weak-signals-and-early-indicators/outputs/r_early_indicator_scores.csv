@@ -1,0 +1,10 @@
+"indicator_id","signal_id","indicator_name","evidence_count","repetition_score","clarity_score","measurement_quality","policy_attention","indicator_status","review_frequency","evidence_index","early_indicator_score"
+"EI1","WS1","Climate insurance stress reports",7,0.82,0.72,0.68,0.7,"emerging_indicator","quarterly",1,0.761
+"EI8","WS9","Public algorithm accountability complaints",7,0.8,0.7,0.62,0.74,"emerging_indicator","quarterly",1,0.747
+"EI3","WS3","AI workaround adoption across teams",6,0.76,0.66,0.58,0.52,"watchlist_signal","quarterly",0.857142857142857,0.6607
+"EI6","WS6","Care-system workaround reports",6,0.74,0.64,0.56,0.58,"watchlist_signal","quarterly",0.857142857142857,0.6587
+"EI9","WS10","Repeated ecological anomaly reports",5,0.72,0.58,0.64,0.48,"watchlist_signal","quarterly",0.714285714285714,0.6204
+"EI7","WS7","Future generations claims in policy discourse",5,0.68,0.6,0.52,0.62,"watchlist_signal","semiannual",0.714285714285714,0.6194
+"EI2","WS2","Community heat response repetition",5,0.7,0.62,0.54,0.48,"watchlist_signal","quarterly",0.714285714285714,0.6054
+"EI4","WS4","Grid-storage pilot replication",4,0.62,0.58,0.6,0.5,"exploratory_signal","semiannual",0.571428571428571,0.5771
+"EI5","WS5","Participatory governance pilots",4,0.56,0.52,0.46,0.54,"exploratory_signal","semiannual",0.571428571428571,0.5271

@@ -1,0 +1,10 @@
+pathway_id,signal_id,pathway_type,adoption,feedback,institutional_recognition,friction,legitimacy,scaling_condition
+P1,WS1,policy_market_feedback,0.74,0.78,0.64,0.36,0.70,Multiple regions experience withdrawal premium shocks or public intervention.
+P2,WS2,community_learning,0.62,0.70,0.44,0.34,0.82,Community heat practices are adopted by local agencies or public-health systems.
+P3,WS3,workplace_diffusion,0.72,0.74,0.46,0.42,0.58,AI workaround practices become routine across teams or organizations.
+P4,WS4,technical_infrastructure,0.56,0.68,0.40,0.52,0.54,Storage pilots move into grid planning standards or financing models.
+P5,WS5,institutional_experimentation,0.48,0.54,0.36,0.44,0.76,Participatory governance pilots receive durable public funding or legal mandate.
+P6,WS6,service_system_adaptation,0.66,0.72,0.50,0.38,0.80,Care workarounds become recognized as system stress indicators.
+P7,WS7,normative_legitimation,0.58,0.66,0.48,0.40,0.84,Future generations claims enter courts curricula budgets or public policy.
+P8,WS9,regulatory_attention,0.68,0.76,0.60,0.34,0.72,Algorithm accountability concerns trigger oversight rules or procurement changes.
+P9,WS10,ecological_monitoring,0.54,0.70,0.42,0.46,0.70,Ecological anomalies are confirmed by repeated field reports and monitoring data.

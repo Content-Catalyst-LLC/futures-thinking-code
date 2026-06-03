@@ -1,0 +1,8 @@
+assumption_id,assumption_text,domain,confidence,exposure,reversibility,monitoring_signal
+A1,Weak signals can safely wait until they become measurable indicators,signal_interpretation,0.38,0.88,0.34,Signals begin converging into repeated issue clusters.
+A2,Official metrics capture the most important early changes,data_quality,0.44,0.84,0.46,Affected communities report change before official data registers it.
+A3,AI governance can respond after public-service adoption scales,technology_governance,0.42,0.86,0.38,Deployment creates lock-in before accountability rules are settled.
+A4,Climate adaptation signals are isolated rather than connected,climate_resilience,0.40,0.92,0.30,Heat insurance ecological and infrastructure signals converge.
+A5,Community knowledge is supplementary rather than core evidence,participation,0.36,0.78,0.50,Community signals anticipate harms before formal monitoring catches up.
+A6,Weak signal reports will influence strategy without formal decision linkage,institutional_uptake,0.46,0.82,0.44,Signals are documented but not assigned owners or triggers.
+A7,Counter-signals are less important than dominant trends,trend_interpretation,0.48,0.74,0.52,Backlash reversal or fragmentation signals challenge expected pathways.

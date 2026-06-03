@@ -1,0 +1,7 @@
+"cluster_id","cluster_name","related_signals","domain","coherence","strategic_concern","monitoring_priority","description","cluster_priority"
+"C1","Climate adaptation and financial stress","WS1;WS2;WS10","climate_resilience",0.88,0.92,"high","Insurance withdrawal heat adaptation and ecological anomalies indicate narrowing climate adaptation windows.",0.8096
+"C2","AI governance and public accountability","WS3;WS9","technology_governance",0.84,0.88,"high","AI use and public-service accountability concerns suggest governance lag and legitimacy risk.",0.7392
+"C3","Care labor and demographic strain","WS6","health_labor",0.72,0.8,"medium","Care workaround signals indicate stress in health labor and family-care systems.",0.576
+"C4","Long-term legitimacy and participation","WS5;WS7","governance_culture",0.7,0.76,"medium","Governance experiments and youth claims indicate changing legitimacy expectations.",0.532
+"C5","Energy transition flexibility","WS4","energy_infrastructure",0.64,0.72,"medium","Storage breakthroughs may affect grid flexibility and energy transition pathways.",0.4608
+"C6","Cultural and market trust shifts","WS8","markets_culture",0.58,0.6,"exploratory","Behavioral changes may indicate trust and consumption shifts but evidence remains fragmented.",0.348
