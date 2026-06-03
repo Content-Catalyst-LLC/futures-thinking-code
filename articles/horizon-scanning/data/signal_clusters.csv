@@ -1,0 +1,6 @@
+cluster_id,cluster_name,related_signals,domain,coherence,strategic_concern,monitoring_priority,description
+C1,AI accountability and public services,S1;S10,technology_governance,0.82,0.88,high,Signals suggest AI-mediated public decision systems may outpace accountability and legitimacy structures.
+C2,Climate adaptation and housing stress,S2;S8,urban_climate,0.86,0.91,high,Community heat response and insurance withdrawal may indicate narrowing adaptation windows.
+C3,Technology fragmentation and geopolitical constraint,S3;S6,geopolitics_technology,0.78,0.84,high,Technology restrictions and climate-tech policy shifts may reshape innovation and supply chains.
+C4,Participatory governance experiments,S4;S9,public_governance,0.72,0.76,medium,Local governance innovations and youth responsibility claims point toward new legitimacy expectations.
+C5,Care and labor-system stress,S7;S5,health_labor,0.68,0.74,medium,Care-workarounds and behavior changes may indicate institutional strain in labor and social systems.

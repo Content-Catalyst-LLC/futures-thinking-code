@@ -1,0 +1,9 @@
+source_id,source_name,source_type,domain,elite_source,community_source,scientific_source,policy_source,cultural_source,reliability,blind_spot_risk,source_value_score,description
+SRC8,Environmental observations and field reports,environment,ecology_climate,false,true,true,true,false,0.76,0.26,0.9624,Local and scientific evidence of ecological climate or infrastructure stress.
+SRC3,Community adaptation forums,community,climate_health,false,true,false,false,true,0.7,0.22,0.826,Local public knowledge about heat housing care and environmental stress.
+SRC7,Worker and professional forums,practice,labor_organizations,false,true,false,false,true,0.64,0.28,0.7408,Practice-based observations from frontline workers and technical communities.
+SRC5,Local journalism and civic media,media,local_governance,false,true,false,false,true,0.68,0.36,0.7152,Local reporting on early institutional stress community responses and policy experiments.
+SRC1,Peer-reviewed research feeds,academic,science_technology,false,false,true,false,false,0.86,0.42,0.5988,Scientific and scholarly sources useful for early research signals.
+SRC4,Standards and technical bodies,technical,technology_infrastructure,true,false,true,true,false,0.8,0.48,0.5776,Standards development and technical coordination activity.
+SRC2,Government policy consultations,policy,governance,true,false,false,true,false,0.78,0.54,0.4156,Official policy proposals consultation papers and agency notices.
+SRC6,Patent and startup monitoring,market,technology_business,true,false,false,false,false,0.62,0.66,0.158,Early commercial and technical development signals.

@@ -1,0 +1,6 @@
+profile_id,profile_name,signal_strength,ambiguity,filtering_quality,source_diversity,institutional_uptake,resistance,scanning_effectiveness_score
+P1,High-Quality Scanning System,0.74,0.42,0.78,0.82,0.74,0.22,0.576
+P4,Participatory Scanning System,0.7,0.52,0.72,0.9,0.76,0.26,0.5532
+P3,Elite-Narrow Scanning System,0.66,0.58,0.62,0.3,0.56,0.48,0.3004
+P5,Signal-Hoarding System,0.78,0.62,0.34,0.6,0.34,0.64,0.2428
+P2,Noisy Reactive Scanning System,0.68,0.71,0.39,0.44,0.42,0.58,0.2124

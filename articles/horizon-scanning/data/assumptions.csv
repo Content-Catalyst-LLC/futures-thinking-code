@@ -1,0 +1,8 @@
+assumption_id,assumption_text,domain,confidence,exposure,reversibility,monitoring_signal
+A1,Existing institutional sources are broad enough to detect meaningful future change,source_diversity,0.44,0.84,0.46,Important signals appear first outside official or elite sources.
+A2,Weak signals can be ignored until evidence becomes measurable,signal_interpretation,0.38,0.88,0.34,Signals begin converging into repeated issue clusters.
+A3,Technology governance can respond after adoption scales,technology_governance,0.42,0.86,0.38,Deployment creates lock-in before accountability rules are settled.
+A4,Climate adaptation can remain incremental,climate_adaptation,0.40,0.92,0.30,Heat insurance and infrastructure signals converge into acute risk.
+A5,Community knowledge is supplementary rather than core foresight evidence,participation,0.36,0.78,0.50,Community signals anticipate harms before formal data catches up.
+A6,Scanning reports will influence strategy without formal decision linkage,institutional_uptake,0.46,0.82,0.44,Signals are documented but not assigned owners or review triggers.
+A7,Counter-signals are less important than dominant trends,trend_interpretation,0.48,0.74,0.52,Backlash reversal or fragmentation signals challenge expected pathways.

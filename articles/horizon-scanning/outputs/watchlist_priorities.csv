@@ -1,0 +1,7 @@
+watch_id,signal_id,watch_reason,owner_role,review_frequency,decision_linkage,watch_priority,trigger_condition
+W1,S8,Climate insurance withdrawal may signal adaptation fiscal stress,climate_resilience_lead,quarterly,0.88,0.88,Multiple regions report withdrawal pricing shocks or public intervention.
+W2,S1,AI public-service use may create accountability gaps,digital_governance_lead,quarterly,0.86,0.866,AI systems move from pilot to operational public decision use.
+W4,S3,Technology restrictions may reshape supply chains and research access,strategic_foresight_lead,quarterly,0.84,0.852,New export controls procurement limits or standards fragmentation appear.
+W3,S2,Community heat adaptation may reveal official preparedness gaps,public_health_lead,quarterly,0.82,0.838,Heat emergencies increase and community networks carry response burden.
+W5,S7,Care workforce workarounds may indicate system stress,health_workforce_lead,semiannual,0.76,0.736,Workarounds become routine across agencies or care institutions.
+W6,S9,Youth long-term responsibility claims may reshape legitimacy expectations,participation_lead,semiannual,0.72,0.708,Youth claims enter legal policy curriculum or public-budget debates.
