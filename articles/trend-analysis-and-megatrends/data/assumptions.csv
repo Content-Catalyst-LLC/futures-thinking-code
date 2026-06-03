@@ -1,0 +1,8 @@
+assumption_id,assumption_text,domain,confidence,exposure,reversibility,monitoring_signal
+A1,Trend direction will remain stable enough for near-term planning,trend_analysis,0.52,0.82,0.46,Trend reversal or fragmentation appears across indicators.
+A2,Measured indicators capture the most important structural changes,data_quality,0.48,0.76,0.50,Qualitative evidence reveals harm or change missed by metrics.
+A3,Climate risks will remain manageable through incremental adaptation,climate,0.40,0.92,0.30,Compound events exceed design and insurance assumptions.
+A4,AI adoption will primarily improve productivity without major distributional harm,technology_labor,0.44,0.86,0.42,Worker displacement and surveillance risks accelerate.
+A5,Public trust can be rebuilt through communications alone,governance,0.38,0.78,0.46,Institutional trust remains low despite messaging campaigns.
+A6,Energy transition trends will not face major grid and materials bottlenecks,energy,0.46,0.80,0.38,Grid delays and materials constraints affect deployment pace.
+A7,Demographic aging is slow enough for existing institutions to adapt,demography,0.50,0.84,0.36,Care and fiscal pressures outpace institutional reforms.

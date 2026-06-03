@@ -1,0 +1,9 @@
+interaction_id,source_trend,target_trend,interaction_type,interaction_strength,systemic_risk,description
+I1,T2,T6,reinforcing,0.90,0.92,Climate risk intensification amplifies urban heat housing and infrastructure stress.
+I2,T1,T7,reinforcing,0.82,0.76,Digital labor restructuring and platform-mediated public life reinforce each other.
+I3,T3,T8,reinforcing,0.88,0.84,Population aging increases care economy pressure and workforce constraints.
+I4,T2,T4,accelerating,0.78,0.80,Climate risk intensification accelerates energy transition and grid modernization pressure.
+I5,T5,T2,constraining,0.70,0.82,Public trust fragmentation can weaken climate adaptation legitimacy and implementation.
+I6,T7,T5,amplifying,0.76,0.78,Platform-mediated public life can amplify institutional distrust and information disorder.
+I7,T6,T5,amplifying,0.68,0.74,Urban stress can deepen distrust when risks and protections are unequally distributed.
+I8,T4,T1,enabling,0.58,0.62,Energy transition creates demand for digital labor infrastructure and technical skills.

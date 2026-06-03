@@ -1,0 +1,9 @@
+"indicator_id","indicator_name","domain","trend_id","current_value","baseline_value","trend_direction","confidence","review_frequency","movement_score"
+"K2","AI workflow adoption index","technology_labor","T1",0.68,0.36,"increasing",0.66,"quarterly",0.2112
+"K1","Climate insurance stress index","climate_finance","T2",0.74,0.48,"increasing",0.72,"quarterly",0.1872
+"K3","Urban heat vulnerability index","urban_climate","T6",0.76,0.52,"increasing",0.7,"quarterly",0.168
+"K4","Public trust divergence index","governance","T5",0.7,0.42,"increasing",0.6,"quarterly",0.168
+"K5","Clean energy grid constraint index","energy","T4",0.64,0.4,"increasing",0.68,"semiannual",0.1632
+"K7","Platform dependency index","digital_governance","T7",0.66,0.38,"increasing",0.58,"quarterly",0.1624
+"K6","Care workforce pressure index","health_labor","T8",0.72,0.48,"increasing",0.64,"semiannual",0.1536
+"K8","Old-age dependency pressure index","demography","T3",0.62,0.44,"increasing",0.82,"annual",0.1476

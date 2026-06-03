@@ -1,0 +1,9 @@
+signal_id,domain,related_trend,signal,uncertainty,impact,novelty,watch_score,source_type,monitoring_priority
+S4,governance,T5,Declining public trust indicators diverging by community,0.82,0.86,0.7,0.806,survey_trend,high
+S2,labor,T1,Firms reorganizing roles around AI-assisted workflows,0.76,0.84,0.74,0.787,workforce_scan,high
+S1,climate,T2,Insurance withdrawal and premium spikes in climate-exposed areas,0.72,0.9,0.66,0.777,market_policy_scan,high
+S3,urban,T6,Heat emergency declarations becoming routine in major cities,0.62,0.86,0.58,0.706,public_health_scan,high
+S5,energy,T4,Grid interconnection queues delaying clean energy deployment,0.64,0.82,0.6,0.702,energy_report,medium
+S7,digital,T7,Public agencies expanding platform-based service delivery,0.7,0.74,0.64,0.701,policy_scan,medium
+S6,health,T8,Long-term care workforce shortages widening,0.66,0.78,0.54,0.678,health_labor_scan,medium
+S8,demography,T3,Old-age dependency ratios rising across advanced economies,0.44,0.82,0.34,0.567,demographic_data,medium

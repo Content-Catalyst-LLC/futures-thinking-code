@@ -1,0 +1,9 @@
+signal_id,domain,signal,related_trend,uncertainty,impact,novelty,source_type,monitoring_priority
+S1,climate,Insurance withdrawal and premium spikes in climate-exposed areas,T2,0.72,0.90,0.66,market_policy_scan,high
+S2,labor,Firms reorganizing roles around AI-assisted workflows,T1,0.76,0.84,0.74,workforce_scan,high
+S3,urban,Heat emergency declarations becoming routine in major cities,T6,0.62,0.86,0.58,public_health_scan,high
+S4,governance,Declining public trust indicators diverging by community,T5,0.82,0.86,0.70,survey_trend,high
+S5,energy,Grid interconnection queues delaying clean energy deployment,T4,0.64,0.82,0.60,energy_report,medium
+S6,health,Long-term care workforce shortages widening,T8,0.66,0.78,0.54,health_labor_scan,medium
+S7,digital,Public agencies expanding platform-based service delivery,T7,0.70,0.74,0.64,policy_scan,medium
+S8,demography,Old-age dependency ratios rising across advanced economies,T3,0.44,0.82,0.34,demographic_data,medium

@@ -1,0 +1,9 @@
+implication_id,trend_id,decision_area,strategic_implication,action_option,monitoring_indicator,review_frequency,decision_linkage,translation_priority
+P1,T2,climate_adaptation,Climate risk is becoming a structuring condition rather than an external stressor,Move from incremental adaptation to compound-risk planning,K1,quarterly,0.86,0.866
+P3,T6,urban_policy,Urban heat and housing stress should be treated as linked resilience risks,Integrate housing heat mobility and public-health planning,K3,quarterly,0.84,0.852
+P4,T5,governance,Public trust fragmentation can undermine implementation across all futures,Add legitimacy and trust indicators to strategic reviews,K4,quarterly,0.82,0.838
+P2,T1,labor_strategy,Digital labor restructuring requires workforce governance not just technology adoption,Create worker-centered AI transition and skills safeguards,K2,quarterly,0.8,0.824
+P7,T7,digital_governance,Platform dependency raises governance accountability and access concerns,Audit platform-mediated service delivery and data accountability,K7,quarterly,0.76,0.796
+P5,T4,energy_policy,Energy transition strategy must include grid bottlenecks and demand flexibility,Prioritize transmission storage interconnection and resilience,K5,semiannual,0.78,0.75
+P6,T8,public_health,Care economy pressure creates long-term institutional and labor-market risk,Invest in care workforce support prevention and family-care infrastructure,K6,semiannual,0.74,0.722
+P8,T3,demography,Population aging should be integrated into fiscal labor housing and health scenarios,Use aging indicators in cross-sector scenario planning,K8,annual,0.72,0.648

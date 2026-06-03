@@ -1,0 +1,9 @@
+trend_id,pattern_type,domain,pattern_class,momentum,structural_depth,cross_system_influence,reversibility,uncertainty,distributional_sensitivity,description
+T1,Digital Labor Restructuring,technology_labor,megatrend_candidate,0.78,0.71,0.76,0.34,0.58,0.72,AI platforms digital work and organizational redesign reshape labor markets skills and workplace power.
+T2,Climate Risk Intensification,climate_ecology,megatrend,0.74,0.86,0.88,0.22,0.52,0.86,Compound climate hazards reshape infrastructure public health migration insurance and governance.
+T3,Population Aging,demography,megatrend,0.69,0.81,0.79,0.28,0.46,0.70,Aging populations alter labor health care public finance housing and care systems.
+T4,Distributed Energy Transition,energy_infrastructure,established_trend,0.72,0.67,0.73,0.41,0.61,0.68,Distributed clean energy storage grid modernization and demand flexibility reshape energy systems.
+T5,Public Trust Fragmentation,governance_culture,megatrend_candidate,0.64,0.72,0.78,0.46,0.66,0.82,Fragmented public trust affects science governance compliance reform and democratic legitimacy.
+T6,Urban Heat and Housing Stress,urban_climate,megatrend_candidate,0.70,0.82,0.84,0.26,0.54,0.90,Heat housing affordability infrastructure risk and social vulnerability interact in cities.
+T7,Platform-Mediated Public Life,digital_governance,established_trend,0.76,0.70,0.80,0.36,0.62,0.78,Digital platforms reshape communication public services markets culture and institutional trust.
+T8,Care Economy Pressure,health_labor,emerging_structural_trend,0.66,0.76,0.74,0.32,0.50,0.88,Aging chronic disease workforce constraints and unpaid care burdens reshape social policy.

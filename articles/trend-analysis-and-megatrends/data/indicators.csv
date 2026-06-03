@@ -1,0 +1,9 @@
+indicator_id,indicator_name,domain,trend_id,current_value,baseline_value,trend_direction,confidence,review_frequency
+K1,Climate insurance stress index,climate_finance,T2,0.74,0.48,increasing,0.72,quarterly
+K2,AI workflow adoption index,technology_labor,T1,0.68,0.36,increasing,0.66,quarterly
+K3,Urban heat vulnerability index,urban_climate,T6,0.76,0.52,increasing,0.70,quarterly
+K4,Public trust divergence index,governance,T5,0.70,0.42,increasing,0.60,quarterly
+K5,Clean energy grid constraint index,energy,T4,0.64,0.40,increasing,0.68,semiannual
+K6,Care workforce pressure index,health_labor,T8,0.72,0.48,increasing,0.64,semiannual
+K7,Platform dependency index,digital_governance,T7,0.66,0.38,increasing,0.58,quarterly
+K8,Old-age dependency pressure index,demography,T3,0.62,0.44,increasing,0.82,annual
