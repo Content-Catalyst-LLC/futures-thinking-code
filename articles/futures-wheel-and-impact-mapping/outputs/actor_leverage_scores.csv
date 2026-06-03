@@ -1,0 +1,11 @@
+actor_id,actor_name,actor_type,domain,decision_power,implementation_role,affectedness,knowledge_value,actor_leverage_score,description
+A2,Public health department,implementer,public_health,0.78,0.9,0.72,0.86,0.818,Monitors heat illness and coordinates emergency preparedness.
+A1,City climate office,decision_maker,climate_public_health,0.86,0.88,0.58,0.78,0.789,Coordinates climate adaptation planning and resilience investment.
+A10,Civil-rights oversight body,decision_maker,law_policy,0.8,0.78,0.68,0.86,0.786,Reviews high-risk AI systems for rights and accountability harms.
+A7,Public AI procurement office,decision_maker,technology_governance,0.88,0.84,0.56,0.78,0.781,Sets requirements for digital public-service systems.
+A3,Utilities,implementer,energy,0.82,0.84,0.62,0.78,0.775,Manage electricity reliability affordability and shutoff protections.
+A6,Community organizations,knowledge_holder,community_resilience,0.52,0.78,0.9,0.92,0.761,Hold local trust vulnerability knowledge and response capacity.
+A8,Public-service caseworkers,implementer,public_services,0.48,0.86,0.74,0.88,0.727,Use AI-informed systems and understand workflow consequences.
+A4,Employers,implementer,labor,0.7,0.82,0.64,0.72,0.723,Set heat safety practices and work schedules.
+A5,Landlords,implementer,housing,0.72,0.76,0.6,0.6,0.676,Control housing cooling quality and retrofit adoption.
+A9,Affected public-service users,affected_group,rights_accountability,0.3,0.42,0.96,0.92,0.617,Experience service access due-process and accountability impacts.

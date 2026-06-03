@@ -1,0 +1,17 @@
+edge_id,source_node_id,target_node_id,relationship_type,influence_strength,feedback_potential,edge_priority,notes
+E5,C2,C5,health_cascade,0.88,0.5,1.32,Worker and resident exposure increases health emergencies.
+E4,C1,C4,infrastructure_cascade,0.84,0.56,1.3104,Cooling demand stresses grid reliability.
+E12,C10,C12,rights_cascade,0.82,0.58,1.2956,Automated decisions can generate due-process failures.
+E1,C0,C1,direct_consequence,0.9,0.42,1.278,Heat directly increases cooling demand.
+E10,C9,C10,direct_consequence,0.86,0.48,1.2728,AI systems directly shape public service decisions.
+E11,C9,C11,direct_consequence,0.78,0.54,1.2012,Scaling exposes governance capacity gaps.
+E14,C11,C14,trust_cascade,0.76,0.58,1.2008,Governance gaps reduce public trust after harms.
+E7,C5,C7,public_health_cascade,0.8,0.5,1.2,Emergencies strain public-health capacity.
+E3,C1,C3,cost_cascade,0.82,0.46,1.1972,Cooling demand contributes to household energy burden.
+E2,C0,C2,direct_consequence,0.86,0.38,1.1868,Heat directly increases worker exposure.
+E15,C12,C15,legal_cascade,0.78,0.52,1.1856,Due-process failures increase legal and oversight pressure.
+E16,C14,C16,policy_window,0.74,0.6,1.184,Public trust crisis creates governance reform pressure.
+E8,C4,C8,legitimacy_cascade,0.74,0.58,1.1692,Grid failures increase legitimacy pressure.
+E9,C7,C8,trust_feedback,0.7,0.62,1.134,Health-system strain undermines public confidence.
+E13,C10,C13,labor_governance_cascade,0.74,0.48,1.0952,Automated recommendations blur worker accountability.
+E6,C3,C6,household_finance_cascade,0.76,0.42,1.0792,Energy burden contributes to debt stress.

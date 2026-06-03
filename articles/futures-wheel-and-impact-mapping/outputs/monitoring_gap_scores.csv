@@ -1,0 +1,11 @@
+indicator_id,pathway_id,indicator_name,baseline,target,monitoring_gap,review_frequency,review_weight,monitoring_priority,decision_trigger
+M7,IP7,high_risk_ai_procurement_compliance,0.3,0.88,0.58,quarterly,0.88,0.67,Pause high-risk procurement when compliance fails.
+M9,IP9,appeal_access_success_rate,0.28,0.84,0.56,quarterly,0.88,0.656,Trigger due-process review if appeal access is low.
+M10,IP10,rights_review_completion_rate,0.34,0.86,0.52,quarterly,0.88,0.628,Escalate oversight staffing if reviews fall behind.
+M3,IP3,cooling_access_protection_rate,0.38,0.86,0.48,quarterly,0.88,0.6,Expand shutoff protections if access declines.
+M8,IP8,worker_accountability_clarity_index,0.42,0.82,0.4,quarterly,0.88,0.544,Revise workflows if accountability remains unclear.
+M2,IP2,heat_illness_detection_time,0.46,0.82,0.36,quarterly,0.88,0.516,Increase surveillance support when detection lags.
+M1,IP1,adaptation_investment_coverage,0.34,0.78,0.44,semiannual,0.68,0.512,Redirect capital to neighborhoods below coverage threshold.
+M4,IP4,outdoor_worker_exposure_hours,0.72,0.38,0.34,quarterly,0.88,0.502,Strengthen labor safeguards if exposure remains high.
+M6,IP6,trusted_cooling_network_coverage,0.36,0.76,0.4,semiannual,0.68,0.484,Increase community funding if coverage is low.
+M5,IP5,safe_cooling_housing_share,0.42,0.8,0.38,semiannual,0.68,0.47,Expand retrofit grants and enforcement.

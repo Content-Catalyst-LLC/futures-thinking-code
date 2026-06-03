@@ -1,0 +1,18 @@
+node_id,focal_id,parent_node_id,consequence_order,consequence,domain,likelihood,severity,uncertainty,distributional_burden,actionability,affected_groups,description
+C0,F1,,0,Extreme heat events become more frequent,focal_change,1.00,0.82,0.30,0.82,0.70,all_residents,Central focal change for the heat consequence wheel.
+C1,F1,C0,1,Higher cooling demand,energy,0.90,0.72,0.34,0.72,0.76,households;utilities,Heat increases electricity demand and cooling dependence.
+C2,F1,C0,1,Outdoor labor exposure rises,labor,0.86,0.80,0.38,0.90,0.70,outdoor_workers;employers,Heat increases risk for outdoor workers and labor-intensive services.
+C3,F1,C1,2,Energy affordability stress,housing_finance,0.78,0.84,0.44,0.92,0.74,low_income_households;renters,Higher cooling demand increases bills and household burden.
+C4,F1,C1,2,Grid reliability pressure,infrastructure,0.80,0.88,0.42,0.78,0.68,utilities;public_agencies,Peak load increases grid stress and outage risk.
+C5,F1,C2,2,Heat-related health emergencies,public_health,0.84,0.90,0.36,0.94,0.78,elderly_residents;workers;disabled_people,Exposure produces illness and emergency response pressure.
+C6,F1,C3,3,Household debt increases,household_economics,0.68,0.76,0.52,0.88,0.60,low_income_households;renters,Energy costs increase debt and insecurity.
+C7,F1,C5,3,Public-health system strain,public_health,0.72,0.82,0.48,0.84,0.66,hospitals;public_health_departments,Heat emergencies strain health systems and staffing.
+C8,F1,C4,3,Climate adaptation legitimacy pressure,governance,0.76,0.86,0.44,0.80,0.72,local_government;communities,Repeated failures undermine trust and increase pressure for adaptation.
+C9,F2,,0,Public AI systems scale before accountability capacity matures,focal_change,1.00,0.84,0.40,0.86,0.64,public_service_users,Central focal change for public AI consequence wheel.
+C10,F2,C9,1,Automated recommendations shape public-service decisions,public_services,0.84,0.82,0.46,0.88,0.70,service_users;caseworkers,AI outputs affect eligibility triage or case review.
+C11,F2,C9,1,Procurement and audit capacity are exposed as weak,governance,0.78,0.80,0.42,0.78,0.76,agencies;auditors,Public systems lack mature governance infrastructure.
+C12,F2,C10,2,Appeal and due-process failures increase,rights_accountability,0.74,0.88,0.50,0.92,0.74,disabled_people;low_income_households;immigrants,Automated decisions require clear appeal and review systems.
+C13,F2,C10,2,Worker discretion and accountability become unclear,labor_governance,0.72,0.78,0.48,0.82,0.68,public_workers;managers,Workers may be responsible for decisions shaped by opaque systems.
+C14,F2,C11,2,Public trust declines after visible AI harms,public_trust,0.70,0.84,0.54,0.86,0.66,public;agencies,Harms reduce trust in public service institutions.
+C15,F2,C12,3,Civil-rights litigation and oversight pressure rise,law_policy,0.66,0.86,0.52,0.90,0.72,public_agencies;affected_groups,Accountability failures trigger legal and policy responses.
+C16,F2,C14,3,Digital governance standards become politically urgent,institutional_reform,0.68,0.82,0.50,0.82,0.76,legislators;procurement_offices,Public pressure creates policy window for standards.

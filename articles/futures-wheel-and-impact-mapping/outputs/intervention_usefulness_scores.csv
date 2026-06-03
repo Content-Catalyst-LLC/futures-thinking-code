@@ -1,0 +1,11 @@
+intervention_id,pathway_id,intervention_type,intervention_name,cost_complexity,time_to_impact,institutional_dependency,risk_reduction,intervention_usefulness_score,notes
+I6,IP6,community_capacity,Community cooling network support,0.44,0.76,0.58,0.78,0.677,Builds trust and local preparedness.
+I2,IP2,protocol,Heat-health monitoring protocol,0.48,0.74,0.7,0.8,0.654,Improves early detection and targeted response.
+I8,IP8,workflow_protocol,Caseworker AI workflow protocol,0.42,0.74,0.66,0.74,0.648,Clarifies worker role and human accountability.
+I7,IP7,procurement_standard,AI procurement accountability standard,0.56,0.7,0.78,0.86,0.64,Prevents high-risk public AI deployment without safeguards.
+I3,IP3,standard,Utility protection standard,0.54,0.7,0.76,0.82,0.631,Protects cooling access during heat events.
+I4,IP4,rule,Heat labor safety rule,0.5,0.68,0.68,0.78,0.63,Reduces occupational exposure.
+I10,IP10,oversight_process,Algorithmic accountability review process,0.64,0.66,0.8,0.86,0.611,Creates independent review and public accountability.
+I9,IP9,rights_system,Public AI appeal rights system,0.68,0.62,0.82,0.88,0.598,Protects due process for affected service users.
+I1,IP1,portfolio,Neighborhood adaptation portfolio,0.72,0.62,0.84,0.86,0.579,Coordinates investments across departments.
+I5,IP5,grant,Cooling retrofit grant,0.78,0.58,0.72,0.8,0.551,Improves housing safety but requires funding and enforcement.

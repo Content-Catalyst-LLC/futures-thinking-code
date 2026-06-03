@@ -1,0 +1,9 @@
+audit_id,node_id,affected_group,exposure,adaptive_capacity,decision_voice,burden_shift_risk,distributional_risk_score,priority_note
+D1,C3,low_income_households,0.88,0.36,0.32,0.9,0.771,Energy affordability stress is likely to burden households with least capacity to adapt.
+D5,C12,disabled_people,0.86,0.38,0.3,0.9,0.762,Automated decision failures may create severe due-process barriers.
+D8,C15,low_income_households,0.82,0.36,0.3,0.88,0.751,Legal pressure may follow unequal service harms and appeal failures.
+D3,C2,outdoor_workers,0.92,0.44,0.36,0.88,0.75,Labor exposure risk is shaped by employer rules and weak worker bargaining power.
+D2,C5,elderly_residents,0.9,0.42,0.38,0.84,0.739,Heat health emergencies disproportionately affect older residents and people with chronic illness.
+D4,C8,frontline_communities,0.84,0.4,0.42,0.82,0.713,Adaptation legitimacy depends on whether exposed communities shape decisions.
+D7,C14,public_service_users,0.78,0.42,0.34,0.84,0.705,Trust losses are concentrated among people already harmed by public-service failures.
+D6,C13,public_service_workers,0.7,0.58,0.46,0.76,0.593,Workers may absorb accountability for systems they do not control.
