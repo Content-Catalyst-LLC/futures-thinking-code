@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,affordability,trust,access_index,platform_visibility,sustainability_demand,social_influence,behavioral_friction,price_sensitivity,initial_adoption,time_horizon
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,0.42,0.48,0.50,0.62,0.46,0.54,0.70,0.90,0.08,40
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,0.58,0.34,0.56,0.68,0.58,0.62,0.76,0.72,0.08,40
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,0.62,0.52,0.58,0.92,0.52,0.70,0.82,0.60,0.08,40
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,0.66,0.72,0.70,0.64,0.88,0.66,0.54,0.58,0.08,40
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,0.56,0.58,0.62,0.78,0.66,0.76,0.62,0.66,0.08,40
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,0.62,0.70,0.66,0.74,0.62,0.62,0.48,0.62,0.08,40
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,0.70,0.76,0.86,0.60,0.70,0.62,0.42,0.70,0.08,40
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,0.50,0.30,0.42,0.88,0.44,0.74,0.90,0.76,0.08,40

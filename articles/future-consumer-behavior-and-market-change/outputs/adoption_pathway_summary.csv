@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_adoption,mean_adoption,final_trust,mean_vulnerability
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,1.0,0.7595,1.2,0.1688
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,1.0,0.6594,1.2,0.4736
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,1.0,0.7353,1.2,0.204
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,1.0,0.7819,1.2,0.1027
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,0.9598,0.5454,0.9754,0.7336
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,0.0,0.0093,0.7482,1.0131
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,0.0,0.0269,0.8656,0.8913
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,0.0,0.0076,0.2406,1.198

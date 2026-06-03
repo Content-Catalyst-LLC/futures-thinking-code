@@ -1,0 +1,9 @@
+record_id,scenario_id,regulatory_domain,privacy_rules,pricing_transparency,subscription_fairness,accessibility_enforcement,green_claims_enforcement,platform_accountability,consumer_remedy_strength,description
+RG1,SC1,Affordability and Pricing,0.50,0.74,0.62,0.54,0.52,0.48,0.56,Rules address hidden fees price disclosure and essential market fairness.
+RG2,SC2,Trust and Claims,0.72,0.78,0.70,0.60,0.84,0.66,0.62,Regulation responds to misleading claims fake reviews greenwashing and AI content.
+RG3,SC3,AI Personalization,0.82,0.70,0.66,0.62,0.56,0.78,0.58,Rules focus on automated decision systems personalization and pricing fairness.
+RG4,SC4,Sustainability Market Standards,0.58,0.66,0.60,0.64,0.90,0.60,0.66,Environmental labels repair rights lifecycle claims and supply-chain transparency strengthen.
+RG5,SC5,Cultural and Influencer Markets,0.56,0.58,0.54,0.60,0.62,0.64,0.52,Disclosure authenticity youth protection and influencer accountability evolve.
+RG6,SC6,Digital Consumer Protection,0.92,0.82,0.88,0.74,0.70,0.86,0.76,Digital markets become more regulated around privacy consent cancellation and platform governance.
+RG7,SC7,Access and Inclusion,0.66,0.70,0.68,0.92,0.72,0.62,0.78,Accessibility language access rural service availability and equitable design strengthen.
+RG8,SC8,Weak Attention Market Governance,0.34,0.38,0.30,0.32,0.36,0.28,0.26,Regulation fails to keep pace with dark patterns platform concentration and data extraction.

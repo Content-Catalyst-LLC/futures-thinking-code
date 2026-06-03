@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,market_transition_pressure_score,consumer_protection_opportunity_score,description
+SC6,Regulated Digital Market,regulated_digital,0.6328,0.6504,Consumer protection and platform governance reshape digital market design.
+SC7,Access and Inclusion Market,inclusion,0.5304,0.6228,Public and market pressure improves disability language rural and affordability access.
+SC4,Sustainability Becomes Infrastructure,sustainability_mainstream,0.5736,0.614,Regulation and infrastructure make responsible consumption more accessible.
+SC3,AI-Personalized Consumption,ai_commerce,0.6724,0.5292,Search pricing recommendation advertising and service become deeply personalized.
+SC2,Trust Backlash Market,trust_backlash,0.6668,0.5224,Consumers lose confidence in data use hidden pricing sustainability claims and AI commerce.
+SC5,Fragmented Identity Markets,cultural_fragmentation,0.6224,0.5044,Markets fragment across culture values creators communities and algorithmic niches.
+SC1,Value-Constrained Consumer Economy,value_constraint,0.6016,0.4248,Cost of living pressure dominates spending and increases price sensitivity.
+SC8,Extractive Attention Market,extraction,0.7192,0.3492,Consumer attention data and behavioral vulnerability are aggressively monetized.

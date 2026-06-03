@@ -1,0 +1,9 @@
+option_id,profile_id,option_name,option_type,consumer_support_strategy_score,implementation_risk_score,description
+OP7,CF7,Inclusive Access and Accessibility Design,inclusion_strategy,0.7776,0.2406,Centers disabled consumers language access rural access affordability and fair support.
+OP6,CF6,Compliance as Trust Infrastructure,regulatory_strategy,0.7588,0.2404,Turns consumer protection privacy accessibility and subscription fairness into operating standards.
+OP8,CF8,Dark Pattern Elimination and Friction Audit,consumer_protection_strategy,0.7568,0.2652,Removes manipulative defaults cancellation friction misleading urgency and exploitative interface design.
+OP2,CF2,Trust and Claims Verification,trust_strategy,0.7432,0.2702,Builds credibility through verified claims pricing transparency review integrity and accountability.
+OP4,CF4,Circular and Low-Carbon Market Design,sustainability_strategy,0.7156,0.297,Builds repair resale durability lifecycle transparency and responsible supply systems.
+OP3,CF3,Responsible AI Personalization,ai_governance,0.7008,0.2964,Uses personalization with consent fairness explainability and human oversight.
+OP1,CF1,Transparent Value and Durable Goods,value_strategy,0.7,0.2956,Supports price-sensitive consumers through durability repair transparency and clear value.
+OP5,CF5,Community-Grounded Market Research,culture_strategy,0.6776,0.3192,Uses participatory research and context-specific design for fragmented markets.

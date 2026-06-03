@@ -1,0 +1,9 @@
+"option_id","profile_id","option_name","option_type","affordability_support","trust_building","privacy_protection","access_inclusion","sustainability_credibility","behavioral_integrity","implementation_capacity","market_scalability","description","consumer_support_strategy_score"
+"OP7","CF7","Inclusive Access and Accessibility Design","inclusion_strategy",0.78,0.8,0.66,0.94,0.72,0.82,0.72,0.7,"Centers disabled consumers language access rural access affordability and fair support.",0.7776
+"OP6","CF6","Compliance as Trust Infrastructure","regulatory_strategy",0.6,0.82,0.88,0.74,0.7,0.86,0.76,0.68,"Turns consumer protection privacy accessibility and subscription fairness into operating standards.",0.7588
+"OP8","CF8","Dark Pattern Elimination and Friction Audit","consumer_protection_strategy",0.66,0.86,0.84,0.74,0.6,0.94,0.68,0.6,"Removes manipulative defaults cancellation friction misleading urgency and exploitative interface design.",0.7568
+"OP2","CF2","Trust and Claims Verification","trust_strategy",0.62,0.9,0.72,0.66,0.82,0.78,0.68,0.7,"Builds credibility through verified claims pricing transparency review integrity and accountability.",0.7432
+"OP4","CF4","Circular and Low-Carbon Market Design","sustainability_strategy",0.64,0.76,0.6,0.7,0.92,0.7,0.66,0.72,"Builds repair resale durability lifecycle transparency and responsible supply systems.",0.7156
+"OP3","CF3","Responsible AI Personalization","ai_governance",0.58,0.72,0.86,0.66,0.58,0.82,0.64,0.76,"Uses personalization with consent fairness explainability and human oversight.",0.7008
+"OP1","CF1","Transparent Value and Durable Goods","value_strategy",0.88,0.7,0.54,0.68,0.62,0.72,0.7,0.78,"Supports price-sensitive consumers through durability repair transparency and clear value.",0.7
+"OP5","CF5","Community-Grounded Market Research","culture_strategy",0.58,0.78,0.56,0.76,0.68,0.72,0.7,0.62,"Uses participatory research and context-specific design for fragmented markets.",0.6776

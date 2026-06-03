@@ -1,0 +1,9 @@
+profile_id,consumer_future_name,consumer_future_type,consumer_future_health_score,market_fragility_score,profile_class,description
+CF7,Access and Inclusion Market,access_inclusion,0.6796,0.4096,More inclusive and trust-supporting consumer future,Inclusive design accessibility and fair access become central market capabilities.
+CF4,Sustainability Becomes Infrastructure,sustainability_infrastructure,0.6444,0.4584,More inclusive and trust-supporting consumer future,Responsible options become more available through regulation infrastructure and market redesign.
+CF6,Regulated Digital Market,regulated_digital,0.6316,0.478,More inclusive and trust-supporting consumer future,Consumer protection privacy and platform rules reshape digital commerce.
+CF5,Fragmented Identity Markets,identity_fragmentation,0.546,0.5384,Mixed or transitional consumer future,Consumers cluster around values communities cultures creators and trust networks.
+CF3,AI-Personalized Consumption,ai_personalized,0.51,0.6248,Mixed or transitional consumer future,Commerce becomes highly personalized through AI recommendation ranking and pricing systems.
+CF2,Trust Backlash Market,trust_backlash,0.4608,0.6344,Mixed or transitional consumer future,Consumers become skeptical of platforms claims hidden fees AI and data practices.
+CF1,Value-Constrained Consumer Economy,value_constrained,0.414,0.6304,Mixed or transitional consumer future,Cost pressure dominates household behavior and weakens discretionary spending.
+CF8,Extractive Attention Market,extractive_attention,0.3848,0.7188,High consumer vulnerability or market fragility,Personalization friction dark patterns and data extraction intensify consumer vulnerability.

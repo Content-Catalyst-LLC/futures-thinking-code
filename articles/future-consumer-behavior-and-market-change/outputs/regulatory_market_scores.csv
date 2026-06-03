@@ -1,0 +1,9 @@
+record_id,scenario_id,regulatory_domain,public_interest_market_governance_score,consumer_remedy_strength,description
+RG6,SC6,Digital Consumer Protection,0.8136,0.76,Digital markets become more regulated around privacy consent cancellation and platform governance.
+RG7,SC7,Access and Inclusion,0.7244,0.78,Accessibility language access rural service availability and equitable design strengthen.
+RG2,SC2,Trust and Claims,0.7032,0.62,Regulation responds to misleading claims fake reviews greenwashing and AI content.
+RG3,SC3,AI Personalization,0.6772,0.58,Rules focus on automated decision systems personalization and pricing fairness.
+RG4,SC4,Sustainability Market Standards,0.6612,0.66,Environmental labels repair rights lifecycle claims and supply-chain transparency strengthen.
+RG5,SC5,Cultural and Influencer Markets,0.5796,0.52,Disclosure authenticity youth protection and influencer accountability evolve.
+RG1,SC1,Affordability and Pricing,0.5644,0.56,Rules address hidden fees price disclosure and essential market fairness.
+RG8,SC8,Weak Attention Market Governance,0.3204,0.26,Regulation fails to keep pace with dark patterns platform concentration and data extraction.

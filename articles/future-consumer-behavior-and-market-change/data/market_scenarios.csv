@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,cost_pressure,trust_pressure,technology_acceleration,platform_concentration,privacy_regulation,sustainability_pressure,access_gap,consumer_protection_strength,description
+SC1,Value-Constrained Consumer Economy,value_constraint,0.90,0.54,0.56,0.58,0.46,0.50,0.64,0.48,Cost of living pressure dominates spending and increases price sensitivity.
+SC2,Trust Backlash Market,trust_backlash,0.62,0.92,0.68,0.70,0.72,0.60,0.56,0.66,Consumers lose confidence in data use hidden pricing sustainability claims and AI commerce.
+SC3,AI-Personalized Consumption,ai_commerce,0.58,0.66,0.94,0.84,0.70,0.54,0.58,0.60,Search pricing recommendation advertising and service become deeply personalized.
+SC4,Sustainability Becomes Infrastructure,sustainability_mainstream,0.56,0.58,0.60,0.52,0.58,0.90,0.46,0.72,Regulation and infrastructure make responsible consumption more accessible.
+SC5,Fragmented Identity Markets,cultural_fragmentation,0.62,0.64,0.70,0.68,0.56,0.66,0.54,0.52,Markets fragment across culture values creators communities and algorithmic niches.
+SC6,Regulated Digital Market,regulated_digital,0.58,0.68,0.76,0.72,0.92,0.62,0.48,0.88,Consumer protection and platform governance reshape digital market design.
+SC7,Access and Inclusion Market,inclusion,0.66,0.56,0.58,0.50,0.60,0.68,0.28,0.82,Public and market pressure improves disability language rural and affordability access.
+SC8,Extractive Attention Market,extraction,0.72,0.86,0.88,0.88,0.40,0.46,0.72,0.34,Consumer attention data and behavioral vulnerability are aggressively monetized.

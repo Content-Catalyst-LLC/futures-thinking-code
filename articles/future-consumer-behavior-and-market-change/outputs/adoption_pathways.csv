@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,adoption,trust,consumer_vulnerability
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,1,0.08,0.48,0.6456
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,2,0.0738,0.4873,0.6665
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,3,0.0662,0.4946,0.6871
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,4,0.0569,0.5019,0.7076
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,5,0.0457,0.5092,0.7278
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,6,0.0322,0.5165,0.7478
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,7,0.016,0.5238,0.7676
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,8,0.0,0.5278,0.7928
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,9,0.0,0.5351,0.8122
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,10,0.0,0.5424,0.8314
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,11,0.0,0.5497,0.8505
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,12,0.0,0.557,0.8692
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,13,0.0,0.5643,0.8878
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,14,0.0,0.5716,0.9062
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,15,0.0,0.5789,0.9243
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,16,0.0,0.5829,0.9478
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,17,0.0,0.5902,0.9656
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,18,0.0,0.5975,0.9832
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,19,0.0,0.6048,1.0005
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,20,0.0,0.6121,1.0177
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,21,0.0,0.6194,1.0346
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,22,0.0,0.6267,1.0513
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,23,0.0,0.634,1.0678
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,24,0.0,0.638,1.0896
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,25,0.0,0.6453,1.1058
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,26,0.0,0.6526,1.1217
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,27,0.0,0.6599,1.1374
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,28,0.0,0.6672,1.1529
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,29,0.0,0.6745,1.1681
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,30,0.0,0.6818,1.1832
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,31,0.0,0.6891,1.198
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,32,0.0,0.6931,1.2182
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,33,0.0,0.7004,1.2327
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,34,0.0,0.7077,1.247
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,35,0.0,0.715,1.261
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,36,0.0,0.7223,1.2749
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,37,0.0,0.7296,1.2885
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,38,0.0,0.7369,1.3019
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,39,0.0,0.7442,1.315
+PW1,CF1,SC1,Value-Constrained Adoption Pathway,40,0.0,0.7482,1.3336
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,1,0.08,0.34,0.6
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,2,0.0803,0.3539,0.6195
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,3,0.0803,0.3678,0.6385
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,4,0.08,0.3817,0.6572
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,5,0.0794,0.3956,0.6754
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,6,0.0784,0.4095,0.6932
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,7,0.077,0.4234,0.7106
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,8,0.0744,0.434,0.7332
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,9,0.0717,0.4479,0.7499
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,10,0.0683,0.4618,0.7661
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,11,0.0642,0.4757,0.782
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,12,0.0593,0.4896,0.7974
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,13,0.0535,0.5035,0.8124
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,14,0.0465,0.5174,0.8269
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,15,0.0382,0.5313,0.8411
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,16,0.0276,0.5419,0.8604
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,17,0.0157,0.5558,0.8739
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,18,0.0016,0.5697,0.8869
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,19,0.0,0.5836,0.8995
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,20,0.0,0.5975,0.9117
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,21,0.0,0.6114,0.9234
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,22,0.0,0.6253,0.9348
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,23,0.0,0.6392,0.9457
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,24,0.0,0.6498,0.9618
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,25,0.0,0.6637,0.972
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,26,0.0,0.6776,0.9817
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,27,0.0,0.6915,0.9911
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,28,0.0,0.7054,1.0
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,29,0.0,0.7193,1.0086
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,30,0.0,0.7332,1.0167
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,31,0.0,0.7471,1.0243
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,32,0.0,0.7577,1.0372
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,33,0.0,0.7716,1.0442
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,34,0.0,0.7855,1.0507
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,35,0.0,0.7994,1.0568
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,36,0.0,0.8133,1.0625
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,37,0.0,0.8272,1.0678
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,38,0.0,0.8411,1.0727
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,39,0.0,0.855,1.0771
+PW2,CF2,SC2,Trust Backlash Adoption Pathway,40,0.0,0.8656,1.0868
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,1,0.08,0.52,0.58
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,2,0.0886,0.5321,0.5917
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,3,0.0985,0.5442,0.6031
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,4,0.1096,0.5563,0.6141
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,5,0.1223,0.5684,0.6248
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,6,0.1366,0.5805,0.6351
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,7,0.1528,0.5926,0.645
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,8,0.1701,0.6014,0.6601
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,9,0.1902,0.6135,0.6694
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,10,0.2125,0.6256,0.6784
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,11,0.2371,0.6377,0.6869
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,12,0.2642,0.6498,0.6951
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,13,0.2937,0.6619,0.703
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,14,0.3256,0.674,0.7105
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,15,0.3596,0.6861,0.7176
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,16,0.3948,0.6949,0.7299
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,17,0.4322,0.707,0.7364
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,18,0.4708,0.7191,0.7425
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,19,0.5101,0.7312,0.7483
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,20,0.5497,0.7433,0.7537
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,21,0.5889,0.7554,0.7587
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,22,0.6271,0.7675,0.7634
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,23,0.6641,0.7796,0.7677
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,24,0.6983,0.7884,0.7773
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,25,0.731,0.8005,0.781
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,26,0.7614,0.8126,0.7843
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,27,0.7892,0.8247,0.7873
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,28,0.8144,0.8368,0.7898
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,29,0.837,0.8489,0.7921
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,30,0.8571,0.861,0.7939
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,31,0.8749,0.8731,0.7955
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,32,0.8897,0.8819,0.8022
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,33,0.9033,0.894,0.8031
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,34,0.9152,0.9061,0.8036
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,35,0.9255,0.9182,0.8038
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,36,0.9345,0.9303,0.8035
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,37,0.9424,0.9424,0.803
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,38,0.9493,0.9545,0.802
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,39,0.9553,0.9666,0.8007
+PW3,CF3,SC3,AI-Personalized Adoption Pathway,40,0.9598,0.9754,0.8047
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,1,0.08,0.72,0.4396
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,2,0.1035,0.7553,0.432
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,3,0.1315,0.7906,0.4234
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,4,0.1642,0.8259,0.4137
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,5,0.2021,0.8612,0.403
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,6,0.2453,0.8965,0.3912
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,7,0.2938,0.9318,0.3784
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,8,0.3467,0.9638,0.37
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,9,0.4047,0.9991,0.3552
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,10,0.4664,1.0344,0.3392
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,11,0.5308,1.0697,0.3223
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,12,0.5964,1.105,0.3042
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,13,0.6617,1.1403,0.2851
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,14,0.7253,1.1756,0.2649
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,15,0.7857,1.2,0.244
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,16,0.8409,1.2,0.2286
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,17,0.8911,1.2,0.2077
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,18,0.9353,1.2,0.1868
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,19,0.9736,1.2,0.1659
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,20,1.0,1.2,0.145
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,21,1.0,1.2,0.1241
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,22,1.0,1.2,0.1032
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,23,1.0,1.2,0.0823
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,24,1.0,1.2,0.0669
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,25,1.0,1.2,0.046
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,26,1.0,1.2,0.0251
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,27,1.0,1.2,0.0042
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,28,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,29,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,30,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,31,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,32,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,33,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,34,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,35,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,36,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,37,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,38,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,39,1.0,1.2,0.0
+PW4,CF4,SC4,Sustainability Infrastructure Adoption Pathway,40,1.0,1.2,0.0
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,1,0.08,0.58,0.5376
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,2,0.0926,0.6023,0.5418
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,3,0.1074,0.6246,0.5454
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,4,0.1246,0.6469,0.5483
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,5,0.1446,0.6692,0.5505
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,6,0.1676,0.6915,0.5521
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,7,0.1939,0.7138,0.553
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,8,0.2227,0.7328,0.5588
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,9,0.2556,0.7551,0.5584
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,10,0.2921,0.7774,0.5574
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,11,0.332,0.7997,0.5557
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,12,0.3751,0.822,0.5533
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,13,0.421,0.8443,0.5503
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,14,0.4691,0.8666,0.5466
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,15,0.5187,0.8889,0.5422
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,16,0.5681,0.9079,0.5428
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,17,0.618,0.9302,0.5372
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,18,0.6668,0.9525,0.5309
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,19,0.7138,0.9748,0.524
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,20,0.7582,0.9971,0.5164
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,21,0.7994,1.0194,0.5081
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,22,0.8373,1.0417,0.4991
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,23,0.8715,1.064,0.4895
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,24,0.9012,1.083,0.4848
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,25,0.9282,1.1053,0.474
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,26,0.9519,1.1276,0.4624
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,27,0.9726,1.1499,0.4502
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,28,0.9907,1.1722,0.4374
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,29,1.0,1.1945,0.4238
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,30,1.0,1.2,0.4101
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,31,1.0,1.2,0.3964
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,32,1.0,1.2,0.3882
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,33,1.0,1.2,0.3745
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,34,1.0,1.2,0.3608
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,35,1.0,1.2,0.3471
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,36,1.0,1.2,0.3334
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,37,1.0,1.2,0.3197
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,38,1.0,1.2,0.306
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,39,1.0,1.2,0.2923
+PW5,CF5,SC5,Fragmented Identity Market Adoption Pathway,40,1.0,1.2,0.2841
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,1,0.08,0.7,0.4632
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,2,0.0996,0.7301,0.457
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,3,0.1229,0.7602,0.4499
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,4,0.1502,0.7903,0.4419
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,5,0.182,0.8204,0.433
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,6,0.2185,0.8505,0.4232
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,7,0.2597,0.8806,0.4124
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,8,0.305,0.9074,0.4064
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,9,0.3553,0.9375,0.394
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,10,0.4097,0.9676,0.3807
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,11,0.4674,0.9977,0.3664
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,12,0.5274,1.0278,0.3513
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,13,0.5885,1.0579,0.3353
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,14,0.6494,1.088,0.3183
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,15,0.7088,1.1181,0.3005
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,16,0.7647,1.1449,0.2873
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,17,0.8176,1.175,0.2678
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,18,0.8661,1.2,0.2475
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,19,0.9097,1.2,0.2272
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,20,0.9478,1.2,0.2069
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,21,0.9807,1.2,0.1866
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,22,1.0,1.2,0.1663
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,23,1.0,1.2,0.146
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,24,1.0,1.2,0.1312
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,25,1.0,1.2,0.1109
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,26,1.0,1.2,0.0906
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,27,1.0,1.2,0.0703
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,28,1.0,1.2,0.05
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,29,1.0,1.2,0.0297
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,30,1.0,1.2,0.0094
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,31,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,32,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,33,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,34,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,35,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,36,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,37,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,38,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,39,1.0,1.2,0.0
+PW6,CF6,SC6,Regulated Digital Market Adoption Pathway,40,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,1,0.08,0.76,0.3932
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,2,0.1075,0.8025,0.3794
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,3,0.1403,0.845,0.3644
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,4,0.1788,0.8875,0.3481
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,5,0.2234,0.93,0.3305
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,6,0.2741,0.9725,0.3116
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,7,0.3308,1.015,0.2914
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,8,0.3922,1.0542,0.2756
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,9,0.4588,1.0967,0.253
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,10,0.5286,1.1392,0.2291
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,11,0.6002,1.1817,0.204
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,12,0.6717,1.2,0.1783
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,13,0.7408,1.2,0.1526
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,14,0.8055,1.2,0.1269
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,15,0.8647,1.2,0.1012
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,16,0.9167,1.2,0.081
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,17,0.9627,1.2,0.0553
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,18,1.0,1.2,0.0296
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,19,1.0,1.2,0.0039
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,20,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,21,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,22,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,23,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,24,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,25,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,26,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,27,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,28,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,29,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,30,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,31,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,32,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,33,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,34,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,35,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,36,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,37,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,38,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,39,1.0,1.2,0.0
+PW7,CF7,SC7,Access and Inclusion Adoption Pathway,40,1.0,1.2,0.0
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,1,0.08,0.3,0.7016
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,2,0.0716,0.2989,0.7323
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,3,0.061,0.2978,0.7631
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,4,0.0478,0.2967,0.7939
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,5,0.0316,0.2956,0.8247
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,6,0.0117,0.2945,0.8556
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,7,0.0,0.2934,0.8865
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,8,0.0,0.289,0.923
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,9,0.0,0.2879,0.9541
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,10,0.0,0.2868,0.9852
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,11,0.0,0.2857,1.0163
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,12,0.0,0.2846,1.0475
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,13,0.0,0.2835,1.0787
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,14,0.0,0.2824,1.1099
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,15,0.0,0.2813,1.1412
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,16,0.0,0.2769,1.178
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,17,0.0,0.2758,1.2095
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,18,0.0,0.2747,1.2409
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,19,0.0,0.2736,1.2724
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,20,0.0,0.2725,1.304
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,21,0.0,0.2714,1.3355
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,22,0.0,0.2703,1.3671
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,23,0.0,0.2692,1.3987
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,24,0.0,0.2648,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,25,0.0,0.2637,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,26,0.0,0.2626,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,27,0.0,0.2615,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,28,0.0,0.2604,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,29,0.0,0.2593,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,30,0.0,0.2582,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,31,0.0,0.2571,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,32,0.0,0.2527,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,33,0.0,0.2516,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,34,0.0,0.2505,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,35,0.0,0.2494,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,36,0.0,0.2483,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,37,0.0,0.2472,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,38,0.0,0.2461,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,39,0.0,0.245,1.4
+PW8,CF8,SC8,Extractive Attention Adoption Pathway,40,0.0,0.2406,1.4

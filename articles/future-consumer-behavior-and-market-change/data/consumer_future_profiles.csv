@@ -1,0 +1,9 @@
+profile_id,consumer_future_name,consumer_future_type,affordability,trust,digital_dependence,sustainability_demand,access_inclusion,price_sensitivity,behavioral_friction,regulatory_pressure,privacy_confidence,local_resilience,description
+CF1,Value-Constrained Consumer Economy,value_constrained,0.42,0.48,0.62,0.46,0.44,0.90,0.70,0.52,0.46,0.50,Cost pressure dominates household behavior and weakens discretionary spending.
+CF2,Trust Backlash Market,trust_backlash,0.58,0.34,0.70,0.58,0.52,0.72,0.76,0.74,0.32,0.54,Consumers become skeptical of platforms claims hidden fees AI and data practices.
+CF3,AI-Personalized Consumption,ai_personalized,0.62,0.52,0.92,0.52,0.50,0.60,0.82,0.82,0.38,0.48,Commerce becomes highly personalized through AI recommendation ranking and pricing systems.
+CF4,Sustainability Becomes Infrastructure,sustainability_infrastructure,0.66,0.72,0.68,0.88,0.64,0.58,0.54,0.70,0.64,0.70,Responsible options become more available through regulation infrastructure and market redesign.
+CF5,Fragmented Identity Markets,identity_fragmentation,0.56,0.58,0.78,0.66,0.58,0.66,0.62,0.56,0.52,0.62,Consumers cluster around values communities cultures creators and trust networks.
+CF6,Regulated Digital Market,regulated_digital,0.62,0.70,0.74,0.62,0.66,0.62,0.48,0.88,0.74,0.58,Consumer protection privacy and platform rules reshape digital commerce.
+CF7,Access and Inclusion Market,access_inclusion,0.70,0.76,0.66,0.70,0.86,0.70,0.42,0.68,0.70,0.76,Inclusive design accessibility and fair access become central market capabilities.
+CF8,Extractive Attention Market,extractive_attention,0.50,0.30,0.88,0.44,0.42,0.76,0.90,0.62,0.24,0.38,Personalization friction dark patterns and data extraction intensify consumer vulnerability.
