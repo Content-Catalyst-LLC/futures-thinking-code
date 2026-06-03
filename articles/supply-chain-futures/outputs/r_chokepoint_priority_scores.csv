@@ -1,0 +1,9 @@
+"chokepoint_id","scenario_id","chokepoint_name","chokepoint_type","dependency_concentration","substitution_difficulty","disruption_probability","systemic_reach","recovery_difficulty","visibility_gap","description","chokepoint_priority_score"
+"CP2","SF5","Critical Minerals Processing Cluster","materials",0.9,0.86,0.64,0.84,0.82,0.58,"Energy transition technologies depend on concentrated mineral processing capacity.",0.7824
+"CP5","SF7","Single-Source Component Supplier","supplier",0.88,0.82,0.56,0.78,0.74,0.64,"A specialized component supplier creates hidden production stoppage risk.",0.7432
+"CP6","SF6","Essential Medical Supply Input","essential_goods",0.76,0.78,0.58,0.88,0.8,0.54,"Public health systems depend on a small number of inputs suppliers and production locations.",0.7322
+"CP1","SF2","Strategic Port and Canal Exposure","geographic",0.82,0.72,0.68,0.86,0.72,0.48,"Concentrated maritime routes and ports expose logistics to conflict congestion or blockage.",0.7232
+"CP4","SF3","Climate-Exposed Warehouse Corridor","infrastructure",0.68,0.6,0.78,0.7,0.68,0.46,"Storms floods heat and wildfire threaten logistics corridors and warehousing clusters.",0.6552
+"CP3","SF4","Supply Chain Planning Platform Dependency","digital",0.74,0.62,0.54,0.76,0.66,0.5,"Digital planning and visibility systems can become operational chokepoints.",0.644
+"CP7","SF1","Regional Transport Labor Constraint","labor",0.58,0.5,0.66,0.64,0.6,0.42,"Driver warehouse port and technician shortages reduce regional resilience.",0.571
+"CP8","SF8","Reverse Logistics Processing Capacity","circularity",0.62,0.58,0.52,0.6,0.56,0.5,"Circular systems fail when collection sorting repair and processing capacity is limited.",0.5666

@@ -1,0 +1,9 @@
+profile_id,supply_chain_name,supply_chain_type,supply_chain_resilience_score,supply_chain_fragility_score,profile_class,description
+SCF7,Essential Goods Resilience Model,essential_goods_resilience,0.7222,0.2388,Stronger resilience profile,Public-interest supply model prioritizing continuity for essential goods and services.
+SCF6,Circular Material Supply Chain,circular_materials,0.7032,0.2844,Stronger resilience profile,Repair reuse recycling remanufacturing and reverse logistics reduce material dependency.
+SCF4,Climate-Adaptive Supply Chain,climate_adaptive,0.6974,0.2828,Stronger resilience profile,Supply system designed for climate disruption infrastructure risk and adaptive logistics.
+SCF5,Automated Traceable Supply Chain,automated_traceable,0.6806,0.3288,Stronger resilience profile,Digital traceability AI planning and automation improve visibility but create cyber and governance risks.
+SCF2,Regional Resilience Shift,regional_resilience,0.6582,0.3228,Mixed or transitional supply chain profile,Regionalized and diversified system with stronger continuity and adaptive capacity.
+SCF3,Fragmented Trade Future,fragmented_trade,0.5006,0.4892,Mixed or transitional supply chain profile,Trade fragmentation increases complexity while partial buffers reduce some exposure.
+SCF1,Lowest-Cost Global Efficiency,global_efficiency,0.397,0.658,High supply chain fragility,Highly optimized global sourcing model with low cost but high hidden fragility.
+SCF8,Opaque Critical Dependency Chain,opaque_dependency,0.3392,0.7004,High supply chain fragility,Efficient but opaque chain with concentrated supplier exposure and weak accountability.

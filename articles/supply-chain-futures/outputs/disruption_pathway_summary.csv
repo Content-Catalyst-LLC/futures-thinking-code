@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_viability,mean_viability,mean_disruption_exposure,final_recovery_score
+PW5,SCF5,SF4,Automated Traceability Pathway,1.7594,1.6564,0.0211,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,1.758,1.6666,0.0096,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,1.7573,1.655,0.0132,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,1.7539,1.6444,0.0167,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,1.7534,1.6463,0.0161,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,1.7389,1.323,0.1402,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,1.7358,1.5147,0.0472,1.5
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,1.3829,0.9788,0.1702,1.3206

@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,supply_chain_viability,disruption_exposure,recovery_score
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,1,1.0,0.6648,0.3616
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,2,0.9927,0.6222,0.3968
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,3,0.9892,0.5796,0.432
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,4,0.9897,0.537,0.4672
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,5,0.994,0.4944,0.5024
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,6,1.0022,0.4518,0.5376
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,7,1.0143,0.4092,0.5728
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,8,0.8897,0.375,0.6024
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,9,0.9088,0.3324,0.6376
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,10,0.9319,0.2898,0.6728
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,11,0.9589,0.2472,0.708
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,12,0.9898,0.2046,0.7432
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,13,1.0245,0.162,0.7784
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,14,1.0632,0.1194,0.8136
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,15,1.1057,0.0768,0.8488
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,16,1.0114,0.0426,0.8784
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,17,1.0611,0.0,0.9136
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,18,1.1124,0.0,0.9488
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,19,1.1656,0.0,0.984
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,20,1.2205,0.0,1.0192
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,21,1.2771,0.0,1.0544
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,22,1.3355,0.0,1.0896
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,23,1.3957,0.0,1.1248
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,24,1.3174,0.0,1.1544
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,25,1.3808,0.0,1.1896
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,26,1.446,0.0,1.2248
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,27,1.5129,0.0,1.26
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,28,1.5816,0.0,1.2952
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,29,1.652,0.0,1.3304
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,30,1.7243,0.0,1.3656
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,31,1.7982,0.0,1.4008
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,32,1.7337,0.0,1.4304
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,33,1.8,0.0,1.4656
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,34,1.8,0.0,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,35,1.8,0.0,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,36,1.8,0.0,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,37,1.8,0.0,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,38,1.8,0.0,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,39,1.8,0.0,1.5
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,40,1.7389,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,1,1.0,0.3048,0.7012
+PW2,SCF2,SF1,Regional Resilience Pathway,2,1.0466,0.2128,0.7676
+PW2,SCF2,SF1,Regional Resilience Pathway,3,1.1012,0.1208,0.834
+PW2,SCF2,SF1,Regional Resilience Pathway,4,1.1636,0.0288,0.9004
+PW2,SCF2,SF1,Regional Resilience Pathway,5,1.2308,0.0,0.9668
+PW2,SCF2,SF1,Regional Resilience Pathway,6,1.3014,0.0,1.0332
+PW2,SCF2,SF1,Regional Resilience Pathway,7,1.3752,0.0,1.0996
+PW2,SCF2,SF1,Regional Resilience Pathway,8,1.3121,0.0,1.1604
+PW2,SCF2,SF1,Regional Resilience Pathway,9,1.3924,0.0,1.2268
+PW2,SCF2,SF1,Regional Resilience Pathway,10,1.4759,0.0,1.2932
+PW2,SCF2,SF1,Regional Resilience Pathway,11,1.5628,0.0,1.3596
+PW2,SCF2,SF1,Regional Resilience Pathway,12,1.6529,0.0,1.426
+PW2,SCF2,SF1,Regional Resilience Pathway,13,1.7464,0.0,1.4924
+PW2,SCF2,SF1,Regional Resilience Pathway,14,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,15,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,16,1.7539,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,17,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,18,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,19,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,20,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,21,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,22,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,23,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,24,1.7539,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,25,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,26,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,27,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,28,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,29,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,30,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,31,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,32,1.7539,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,33,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,34,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,35,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,36,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,37,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,38,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,39,1.8,0.0,1.5
+PW2,SCF2,SF1,Regional Resilience Pathway,40,1.7539,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,1,1.0,0.4756,0.5336
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,2,1.0097,0.4068,0.5848
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,3,1.0254,0.338,0.636
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,4,1.0471,0.2692,0.6872
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,5,1.0748,0.2004,0.7384
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,6,1.1085,0.1316,0.7896
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,7,1.1482,0.0628,0.8408
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,8,1.0532,0.0024,0.8864
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,9,1.1009,0.0,0.9376
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,10,1.1511,0.0,0.9888
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,11,1.2039,0.0,1.04
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,12,1.2593,0.0,1.0912
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,13,1.3172,0.0,1.1424
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,14,1.3777,0.0,1.1936
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,15,1.4407,0.0,1.2448
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,16,1.366,0.0,1.2904
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,17,1.4339,0.0,1.3416
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,18,1.5044,0.0,1.3928
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,19,1.5774,0.0,1.444
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,20,1.6529,0.0,1.4952
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,21,1.7287,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,22,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,23,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,24,1.7358,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,25,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,26,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,27,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,28,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,29,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,30,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,31,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,32,1.7358,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,33,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,34,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,35,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,36,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,37,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,38,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,39,1.8,0.0,1.5
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,40,1.7358,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,1,1.0,0.2744,0.708
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,2,1.0524,0.1766,0.778
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,3,1.1132,0.0788,0.848
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,4,1.1814,0.0,0.918
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,5,1.2532,0.0,0.988
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,6,1.3284,0.0,1.058
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,7,1.4071,0.0,1.128
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,8,1.3491,0.0,1.1924
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,9,1.4346,0.0,1.2624
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,10,1.5235,0.0,1.3324
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,11,1.616,0.0,1.4024
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,12,1.7119,0.0,1.4724
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,13,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,14,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,15,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,16,1.7573,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,17,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,18,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,19,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,20,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,21,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,22,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,23,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,24,1.7573,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,25,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,26,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,27,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,28,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,29,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,30,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,31,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,32,1.7573,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,33,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,34,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,35,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,36,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,37,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,38,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,39,1.8,0.0,1.5
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,40,1.7573,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,1,1.0,0.344,0.702
+PW5,SCF5,SF4,Automated Traceability Pathway,2,1.0504,0.2556,0.7762
+PW5,SCF5,SF4,Automated Traceability Pathway,3,1.1089,0.1672,0.8504
+PW5,SCF5,SF4,Automated Traceability Pathway,4,1.1755,0.0788,0.9246
+PW5,SCF5,SF4,Automated Traceability Pathway,5,1.2498,0.0,0.9988
+PW5,SCF5,SF4,Automated Traceability Pathway,6,1.3278,0.0,1.073
+PW5,SCF5,SF4,Automated Traceability Pathway,7,1.4095,0.0,1.1472
+PW5,SCF5,SF4,Automated Traceability Pathway,8,1.3547,0.0,1.2158
+PW5,SCF5,SF4,Automated Traceability Pathway,9,1.4435,0.0,1.29
+PW5,SCF5,SF4,Automated Traceability Pathway,10,1.5361,0.0,1.3642
+PW5,SCF5,SF4,Automated Traceability Pathway,11,1.6324,0.0,1.4384
+PW5,SCF5,SF4,Automated Traceability Pathway,12,1.7317,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,13,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,14,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,15,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,16,1.7594,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,17,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,18,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,19,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,20,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,21,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,22,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,23,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,24,1.7594,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,25,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,26,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,27,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,28,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,29,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,30,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,31,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,32,1.7594,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,33,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,34,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,35,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,36,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,37,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,38,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,39,1.8,0.0,1.5
+PW5,SCF5,SF4,Automated Traceability Pathway,40,1.7594,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,1,1.0,0.302,0.7088
+PW6,SCF6,SF8,Circular Materials Pathway,2,1.0469,0.2078,0.7794
+PW6,SCF6,SF8,Circular Materials Pathway,3,1.1021,0.1136,0.85
+PW6,SCF6,SF8,Circular Materials Pathway,4,1.1656,0.0194,0.9206
+PW6,SCF6,SF8,Circular Materials Pathway,5,1.2335,0.0,0.9912
+PW6,SCF6,SF8,Circular Materials Pathway,6,1.305,0.0,1.0618
+PW6,SCF6,SF8,Circular Materials Pathway,7,1.3799,0.0,1.1324
+PW6,SCF6,SF8,Circular Materials Pathway,8,1.3182,0.0,1.1974
+PW6,SCF6,SF8,Circular Materials Pathway,9,1.3999,0.0,1.268
+PW6,SCF6,SF8,Circular Materials Pathway,10,1.4852,0.0,1.3386
+PW6,SCF6,SF8,Circular Materials Pathway,11,1.5741,0.0,1.4092
+PW6,SCF6,SF8,Circular Materials Pathway,12,1.6664,0.0,1.4798
+PW6,SCF6,SF8,Circular Materials Pathway,13,1.7598,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,14,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,15,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,16,1.7534,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,17,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,18,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,19,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,20,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,21,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,22,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,23,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,24,1.7534,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,25,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,26,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,27,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,28,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,29,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,30,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,31,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,32,1.7534,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,33,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,34,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,35,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,36,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,37,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,38,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,39,1.8,0.0,1.5
+PW6,SCF6,SF8,Circular Materials Pathway,40,1.7534,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,1,1.0,0.23,0.7904
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,2,1.06,0.128,0.868
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,3,1.1289,0.026,0.9456
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,4,1.2031,0.0,1.0232
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,5,1.2811,0.0,1.1008
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,6,1.363,0.0,1.1784
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,7,1.4488,0.0,1.256
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,8,1.3981,0.0,1.328
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,9,1.4914,0.0,1.4056
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,10,1.5885,0.0,1.4832
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,11,1.6865,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,12,1.7845,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,13,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,14,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,15,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,16,1.758,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,17,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,18,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,19,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,20,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,21,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,22,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,23,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,24,1.758,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,25,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,26,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,27,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,28,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,29,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,30,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,31,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,32,1.758,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,33,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,34,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,35,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,36,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,37,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,38,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,39,1.8,0.0,1.5
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,40,1.758,0.0,1.5
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,1,1.0,0.6968,0.2956
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,2,0.9776,0.6584,0.3226
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,3,0.9586,0.62,0.3496
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,4,0.9427,0.5816,0.3766
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,5,0.9302,0.5432,0.4036
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,6,0.9209,0.5048,0.4306
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,7,0.9149,0.4664,0.4576
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,8,0.7715,0.4364,0.479
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,9,0.7713,0.398,0.506
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,10,0.7744,0.3596,0.533
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,11,0.7808,0.3212,0.56
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,12,0.7904,0.2828,0.587
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,13,0.8033,0.2444,0.614
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,14,0.8195,0.206,0.641
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,15,0.839,0.1676,0.668
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,16,0.721,0.1376,0.6894
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,17,0.7463,0.0992,0.7164
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,18,0.7748,0.0608,0.7434
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,19,0.8067,0.0224,0.7704
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,20,0.841,0.0,0.7974
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,21,0.8766,0.0,0.8244
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,22,0.9136,0.0,0.8514
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,23,0.952,0.0,0.8784
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,24,0.8514,0.0,0.8998
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,25,0.8922,0.0,0.9268
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,26,0.9343,0.0,0.9538
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,27,0.9778,0.0,0.9808
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,28,1.0226,0.0,1.0078
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,29,1.0688,0.0,1.0348
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,30,1.1163,0.0,1.0618
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,31,1.1651,0.0,1.0888
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,32,1.0751,0.0,1.1102
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,33,1.1264,0.0,1.1372
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,34,1.179,0.0,1.1642
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,35,1.233,0.0,1.1912
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,36,1.2884,0.0,1.2182
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,37,1.3451,0.0,1.2452
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,38,1.4031,0.0,1.2722
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,39,1.4625,0.0,1.2992
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,40,1.3829,0.0,1.3206

@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,resilience_gain_score,implementation_risk_score,description
+RS7,SCF7,Essential Goods Stockpile and Public Procurement,public_resilience,0.6556,0.3736,Protects essential goods through buffers procurement standards supplier development and governance.
+RS6,SCF6,Circular Materials and Reverse Logistics,circularity,0.624,0.3892,Uses repair reuse remanufacturing recycling and reverse logistics to reduce material exposure.
+RS8,SCF8,Dependency Visibility and Accountability Reset,transparency_reset,0.6208,0.3932,Addresses opaque critical dependencies with tier mapping standards audits and worker voice.
+RS4,SCF4,Climate Adaptation and Site Risk Mapping,climate_adaptation,0.6132,0.3956,Assesses climate risk across suppliers ports routes warehouses and labor conditions.
+RS2,SCF2,Regional Capacity and Flexible Logistics,regional_resilience,0.5888,0.39,Builds regional sourcing flexible routing and recovery capacity.
+RS5,SCF5,Digital Traceability and Cyber Resilience,digital_traceability,0.5424,0.4356,Builds verified upstream visibility with cybersecurity and data governance.
+RS3,SCF3,Trade Fragmentation Stress Testing,scenario_stress_testing,0.522,0.3992,Maps trade exposure and tests resilience under tariffs sanctions and export controls.
+RS1,SCF1,Supplier Diversification and Qualification,diversification,0.5036,0.438,Qualifies alternate suppliers and reduces dependency concentration.

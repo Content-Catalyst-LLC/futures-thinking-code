@@ -1,0 +1,9 @@
+chokepoint_id,scenario_id,chokepoint_name,chokepoint_type,chokepoint_priority_score,visibility_gap,description
+CP2,SF5,Critical Minerals Processing Cluster,materials,0.7824,0.58,Energy transition technologies depend on concentrated mineral processing capacity.
+CP5,SF7,Single-Source Component Supplier,supplier,0.7432,0.64,A specialized component supplier creates hidden production stoppage risk.
+CP6,SF6,Essential Medical Supply Input,essential_goods,0.7322,0.54,Public health systems depend on a small number of inputs suppliers and production locations.
+CP1,SF2,Strategic Port and Canal Exposure,geographic,0.7232,0.48,Concentrated maritime routes and ports expose logistics to conflict congestion or blockage.
+CP4,SF3,Climate-Exposed Warehouse Corridor,infrastructure,0.6552,0.46,Storms floods heat and wildfire threaten logistics corridors and warehousing clusters.
+CP3,SF4,Supply Chain Planning Platform Dependency,digital,0.644,0.5,Digital planning and visibility systems can become operational chokepoints.
+CP7,SF1,Regional Transport Labor Constraint,labor,0.571,0.42,Driver warehouse port and technician shortages reduce regional resilience.
+CP8,SF8,Reverse Logistics Processing Capacity,circularity,0.5666,0.5,Circular systems fail when collection sorting repair and processing capacity is limited.

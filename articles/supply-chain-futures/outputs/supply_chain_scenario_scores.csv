@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,disruption_pressure_score,adaptation_opportunity_score,description
+SF3,Climate-Disrupted Logistics,climate_disruption,0.7008,0.6744,Extreme weather water stress heat and infrastructure damage disrupt production and logistics.
+SF5,Critical Minerals Bottleneck,critical_minerals,0.6912,0.706,Energy transition demand strains minerals refining batteries and grid components.
+SF2,Fragmented Trade Future,trade_fragmentation,0.6692,0.6484,Tariffs sanctions export controls standards divergence and conflict disrupt global flows.
+SF8,Circular Materials Transition,circular_transition,0.6028,0.6296,Repair reuse recycling product passports and circular material flows become strategic.
+SF4,Automated Traceable Supply Chains,digital_traceability,0.582,0.6352,AI sensors digital twins robotics and traceability platforms reshape supply systems.
+SF6,Essential Goods Resilience Model,essential_goods,0.5776,0.5972,Public procurement and regulation strengthen supply systems for essential goods.
+SF7,Lowest-Cost Fragility Return,cost_relapse,0.564,0.5652,Firms return to cost minimization after crises fade while hidden dependencies remain.
+SF1,Regional Resilience Shift,regionalization,0.5368,0.5504,Organizations rebalance supply chains toward regional capacity diversification and resilience.

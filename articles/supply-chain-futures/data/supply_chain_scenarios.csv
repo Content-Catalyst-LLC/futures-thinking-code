@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,trade_fragmentation,climate_disruption,technology_acceleration,critical_minerals_pressure,labor_stress,transport_chokepoint_pressure,regulatory_pressure,demand_volatility,description
+SF1,Regional Resilience Shift,regionalization,0.48,0.56,0.58,0.54,0.50,0.52,0.62,0.54,Organizations rebalance supply chains toward regional capacity diversification and resilience.
+SF2,Fragmented Trade Future,trade_fragmentation,0.88,0.58,0.52,0.64,0.56,0.70,0.72,0.66,Tariffs sanctions export controls standards divergence and conflict disrupt global flows.
+SF3,Climate-Disrupted Logistics,climate_disruption,0.50,0.92,0.50,0.58,0.76,0.82,0.68,0.70,Extreme weather water stress heat and infrastructure damage disrupt production and logistics.
+SF4,Automated Traceable Supply Chains,digital_traceability,0.44,0.54,0.90,0.56,0.62,0.54,0.74,0.58,AI sensors digital twins robotics and traceability platforms reshape supply systems.
+SF5,Critical Minerals Bottleneck,critical_minerals,0.64,0.66,0.70,0.94,0.58,0.62,0.76,0.64,Energy transition demand strains minerals refining batteries and grid components.
+SF6,Essential Goods Resilience Model,essential_goods,0.42,0.62,0.54,0.56,0.54,0.58,0.82,0.60,Public procurement and regulation strengthen supply systems for essential goods.
+SF7,Lowest-Cost Fragility Return,cost_relapse,0.48,0.58,0.62,0.52,0.64,0.60,0.44,0.68,Firms return to cost minimization after crises fade while hidden dependencies remain.
+SF8,Circular Materials Transition,circular_transition,0.46,0.66,0.62,0.78,0.54,0.48,0.80,0.52,Repair reuse recycling product passports and circular material flows become strategic.

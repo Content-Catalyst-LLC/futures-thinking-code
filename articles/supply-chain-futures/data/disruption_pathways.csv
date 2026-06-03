@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,cost_efficiency,diversification,buffer,visibility,labor_accountability,climate_adaptation,traceability,recovery_capacity,initial_viability,time_horizon
+PW1,SCF1,SF7,Lowest-Cost Fragility Pathway,0.90,0.34,0.24,0.42,0.36,0.30,0.44,0.38,1.00,40
+PW2,SCF2,SF1,Regional Resilience Pathway,0.58,0.78,0.70,0.66,0.64,0.62,0.64,0.74,1.00,40
+PW3,SCF3,SF2,Fragmented Trade Disruption Pathway,0.46,0.56,0.60,0.50,0.44,0.46,0.52,0.54,1.00,40
+PW4,SCF4,SF3,Climate-Adaptive Disruption Pathway,0.60,0.70,0.68,0.70,0.60,0.90,0.72,0.78,1.00,40
+PW5,SCF5,SF4,Automated Traceability Pathway,0.72,0.62,0.54,0.90,0.52,0.66,0.92,0.68,1.00,40
+PW6,SCF6,SF8,Circular Materials Pathway,0.54,0.68,0.62,0.78,0.66,0.74,0.78,0.72,1.00,40
+PW7,SCF7,SF6,Essential Goods Resilience Pathway,0.52,0.76,0.84,0.74,0.72,0.70,0.76,0.86,1.00,40
+PW8,SCF8,SF5,Opaque Critical Dependency Pathway,0.76,0.28,0.32,0.24,0.30,0.36,0.28,0.34,1.00,40

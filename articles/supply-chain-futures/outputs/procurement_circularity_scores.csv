@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,public_interest_supply_governance_score,implementation_readiness,description
+PC2,SCF6,Circular Product Passport and Reverse Logistics,circularity,0.7736,0.62,Product passports repair systems and reverse logistics improve circular material flows.
+PC1,SCF7,Essential Goods Procurement Standard,public_procurement,0.7696,0.68,Procurement model prioritizing essential goods resilience transparency and public value.
+PC3,SCF4,Climate-Resilient Infrastructure Sourcing,climate_procurement,0.758,0.64,Procurement criteria account for climate risk emissions and lifecycle resilience.
+PC4,SCF5,Verified Digital Traceability Standard,traceability,0.7236,0.66,Data governance standards improve verification and upstream visibility.
+PC7,SCF8,Critical Dependency Transparency Mandate,transparency,0.7092,0.58,Requires upstream mapping of critical dependencies labor exposure and substitutability.
+PC5,SCF2,Regional Supplier Development Program,regional_capacity,0.7004,0.7,Builds diversified regional capacity and supplier development for continuity.
+PC8,SCF3,Trade Compliance and Scenario Review,trade_compliance,0.598,0.72,Prepares procurement and sourcing rules for tariff sanctions and regulatory fragmentation.
+PC6,SCF1,Lowest-Cost Procurement Baseline,cost_baseline,0.3444,0.76,Procurement overweights direct cost while undercounting fragility and hidden harms.

@@ -1,0 +1,9 @@
+"strategy_id","profile_id","strategy_name","strategy_type","supplier_diversification_gain","buffer_gain","visibility_gain","labor_accountability_gain","climate_adaptation_gain","circularity_gain","implementation_capacity","cost_burden","description","resilience_gain_score"
+"RS7","SCF7","Essential Goods Stockpile and Public Procurement","public_resilience",0.7,0.92,0.76,0.74,0.72,0.54,0.66,0.78,"Protects essential goods through buffers procurement standards supplier development and governance.",0.6556
+"RS6","SCF6","Circular Materials and Reverse Logistics","circularity",0.62,0.58,0.78,0.64,0.72,0.94,0.62,0.66,"Uses repair reuse remanufacturing recycling and reverse logistics to reduce material exposure.",0.624
+"RS8","SCF8","Dependency Visibility and Accountability Reset","transparency_reset",0.76,0.62,0.86,0.72,0.64,0.48,0.58,0.62,"Addresses opaque critical dependencies with tier mapping standards audits and worker voice.",0.6208
+"RS4","SCF4","Climate Adaptation and Site Risk Mapping","climate_adaptation",0.62,0.68,0.74,0.58,0.92,0.5,0.66,0.7,"Assesses climate risk across suppliers ports routes warehouses and labor conditions.",0.6132
+"RS2","SCF2","Regional Capacity and Flexible Logistics","regional_resilience",0.78,0.7,0.66,0.62,0.6,0.42,0.7,0.64,"Builds regional sourcing flexible routing and recovery capacity.",0.5888
+"RS5","SCF5","Digital Traceability and Cyber Resilience","digital_traceability",0.54,0.5,0.92,0.5,0.6,0.56,0.64,0.68,"Builds verified upstream visibility with cybersecurity and data governance.",0.5424
+"RS3","SCF3","Trade Fragmentation Stress Testing","scenario_stress_testing",0.58,0.6,0.7,0.44,0.5,0.38,0.72,0.42,"Maps trade exposure and tests resilience under tariffs sanctions and export controls.",0.522
+"RS1","SCF1","Supplier Diversification and Qualification","diversification",0.88,0.46,0.58,0.46,0.44,0.32,0.68,0.56,"Qualifies alternate suppliers and reduces dependency concentration.",0.5036
