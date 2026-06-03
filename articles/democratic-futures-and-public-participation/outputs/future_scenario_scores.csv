@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,democratic_stress_pressure_score,democratic_futures_opportunity_score,description
+S7,Co-Governed Just Transition,co_governance,0.34,0.738,Workers communities public institutions and experts share authority over transition pathways.
+S1,Embedded Democratic Foresight,democratic_capacity,0.3332,0.7376,Participation becomes routine in foresight policy budgets evaluation and public learning.
+S5,Community-Led Futures,community_power,0.39,0.6832,Communities generate future pathways and demand institutional uptake and resources.
+S4,Platform-Mediated Participation,digital_civic_infrastructure,0.5832,0.4312,Digital platforms scale engagement but shape voice through interface data and moderation design.
+S3,Elite Scenario Governance,elite_foresight,0.5756,0.4192,Experts and powerful institutions define futures with limited public contestability.
+S2,Consultation Theater,symbolic_participation,0.6176,0.3724,Institutions invite input but decision influence remains weak.
+S6,Polarized Future Conflict,polarization,0.6928,0.3064,Future narratives become weapons in political conflict and public trust erodes.

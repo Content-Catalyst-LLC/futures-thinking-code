@@ -1,0 +1,9 @@
+uptake_id,model_id,decision_area,response_duty,budget_connection,policy_influence,regulatory_influence,implementation_tracking,public_reporting,remedy_access,description
+U1,M1,Consultation summary report,0.26,0.14,0.24,0.20,0.18,0.30,0.16,Input is summarized but decision influence and remedy are weak.
+U2,M2,Citizen assembly recommendations,0.78,0.48,0.66,0.54,0.62,0.74,0.50,Formal recommendations receive public institutional response but budget authority may vary.
+U3,M3,Community adaptation priorities,0.70,0.62,0.64,0.52,0.66,0.68,0.64,Community foresight influences local adaptation planning when agencies commit to follow-through.
+U4,M4,Participatory long-term budget allocation,0.74,0.88,0.70,0.48,0.78,0.76,0.54,Public participation directly shapes resource allocation and implementation tracking.
+U5,M5,Youth futures policy advice,0.52,0.36,0.46,0.32,0.40,0.50,0.34,Youth voice informs policy but often lacks binding response and budget influence.
+U6,M6,Digital civic input dashboard,0.40,0.30,0.38,0.28,0.36,0.44,0.26,Digital participation can gather input but may struggle to demonstrate decision influence.
+U7,M7,Co-governed transition plan,0.86,0.76,0.82,0.68,0.84,0.82,0.74,Shared authority creates visible uptake accountability and implementation pathways.
+U8,M8,Public technology assessment findings,0.72,0.46,0.66,0.82,0.70,0.74,0.76,Technology assessment can influence regulation procurement audit and rights remedies.

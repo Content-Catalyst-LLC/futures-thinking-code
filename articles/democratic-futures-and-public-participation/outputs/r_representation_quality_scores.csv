@@ -1,0 +1,10 @@
+"representation_id","model_id","group_name","affectedness","representation_quality","barrier_reduction","compensation","decision_access","trust_condition","knowledge_recognition","description","representation_quality_score"
+"R3","M3","Climate-exposed communities",0.9,0.82,0.78,0.76,0.7,0.68,0.88,"Community-led foresight centers affected knowledge and local climate risk experience.",0.8004
+"R8","M7","Workers and affected communities",0.86,0.8,0.76,0.72,0.8,0.72,0.84,"Co-governance gives affected people recurring authority and decision pathways.",0.7936
+"R4","M3","Indigenous and place-based communities",0.88,0.78,0.74,0.72,0.68,0.64,0.92,"Sovereignty stewardship cultural continuity and land relationships shape future-making.",0.7752
+"R9","M8","Public-service users and technology-affected groups",0.84,0.72,0.7,0.58,0.68,0.64,0.78,"Technology assessment panels surface rights risks access barriers and lived impacts before deployment.",0.718
+"R2","M2","Representative citizen participants",0.66,0.84,0.72,0.58,0.64,0.7,0.68,"Sortition and balanced design improve representation but still require institutional uptake.",0.6984
+"R5","M4","Residents shaping capital budgets",0.72,0.66,0.64,0.54,0.82,0.62,0.6,"Participatory budgeting improves decision access when budget shares are meaningful.",0.6676
+"R6","M5","Youth and future-facing publics",0.82,0.64,0.68,0.5,0.46,0.58,0.7,"Youth councils surface long-term stakes but can become symbolic without response duties.",0.6416
+"R7","M6","Digitally connected participants",0.52,0.46,0.38,0.12,0.36,0.34,0.42,"Digital platforms scale participation but risk underrepresenting digitally excluded groups.",0.3908
+"R1","M1","General public commenters",0.48,0.38,0.3,0.1,0.22,0.34,0.3,"Open comment processes reach some publics but underrepresent people with time access and trust barriers.",0.32

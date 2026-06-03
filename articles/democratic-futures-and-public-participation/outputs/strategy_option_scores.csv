@@ -1,0 +1,8 @@
+strategy_id,strategy_name,strategy_type,democratic_futures_strategy_score,decision_influence_strategy_score,description
+ST6,Co-Governance Transition Board,co_governance,0.8332,0.8328,Shares authority among public institutions workers communities and affected publics.
+ST2,Community-Led Foresight Fund,community_power,0.794,0.7712,Resources affected communities to define futures risks priorities and adaptation pathways.
+ST1,Citizen Assembly Program,deliberative_democracy,0.7628,0.722,Representative deliberative processes for complex long-term public choices.
+ST3,Participatory Futures Budget,public_finance,0.7612,0.7732,Connects democratic futures to capital budgets resilience investment and implementation tracking.
+ST4,Public Technology Assessment System,technology_governance,0.7608,0.7572,Creates public review audit and rights mechanisms for emerging technologies.
+ST7,Participation Accountability Dashboard,accountability,0.7316,0.7496,Tracks public input recommendations institutional responses implementation and reasons for non-adoption.
+ST5,Youth and Future Generations Council,intergenerational_governance,0.6832,0.6512,Brings youth voice future generations and long-horizon accountability into public institutions.

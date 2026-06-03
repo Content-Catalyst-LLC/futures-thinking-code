@@ -1,0 +1,10 @@
+representation_id,model_id,group_name,representation_quality_score,decision_access,knowledge_recognition,description
+R3,M3,Climate-exposed communities,0.8004,0.7,0.88,Community-led foresight centers affected knowledge and local climate risk experience.
+R8,M7,Workers and affected communities,0.7936,0.8,0.84,Co-governance gives affected people recurring authority and decision pathways.
+R4,M3,Indigenous and place-based communities,0.7752,0.68,0.92,Sovereignty stewardship cultural continuity and land relationships shape future-making.
+R9,M8,Public-service users and technology-affected groups,0.718,0.68,0.78,Technology assessment panels surface rights risks access barriers and lived impacts before deployment.
+R2,M2,Representative citizen participants,0.6984,0.64,0.68,Sortition and balanced design improve representation but still require institutional uptake.
+R5,M4,Residents shaping capital budgets,0.6676,0.82,0.6,Participatory budgeting improves decision access when budget shares are meaningful.
+R6,M5,Youth and future-facing publics,0.6416,0.46,0.7,Youth councils surface long-term stakes but can become symbolic without response duties.
+R7,M6,Digitally connected participants,0.3908,0.36,0.42,Digital platforms scale participation but risk underrepresenting digitally excluded groups.
+R1,M1,General public commenters,0.32,0.22,0.3,Open comment processes reach some publics but underrepresent people with time access and trust barriers.

@@ -1,0 +1,9 @@
+uptake_id,model_id,decision_area,decision_uptake_score,budget_connection,remedy_access,description
+U7,M7,Co-governed transition plan,0.7928,0.76,0.74,Shared authority creates visible uptake accountability and implementation pathways.
+U4,M4,Participatory long-term budget allocation,0.7076,0.88,0.54,Public participation directly shapes resource allocation and implementation tracking.
+U8,M8,Public technology assessment findings,0.6864,0.46,0.76,Technology assessment can influence regulation procurement audit and rights remedies.
+U3,M3,Community adaptation priorities,0.6384,0.62,0.64,Community foresight influences local adaptation planning when agencies commit to follow-through.
+U2,M2,Citizen assembly recommendations,0.624,0.48,0.5,Formal recommendations receive public institutional response but budget authority may vary.
+U5,M5,Youth futures policy advice,0.4196,0.36,0.34,Youth voice informs policy but often lacks binding response and budget influence.
+U6,M6,Digital civic input dashboard,0.3492,0.3,0.26,Digital participation can gather input but may struggle to demonstrate decision influence.
+U1,M1,Consultation summary report,0.2128,0.14,0.16,Input is summarized but decision influence and remedy are weak.

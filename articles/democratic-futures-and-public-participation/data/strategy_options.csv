@@ -1,0 +1,8 @@
+strategy_id,strategy_name,strategy_type,inclusion_design,deliberative_design,representation_quality,response_duty,budget_link,accountability_tracking,justice_safeguards,remedy_access,public_learning,description
+ST1,Citizen Assembly Program,deliberative_democracy,0.82,0.92,0.88,0.78,0.54,0.76,0.72,0.58,0.84,Representative deliberative processes for complex long-term public choices.
+ST2,Community-Led Foresight Fund,community_power,0.90,0.74,0.84,0.72,0.78,0.74,0.92,0.70,0.78,Resources affected communities to define futures risks priorities and adaptation pathways.
+ST3,Participatory Futures Budget,public_finance,0.76,0.66,0.72,0.78,0.94,0.82,0.78,0.62,0.68,Connects democratic futures to capital budgets resilience investment and implementation tracking.
+ST4,Public Technology Assessment System,technology_governance,0.76,0.78,0.74,0.76,0.58,0.80,0.84,0.86,0.76,Creates public review audit and rights mechanisms for emerging technologies.
+ST5,Youth and Future Generations Council,intergenerational_governance,0.74,0.78,0.70,0.66,0.52,0.68,0.72,0.56,0.82,Brings youth voice future generations and long-horizon accountability into public institutions.
+ST6,Co-Governance Transition Board,co_governance,0.84,0.80,0.82,0.86,0.82,0.86,0.88,0.78,0.80,Shares authority among public institutions workers communities and affected publics.
+ST7,Participation Accountability Dashboard,accountability,0.68,0.62,0.66,0.82,0.64,0.94,0.76,0.72,0.72,Tracks public input recommendations institutional responses implementation and reasons for non-adoption.

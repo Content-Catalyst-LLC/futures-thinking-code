@@ -1,0 +1,321 @@
+pathway_id,model_id,scenario_id,pathway_name,time_step,democratic_futures_capacity,public_trust,institutional_uptake,tokenism_risk,learning_score
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,1,0.3364,0.44,0.26,0.72,0.36
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,2,0.3884,0.4385,0.2917,0.6848,0.3858
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,3,0.4459,0.4408,0.3239,0.6484,0.4123
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,4,0.5094,0.447,0.3567,0.6106,0.4394
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,5,0.5791,0.4572,0.39,0.5715,0.4672
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,6,0.6553,0.4715,0.4238,0.5311,0.4957
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,7,0.7384,0.4901,0.4582,0.4892,0.5249
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,8,0.8247,0.5108,0.4905,0.4506,0.5529
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,9,0.922,0.5377,0.5261,0.4061,0.5834
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,10,1.0271,0.5692,0.5622,0.3601,0.6147
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,11,1.1405,0.6054,0.599,0.3126,0.6466
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,12,1.2626,0.6464,0.6365,0.2637,0.6794
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,13,1.3936,0.6923,0.6745,0.2132,0.7129
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,14,1.5341,0.7433,0.7133,0.1611,0.7471
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,15,1.6844,0.7995,0.7527,0.1075,0.7822
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,16,1.8,0.8588,0.7902,0.0569,0.8162
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,17,1.8,0.9254,0.831,0.0002,0.8528
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,18,1.8,0.994,0.8726,0.0,0.8903
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,19,1.8,1.0647,0.9149,0.0,0.9286
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,20,1.8,1.1376,0.9579,0.0,0.9677
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,21,1.8,1.2127,1.0018,0.0,1.0078
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,22,1.8,1.29,1.0465,0.0,1.0487
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,23,1.8,1.3696,1.0919,0.0,1.0905
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,24,1.8,1.4,1.1355,0.0,1.1314
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,25,1.8,1.4,1.1827,0.0,1.1751
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,26,1.8,1.4,1.2307,0.0,1.2197
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,27,1.8,1.4,1.2796,0.0,1.2653
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,28,1.8,1.4,1.3294,0.0,1.3119
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,29,1.8,1.4,1.3801,0.0,1.3595
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,30,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,31,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,32,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,33,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,34,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,35,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,36,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,37,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,38,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,39,1.8,1.4,1.4,0.0,1.4
+P1,M1,S2,Late-Stage Consultation Under Consultation Theater,40,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,1,0.7568,0.62,0.64,0.33,0.82
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,2,0.975,0.7021,0.7213,0.242,0.8844
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,3,1.2108,0.7939,0.8039,0.1508,0.9505
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,4,1.4648,0.8955,0.8878,0.0562,1.0183
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,5,1.7346,1.0048,0.9731,0.0,1.0877
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,6,1.8,1.1183,1.0597,0.0,1.1589
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,7,1.8,1.2363,1.1478,0.0,1.2319
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,8,1.8,1.3569,1.2346,0.0,1.3048
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,9,1.8,1.4,1.3256,0.0,1.3813
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,10,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,11,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,12,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,13,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,14,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,15,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,16,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,17,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,18,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,19,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,20,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,21,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,22,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,23,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,24,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,25,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,26,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,27,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,28,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,29,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,30,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,31,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,32,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,33,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,34,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,35,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,36,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,37,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,38,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,39,1.8,1.4,1.4,0.0,1.4
+P2,M2,S1,Citizen Assembly Democratic Capacity Pathway,40,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,1,0.736,0.6,0.58,0.39,0.76
+P3,M3,S5,Community-Led Futures Pathway,2,0.9392,0.6774,0.6547,0.3025,0.8165
+P3,M3,S5,Community-Led Futures Pathway,3,1.1591,0.764,0.7305,0.212,0.8745
+P3,M3,S5,Community-Led Futures Pathway,4,1.3964,0.8601,0.8075,0.1184,0.9341
+P3,M3,S5,Community-Led Futures Pathway,5,1.6518,0.9658,0.8857,0.0217,0.9952
+P3,M3,S5,Community-Led Futures Pathway,6,1.8,1.0769,0.9651,0.0,1.0579
+P3,M3,S5,Community-Led Futures Pathway,7,1.8,1.192,1.0458,0.0,1.1222
+P3,M3,S5,Community-Led Futures Pathway,8,1.8,1.3092,1.125,0.0,1.1863
+P3,M3,S5,Community-Led Futures Pathway,9,1.8,1.4,1.2082,0.0,1.2539
+P3,M3,S5,Community-Led Futures Pathway,10,1.8,1.4,1.2928,0.0,1.3231
+P3,M3,S5,Community-Led Futures Pathway,11,1.8,1.4,1.3788,0.0,1.3941
+P3,M3,S5,Community-Led Futures Pathway,12,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,13,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,14,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,15,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,16,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,17,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,18,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,19,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,20,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,21,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,22,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,23,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,24,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,25,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,26,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,27,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,28,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,29,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,30,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,31,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,32,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,33,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,34,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,35,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,36,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,37,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,38,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,39,1.8,1.4,1.4,0.0,1.4
+P3,M3,S5,Community-Led Futures Pathway,40,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,1,0.6984,0.64,0.82,0.21,0.6
+P4,M4,S1,Participatory Budgeting Futures Pathway,2,0.9231,0.7469,0.9113,0.1072,0.6526
+P4,M4,S1,Participatory Budgeting Futures Pathway,3,1.1677,0.8649,1.0037,0.0008,0.7071
+P4,M4,S1,Participatory Budgeting Futures Pathway,4,1.4241,0.9875,1.0971,0.0,0.7634
+P4,M4,S1,Participatory Budgeting Futures Pathway,5,1.6924,1.1149,1.1917,0.0,0.8217
+P4,M4,S1,Participatory Budgeting Futures Pathway,6,1.8,1.2471,1.2874,0.0,0.8818
+P4,M4,S1,Participatory Budgeting Futures Pathway,7,1.8,1.3841,1.3843,0.0,0.9439
+P4,M4,S1,Participatory Budgeting Futures Pathway,8,1.8,1.4,1.4,0.0,1.0045
+P4,M4,S1,Participatory Budgeting Futures Pathway,9,1.8,1.4,1.4,0.0,1.0669
+P4,M4,S1,Participatory Budgeting Futures Pathway,10,1.8,1.4,1.4,0.0,1.1293
+P4,M4,S1,Participatory Budgeting Futures Pathway,11,1.8,1.4,1.4,0.0,1.1917
+P4,M4,S1,Participatory Budgeting Futures Pathway,12,1.8,1.4,1.4,0.0,1.2541
+P4,M4,S1,Participatory Budgeting Futures Pathway,13,1.8,1.4,1.4,0.0,1.3165
+P4,M4,S1,Participatory Budgeting Futures Pathway,14,1.8,1.4,1.4,0.0,1.3789
+P4,M4,S1,Participatory Budgeting Futures Pathway,15,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,16,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,17,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,18,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,19,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,20,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,21,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,22,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,23,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,24,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,25,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,26,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,27,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,28,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,29,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,30,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,31,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,32,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,33,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,34,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,35,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,36,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,37,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,38,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,39,1.8,1.4,1.4,0.0,1.4
+P4,M4,S1,Participatory Budgeting Futures Pathway,40,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,1,0.5948,0.56,0.46,0.53,0.72
+P5,M5,S1,Youth Futures Council Pathway,2,0.7422,0.603,0.5189,0.4657,0.772
+P5,M5,S1,Youth Futures Council Pathway,3,0.9018,0.653,0.5788,0.3991,0.8252
+P5,M5,S1,Youth Futures Council Pathway,4,1.0744,0.7102,0.6398,0.33,0.8796
+P5,M5,S1,Youth Futures Council Pathway,5,1.2604,0.7748,0.7019,0.2584,0.9352
+P5,M5,S1,Youth Futures Council Pathway,6,1.4605,0.847,0.7651,0.1843,0.9921
+P5,M5,S1,Youth Futures Council Pathway,7,1.6753,0.927,0.8295,0.1076,1.0503
+P5,M5,S1,Youth Futures Council Pathway,8,1.8,1.0128,0.8923,0.0329,1.1079
+P5,M5,S1,Youth Futures Council Pathway,9,1.8,1.1058,0.9589,0.0,1.1687
+P5,M5,S1,Youth Futures Council Pathway,10,1.8,1.2021,1.0268,0.0,1.2308
+P5,M5,S1,Youth Futures Council Pathway,11,1.8,1.3019,1.0959,0.0,1.2944
+P5,M5,S1,Youth Futures Council Pathway,12,1.8,1.4,1.1663,0.0,1.3593
+P5,M5,S1,Youth Futures Council Pathway,13,1.8,1.4,1.238,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,14,1.8,1.4,1.3105,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,15,1.8,1.4,1.383,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,16,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,17,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,18,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,19,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,20,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,21,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,22,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,23,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,24,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,25,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,26,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,27,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,28,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,29,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,30,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,31,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,32,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,33,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,34,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,35,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,36,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,37,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,38,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,39,1.8,1.4,1.4,0.0,1.4
+P5,M5,S1,Youth Futures Council Pathway,40,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,1,0.4316,0.46,0.38,0.61,0.46
+P6,M6,S4,Digital Participation Platform Pathway,2,0.5243,0.4825,0.4257,0.5597,0.4939
+P6,M6,S4,Digital Participation Platform Pathway,3,0.6259,0.5105,0.4721,0.5075,0.5288
+P6,M6,S4,Digital Participation Platform Pathway,4,0.7368,0.544,0.5192,0.4534,0.5645
+P6,M6,S4,Digital Participation Platform Pathway,5,0.8576,0.5833,0.5669,0.3974,0.6013
+P6,M6,S4,Digital Participation Platform Pathway,6,0.9886,0.6285,0.6155,0.3395,0.639
+P6,M6,S4,Digital Participation Platform Pathway,7,1.1304,0.6798,0.6647,0.2796,0.6777
+P6,M6,S4,Digital Participation Platform Pathway,8,1.2793,0.735,0.7121,0.2224,0.7155
+P6,M6,S4,Digital Participation Platform Pathway,9,1.4433,0.7985,0.7629,0.1585,0.7562
+P6,M6,S4,Digital Participation Platform Pathway,10,1.6195,0.8684,0.8145,0.0927,0.7979
+P6,M6,S4,Digital Participation Platform Pathway,11,1.8,0.9451,0.867,0.0247,0.8406
+P6,M6,S4,Digital Participation Platform Pathway,12,1.8,1.0259,0.9203,0.0,0.8844
+P6,M6,S4,Digital Participation Platform Pathway,13,1.8,1.1094,0.9745,0.0,0.9293
+P6,M6,S4,Digital Participation Platform Pathway,14,1.8,1.1957,1.0296,0.0,0.9753
+P6,M6,S4,Digital Participation Platform Pathway,15,1.8,1.2848,1.0856,0.0,1.0224
+P6,M6,S4,Digital Participation Platform Pathway,16,1.8,1.3748,1.1398,0.0,1.0688
+P6,M6,S4,Digital Participation Platform Pathway,17,1.8,1.4,1.1977,0.0,1.1182
+P6,M6,S4,Digital Participation Platform Pathway,18,1.8,1.4,1.2566,0.0,1.1687
+P6,M6,S4,Digital Participation Platform Pathway,19,1.8,1.4,1.3164,0.0,1.2204
+P6,M6,S4,Digital Participation Platform Pathway,20,1.8,1.4,1.3774,0.0,1.2734
+P6,M6,S4,Digital Participation Platform Pathway,21,1.8,1.4,1.4,0.0,1.3268
+P6,M6,S4,Digital Participation Platform Pathway,22,1.8,1.4,1.4,0.0,1.3802
+P6,M6,S4,Digital Participation Platform Pathway,23,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,24,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,25,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,26,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,27,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,28,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,29,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,30,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,31,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,32,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,33,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,34,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,35,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,36,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,37,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,38,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,39,1.8,1.4,1.4,0.0,1.4
+P6,M6,S4,Digital Participation Platform Pathway,40,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,1,0.8024,0.68,0.78,0.2,0.78
+P7,M7,S7,Co-Governance Futures Board Pathway,2,1.0535,0.7911,0.8739,0.0935,0.8433
+P7,M7,S7,Co-Governance Futures Board Pathway,3,1.3241,0.9125,0.9691,0.0,0.9085
+P7,M7,S7,Co-Governance Futures Board Pathway,4,1.607,1.0388,1.0655,0.0,0.9756
+P7,M7,S7,Co-Governance Futures Board Pathway,5,1.8,1.17,1.1633,0.0,1.0446
+P7,M7,S7,Co-Governance Futures Board Pathway,6,1.8,1.3061,1.2625,0.0,1.1157
+P7,M7,S7,Co-Governance Futures Board Pathway,7,1.8,1.4,1.3632,0.0,1.1888
+P7,M7,S7,Co-Governance Futures Board Pathway,8,1.8,1.4,1.4,0.0,1.2608
+P7,M7,S7,Co-Governance Futures Board Pathway,9,1.8,1.4,1.4,0.0,1.3346
+P7,M7,S7,Co-Governance Futures Board Pathway,10,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,11,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,12,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,13,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,14,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,15,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,16,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,17,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,18,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,19,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,20,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,21,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,22,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,23,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,24,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,25,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,26,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,27,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,28,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,29,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,30,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,31,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,32,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,33,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,34,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,35,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,36,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,37,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,38,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,39,1.8,1.4,1.4,0.0,1.4
+P7,M7,S7,Co-Governance Futures Board Pathway,40,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,1,0.718,0.6,0.66,0.31,0.7
+P8,M8,S1,Public Technology Assessment Pathway,2,0.9292,0.6888,0.7409,0.2171,0.7576
+P8,M8,S1,Public Technology Assessment Pathway,3,1.1584,0.7875,0.823,0.1208,0.8169
+P8,M8,S1,Public Technology Assessment Pathway,4,1.4063,0.8963,0.9062,0.0213,0.8778
+P8,M8,S1,Public Technology Assessment Pathway,5,1.667,1.0107,0.9906,0.0,0.9404
+P8,M8,S1,Public Technology Assessment Pathway,6,1.8,1.1293,1.0764,0.0,1.0047
+P8,M8,S1,Public Technology Assessment Pathway,7,1.8,1.2523,1.1633,0.0,1.0708
+P8,M8,S1,Public Technology Assessment Pathway,8,1.8,1.3777,1.249,0.0,1.1368
+P8,M8,S1,Public Technology Assessment Pathway,9,1.8,1.4,1.3386,0.0,1.2064
+P8,M8,S1,Public Technology Assessment Pathway,10,1.8,1.4,1.4,0.0,1.2772
+P8,M8,S1,Public Technology Assessment Pathway,11,1.8,1.4,1.4,0.0,1.348
+P8,M8,S1,Public Technology Assessment Pathway,12,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,13,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,14,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,15,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,16,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,17,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,18,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,19,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,20,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,21,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,22,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,23,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,24,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,25,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,26,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,27,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,28,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,29,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,30,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,31,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,32,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,33,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,34,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,35,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,36,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,37,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,38,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,39,1.8,1.4,1.4,0.0,1.4
+P8,M8,S1,Public Technology Assessment Pathway,40,1.8,1.4,1.4,0.0,1.4

@@ -1,0 +1,9 @@
+model_id,participation_model,participation_type,democratic_futures_capacity_score,tokenism_risk_score,democratic_class,description
+M7,Co-Governance Futures Board,co_governance,0.8036,0.1876,Strong democratic futures capacity,Shared authority between institutions communities workers and affected publics.
+M2,Citizen Assembly,deliberative_democracy,0.7376,0.3016,Developing participatory foresight capacity,Representative deliberative process with balanced information and formal recommendations.
+M3,Community-Led Foresight,community_foresight,0.7358,0.276,Developing participatory foresight capacity,Local and marginalized communities define futures risks priorities and pathways.
+M4,Participatory Budgeting for Futures,participatory_budgeting,0.7106,0.2644,Developing participatory foresight capacity,Public voice is connected directly to long-term resource allocation and project selection.
+M8,Public Technology Assessment Panel,technology_assessment,0.7098,0.3028,Developing participatory foresight capacity,Publics experts and affected users evaluate emerging technologies before lock-in.
+M5,Youth Futures Council,youth_participation,0.5782,0.4684,Developing participatory foresight capacity,Young people advise on long-term policy but authority depends on institutional response duties.
+M6,Digital Participation Platform,digital_participation,0.4164,0.6088,High tokenism or low influence risk,Online participation scales input but risks shallow engagement and digital exclusion.
+M1,Late-Stage Public Consultation,consultation,0.3204,0.7108,High tokenism or low influence risk,Public input is requested after decisions are largely framed and influence remains weak.

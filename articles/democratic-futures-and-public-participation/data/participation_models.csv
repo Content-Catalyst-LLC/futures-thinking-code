@@ -1,0 +1,9 @@
+model_id,participation_model,participation_type,inclusion,deliberative_quality,representation,institutional_uptake,accountability,justice_safeguards,public_learning,decision_influence,accessibility,community_authority,description
+M1,Late-Stage Public Consultation,consultation,0.42,0.34,0.38,0.26,0.30,0.32,0.36,0.22,0.40,0.20,Public input is requested after decisions are largely framed and influence remains weak.
+M2,Citizen Assembly,deliberative_democracy,0.78,0.88,0.84,0.64,0.70,0.68,0.82,0.66,0.76,0.58,Representative deliberative process with balanced information and formal recommendations.
+M3,Community-Led Foresight,community_foresight,0.86,0.72,0.78,0.58,0.64,0.86,0.76,0.62,0.82,0.88,Local and marginalized communities define futures risks priorities and pathways.
+M4,Participatory Budgeting for Futures,participatory_budgeting,0.70,0.58,0.66,0.82,0.76,0.72,0.60,0.84,0.68,0.66,Public voice is connected directly to long-term resource allocation and project selection.
+M5,Youth Futures Council,youth_participation,0.64,0.70,0.62,0.46,0.48,0.60,0.72,0.44,0.70,0.50,Young people advise on long-term policy but authority depends on institutional response duties.
+M6,Digital Participation Platform,digital_participation,0.50,0.42,0.46,0.38,0.40,0.42,0.46,0.36,0.44,0.28,Online participation scales input but risks shallow engagement and digital exclusion.
+M7,Co-Governance Futures Board,co_governance,0.82,0.78,0.80,0.78,0.82,0.84,0.78,0.80,0.76,0.86,Shared authority between institutions communities workers and affected publics.
+M8,Public Technology Assessment Panel,technology_assessment,0.72,0.76,0.70,0.66,0.72,0.78,0.70,0.68,0.70,0.62,Publics experts and affected users evaluate emerging technologies before lock-in.

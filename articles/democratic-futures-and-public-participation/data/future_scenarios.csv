@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,public_trust,participation_quality,institutional_responsiveness,inequality_pressure,platform_power,climate_stress,democratic_polarization,civic_capacity,description
+S1,Embedded Democratic Foresight,democratic_capacity,0.76,0.82,0.78,0.42,0.44,0.58,0.38,0.80,Participation becomes routine in foresight policy budgets evaluation and public learning.
+S2,Consultation Theater,symbolic_participation,0.38,0.36,0.30,0.64,0.54,0.60,0.56,0.38,Institutions invite input but decision influence remains weak.
+S3,Elite Scenario Governance,elite_foresight,0.42,0.34,0.46,0.62,0.58,0.54,0.50,0.44,Experts and powerful institutions define futures with limited public contestability.
+S4,Platform-Mediated Participation,digital_civic_infrastructure,0.48,0.50,0.42,0.58,0.82,0.52,0.62,0.46,Digital platforms scale engagement but shape voice through interface data and moderation design.
+S5,Community-Led Futures,community_power,0.68,0.84,0.62,0.50,0.44,0.64,0.42,0.78,Communities generate future pathways and demand institutional uptake and resources.
+S6,Polarized Future Conflict,polarization,0.30,0.34,0.32,0.70,0.66,0.60,0.88,0.36,Future narratives become weapons in political conflict and public trust erodes.
+S7,Co-Governed Just Transition,co_governance,0.74,0.80,0.82,0.44,0.42,0.62,0.40,0.82,Workers communities public institutions and experts share authority over transition pathways.
