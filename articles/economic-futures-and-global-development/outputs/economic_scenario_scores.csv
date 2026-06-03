@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,economic_future_stress_score,development_opportunity_score,description
+SC1,Green Coordinated Transition,coordinated_transition,0.3608,0.6984,Global coordination supports climate investment development finance and just transition.
+SC7,Human Capability Investment Future,human_capability,0.3508,0.6648,Health education care and social protection anchor broad-based development.
+SC2,High-Growth Unequal Global Economy,unequal_growth,0.4956,0.61,Output expands but gains concentrate and social legitimacy weakens.
+SC6,Technology-Led Productivity Divergence,tech_divergence,0.4836,0.59,Technology diffuses unevenly and productivity gaps widen.
+SC4,Climate-Constrained Development,climate_constraint,0.5768,0.5224,Climate impacts and adaptation costs reshape development choices.
+SC8,Resource Volatility and Food-Energy Stress,resource_volatility,0.6472,0.4208,Food energy and commodity volatility destabilize development planning.
+SC5,Debt and Austerity Spiral,debt_austerity,0.6644,0.3728,High debt service and expensive capital crowd out public investment.
+SC3,Fragmented Stagnation,fragmentation,0.694,0.3528,Trade conflict debt pressure and weak coordination reduce development capacity.

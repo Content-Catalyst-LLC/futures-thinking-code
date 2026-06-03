@@ -1,0 +1,9 @@
+shock_id,scenario_id,shock_name,shock_domain,probability_proxy,severity,systemic_reach,distributional_exposure,recovery_difficulty,policy_preparedness,description
+SH1,SC4,Extreme Climate Infrastructure Shock,climate,0.68,0.86,0.78,0.82,0.76,0.44,Floods heat storms or droughts damage infrastructure households and public budgets.
+SH2,SC5,Sovereign Debt Refinancing Shock,finance,0.62,0.82,0.70,0.76,0.78,0.34,Higher rates or refinancing stress reduce fiscal space and public investment.
+SH3,SC3,Trade Fragmentation Shock,trade,0.70,0.72,0.76,0.66,0.62,0.42,Tariffs conflict sanctions or standards fragmentation disrupt value chains.
+SH4,SC6,Automation Labor Displacement Shock,technology_labor,0.66,0.68,0.70,0.82,0.64,0.46,Technology shifts reduce employment quality in exposed sectors without transition supports.
+SH5,SC8,Food and Energy Price Shock,food_energy,0.74,0.78,0.82,0.86,0.70,0.40,Food fuel and electricity prices pressure households and government budgets.
+SH6,SC2,Inequality and Legitimacy Shock,social_political,0.58,0.70,0.66,0.84,0.62,0.38,Concentrated gains reduce trust and trigger political instability or backlash.
+SH7,SC1,Critical Minerals Supply Constraint,energy_transition,0.54,0.66,0.62,0.58,0.56,0.50,Mineral constraints slow clean-energy deployment and industrial transition.
+SH8,SC7,Public Health and Care Capacity Shock,human_capability,0.46,0.72,0.68,0.78,0.66,0.62,Health and care systems face stress from demographic change disease or underinvestment.

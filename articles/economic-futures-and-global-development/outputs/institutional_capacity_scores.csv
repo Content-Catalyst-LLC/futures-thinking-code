@@ -1,0 +1,9 @@
+institution_id,future_id,institution_name,institution_domain,institutional_capacity_score,institutional_fragility_score,description
+I6,DF6,Human Capability Public System,public_services,0.784,0.2148,Health education care and social protection institutions support broad development.
+I2,DF2,Green Transition Coordination System,climate_industrial,0.7448,0.256,Public institutions coordinate investment regulation and transition protections.
+I8,DF8,Regional Industrial Resilience System,regional_industrial,0.6916,0.3088,Regional institutions support supply-chain resilience and industrial renewal.
+I4,DF4,Technology Governance Institutions,digital_governance,0.4792,0.522,Digital transformation outpaces distribution labor and accountability institutions.
+I1,DF1,Revenue and Distribution Institutions,tax_distribution,0.4396,0.562,Limited distributional capacity allows high-growth gains to concentrate.
+I5,DF5,Debt Management and Fiscal System,finance_fiscal,0.3956,0.6056,Debt pressure limits fiscal policy and long-term investment.
+I7,DF7,Resource Governance System,resource_governance,0.3744,0.6264,Resource rents are vulnerable to capture volatility and ecological harm.
+I3,DF3,Fragmented Governance System,governance_fragility,0.3356,0.6648,Weak coordination and trust limit adaptive development strategy.

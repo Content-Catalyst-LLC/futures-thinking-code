@@ -1,0 +1,321 @@
+pathway_id,future_id,scenario_id,pathway_name,time_step,development_viability,development_fragility,public_capacity,fiscal_stress
+PW1,DF1,SC2,High-Growth Unequal Pathway,1,1.0,0.6316,0.4656,0.5
+PW1,DF1,SC2,High-Growth Unequal Pathway,2,1.0301,0.6354,0.5129,0.5172
+PW1,DF1,SC2,High-Growth Unequal Pathway,3,1.0614,0.6392,0.5602,0.5346
+PW1,DF1,SC2,High-Growth Unequal Pathway,4,1.0939,0.643,0.6073,0.5521
+PW1,DF1,SC2,High-Growth Unequal Pathway,5,1.1276,0.6468,0.6543,0.5698
+PW1,DF1,SC2,High-Growth Unequal Pathway,6,1.1623,0.6506,0.7012,0.5876
+PW1,DF1,SC2,High-Growth Unequal Pathway,7,1.1983,0.6544,0.7479,0.6056
+PW1,DF1,SC2,High-Growth Unequal Pathway,8,1.1146,0.6642,0.7896,0.6299
+PW1,DF1,SC2,High-Growth Unequal Pathway,9,1.1521,0.668,0.836,0.6485
+PW1,DF1,SC2,High-Growth Unequal Pathway,10,1.1907,0.6718,0.8822,0.6671
+PW1,DF1,SC2,High-Growth Unequal Pathway,11,1.2304,0.6756,0.9283,0.686
+PW1,DF1,SC2,High-Growth Unequal Pathway,12,1.2711,0.6794,0.9743,0.7049
+PW1,DF1,SC2,High-Growth Unequal Pathway,13,1.313,0.6832,1.0203,0.7241
+PW1,DF1,SC2,High-Growth Unequal Pathway,14,1.3559,0.687,1.066,0.7433
+PW1,DF1,SC2,High-Growth Unequal Pathway,15,1.3998,0.6908,1.1117,0.7628
+PW1,DF1,SC2,High-Growth Unequal Pathway,16,1.3241,0.7006,1.1523,0.7886
+PW1,DF1,SC2,High-Growth Unequal Pathway,17,1.3694,0.7044,1.1976,0.8086
+PW1,DF1,SC2,High-Growth Unequal Pathway,18,1.4158,0.7082,1.2427,0.8287
+PW1,DF1,SC2,High-Growth Unequal Pathway,19,1.4631,0.712,1.2878,0.849
+PW1,DF1,SC2,High-Growth Unequal Pathway,20,1.5115,0.7158,1.3327,0.8694
+PW1,DF1,SC2,High-Growth Unequal Pathway,21,1.5608,0.7196,1.3775,0.89
+PW1,DF1,SC2,High-Growth Unequal Pathway,22,1.6111,0.7234,1.4222,0.9107
+PW1,DF1,SC2,High-Growth Unequal Pathway,23,1.6623,0.7272,1.4668,0.9316
+PW1,DF1,SC2,High-Growth Unequal Pathway,24,1.5936,0.737,1.5,0.9589
+PW1,DF1,SC2,High-Growth Unequal Pathway,25,1.6441,0.7408,1.5,0.9803
+PW1,DF1,SC2,High-Growth Unequal Pathway,26,1.6937,0.7446,1.5,1.0019
+PW1,DF1,SC2,High-Growth Unequal Pathway,27,1.7424,0.7484,1.5,1.0237
+PW1,DF1,SC2,High-Growth Unequal Pathway,28,1.7904,0.7522,1.5,1.0455
+PW1,DF1,SC2,High-Growth Unequal Pathway,29,1.8,0.756,1.5,1.0676
+PW1,DF1,SC2,High-Growth Unequal Pathway,30,1.8,0.7598,1.5,1.0898
+PW1,DF1,SC2,High-Growth Unequal Pathway,31,1.8,0.7636,1.5,1.1121
+PW1,DF1,SC2,High-Growth Unequal Pathway,32,1.724,0.7734,1.5,1.1409
+PW1,DF1,SC2,High-Growth Unequal Pathway,33,1.7671,0.7772,1.5,1.1637
+PW1,DF1,SC2,High-Growth Unequal Pathway,34,1.8,0.781,1.5,1.1868
+PW1,DF1,SC2,High-Growth Unequal Pathway,35,1.8,0.7848,1.5,1.21
+PW1,DF1,SC2,High-Growth Unequal Pathway,36,1.8,0.7886,1.5,1.2333
+PW1,DF1,SC2,High-Growth Unequal Pathway,37,1.8,0.7924,1.5,1.2568
+PW1,DF1,SC2,High-Growth Unequal Pathway,38,1.8,0.7962,1.5,1.2805
+PW1,DF1,SC2,High-Growth Unequal Pathway,39,1.8,0.8,1.5,1.3043
+PW1,DF1,SC2,High-Growth Unequal Pathway,40,1.7164,0.8098,1.5,1.3345
+PW2,DF2,SC1,Green Coordinated Transition Pathway,1,1.0,0.3154,0.742,0.32
+PW2,DF2,SC1,Green Coordinated Transition Pathway,2,1.0866,0.2526,0.8428,0.2949
+PW2,DF2,SC1,Green Coordinated Transition Pathway,3,1.1812,0.1898,0.9455,0.2673
+PW2,DF2,SC1,Green Coordinated Transition Pathway,4,1.2841,0.127,1.0501,0.2372
+PW2,DF2,SC1,Green Coordinated Transition Pathway,5,1.3953,0.0642,1.1566,0.2045
+PW2,DF2,SC1,Green Coordinated Transition Pathway,6,1.5151,0.0014,1.2649,0.1694
+PW2,DF2,SC1,Green Coordinated Transition Pathway,7,1.6403,0.0,1.3733,0.1342
+PW2,DF2,SC1,Green Coordinated Transition Pathway,8,1.6506,0.0,1.4769,0.105
+PW2,DF2,SC1,Green Coordinated Transition Pathway,9,1.7828,0.0,1.5,0.0698
+PW2,DF2,SC1,Green Coordinated Transition Pathway,10,1.8,0.0,1.5,0.0346
+PW2,DF2,SC1,Green Coordinated Transition Pathway,11,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,12,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,13,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,14,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,15,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,16,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,17,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,18,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,19,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,20,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,21,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,22,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,23,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,24,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,25,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,26,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,27,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,28,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,29,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,30,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,31,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,32,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,33,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,34,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,35,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,36,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,37,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,38,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,39,1.8,0.0,1.5,0.0
+PW2,DF2,SC1,Green Coordinated Transition Pathway,40,1.8,0.0,1.5,0.0
+PW3,DF3,SC3,Fragmented Stagnation Pathway,1,1.0,0.6558,0.3598,0.66
+PW3,DF3,SC3,Fragmented Stagnation Pathway,2,0.9579,0.6684,0.3897,0.6861
+PW3,DF3,SC3,Fragmented Stagnation Pathway,3,0.9155,0.681,0.4193,0.7128
+PW3,DF3,SC3,Fragmented Stagnation Pathway,4,0.8729,0.6936,0.4485,0.7399
+PW3,DF3,SC3,Fragmented Stagnation Pathway,5,0.8299,0.7062,0.4773,0.7676
+PW3,DF3,SC3,Fragmented Stagnation Pathway,6,0.7867,0.7188,0.5058,0.7957
+PW3,DF3,SC3,Fragmented Stagnation Pathway,7,0.743,0.7314,0.5338,0.8244
+PW3,DF3,SC3,Fragmented Stagnation Pathway,8,0.5783,0.75,0.5565,0.8598
+PW3,DF3,SC3,Fragmented Stagnation Pathway,9,0.5331,0.7626,0.5836,0.8897
+PW3,DF3,SC3,Fragmented Stagnation Pathway,10,0.4875,0.7752,0.6104,0.9201
+PW3,DF3,SC3,Fragmented Stagnation Pathway,11,0.4413,0.7878,0.6368,0.951
+PW3,DF3,SC3,Fragmented Stagnation Pathway,12,0.3946,0.8004,0.6627,0.9824
+PW3,DF3,SC3,Fragmented Stagnation Pathway,13,0.3474,0.813,0.6883,1.0143
+PW3,DF3,SC3,Fragmented Stagnation Pathway,14,0.2995,0.8256,0.7136,1.0468
+PW3,DF3,SC3,Fragmented Stagnation Pathway,15,0.2511,0.8382,0.7384,1.0797
+PW3,DF3,SC3,Fragmented Stagnation Pathway,16,0.0813,0.8568,0.7579,1.1194
+PW3,DF3,SC3,Fragmented Stagnation Pathway,17,0.0308,0.8694,0.7818,1.1535
+PW3,DF3,SC3,Fragmented Stagnation Pathway,18,0.0,0.882,0.8054,1.1882
+PW3,DF3,SC3,Fragmented Stagnation Pathway,19,0.0,0.8946,0.8286,1.2234
+PW3,DF3,SC3,Fragmented Stagnation Pathway,20,0.0,0.9072,0.8513,1.2591
+PW3,DF3,SC3,Fragmented Stagnation Pathway,21,0.0,0.9198,0.8737,1.2953
+PW3,DF3,SC3,Fragmented Stagnation Pathway,22,0.0,0.9324,0.8958,1.332
+PW3,DF3,SC3,Fragmented Stagnation Pathway,23,0.0,0.945,0.9174,1.3692
+PW3,DF3,SC3,Fragmented Stagnation Pathway,24,0.0,0.9636,0.9337,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,25,0.0,0.9762,0.9544,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,26,0.0,0.9888,0.9748,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,27,0.0,1.0014,0.9947,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,28,0.0,1.014,1.0143,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,29,0.0,1.0266,1.0335,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,30,0.0,1.0392,1.0523,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,31,0.0,1.0518,1.0708,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,32,0.0,1.0704,1.0839,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,33,0.0,1.083,1.1014,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,34,0.0,1.0956,1.1185,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,35,0.0,1.1082,1.1353,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,36,0.0,1.1208,1.1516,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,37,0.0,1.1334,1.1676,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,38,0.0,1.146,1.1832,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,39,0.0,1.1586,1.1985,1.4
+PW3,DF3,SC3,Fragmented Stagnation Pathway,40,0.0,1.1772,1.2084,1.4
+PW4,DF4,SC6,Technology Dual Economy Pathway,1,1.0,0.5992,0.4888,0.52
+PW4,DF4,SC6,Technology Dual Economy Pathway,2,1.025,0.5948,0.541,0.5304
+PW4,DF4,SC6,Technology Dual Economy Pathway,3,1.052,0.5904,0.5932,0.5406
+PW4,DF4,SC6,Technology Dual Economy Pathway,4,1.0811,0.586,0.6457,0.5506
+PW4,DF4,SC6,Technology Dual Economy Pathway,5,1.1121,0.5816,0.6982,0.5605
+PW4,DF4,SC6,Technology Dual Economy Pathway,6,1.1452,0.5772,0.7509,0.5702
+PW4,DF4,SC6,Technology Dual Economy Pathway,7,1.1804,0.5728,0.8037,0.5797
+PW4,DF4,SC6,Technology Dual Economy Pathway,8,1.0969,0.5744,0.8517,0.5953
+PW4,DF4,SC6,Technology Dual Economy Pathway,9,1.1354,0.57,0.9046,0.6047
+PW4,DF4,SC6,Technology Dual Economy Pathway,10,1.1761,0.5656,0.9576,0.6139
+PW4,DF4,SC6,Technology Dual Economy Pathway,11,1.2188,0.5612,1.0108,0.623
+PW4,DF4,SC6,Technology Dual Economy Pathway,12,1.2636,0.5568,1.0641,0.6318
+PW4,DF4,SC6,Technology Dual Economy Pathway,13,1.3105,0.5524,1.1175,0.6405
+PW4,DF4,SC6,Technology Dual Economy Pathway,14,1.3595,0.548,1.1711,0.649
+PW4,DF4,SC6,Technology Dual Economy Pathway,15,1.4106,0.5436,1.2248,0.6574
+PW4,DF4,SC6,Technology Dual Economy Pathway,16,1.3431,0.5452,1.2736,0.6718
+PW4,DF4,SC6,Technology Dual Economy Pathway,17,1.3978,0.5408,1.3274,0.68
+PW4,DF4,SC6,Technology Dual Economy Pathway,18,1.4546,0.5364,1.3813,0.6881
+PW4,DF4,SC6,Technology Dual Economy Pathway,19,1.5136,0.532,1.4353,0.696
+PW4,DF4,SC6,Technology Dual Economy Pathway,20,1.5747,0.5276,1.4895,0.7037
+PW4,DF4,SC6,Technology Dual Economy Pathway,21,1.6362,0.5232,1.5,0.7112
+PW4,DF4,SC6,Technology Dual Economy Pathway,22,1.6977,0.5188,1.5,0.7186
+PW4,DF4,SC6,Technology Dual Economy Pathway,23,1.7593,0.5144,1.5,0.7257
+PW4,DF4,SC6,Technology Dual Economy Pathway,24,1.7003,0.516,1.5,0.739
+PW4,DF4,SC6,Technology Dual Economy Pathway,25,1.7614,0.5116,1.5,0.746
+PW4,DF4,SC6,Technology Dual Economy Pathway,26,1.8,0.5072,1.5,0.7529
+PW4,DF4,SC6,Technology Dual Economy Pathway,27,1.8,0.5028,1.5,0.7596
+PW4,DF4,SC6,Technology Dual Economy Pathway,28,1.8,0.4984,1.5,0.7662
+PW4,DF4,SC6,Technology Dual Economy Pathway,29,1.8,0.494,1.5,0.7725
+PW4,DF4,SC6,Technology Dual Economy Pathway,30,1.8,0.4896,1.5,0.7787
+PW4,DF4,SC6,Technology Dual Economy Pathway,31,1.8,0.4852,1.5,0.7847
+PW4,DF4,SC6,Technology Dual Economy Pathway,32,1.7408,0.4868,1.5,0.7968
+PW4,DF4,SC6,Technology Dual Economy Pathway,33,1.8,0.4824,1.5,0.8027
+PW4,DF4,SC6,Technology Dual Economy Pathway,34,1.8,0.478,1.5,0.8084
+PW4,DF4,SC6,Technology Dual Economy Pathway,35,1.8,0.4736,1.5,0.814
+PW4,DF4,SC6,Technology Dual Economy Pathway,36,1.8,0.4692,1.5,0.8193
+PW4,DF4,SC6,Technology Dual Economy Pathway,37,1.8,0.4648,1.5,0.8245
+PW4,DF4,SC6,Technology Dual Economy Pathway,38,1.8,0.4604,1.5,0.8295
+PW4,DF4,SC6,Technology Dual Economy Pathway,39,1.8,0.456,1.5,0.8344
+PW4,DF4,SC6,Technology Dual Economy Pathway,40,1.7408,0.4576,1.5,0.8453
+PW5,DF5,SC5,Debt-Constrained Development Pathway,1,1.0,0.638,0.3732,0.76
+PW5,DF5,SC5,Debt-Constrained Development Pathway,2,0.9679,0.648,0.4052,0.7857
+PW5,DF5,SC5,Debt-Constrained Development Pathway,3,0.9358,0.658,0.4368,0.8118
+PW5,DF5,SC5,Debt-Constrained Development Pathway,4,0.9036,0.668,0.4682,0.8384
+PW5,DF5,SC5,Debt-Constrained Development Pathway,5,0.8713,0.678,0.4992,0.8653
+PW5,DF5,SC5,Debt-Constrained Development Pathway,6,0.839,0.688,0.53,0.8926
+PW5,DF5,SC5,Debt-Constrained Development Pathway,7,0.8066,0.698,0.5605,0.9203
+PW5,DF5,SC5,Debt-Constrained Development Pathway,8,0.6533,0.714,0.5856,0.9547
+PW5,DF5,SC5,Debt-Constrained Development Pathway,9,0.6199,0.724,0.6153,0.9834
+PW5,DF5,SC5,Debt-Constrained Development Pathway,10,0.5862,0.734,0.6447,1.0126
+PW5,DF5,SC5,Debt-Constrained Development Pathway,11,0.5524,0.744,0.6738,1.0422
+PW5,DF5,SC5,Debt-Constrained Development Pathway,12,0.5183,0.754,0.7026,1.0721
+PW5,DF5,SC5,Debt-Constrained Development Pathway,13,0.4839,0.764,0.731,1.1025
+PW5,DF5,SC5,Debt-Constrained Development Pathway,14,0.4492,0.774,0.7592,1.1332
+PW5,DF5,SC5,Debt-Constrained Development Pathway,15,0.4142,0.784,0.7871,1.1644
+PW5,DF5,SC5,Debt-Constrained Development Pathway,16,0.2582,0.8,0.8097,1.2022
+PW5,DF5,SC5,Debt-Constrained Development Pathway,17,0.2218,0.81,0.8368,1.2344
+PW5,DF5,SC5,Debt-Constrained Development Pathway,18,0.1849,0.82,0.8636,1.267
+PW5,DF5,SC5,Debt-Constrained Development Pathway,19,0.1477,0.83,0.8901,1.3
+PW5,DF5,SC5,Debt-Constrained Development Pathway,20,0.11,0.84,0.9163,1.3334
+PW5,DF5,SC5,Debt-Constrained Development Pathway,21,0.0718,0.85,0.9422,1.3672
+PW5,DF5,SC5,Debt-Constrained Development Pathway,22,0.0332,0.86,0.9678,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,23,0.0,0.87,0.9931,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,24,0.0,0.886,1.0131,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,25,0.0,0.896,1.0376,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,26,0.0,0.906,1.0619,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,27,0.0,0.916,1.0858,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,28,0.0,0.926,1.1094,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,29,0.0,0.936,1.1327,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,30,0.0,0.946,1.1557,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,31,0.0,0.956,1.1785,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,32,0.0,0.972,1.1959,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,33,0.0,0.982,1.2178,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,34,0.0,0.992,1.2395,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,35,0.0,1.002,1.2608,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,36,0.0,1.012,1.2819,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,37,0.0,1.022,1.3026,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,38,0.0,1.032,1.323,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,39,0.0,1.042,1.3432,1.4
+PW5,DF5,SC5,Debt-Constrained Development Pathway,40,0.0,1.058,1.358,1.4
+PW6,DF6,SC7,Human Capability Investment Pathway,1,1.0,0.2868,0.7892,0.28
+PW6,DF6,SC7,Human Capability Investment Pathway,2,1.0896,0.2188,0.8978,0.2514
+PW6,DF6,SC7,Human Capability Investment Pathway,3,1.188,0.1508,1.0085,0.22
+PW6,DF6,SC7,Human Capability Investment Pathway,4,1.2954,0.0828,1.1212,0.1859
+PW6,DF6,SC7,Human Capability Investment Pathway,5,1.4118,0.0148,1.236,0.1491
+PW6,DF6,SC7,Human Capability Investment Pathway,6,1.5347,0.0,1.3512,0.1117
+PW6,DF6,SC7,Human Capability Investment Pathway,7,1.6633,0.0,1.4664,0.0743
+PW6,DF6,SC7,Human Capability Investment Pathway,8,1.6742,0.0,1.5,0.0429
+PW6,DF6,SC7,Human Capability Investment Pathway,9,1.8,0.0,1.5,0.0055
+PW6,DF6,SC7,Human Capability Investment Pathway,10,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,11,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,12,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,13,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,14,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,15,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,16,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,17,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,18,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,19,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,20,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,21,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,22,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,23,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,24,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,25,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,26,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,27,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,28,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,29,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,30,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,31,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,32,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,33,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,34,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,35,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,36,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,37,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,38,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,39,1.8,0.0,1.5,0.0
+PW6,DF6,SC7,Human Capability Investment Pathway,40,1.8,0.0,1.5,0.0
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,1,1.0,0.6584,0.406,0.54
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,2,0.9899,0.6702,0.4429,0.5638
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,3,0.98,0.682,0.4794,0.5881
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,4,0.9702,0.6938,0.5156,0.6128
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,5,0.9605,0.7056,0.5515,0.6381
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,6,0.9509,0.7174,0.5869,0.6638
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,7,0.9412,0.7292,0.6221,0.6899
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,8,0.8109,0.747,0.6518,0.7228
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,9,0.8006,0.7588,0.6861,0.7502
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,10,0.7901,0.7706,0.72,0.778
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,11,0.7796,0.7824,0.7535,0.8063
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,12,0.769,0.7942,0.7867,0.835
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,13,0.7582,0.806,0.8195,0.8643
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,14,0.7472,0.8178,0.852,0.894
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,15,0.736,0.8296,0.8841,0.9242
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,16,0.6039,0.8474,0.9108,0.9611
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,17,0.5915,0.8592,0.9421,0.9924
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,18,0.5788,0.871,0.9729,1.0243
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,19,0.5657,0.8828,1.0035,1.0566
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,20,0.5523,0.8946,1.0336,1.0894
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,21,0.5385,0.9064,1.0634,1.1226
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,22,0.5243,0.9182,1.0929,1.1564
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,23,0.5096,0.93,1.122,1.1906
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,24,0.3737,0.9478,1.1457,1.2315
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,25,0.3573,0.9596,1.174,1.2669
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,26,0.3404,0.9714,1.2018,1.3027
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,27,0.3229,0.9832,1.2293,1.339
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,28,0.3048,0.995,1.2565,1.3758
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,29,0.2864,1.0068,1.2833,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,30,0.2685,1.0186,1.3097,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,31,0.2511,1.0304,1.3358,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,32,0.1136,1.0482,1.3565,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,33,0.0965,1.06,1.3817,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,34,0.0798,1.0718,1.4066,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,35,0.0636,1.0836,1.4311,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,36,0.0476,1.0954,1.4552,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,37,0.0321,1.1072,1.479,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,38,0.0168,1.119,1.5,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,39,0.0009,1.1308,1.5,1.4
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,40,0.0,1.1486,1.5,1.4
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,1,1.0,0.3736,0.6876,0.38
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,2,1.0684,0.3238,0.7781,0.3656
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,3,1.1434,0.274,0.8701,0.3491
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,4,1.2252,0.2242,0.9635,0.3307
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,5,1.3139,0.1744,1.0585,0.3103
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,6,1.4097,0.1246,1.155,0.2878
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,7,1.5125,0.0748,1.2529,0.2634
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,8,1.502,0.031,1.3474,0.2433
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,9,1.6178,0.0,1.4476,0.2159
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,10,1.7365,0.0,1.5,0.1885
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,11,1.8,0.0,1.5,0.1611
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,12,1.8,0.0,1.5,0.1337
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,13,1.8,0.0,1.5,0.1063
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,14,1.8,0.0,1.5,0.0789
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,15,1.8,0.0,1.5,0.0515
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,16,1.8,0.0,1.5,0.0301
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,17,1.8,0.0,1.5,0.0027
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,18,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,19,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,20,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,21,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,22,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,23,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,24,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,25,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,26,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,27,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,28,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,29,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,30,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,31,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,32,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,33,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,34,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,35,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,36,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,37,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,38,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,39,1.8,0.0,1.5,0.0
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,40,1.8,0.0,1.5,0.0

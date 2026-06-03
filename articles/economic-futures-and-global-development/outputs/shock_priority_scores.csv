@@ -1,0 +1,9 @@
+shock_id,scenario_id,shock_name,shock_domain,development_shock_priority_score,policy_preparedness,description
+SH5,SC8,Food and Energy Price Shock,food_energy,0.76,0.4,Food fuel and electricity prices pressure households and government budgets.
+SH1,SC4,Extreme Climate Infrastructure Shock,climate,0.7554,0.44,Floods heat storms or droughts damage infrastructure households and public budgets.
+SH2,SC5,Sovereign Debt Refinancing Shock,finance,0.727,0.34,Higher rates or refinancing stress reduce fiscal space and public investment.
+SH3,SC3,Trade Fragmentation Shock,trade,0.6816,0.42,Tariffs conflict sanctions or standards fragmentation disrupt value chains.
+SH4,SC6,Automation Labor Displacement Shock,technology_labor,0.681,0.46,Technology shifts reduce employment quality in exposed sectors without transition supports.
+SH6,SC2,Inequality and Legitimacy Shock,social_political,0.6734,0.38,Concentrated gains reduce trust and trigger political instability or backlash.
+SH8,SC7,Public Health and Care Capacity Shock,human_capability,0.6264,0.62,Health and care systems face stress from demographic change disease or underinvestment.
+SH7,SC1,Critical Minerals Supply Constraint,energy_transition,0.5834,0.5,Mineral constraints slow clean-energy deployment and industrial transition.

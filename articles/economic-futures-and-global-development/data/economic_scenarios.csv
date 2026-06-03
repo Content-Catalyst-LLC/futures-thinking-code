@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,global_growth,financial_volatility,climate_pressure,technology_acceleration,trade_fragmentation,debt_stress,energy_transition_speed,public_trust,coordination_capacity,description
+SC1,Green Coordinated Transition,coordinated_transition,0.62,0.40,0.52,0.68,0.34,0.42,0.82,0.70,0.78,Global coordination supports climate investment development finance and just transition.
+SC2,High-Growth Unequal Global Economy,unequal_growth,0.78,0.54,0.62,0.82,0.42,0.48,0.60,0.42,0.46,Output expands but gains concentrate and social legitimacy weakens.
+SC3,Fragmented Stagnation,fragmentation,0.34,0.72,0.66,0.48,0.84,0.70,0.42,0.36,0.32,Trade conflict debt pressure and weak coordination reduce development capacity.
+SC4,Climate-Constrained Development,climate_constraint,0.44,0.58,0.88,0.56,0.52,0.60,0.70,0.48,0.54,Climate impacts and adaptation costs reshape development choices.
+SC5,Debt and Austerity Spiral,debt_austerity,0.36,0.78,0.58,0.46,0.50,0.88,0.42,0.34,0.36,High debt service and expensive capital crowd out public investment.
+SC6,Technology-Led Productivity Divergence,tech_divergence,0.64,0.50,0.48,0.90,0.46,0.48,0.54,0.44,0.48,Technology diffuses unevenly and productivity gaps widen.
+SC7,Human Capability Investment Future,human_capability,0.56,0.38,0.46,0.60,0.36,0.38,0.66,0.82,0.76,Health education care and social protection anchor broad-based development.
+SC8,Resource Volatility and Food-Energy Stress,resource_volatility,0.40,0.74,0.76,0.44,0.66,0.62,0.52,0.40,0.42,Food energy and commodity volatility destabilize development planning.

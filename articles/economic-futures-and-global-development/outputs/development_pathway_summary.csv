@@ -1,0 +1,9 @@
+pathway_id,future_id,scenario_id,pathway_name,final_development_viability,mean_development_viability,mean_development_fragility,final_public_capacity,mean_fiscal_stress
+PW2,DF2,SC1,Green Coordinated Transition Pathway,1.8,1.7084,0.0238,1.5,0.0459
+PW6,DF6,SC7,Human Capability Investment Pathway,1.8,1.7114,0.0189,1.5,0.033
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,1.8,1.6882,0.04,1.5,0.0875
+PW4,DF4,SC6,Technology Dual Economy Pathway,1.7408,1.5072,0.5261,1.5,0.6984
+PW1,DF1,SC2,High-Growth Unequal Pathway,1.7164,1.4873,0.7185,1.5,0.8925
+PW3,DF3,SC3,Fragmented Stagnation Pathway,0.0,0.2388,0.9143,1.2084,1.1668
+PW5,DF5,SC5,Debt-Constrained Development Pathway,0.0,0.2907,0.8458,1.358,1.2161
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,0.0,0.5101,0.9013,1.5,1.0695

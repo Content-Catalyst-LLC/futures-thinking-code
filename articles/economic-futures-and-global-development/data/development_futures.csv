@@ -1,0 +1,9 @@
+future_id,future_name,future_type,growth,inequality,ecological_stress,institutional_capacity,resilience,fiscal_space,labor_inclusion,public_investment,technology_diffusion,trade_resilience,democratic_legitimacy,description
+DF1,High-Growth Unequal Future,unequal_growth,0.82,0.78,0.74,0.48,0.44,0.50,0.42,0.46,0.70,0.50,0.44,Output and technology grow while inequality ecological pressure and fragility intensify.
+DF2,Green Coordinated Transition,green_transition,0.64,0.42,0.36,0.76,0.79,0.68,0.70,0.78,0.68,0.72,0.70,Climate investment industrial policy and public goods support low-carbon development.
+DF3,Fragmented Stagnation,fragmented_stagnation,0.34,0.66,0.69,0.39,0.33,0.34,0.38,0.32,0.42,0.30,0.36,Geopolitical conflict debt pressure and low investment weaken development futures.
+DF4,Tech-Accelerated Dual Economy,dual_economy,0.71,0.81,0.58,0.52,0.47,0.48,0.40,0.50,0.84,0.54,0.42,Advanced sectors expand rapidly while workers and regions without access fall behind.
+DF5,Debt-Constrained Development,debt_constraint,0.42,0.70,0.62,0.44,0.40,0.24,0.44,0.30,0.46,0.38,0.40,Debt service and expensive capital reduce public investment and policy space.
+DF6,Human Capability Renaissance,human_capability,0.58,0.36,0.40,0.82,0.78,0.72,0.80,0.84,0.62,0.66,0.82,Public investment in health education care and social protection raises development quality.
+DF7,Resource Extraction Lock-In,resource_lock_in,0.55,0.72,0.80,0.42,0.38,0.46,0.40,0.36,0.38,0.42,0.34,Commodity growth creates revenue but limits diversification and ecological viability.
+DF8,Regional Resilience and Industrial Renewal,regional_resilience,0.60,0.46,0.48,0.70,0.76,0.62,0.68,0.72,0.64,0.80,0.68,Regional supply chains industrial policy and resilience investment strengthen development.

@@ -1,0 +1,9 @@
+future_id,future_name,future_type,development_quality_score,development_fragility_score,future_class,description
+DF6,Human Capability Renaissance,human_capability,0.4444,0.2712,Broad-based resilient development profile,Public investment in health education care and social protection raises development quality.
+DF2,Green Coordinated Transition,green_transition,0.4316,0.3041,Broad-based resilient development profile,Climate investment industrial policy and public goods support low-carbon development.
+DF8,Regional Resilience and Industrial Renewal,regional_resilience,0.3814,0.3518,Broad-based resilient development profile,Regional supply chains industrial policy and resilience investment strengthen development.
+DF4,Tech-Accelerated Dual Economy,dual_economy,0.2304,0.5785,Mixed or transitional development profile,Advanced sectors expand rapidly while workers and regions without access fall behind.
+DF1,High-Growth Unequal Future,unequal_growth,0.209,0.6084,Mixed or transitional development profile,Output and technology grow while inequality ecological pressure and fragility intensify.
+DF5,Debt-Constrained Development,debt_constraint,0.1186,0.6384,High development fragility,Debt service and expensive capital reduce public investment and policy space.
+DF7,Resource Extraction Lock-In,resource_lock_in,0.1186,0.6496,High development fragility,Commodity growth creates revenue but limits diversification and ecological viability.
+DF3,Fragmented Stagnation,fragmented_stagnation,0.0867,0.6584,High development fragility,Geopolitical conflict debt pressure and low investment weaken development futures.

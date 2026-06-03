@@ -1,0 +1,9 @@
+pathway_id,future_id,scenario_id,pathway_name,growth,institutional_capacity,adaptation,resilience,fiscal_space,labor_inclusion,public_investment,ecological_stress,inequality,initial_development,time_horizon
+PW1,DF1,SC2,High-Growth Unequal Pathway,0.082,0.48,0.44,0.44,0.50,0.42,0.46,0.74,0.78,1.00,40
+PW2,DF2,SC1,Green Coordinated Transition Pathway,0.064,0.76,0.78,0.79,0.68,0.70,0.78,0.36,0.42,1.00,40
+PW3,DF3,SC3,Fragmented Stagnation Pathway,0.034,0.39,0.34,0.33,0.34,0.38,0.32,0.69,0.66,1.00,40
+PW4,DF4,SC6,Technology Dual Economy Pathway,0.071,0.52,0.50,0.47,0.48,0.40,0.50,0.58,0.81,1.00,40
+PW5,DF5,SC5,Debt-Constrained Development Pathway,0.042,0.44,0.40,0.40,0.24,0.44,0.30,0.62,0.70,1.00,40
+PW6,DF6,SC7,Human Capability Investment Pathway,0.058,0.82,0.76,0.78,0.72,0.80,0.84,0.40,0.36,1.00,40
+PW7,DF7,SC8,Resource Extraction Lock-In Pathway,0.055,0.42,0.36,0.38,0.46,0.40,0.36,0.80,0.72,1.00,40
+PW8,DF8,SC1,Regional Resilience and Industrial Renewal Pathway,0.060,0.70,0.72,0.76,0.62,0.68,0.72,0.48,0.46,1.00,40
