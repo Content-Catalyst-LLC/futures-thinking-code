@@ -1,0 +1,8 @@
+assumption_id,assumption_text,domain,confidence,exposure,reversibility,monitoring_signal
+A1,Historical trends remain reliable guides for institutional planning,forecasting,0.52,0.86,0.40,Forecast error rises across multiple indicators
+A2,Technology adoption will improve institutional capacity without major legitimacy loss,technology,0.48,0.82,0.38,Public contestation and audit failures increase
+A3,Public trust remains sufficient for coordinated response,governance,0.50,0.88,0.42,Compliance and trust indicators decline
+A4,Climate stress remains within planned adaptation ranges,climate,0.42,0.92,0.30,Compound climate events exceed design assumptions
+A5,Public participation slows decisions more than it improves legitimacy,participation,0.44,0.64,0.62,Participatory processes improve implementation quality
+A6,Existing education systems can prepare students for long-term uncertainty,education,0.46,0.78,0.50,Skill mismatch and civic disengagement rise
+A7,Future generations can be represented through current institutional processes,ethics,0.40,0.82,0.36,Intergenerational justice claims intensify

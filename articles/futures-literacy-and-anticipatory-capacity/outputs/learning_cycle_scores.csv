@@ -1,0 +1,6 @@
+cycle_id,cycle_name,signal_review_frequency,assumption_review_frequency,public_participation_level,decision_linkage,learning_score,institutional_learning_score
+LC4,Embedded Anticipatory Governance Cycle,monthly,quarterly,0.74,0.9,0.86,0.876
+LC3,Participatory Futures Lab,quarterly,quarterly,0.88,0.78,0.82,0.821
+LC5,Public Learning Network,bimonthly,bimonthly,0.92,0.7,0.8,0.82
+LC2,Quarterly Foresight Review,quarterly,quarterly,0.48,0.66,0.64,0.622
+LC1,Annual Strategy Workshop,annual,annual,0.25,0.4,0.42,0.3495

@@ -1,0 +1,6 @@
+insight_id,decision_area,insight,action_option,monitoring_indicator,review_frequency,translation_priority
+I5,foresight_operations,Signals need institutional memory,Maintain a signal register and assumption review process,signal_review_completion_rate,monthly,1.0
+I1,infrastructure,Historical planning assumptions are vulnerable under climate and trust stress,Adopt adaptive pathways and update design assumptions,compound_stress_index,quarterly,0.85
+I2,technology_policy,AI governance futures are legitimacy-sensitive,Require public audits impact assessments and appeal pathways,algorithmic_accountability_index,quarterly,0.85
+I3,public_governance,Participation improves legitimacy but requires decision linkage,Create participatory futures panels linked to budget and planning cycles,participation_to_decision_ratio,semiannual,0.65
+I4,education_policy,Youth future claims reveal intergenerational accountability gaps,Add future generations impact review to major policies,intergenerational_impact_score,annual,0.45

@@ -1,0 +1,7 @@
+future_image_id,actor_group,future_image,dominant_emotion,time_horizon,assumption_risk,participation_need,future_image_risk
+FI3,frontline_community,Climate stress worsens existing housing health and infrastructure inequality,concern,15,0.84,0.92,1.0248
+FI4,youth_group,Institutions fail future generations unless accountability changes,urgency,25,0.8,0.96,1.008
+FI2,technology_firm,AI-augmented public decision systems improve service delivery,optimism,7,0.78,0.82,0.8736
+FI5,university,Education prepares students for uncertainty complexity and civic responsibility,hope,12,0.62,0.76,0.6572
+FI6,business_strategy_team,Scenario planning protects long-term competitiveness,pragmatism,10,0.58,0.54,0.58
+FI1,public_agency,Efficient adaptive government using anticipatory foresight,confidence,10,0.56,0.7,0.56
