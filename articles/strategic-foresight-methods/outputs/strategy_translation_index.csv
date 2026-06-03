@@ -1,0 +1,7 @@
+insight_id,decision_area,foresight_insight,action_option,monitoring_indicator,review_frequency,decision_linkage,translation_priority
+I2,strategy,Scenario planning reveals efficiency-only strategies are brittle under compound stress,Shift from efficiency optimization to robust adaptive planning,strategy_robustness_score,quarterly,0.82,0.838
+I1,governance,Weak signals indicate institutional trust may be a decisive uncertainty,Add trust and legitimacy indicators to strategy review,trust_divergence_index,quarterly,0.78,0.81
+I4,analytics,Trend analysis may hide structural breaks,Pair trend reports with assumption vulnerability reviews,assumption_vulnerability_score,quarterly,0.74,0.782
+I5,sustainability,Backcasting reveals missing transition capabilities,Define milestones funding and capacity gaps for preferred futures,pathway_milestone_completion,semiannual,0.8,0.764
+I3,participation,Participatory foresight improves legitimacy but must alter decisions,Create public futures panels linked to budget and policy cycles,participation_to_decision_ratio,semiannual,0.76,0.736
+I6,culture,Causal layered analysis reveals conflicting future narratives,Document worldview conflicts and use them in scenario interpretation,narrative_conflict_index,annual,0.68,0.62

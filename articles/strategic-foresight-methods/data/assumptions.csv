@@ -1,0 +1,8 @@
+assumption_id,assumption_text,domain,confidence,exposure,reversibility,monitoring_signal
+A1,Current scanning sources are broad enough to detect meaningful change,scanning,0.48,0.78,0.48,Important signals appear first outside official sources.
+A2,Expert-led foresight captures the most important future risks,expertise,0.52,0.82,0.44,Frontline communities identify risks missed by expert panels.
+A3,Trend analysis remains valid under structural disruption,trends,0.46,0.84,0.40,Trend breaks or reversals appear across multiple indicators.
+A4,Scenario insights will influence real strategy and budgeting,uptake,0.42,0.88,0.36,Scenario findings are cited but plans remain unchanged.
+A5,Preferred futures are broadly shared by affected stakeholders,values,0.38,0.76,0.50,Stakeholder disagreement appears around benefits burdens and tradeoffs.
+A6,Institutional leadership will tolerate uncomfortable futures,governance,0.44,0.86,0.42,Foresight findings are softened or removed from decision documents.
+A7,Signal monitoring will continue after the workshop ends,learning,0.50,0.72,0.58,No assigned owner for signal review or assumption updates.

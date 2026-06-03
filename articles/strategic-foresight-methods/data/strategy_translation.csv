@@ -1,0 +1,7 @@
+insight_id,foresight_insight,decision_area,action_option,monitoring_indicator,review_frequency,decision_linkage
+I1,Weak signals indicate institutional trust may be a decisive uncertainty,governance,Add trust and legitimacy indicators to strategy review,trust_divergence_index,quarterly,0.78
+I2,Scenario planning reveals efficiency-only strategies are brittle under compound stress,strategy,Shift from efficiency optimization to robust adaptive planning,strategy_robustness_score,quarterly,0.82
+I3,Participatory foresight improves legitimacy but must alter decisions,participation,Create public futures panels linked to budget and policy cycles,participation_to_decision_ratio,semiannual,0.76
+I4,Trend analysis may hide structural breaks,analytics,Pair trend reports with assumption vulnerability reviews,assumption_vulnerability_score,quarterly,0.74
+I5,Backcasting reveals missing transition capabilities,sustainability,Define milestones funding and capacity gaps for preferred futures,pathway_milestone_completion,semiannual,0.80
+I6,Causal layered analysis reveals conflicting future narratives,culture,Document worldview conflicts and use them in scenario interpretation,narrative_conflict_index,annual,0.68

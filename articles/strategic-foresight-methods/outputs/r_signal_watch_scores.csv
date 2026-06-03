@@ -1,0 +1,9 @@
+"signal_id","domain","signal","uncertainty","impact","novelty","source_type","monitoring_priority","watch_score"
+"S3","governance","Declining public trust in administrative and scientific institutions",0.82,0.86,0.7,"survey_trend","high",0.806
+"S1","technology","AI decision systems moving into public services",0.76,0.88,0.74,"policy_scan","high",0.803
+"S2","climate","Compound climate and infrastructure stress events increasing",0.68,0.92,0.66,"technical_guidance","high",0.771
+"S8","ethics","Future generations claims entering public law and policy debate",0.74,0.76,0.8,"legal_scan","high",0.763
+"S4","participation","Citizen foresight assemblies and public futures labs expanding",0.72,0.72,0.8,"civic_scan","medium",0.74
+"S7","energy","Grid interconnection delays constraining clean energy deployment",0.62,0.8,0.6,"energy_report","medium",0.687
+"S6","economy","Firms expanding redundancy and regionalization after supply shocks",0.64,0.74,0.58,"market_scan","medium",0.665
+"S5","education","Universities adding futures literacy and foresight modules",0.6,0.64,0.7,"curriculum_scan","medium",0.641

@@ -1,0 +1,6 @@
+pipeline_id,pipeline_name,detection,interpretation,pattern_formation,uncertainty_structuring,strategic_design,legitimacy,uptake,resistance
+P1,Integrated Foresight System,0.78,0.80,0.76,0.82,0.78,0.74,0.76,0.24
+P2,Technically Strong but Low-Uptake System,0.82,0.76,0.72,0.78,0.68,0.42,0.38,0.58
+P3,Fragmented Foresight System,0.66,0.48,0.44,0.52,0.40,0.50,0.34,0.62
+P4,Participatory Learning System,0.70,0.74,0.68,0.76,0.72,0.90,0.78,0.28
+P5,Forecast-Dominant Planning System,0.54,0.50,0.72,0.38,0.46,0.44,0.52,0.50

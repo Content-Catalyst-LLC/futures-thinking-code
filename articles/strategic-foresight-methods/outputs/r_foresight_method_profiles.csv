@@ -1,0 +1,11 @@
+"method_id","method","primary_function","detection_power","ambiguity_tolerance","structural_depth","actionability","participatory_depth","institutional_fit","learning_value","technocratic_risk","method_profile_score","method_risk_score"
+"M4","Scenario Planning","Uncertainty Structuring",0.42,0.82,0.84,0.72,0.62,0.76,0.86,0.5,0.712,0.0266
+"M9","Three Horizons Thinking","Transition Framing",0.42,0.78,0.74,0.76,0.7,0.64,0.8,0.3,0.6896,0.018
+"M8","Causal Layered Analysis","Worldview Analysis",0.38,0.88,0.82,0.62,0.72,0.54,0.88,0.26,0.6872,0.0087
+"M5","Backcasting","Strategic Design",0.3,0.66,0.78,0.9,0.68,0.66,0.82,0.34,0.6868,0.0196
+"M10","Wind-Tunneling and Strategy Stress Testing","Strategy Testing",0.36,0.62,0.76,0.88,0.44,0.78,0.72,0.58,0.6504,0.0909
+"M7","Cross-Impact Analysis","Interaction Mapping",0.5,0.76,0.86,0.66,0.4,0.6,0.76,0.62,0.65,0.0893
+"M2","Weak Signals Analysis","Interpretation",0.74,0.9,0.58,0.42,0.48,0.52,0.78,0.38,0.6256,0.0435
+"M1","Horizon Scanning","Detection",0.86,0.72,0.48,0.46,0.42,0.68,0.74,0.42,0.6136,0.0633
+"M3","Trend Analysis and Megatrends","Pattern Formation",0.62,0.52,0.66,0.58,0.36,0.74,0.62,0.56,0.5808,0.1362
+"M6","Delphi Method","Collective Judgment",0.46,0.72,0.52,0.56,0.34,0.7,0.58,0.68,0.5456,0.1885

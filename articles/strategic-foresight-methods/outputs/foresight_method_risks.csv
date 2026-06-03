@@ -1,0 +1,11 @@
+method_id,method,primary_function,technocratic_risk,participatory_depth,learning_value,method_risk_score,risk_note
+M6,Delphi Method,Collective Judgment,0.68,0.34,0.58,0.1885,High method-risk attention
+M3,Trend Analysis and Megatrends,Pattern Formation,0.56,0.36,0.62,0.1362,High method-risk attention
+M10,Wind-Tunneling and Strategy Stress Testing,Strategy Testing,0.58,0.44,0.72,0.0909,Manageable if integrated carefully
+M7,Cross-Impact Analysis,Interaction Mapping,0.62,0.4,0.76,0.0893,Manageable if integrated carefully
+M1,Horizon Scanning,Detection,0.42,0.42,0.74,0.0633,Manageable if integrated carefully
+M2,Weak Signals Analysis,Interpretation,0.38,0.48,0.78,0.0435,Manageable if integrated carefully
+M4,Scenario Planning,Uncertainty Structuring,0.5,0.62,0.86,0.0266,Manageable if integrated carefully
+M5,Backcasting,Strategic Design,0.34,0.68,0.82,0.0196,Manageable if integrated carefully
+M9,Three Horizons Thinking,Transition Framing,0.3,0.7,0.8,0.018,Manageable if integrated carefully
+M8,Causal Layered Analysis,Worldview Analysis,0.26,0.72,0.88,0.0087,Manageable if integrated carefully
