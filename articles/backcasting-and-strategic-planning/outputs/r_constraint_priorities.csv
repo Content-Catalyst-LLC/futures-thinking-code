@@ -1,0 +1,9 @@
+"constraint_id","pathway_id","constraint_type","constraint","impact","severity","reversibility","mitigation","constraint_priority"
+"C7","P7","workforce","Care workforce shortage constrains delivery",0.88,0.8,0.46,"Improve wages staffing ratios immigration pathways and training.",1.0842
+"C2","P1","finance","Adaptation investment faces uncertain long-term funding",0.86,0.76,0.42,"Use climate bonds federal grants and resilience finance mechanisms.",1.0327
+"C8","P9","governance","Regional food water and land institutions remain siloed",0.82,0.76,0.44,"Establish regional governance compact and shared indicators.",0.9722
+"C1","P1","institutional_fragmentation","Agencies hold fragmented mandates and budgets",0.82,0.74,0.46,"Create cross-agency authority and shared funding model.",0.9345
+"C5","P5","incumbent_resistance","Fossil and utility incumbents resist transition sequencing",0.8,0.72,0.4,"Create transition compacts regulation and public accountability.",0.9216
+"C3","P3","capacity","Public agencies lack technical audit staff",0.78,0.7,0.52,"Build shared audit office and public-interest technical workforce.",0.8081
+"C6","P5","labor","Workforce transition capacity is uneven",0.76,0.7,0.54,"Fund training wage protections and regional labor planning.",0.7767
+"C4","P3","law","Existing procurement rules do not address algorithmic accountability",0.74,0.68,0.58,"Update procurement and administrative-law requirements.",0.7145

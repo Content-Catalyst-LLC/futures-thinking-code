@@ -1,0 +1,6 @@
+future_id,future_name,domain,target_year,decarbonization,equity,resilience,institutional_capacity,public_legitimacy,ecological_integrity,description
+F1,Climate-Resilient Low-Carbon Region,climate_infrastructure,2040,0.88,0.82,0.86,0.78,0.74,0.84,A regional system with low emissions resilient infrastructure equitable adaptation and ecological safeguards.
+F2,Accountable Public AI Governance,technology_governance,2035,0.50,0.86,0.72,0.82,0.84,0.52,A public digital governance system with auditability due process labor protections and democratic accountability.
+F3,Just Energy Transition System,energy_labor,2040,0.92,0.88,0.80,0.76,0.78,0.74,A clean energy system with grid reliability worker transition protections affordability and public legitimacy.
+F4,Care-Centered Public Health System,health_labor,2035,0.46,0.90,0.84,0.82,0.80,0.58,A health and care system with prevention workforce resilience equitable access and climate-health preparedness.
+F5,Regenerative Urban Food-Water System,food_water_urban,2045,0.70,0.84,0.88,0.74,0.72,0.90,A city-region system that integrates food water land use ecological restoration and affordability.

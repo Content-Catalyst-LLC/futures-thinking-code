@@ -1,0 +1,9 @@
+trigger_id,pathway_id,indicator,threshold,review_frequency,trigger_action
+T1,P1,compound_climate_infrastructure_failures,0.65,quarterly,Accelerate infrastructure retrofits and public-health adaptation.
+T2,P1,adaptation_funding_gap,0.50,quarterly,Open emergency financing and capital reallocation review.
+T3,P3,public_ai_pilot_to_operations_ratio,0.60,quarterly,Pause high-risk deployments until audit and appeal mechanisms are active.
+T4,P3,algorithmic_complaints_index,0.55,quarterly,Escalate procurement review and public accountability audit.
+T5,P5,grid_interconnection_delay_index,0.70,quarterly,Accelerate transmission permitting and demand-flexibility program.
+T6,P5,worker_transition_gap,0.55,semiannual,Expand just transition funding and training capacity.
+T7,P7,care_workforce_vacancy_rate,0.60,quarterly,Trigger workforce emergency plan and retention financing.
+T8,P9,food_water_stress_index,0.62,semiannual,Activate regional food-water resilience coordination.

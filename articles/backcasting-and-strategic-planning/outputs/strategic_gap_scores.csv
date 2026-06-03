@@ -1,0 +1,6 @@
+future_id,future_name,domain,target_year,decarbonization_gap,equity_gap,resilience_gap,institutional_capacity_gap,public_legitimacy_gap,ecological_integrity_gap,strategic_gap_score,baseline_note
+F1,Climate-Resilient Low-Carbon Region,climate_infrastructure,2040,0.46,0.34,0.36,0.32,0.22,0.4,0.35,Regional climate adaptation and infrastructure planning remain fragmented.
+F5,Regenerative Urban Food-Water System,food_water_urban,2045,0.3,0.38,0.38,0.3,0.26,0.42,0.34,Food water and ecological planning are not yet integrated across institutions.
+F3,Just Energy Transition System,energy_labor,2040,0.42,0.42,0.28,0.32,0.3,0.28,0.3367,Energy transition progress is uneven and grid constraints remain significant.
+F2,Accountable Public AI Governance,technology_governance,2035,0.12,0.44,0.28,0.34,0.38,0.12,0.28,AI governance exists in pilots but public accountability capacity is underdeveloped.
+F4,Care-Centered Public Health System,health_labor,2035,0.1,0.4,0.36,0.3,0.26,0.16,0.2633,Care and public-health capacity face labor shortages and unequal access.

@@ -1,0 +1,9 @@
+stress_id,pathway_id,scenario_name,climate_stress,political_resistance,funding_constraint,technology_uncertainty,public_trust,stress_burden_score,stress_note
+S6,P5,Energy Affordability Backlash,0.58,0.82,0.66,0.54,0.38,0.6448,Pathway tested under rising household energy burden.
+S5,P5,Supply Chain Constraint,0.64,0.62,0.72,0.78,0.56,0.6372,Pathway tested under grid component and materials bottlenecks.
+S8,P9,Regional Governance Failure,0.7,0.8,0.62,0.42,0.44,0.6256,Pathway tested under jurisdictional conflict.
+S2,P1,Fiscal Austerity,0.62,0.7,0.88,0.38,0.48,0.6248,Pathway tested under limited public financing and competing priorities.
+S4,P3,Trust Breakdown,0.38,0.78,0.54,0.7,0.3,0.6136,Pathway tested under low legitimacy and public opposition.
+S1,P1,Compound Climate Stress,0.88,0.54,0.72,0.42,0.58,0.6052,Pathway tested under repeated heat flood and infrastructure failures.
+S3,P3,Rapid AI Deployment,0.4,0.66,0.56,0.84,0.52,0.5792,Pathway tested under faster-than-expected public AI adoption.
+S7,P7,Public Health Shock,0.74,0.5,0.7,0.44,0.62,0.558,Pathway tested under simultaneous workforce and disease pressure.

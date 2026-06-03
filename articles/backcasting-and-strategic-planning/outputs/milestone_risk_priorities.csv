@@ -1,0 +1,11 @@
+milestone_id,pathway_id,phase_year,milestone,dependency,completion_score,risk_score,milestone_risk_priority,owner_role
+M3,P1,2035,Complete priority infrastructure retrofits and community resilience hubs,Permitting workforce and capital delivery,0.3,0.74,0.518,infrastructure_lead
+M10,P9,2030,Establish regional food-water-ecology governance compact,Jurisdictional cooperation and stakeholder participation,0.3,0.7,0.49,regional_systems_lead
+M7,P5,2032,Scale grid modernization storage and demand flexibility,Transmission planning and workforce capacity,0.36,0.72,0.4608,energy_systems_lead
+M9,P7,2032,Integrate prevention climate-health and community care systems,Data-sharing public-health staffing and trust,0.34,0.68,0.4488,public_health_lead
+M5,P3,2030,Create independent algorithmic accountability office,Funding staffing and statutory mandate,0.34,0.66,0.4356,public_accountability_lead
+M2,P1,2030,Fund heat flood grid and public-health adaptation portfolio,Climate finance package,0.38,0.7,0.434,climate_finance_lead
+M8,P7,2028,Create care workforce wage training and retention program,Health labor compact and financing,0.42,0.64,0.3712,health_workforce_lead
+M1,P1,2028,Create cross-agency climate infrastructure authority,Public mandate and intergovernmental agreement,0.44,0.62,0.3472,regional_governance_lead
+M6,P5,2028,Establish worker transition and community benefits framework,Labor participation and public funding,0.46,0.6,0.324,just_transition_lead
+M4,P3,2027,Adopt public AI procurement audit and appeals standards,Legal authority and technical audit capacity,0.52,0.58,0.2784,digital_governance_lead
