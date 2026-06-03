@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,interoperability,user_rights,worker_protection,public_accountability,researcher_access,competition_enforcement,public_infrastructure,ecological_standards,remedy_capacity,description
+ST1,Voluntary Platform Responsibility,voluntary,0.32,0.38,0.30,0.36,0.24,0.28,0.22,0.30,0.34,Relies on platform self-governance with limited public enforcement.
+ST2,Regulated Gatekeeper Accountability,regulatory,0.56,0.68,0.58,0.72,0.62,0.70,0.46,0.52,0.66,Applies enforceable obligations to dominant platform gatekeepers.
+ST3,Interoperability and Portability Strategy,interoperability,0.86,0.76,0.60,0.68,0.58,0.72,0.62,0.54,0.66,Reduces lock-in through open standards portability and user control.
+ST4,Platform Labor Rights Strategy,labor_rights,0.52,0.62,0.86,0.70,0.54,0.58,0.44,0.46,0.78,Strengthens worker protections pay transparency due process and bargaining power.
+ST5,Digital Public Infrastructure Strategy,public_infrastructure,0.78,0.88,0.74,0.86,0.72,0.64,0.90,0.76,0.84,Builds accountable public digital systems for identity payments data exchange and services.
+ST6,Ecological Platform Governance,ecological_governance,0.54,0.58,0.52,0.66,0.52,0.50,0.60,0.88,0.58,Addresses data center energy device lifecycles logistics advertising compute and rebound effects.

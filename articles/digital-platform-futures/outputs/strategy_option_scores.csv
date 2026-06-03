@@ -1,0 +1,7 @@
+strategy_id,strategy_name,strategy_type,public_interest_platform_strategy_score,accountability_strategy_score,description
+ST5,Digital Public Infrastructure Strategy,public_infrastructure,0.7928,0.7972,Builds accountable public digital systems for identity payments data exchange and services.
+ST3,Interoperability and Portability Strategy,interoperability,0.6852,0.6844,Reduces lock-in through open standards portability and user control.
+ST2,Regulated Gatekeeper Accountability,regulatory,0.614,0.6368,Applies enforceable obligations to dominant platform gatekeepers.
+ST4,Platform Labor Rights Strategy,labor_rights,0.6108,0.6484,Strengthens worker protections pay transparency due process and bargaining power.
+ST6,Ecological Platform Governance,ecological_governance,0.59,0.5664,Addresses data center energy device lifecycles logistics advertising compute and rebound effects.
+ST1,Voluntary Platform Responsibility,voluntary,0.3088,0.3132,Relies on platform self-governance with limited public enforcement.

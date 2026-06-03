@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,public_interest_platform_capacity_score,platform_dependency_pressure_score,scenario_class,description
+S6,Digital Public Infrastructure Turn,public_infrastructure,0.7632,0.3136,High public-interest platform capacity,Public and civic actors build accountable digital infrastructure for rights and access.
+S3,Interoperable Platform Ecosystems,interoperability,0.704,0.36,Contested platform transition,Data portability open standards and protocol-based systems reduce lock-in.
+S4,Platform Labor Backlash,labor_rights,0.5428,0.5312,Contested platform transition,Workers regulators courts and unions challenge algorithmic management.
+S2,Regulated Gatekeepers,regulated_gatekeepers,0.5196,0.586,Contested platform transition,Large platforms remain powerful but face stronger public obligations.
+S7,Fragmented Digital Sovereignty,digital_sovereignty,0.4398,0.5864,Contested platform transition,States build divergent data regimes platform rules and digital sovereignty strategies.
+S5,AI-Native Platform Mediation,ai_mediation,0.355,0.7216,High platform dependency pressure,Generative AI and agents reshape search shopping communication content and work.
+S1,Platform Enclosure,enclosure,0.2426,0.8012,High platform dependency pressure,Dominant platforms deepen control over markets data infrastructure labor and attention.

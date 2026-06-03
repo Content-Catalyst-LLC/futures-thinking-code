@@ -1,0 +1,8 @@
+"scenario_id","scenario_name","scenario_family","platform_power","data_advantage","interoperability","worker_protection","public_accountability","user_rights","ecological_responsibility","digital_public_value","description","public_interest_platform_capacity_score","platform_dependency_pressure_score"
+"S6","Digital Public Infrastructure Turn","public_infrastructure",0.42,0.46,0.76,0.7,0.82,0.84,0.7,0.86,"Public and civic actors build accountable digital infrastructure for rights and access.",0.7632,0.3136
+"S3","Interoperable Platform Ecosystems","interoperability",0.48,0.52,0.84,0.58,0.72,0.78,0.58,0.78,"Data portability open standards and protocol-based systems reduce lock-in.",0.704,0.36
+"S4","Platform Labor Backlash","labor_rights",0.66,0.62,0.42,0.76,0.58,0.56,0.44,0.62,"Workers regulators courts and unions challenge algorithmic management.",0.5428,0.5312
+"S2","Regulated Gatekeepers","regulated_gatekeepers",0.76,0.76,0.46,0.52,0.62,0.62,0.48,0.58,"Large platforms remain powerful but face stronger public obligations.",0.5196,0.586
+"S7","Fragmented Digital Sovereignty","digital_sovereignty",0.62,0.64,0.4,0.44,0.46,0.5,0.42,0.46,"States build divergent data regimes platform rules and digital sovereignty strategies.",0.4398,0.5864
+"S5","AI-Native Platform Mediation","ai_mediation",0.82,0.88,0.34,0.38,0.38,0.42,0.34,0.4,"Generative AI and agents reshape search shopping communication content and work.",0.355,0.7216
+"S1","Platform Enclosure","enclosure",0.88,0.86,0.22,0.24,0.26,0.3,0.28,0.24,"Dominant platforms deepen control over markets data infrastructure labor and attention.",0.2426,0.8012

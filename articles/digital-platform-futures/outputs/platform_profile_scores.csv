@@ -1,0 +1,9 @@
+platform_id,platform_name,platform_type,market_role,platform_power_score,public_interest_platform_capacity_score,platform_dependency_pressure_score,description
+P1,Large Social Media Platform,social_media,attention_infrastructure,0.804,0.3408,0.7298,Social media platforms shape public discourse attention advertising and cultural visibility.
+P8,AI-Native Agent Platform,ai_platform,mediated_coordination,0.7916,0.3484,0.7204,AI-native platforms mediate search shopping content work and communication through automated agents.
+P4,Platform Labor Network,labor_platform,work_coordination,0.6944,0.3245,0.6919,Labor platforms coordinate work through ratings dynamic pricing matching and algorithmic management.
+P7,Creator Economy Platform,creator_platform,cultural_marketplace,0.7164,0.374,0.6687,Creator platforms shape cultural visibility monetization recommendation and dependency.
+P3,E-Commerce Marketplace,marketplace,commercial_gateway,0.7596,0.4062,0.6619,Marketplaces coordinate sellers buyers logistics advertising and ranking.
+P2,App Store Ecosystem,app_distribution,digital_gatekeeper,0.7672,0.405,0.6533,App stores govern software access payments developer rules and mobile ecosystems.
+P5,Cloud Platform Infrastructure,cloud_infrastructure,critical_infrastructure,0.7592,0.4704,0.6238,Cloud platforms provide infrastructure for firms governments AI systems and public services.
+P6,Interoperable Civic Platform,civic_platform,public_interest_coordination,0.374,0.7879,0.2854,Public-interest digital infrastructure prioritizes rights access interoperability and accountability.

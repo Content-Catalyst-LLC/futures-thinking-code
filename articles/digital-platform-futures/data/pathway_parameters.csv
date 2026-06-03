@@ -1,0 +1,8 @@
+pathway_id,scenario_id,pathway_name,platform_power,data_advantage,interoperability,public_accountability,user_rights,worker_protection,digital_public_value,initial_public_value,time_horizon
+PW1,S1,Platform Enclosure Pathway,0.88,0.86,0.22,0.26,0.30,0.24,0.24,0.60,40
+PW2,S2,Regulated Gatekeepers Pathway,0.76,0.76,0.46,0.62,0.62,0.52,0.58,0.70,40
+PW3,S3,Interoperable Platform Ecosystems Pathway,0.48,0.52,0.84,0.72,0.78,0.58,0.78,0.76,40
+PW4,S4,Platform Labor Backlash Pathway,0.66,0.62,0.42,0.58,0.56,0.76,0.62,0.68,40
+PW5,S5,AI-Native Platform Mediation Pathway,0.82,0.88,0.34,0.38,0.42,0.38,0.40,0.64,40
+PW6,S6,Digital Public Infrastructure Turn Pathway,0.42,0.46,0.76,0.82,0.84,0.70,0.86,0.78,40
+PW7,S7,Fragmented Digital Sovereignty Pathway,0.62,0.64,0.40,0.46,0.50,0.44,0.46,0.62,40

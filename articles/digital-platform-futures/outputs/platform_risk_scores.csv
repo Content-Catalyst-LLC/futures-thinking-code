@@ -1,0 +1,9 @@
+risk_id,platform_id,risk_name,risk_type,platform_risk_priority_score,mitigation_capacity,description
+R4,P4,Opaque worker deactivation,labor_rights,0.7704,0.3,Platform workers may lose access to income without meaningful explanation or appeal.
+R8,P8,AI-mediated platform opacity,ai_mediation,0.7488,0.34,AI agents can hide platform influence behind automated mediation and personalized interfaces.
+R1,P1,Recommendation-driven discourse harm,public_discourse,0.7108,0.42,Recommender systems can amplify misinformation harassment polarization and civic distrust.
+R5,P5,Cloud concentration and resilience failure,infrastructure_dependency,0.6768,0.5,Cloud concentration can create systemic dependency and resilience risks.
+R2,P2,App ecosystem gatekeeping,competition_gatekeeping,0.6536,0.46,App stores can restrict distribution payments developer access and ecosystem competition.
+R7,P7,Creator monetization instability,cultural_dependency,0.6392,0.4,Creators depend on opaque rules algorithms and monetization policies.
+R3,P3,Marketplace seller dependency,market_dependency,0.632,0.44,Sellers may depend on opaque ranking fees advertising and dispute systems.
+R6,P6,Public digital infrastructure exclusion,public_service,0.494,0.68,Public digital systems can exclude people if accessibility privacy and offline alternatives are weak.

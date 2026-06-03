@@ -1,0 +1,9 @@
+accountability_id,platform_id,accountability_dimension,transparency,auditability,contestability,enforceability,researcher_access,remedy_capacity,public_participation,description
+A1,P1,Social media systemic risk accountability,0.42,0.36,0.44,0.38,0.34,0.42,0.36,Public discourse platforms require risk assessment and independent research access.
+A2,P2,App store gatekeeper accountability,0.48,0.44,0.42,0.46,0.30,0.40,0.28,App ecosystems need fair access rules payment choice and developer appeal pathways.
+A3,P3,Marketplace fairness accountability,0.46,0.40,0.44,0.42,0.32,0.42,0.34,Marketplace sellers need transparency ranking fairness and dispute resolution.
+A4,P4,Platform labor due process,0.34,0.28,0.26,0.30,0.24,0.26,0.30,Labor platforms require worker voice pay transparency appeal rights and data access.
+A5,P5,Cloud infrastructure accountability,0.52,0.48,0.46,0.50,0.36,0.44,0.34,Cloud infrastructure needs resilience auditing procurement standards and public oversight.
+A6,P6,Civic platform public accountability,0.84,0.78,0.82,0.80,0.76,0.82,0.86,Public-interest platforms should be transparent interoperable rights-protecting and participatory.
+A7,P7,Creator rights accountability,0.40,0.34,0.36,0.34,0.26,0.34,0.32,Creator platforms need clearer monetization rules appeal rights and portability.
+A8,P8,AI-native mediation accountability,0.32,0.30,0.34,0.32,0.28,0.30,0.26,AI-native platforms require explanation provenance auditability and user control.

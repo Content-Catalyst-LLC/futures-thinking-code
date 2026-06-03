@@ -1,0 +1,8 @@
+pathway_id,scenario_id,pathway_name,final_public_value,mean_dependency_pressure,final_accountability_capacity
+PW3,S3,Interoperable Platform Ecosystems Pathway,1.6,1.6278,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,1.6,1.5343,1.4
+PW4,S4,Platform Labor Backlash Pathway,0.7582,1.7337,1.4
+PW2,S2,Regulated Gatekeepers Pathway,0.0313,1.7464,1.4
+PW1,S1,Platform Enclosure Pathway,0.0,1.7627,0.0
+PW5,S5,AI-Native Platform Mediation Pathway,0.0,1.759,0.5828
+PW7,S7,Fragmented Digital Sovereignty Pathway,0.0,1.7411,1.2634

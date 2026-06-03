@@ -1,0 +1,281 @@
+pathway_id,scenario_id,pathway_name,time_step,digital_public_value,platform_dependency_pressure,accountability_capacity
+PW1,S1,Platform Enclosure Pathway,1,0.6,0.742,0.26
+PW1,S1,Platform Enclosure Pathway,2,0.448,1.3678,0.2508
+PW1,S1,Platform Enclosure Pathway,3,0.2827,1.8,0.2416
+PW1,S1,Platform Enclosure Pathway,4,0.117,1.8,0.2324
+PW1,S1,Platform Enclosure Pathway,5,0.0,1.8,0.2232
+PW1,S1,Platform Enclosure Pathway,6,0.0,1.8,0.214
+PW1,S1,Platform Enclosure Pathway,7,0.0,1.8,0.2048
+PW1,S1,Platform Enclosure Pathway,8,0.0,1.8,0.1956
+PW1,S1,Platform Enclosure Pathway,9,0.0,1.8,0.1864
+PW1,S1,Platform Enclosure Pathway,10,0.0,1.8,0.1772
+PW1,S1,Platform Enclosure Pathway,11,0.0,1.8,0.168
+PW1,S1,Platform Enclosure Pathway,12,0.0,1.8,0.1588
+PW1,S1,Platform Enclosure Pathway,13,0.0,1.8,0.1496
+PW1,S1,Platform Enclosure Pathway,14,0.0,1.8,0.1404
+PW1,S1,Platform Enclosure Pathway,15,0.0,1.8,0.1312
+PW1,S1,Platform Enclosure Pathway,16,0.0,1.8,0.122
+PW1,S1,Platform Enclosure Pathway,17,0.0,1.8,0.1128
+PW1,S1,Platform Enclosure Pathway,18,0.0,1.8,0.1036
+PW1,S1,Platform Enclosure Pathway,19,0.0,1.8,0.0944
+PW1,S1,Platform Enclosure Pathway,20,0.0,1.8,0.0852
+PW1,S1,Platform Enclosure Pathway,21,0.0,1.8,0.076
+PW1,S1,Platform Enclosure Pathway,22,0.0,1.8,0.0668
+PW1,S1,Platform Enclosure Pathway,23,0.0,1.8,0.0576
+PW1,S1,Platform Enclosure Pathway,24,0.0,1.8,0.0484
+PW1,S1,Platform Enclosure Pathway,25,0.0,1.8,0.0392
+PW1,S1,Platform Enclosure Pathway,26,0.0,1.8,0.03
+PW1,S1,Platform Enclosure Pathway,27,0.0,1.8,0.0208
+PW1,S1,Platform Enclosure Pathway,28,0.0,1.8,0.0116
+PW1,S1,Platform Enclosure Pathway,29,0.0,1.8,0.0024
+PW1,S1,Platform Enclosure Pathway,30,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,31,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,32,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,33,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,34,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,35,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,36,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,37,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,38,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,39,0.0,1.8,0.0
+PW1,S1,Platform Enclosure Pathway,40,0.0,1.8,0.0
+PW2,S2,Regulated Gatekeepers Pathway,1,0.7,0.692,0.62
+PW2,S2,Regulated Gatekeepers Pathway,2,0.6842,1.0996,0.6468
+PW2,S2,Regulated Gatekeepers Pathway,3,0.6584,1.4664,0.6736
+PW2,S2,Regulated Gatekeepers Pathway,4,0.6239,1.7966,0.7004
+PW2,S2,Regulated Gatekeepers Pathway,5,0.5902,1.8,0.7272
+PW2,S2,Regulated Gatekeepers Pathway,6,0.5577,1.8,0.754
+PW2,S2,Regulated Gatekeepers Pathway,7,0.5262,1.8,0.7808
+PW2,S2,Regulated Gatekeepers Pathway,8,0.4958,1.8,0.8076
+PW2,S2,Regulated Gatekeepers Pathway,9,0.4665,1.8,0.8344
+PW2,S2,Regulated Gatekeepers Pathway,10,0.4383,1.8,0.8612
+PW2,S2,Regulated Gatekeepers Pathway,11,0.4111,1.8,0.888
+PW2,S2,Regulated Gatekeepers Pathway,12,0.385,1.8,0.9148
+PW2,S2,Regulated Gatekeepers Pathway,13,0.3599,1.8,0.9416
+PW2,S2,Regulated Gatekeepers Pathway,14,0.336,1.8,0.9684
+PW2,S2,Regulated Gatekeepers Pathway,15,0.3131,1.8,0.9952
+PW2,S2,Regulated Gatekeepers Pathway,16,0.2913,1.8,1.022
+PW2,S2,Regulated Gatekeepers Pathway,17,0.2705,1.8,1.0488
+PW2,S2,Regulated Gatekeepers Pathway,18,0.2508,1.8,1.0756
+PW2,S2,Regulated Gatekeepers Pathway,19,0.2322,1.8,1.1024
+PW2,S2,Regulated Gatekeepers Pathway,20,0.2147,1.8,1.1292
+PW2,S2,Regulated Gatekeepers Pathway,21,0.1982,1.8,1.156
+PW2,S2,Regulated Gatekeepers Pathway,22,0.1829,1.8,1.1828
+PW2,S2,Regulated Gatekeepers Pathway,23,0.1685,1.8,1.2096
+PW2,S2,Regulated Gatekeepers Pathway,24,0.1553,1.8,1.2364
+PW2,S2,Regulated Gatekeepers Pathway,25,0.1431,1.8,1.2632
+PW2,S2,Regulated Gatekeepers Pathway,26,0.132,1.8,1.29
+PW2,S2,Regulated Gatekeepers Pathway,27,0.122,1.8,1.3168
+PW2,S2,Regulated Gatekeepers Pathway,28,0.113,1.8,1.3436
+PW2,S2,Regulated Gatekeepers Pathway,29,0.1052,1.8,1.3704
+PW2,S2,Regulated Gatekeepers Pathway,30,0.0983,1.8,1.3972
+PW2,S2,Regulated Gatekeepers Pathway,31,0.0916,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,32,0.0849,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,33,0.0782,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,34,0.0715,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,35,0.0648,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,36,0.0581,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,37,0.0514,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,38,0.0447,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,39,0.038,1.8,1.4
+PW2,S2,Regulated Gatekeepers Pathway,40,0.0313,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,1,0.76,0.574,0.72
+PW3,S3,Interoperable Platform Ecosystems Pathway,2,0.8537,0.7342,0.7782
+PW3,S3,Interoperable Platform Ecosystems Pathway,3,0.9454,0.8784,0.8364
+PW3,S3,Interoperable Platform Ecosystems Pathway,4,1.0355,1.0081,0.8946
+PW3,S3,Interoperable Platform Ecosystems Pathway,5,1.1245,1.1249,0.9528
+PW3,S3,Interoperable Platform Ecosystems Pathway,6,1.2126,1.23,1.011
+PW3,S3,Interoperable Platform Ecosystems Pathway,7,1.3003,1.3246,1.0692
+PW3,S3,Interoperable Platform Ecosystems Pathway,8,1.3877,1.4098,1.1274
+PW3,S3,Interoperable Platform Ecosystems Pathway,9,1.4751,1.4864,1.1856
+PW3,S3,Interoperable Platform Ecosystems Pathway,10,1.5613,1.6054,1.2438
+PW3,S3,Interoperable Platform Ecosystems Pathway,11,1.6,1.6624,1.302
+PW3,S3,Interoperable Platform Ecosystems Pathway,12,1.6,1.7138,1.3602
+PW3,S3,Interoperable Platform Ecosystems Pathway,13,1.6,1.76,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,14,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,15,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,16,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,17,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,18,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,19,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,20,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,21,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,22,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,23,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,24,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,25,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,26,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,27,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,28,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,29,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,30,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,31,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,32,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,33,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,34,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,35,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,36,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,37,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,38,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,39,1.6,1.8,1.4
+PW3,S3,Interoperable Platform Ecosystems Pathway,40,1.6,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,1,0.68,0.639,0.58
+PW4,S4,Platform Labor Backlash Pathway,2,0.686,0.9939,0.6062
+PW4,S4,Platform Labor Backlash Pathway,3,0.6835,1.3133,0.6324
+PW4,S4,Platform Labor Backlash Pathway,4,0.6734,1.6008,0.6586
+PW4,S4,Platform Labor Backlash Pathway,5,0.6584,1.8,0.6848
+PW4,S4,Platform Labor Backlash Pathway,6,0.6445,1.8,0.711
+PW4,S4,Platform Labor Backlash Pathway,7,0.6316,1.8,0.7372
+PW4,S4,Platform Labor Backlash Pathway,8,0.6197,1.8,0.7634
+PW4,S4,Platform Labor Backlash Pathway,9,0.6089,1.8,0.7896
+PW4,S4,Platform Labor Backlash Pathway,10,0.5991,1.8,0.8158
+PW4,S4,Platform Labor Backlash Pathway,11,0.5904,1.8,0.842
+PW4,S4,Platform Labor Backlash Pathway,12,0.5827,1.8,0.8682
+PW4,S4,Platform Labor Backlash Pathway,13,0.5761,1.8,0.8944
+PW4,S4,Platform Labor Backlash Pathway,14,0.5705,1.8,0.9206
+PW4,S4,Platform Labor Backlash Pathway,15,0.566,1.8,0.9468
+PW4,S4,Platform Labor Backlash Pathway,16,0.5625,1.8,0.973
+PW4,S4,Platform Labor Backlash Pathway,17,0.5601,1.8,0.9992
+PW4,S4,Platform Labor Backlash Pathway,18,0.5587,1.8,1.0254
+PW4,S4,Platform Labor Backlash Pathway,19,0.5584,1.8,1.0516
+PW4,S4,Platform Labor Backlash Pathway,20,0.5591,1.8,1.0778
+PW4,S4,Platform Labor Backlash Pathway,21,0.5608,1.8,1.104
+PW4,S4,Platform Labor Backlash Pathway,22,0.5636,1.8,1.1302
+PW4,S4,Platform Labor Backlash Pathway,23,0.5675,1.8,1.1564
+PW4,S4,Platform Labor Backlash Pathway,24,0.5724,1.8,1.1826
+PW4,S4,Platform Labor Backlash Pathway,25,0.5784,1.8,1.2088
+PW4,S4,Platform Labor Backlash Pathway,26,0.5854,1.8,1.235
+PW4,S4,Platform Labor Backlash Pathway,27,0.5934,1.8,1.2612
+PW4,S4,Platform Labor Backlash Pathway,28,0.6025,1.8,1.2874
+PW4,S4,Platform Labor Backlash Pathway,29,0.6126,1.8,1.3136
+PW4,S4,Platform Labor Backlash Pathway,30,0.6238,1.8,1.3398
+PW4,S4,Platform Labor Backlash Pathway,31,0.6361,1.8,1.366
+PW4,S4,Platform Labor Backlash Pathway,32,0.6494,1.8,1.3922
+PW4,S4,Platform Labor Backlash Pathway,33,0.663,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,34,0.6766,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,35,0.6902,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,36,0.7038,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,37,0.7174,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,38,0.731,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,39,0.7446,1.8,1.4
+PW4,S4,Platform Labor Backlash Pathway,40,0.7582,1.8,1.4
+PW5,S5,AI-Native Platform Mediation Pathway,1,0.64,0.731,0.38
+PW5,S5,AI-Native Platform Mediation Pathway,2,0.5419,1.2707,0.3852
+PW5,S5,AI-Native Platform Mediation Pathway,3,0.4294,1.7564,0.3904
+PW5,S5,AI-Native Platform Mediation Pathway,4,0.3158,1.8,0.3956
+PW5,S5,AI-Native Platform Mediation Pathway,5,0.2025,1.8,0.4008
+PW5,S5,AI-Native Platform Mediation Pathway,6,0.0893,1.8,0.406
+PW5,S5,AI-Native Platform Mediation Pathway,7,0.0,1.8,0.4112
+PW5,S5,AI-Native Platform Mediation Pathway,8,0.0,1.8,0.4164
+PW5,S5,AI-Native Platform Mediation Pathway,9,0.0,1.8,0.4216
+PW5,S5,AI-Native Platform Mediation Pathway,10,0.0,1.8,0.4268
+PW5,S5,AI-Native Platform Mediation Pathway,11,0.0,1.8,0.432
+PW5,S5,AI-Native Platform Mediation Pathway,12,0.0,1.8,0.4372
+PW5,S5,AI-Native Platform Mediation Pathway,13,0.0,1.8,0.4424
+PW5,S5,AI-Native Platform Mediation Pathway,14,0.0,1.8,0.4476
+PW5,S5,AI-Native Platform Mediation Pathway,15,0.0,1.8,0.4528
+PW5,S5,AI-Native Platform Mediation Pathway,16,0.0,1.8,0.458
+PW5,S5,AI-Native Platform Mediation Pathway,17,0.0,1.8,0.4632
+PW5,S5,AI-Native Platform Mediation Pathway,18,0.0,1.8,0.4684
+PW5,S5,AI-Native Platform Mediation Pathway,19,0.0,1.8,0.4736
+PW5,S5,AI-Native Platform Mediation Pathway,20,0.0,1.8,0.4788
+PW5,S5,AI-Native Platform Mediation Pathway,21,0.0,1.8,0.484
+PW5,S5,AI-Native Platform Mediation Pathway,22,0.0,1.8,0.4892
+PW5,S5,AI-Native Platform Mediation Pathway,23,0.0,1.8,0.4944
+PW5,S5,AI-Native Platform Mediation Pathway,24,0.0,1.8,0.4996
+PW5,S5,AI-Native Platform Mediation Pathway,25,0.0,1.8,0.5048
+PW5,S5,AI-Native Platform Mediation Pathway,26,0.0,1.8,0.51
+PW5,S5,AI-Native Platform Mediation Pathway,27,0.0,1.8,0.5152
+PW5,S5,AI-Native Platform Mediation Pathway,28,0.0,1.8,0.5204
+PW5,S5,AI-Native Platform Mediation Pathway,29,0.0,1.8,0.5256
+PW5,S5,AI-Native Platform Mediation Pathway,30,0.0,1.8,0.5308
+PW5,S5,AI-Native Platform Mediation Pathway,31,0.0,1.8,0.536
+PW5,S5,AI-Native Platform Mediation Pathway,32,0.0,1.8,0.5412
+PW5,S5,AI-Native Platform Mediation Pathway,33,0.0,1.8,0.5464
+PW5,S5,AI-Native Platform Mediation Pathway,34,0.0,1.8,0.5516
+PW5,S5,AI-Native Platform Mediation Pathway,35,0.0,1.8,0.5568
+PW5,S5,AI-Native Platform Mediation Pathway,36,0.0,1.8,0.562
+PW5,S5,AI-Native Platform Mediation Pathway,37,0.0,1.8,0.5672
+PW5,S5,AI-Native Platform Mediation Pathway,38,0.0,1.8,0.5724
+PW5,S5,AI-Native Platform Mediation Pathway,39,0.0,1.8,0.5776
+PW5,S5,AI-Native Platform Mediation Pathway,40,0.0,1.8,0.5828
+PW6,S6,Digital Public Infrastructure Turn Pathway,1,0.78,0.547,0.82
+PW6,S6,Digital Public Infrastructure Turn Pathway,2,0.9009,0.6751,0.884
+PW6,S6,Digital Public Infrastructure Turn Pathway,3,1.0209,0.7904,0.948
+PW6,S6,Digital Public Infrastructure Turn Pathway,4,1.1404,0.8942,1.012
+PW6,S6,Digital Public Infrastructure Turn Pathway,5,1.2596,0.9875,1.076
+PW6,S6,Digital Public Infrastructure Turn Pathway,6,1.3788,1.0716,1.14
+PW6,S6,Digital Public Infrastructure Turn Pathway,7,1.4984,1.1472,1.204
+PW6,S6,Digital Public Infrastructure Turn Pathway,8,1.6,1.2153,1.268
+PW6,S6,Digital Public Infrastructure Turn Pathway,9,1.6,1.2766,1.332
+PW6,S6,Digital Public Infrastructure Turn Pathway,10,1.6,1.3817,1.396
+PW6,S6,Digital Public Infrastructure Turn Pathway,11,1.6,1.4263,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,12,1.6,1.4665,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,13,1.6,1.5027,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,14,1.6,1.5352,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,15,1.6,1.5645,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,16,1.6,1.5908,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,17,1.6,1.6145,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,18,1.6,1.6359,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,19,1.6,1.6551,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,20,1.6,1.7224,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,21,1.6,1.733,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,22,1.6,1.7425,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,23,1.6,1.751,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,24,1.6,1.7587,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,25,1.6,1.7656,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,26,1.6,1.7719,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,27,1.6,1.7775,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,28,1.6,1.7825,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,29,1.6,1.7871,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,30,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,31,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,32,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,33,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,34,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,35,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,36,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,37,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,38,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,39,1.6,1.8,1.4
+PW6,S6,Digital Public Infrastructure Turn Pathway,40,1.6,1.8,1.4
+PW7,S7,Fragmented Digital Sovereignty Pathway,1,0.62,0.633,0.46
+PW7,S7,Fragmented Digital Sovereignty Pathway,2,0.5794,1.0449,0.4806
+PW7,S7,Fragmented Digital Sovereignty Pathway,3,0.5285,1.4156,0.5012
+PW7,S7,Fragmented Digital Sovereignty Pathway,4,0.4684,1.7492,0.5218
+PW7,S7,Fragmented Digital Sovereignty Pathway,5,0.4075,1.8,0.5424
+PW7,S7,Fragmented Digital Sovereignty Pathway,6,0.3476,1.8,0.563
+PW7,S7,Fragmented Digital Sovereignty Pathway,7,0.2884,1.8,0.5836
+PW7,S7,Fragmented Digital Sovereignty Pathway,8,0.2301,1.8,0.6042
+PW7,S7,Fragmented Digital Sovereignty Pathway,9,0.1726,1.8,0.6248
+PW7,S7,Fragmented Digital Sovereignty Pathway,10,0.1159,1.8,0.6454
+PW7,S7,Fragmented Digital Sovereignty Pathway,11,0.06,1.8,0.666
+PW7,S7,Fragmented Digital Sovereignty Pathway,12,0.005,1.8,0.6866
+PW7,S7,Fragmented Digital Sovereignty Pathway,13,0.0,1.8,0.7072
+PW7,S7,Fragmented Digital Sovereignty Pathway,14,0.0,1.8,0.7278
+PW7,S7,Fragmented Digital Sovereignty Pathway,15,0.0,1.8,0.7484
+PW7,S7,Fragmented Digital Sovereignty Pathway,16,0.0,1.8,0.769
+PW7,S7,Fragmented Digital Sovereignty Pathway,17,0.0,1.8,0.7896
+PW7,S7,Fragmented Digital Sovereignty Pathway,18,0.0,1.8,0.8102
+PW7,S7,Fragmented Digital Sovereignty Pathway,19,0.0,1.8,0.8308
+PW7,S7,Fragmented Digital Sovereignty Pathway,20,0.0,1.8,0.8514
+PW7,S7,Fragmented Digital Sovereignty Pathway,21,0.0,1.8,0.872
+PW7,S7,Fragmented Digital Sovereignty Pathway,22,0.0,1.8,0.8926
+PW7,S7,Fragmented Digital Sovereignty Pathway,23,0.0,1.8,0.9132
+PW7,S7,Fragmented Digital Sovereignty Pathway,24,0.0,1.8,0.9338
+PW7,S7,Fragmented Digital Sovereignty Pathway,25,0.0,1.8,0.9544
+PW7,S7,Fragmented Digital Sovereignty Pathway,26,0.0,1.8,0.975
+PW7,S7,Fragmented Digital Sovereignty Pathway,27,0.0,1.8,0.9956
+PW7,S7,Fragmented Digital Sovereignty Pathway,28,0.0,1.8,1.0162
+PW7,S7,Fragmented Digital Sovereignty Pathway,29,0.0,1.8,1.0368
+PW7,S7,Fragmented Digital Sovereignty Pathway,30,0.0,1.8,1.0574
+PW7,S7,Fragmented Digital Sovereignty Pathway,31,0.0,1.8,1.078
+PW7,S7,Fragmented Digital Sovereignty Pathway,32,0.0,1.8,1.0986
+PW7,S7,Fragmented Digital Sovereignty Pathway,33,0.0,1.8,1.1192
+PW7,S7,Fragmented Digital Sovereignty Pathway,34,0.0,1.8,1.1398
+PW7,S7,Fragmented Digital Sovereignty Pathway,35,0.0,1.8,1.1604
+PW7,S7,Fragmented Digital Sovereignty Pathway,36,0.0,1.8,1.181
+PW7,S7,Fragmented Digital Sovereignty Pathway,37,0.0,1.8,1.2016
+PW7,S7,Fragmented Digital Sovereignty Pathway,38,0.0,1.8,1.2222
+PW7,S7,Fragmented Digital Sovereignty Pathway,39,0.0,1.8,1.2428
+PW7,S7,Fragmented Digital Sovereignty Pathway,40,0.0,1.8,1.2634
