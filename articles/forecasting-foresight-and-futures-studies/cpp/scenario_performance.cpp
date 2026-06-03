@@ -25,7 +25,7 @@ int main() {
         {"Defensive Continuity Strategy", {0.70, 0.52, 0.55, 0.58, 0.57, 0.60}}
     };
 
-    std::cout << "Forecasting, foresight, and futures studies diagnostics\n";
+    std::cout << "Futures diagnostics\n";
     for (const auto& item : strategies) {
         std::cout << item.first << ": robustness=" << robustness(item.second) << "\n";
     }

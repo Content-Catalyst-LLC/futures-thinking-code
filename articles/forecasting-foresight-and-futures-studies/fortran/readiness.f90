@@ -2,7 +2,6 @@ program readiness
   implicit none
   real :: values(6)
   real :: avg, worst, best, volatility, robustness
-  integer :: i
 
   values = (/0.78, 0.75, 0.72, 0.70, 0.73, 0.69/)
   avg = sum(values) / size(values)

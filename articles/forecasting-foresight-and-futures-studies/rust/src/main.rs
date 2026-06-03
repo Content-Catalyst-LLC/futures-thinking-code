@@ -14,7 +14,7 @@ fn main() {
         ("Defensive Continuity Strategy", vec![0.70, 0.52, 0.55, 0.58, 0.57, 0.60]),
     ];
 
-    println!("Forecasting, foresight, and futures studies diagnostics");
+    println!("Futures diagnostics");
     for (name, values) in strategies {
         println!("{}: robustness={:.4}", name, robustness(&values));
     }

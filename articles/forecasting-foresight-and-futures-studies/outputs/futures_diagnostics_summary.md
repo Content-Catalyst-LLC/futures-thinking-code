@@ -9,9 +9,10 @@
 
 ## Future-Oriented Practice Scores
 
-1. **Futures Studies** — anticipatory capacity score: 0.7984; strongest dimension: critical_reflection; weakest dimension: predictive_emphasis.
-2. **Strategic Foresight** — anticipatory capacity score: 0.7978; strongest dimension: strategic_readiness; weakest dimension: predictive_emphasis.
-3. **Forecasting** — anticipatory capacity score: 0.4288; strongest dimension: predictive_emphasis; weakest dimension: participatory_depth.
+1. **Futures Thinking** — anticipatory capacity score: 0.8234; strongest dimension: uncertainty_plurality; weakest dimension: predictive_emphasis.
+2. **Futures Studies** — anticipatory capacity score: 0.7984; strongest dimension: critical_reflection; weakest dimension: predictive_emphasis.
+3. **Strategic Foresight** — anticipatory capacity score: 0.7978; strongest dimension: strategic_readiness; weakest dimension: predictive_emphasis.
+4. **Forecasting** — anticipatory capacity score: 0.4288; strongest dimension: predictive_emphasis; weakest dimension: participatory_depth.
 
 ## Highest-Priority Signals
 

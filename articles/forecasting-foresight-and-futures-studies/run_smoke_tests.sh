@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-echo "Running smoke tests for Forecasting, Foresight, and Futures Studies..."
+echo "Running smoke tests..."
 
-python3 python/forecasting_foresight_standard.py
+python3 python/futures_workflow_standard.py
 
 if command -v Rscript >/dev/null 2>&1; then
   echo "Running R workflow..."
-  Rscript r/forecasting_foresight_profiles.R
+  Rscript r/futures_profiles.R
 else
   echo "Skipping R workflow: Rscript not found."
 fi
@@ -21,7 +21,7 @@ fi
 
 if command -v sqlite3 >/dev/null 2>&1; then
   echo "Testing SQL schema..."
-  sqlite3 outputs/forecasting_foresight.db < sql/schema.sql
+  sqlite3 outputs/futures_schema.db < sql/schema.sql
 else
   echo "Skipping SQL schema test: sqlite3 not found."
 fi

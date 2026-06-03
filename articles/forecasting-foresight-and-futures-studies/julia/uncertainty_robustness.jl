@@ -1,4 +1,3 @@
-# Forecasting, Foresight, and Futures Studies
 # Julia standard-library robustness example.
 
 strategies = Dict(

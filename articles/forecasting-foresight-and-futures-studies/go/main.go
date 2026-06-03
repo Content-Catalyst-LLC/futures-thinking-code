@@ -27,13 +27,13 @@ func robustness(values []float64) float64 {
 
 func main() {
 	strategies := map[string][]float64{
-		"Forecast-Optimized Strategy": {0.91, 0.42, 0.38, 0.36, 0.40, 0.34},
-		"Flexible Foresight Strategy": {0.78, 0.75, 0.72, 0.70, 0.73, 0.69},
-		"Transformational Strategy":    {0.62, 0.81, 0.84, 0.76, 0.78, 0.74},
+		"Forecast-Optimized Strategy":   {0.91, 0.42, 0.38, 0.36, 0.40, 0.34},
+		"Flexible Foresight Strategy":   {0.78, 0.75, 0.72, 0.70, 0.73, 0.69},
+		"Transformational Strategy":     {0.62, 0.81, 0.84, 0.76, 0.78, 0.74},
 		"Defensive Continuity Strategy": {0.70, 0.52, 0.55, 0.58, 0.57, 0.60},
 	}
 
-	fmt.Println("Forecasting, foresight, and futures studies diagnostics")
+	fmt.Println("Futures diagnostics")
 	for name, values := range strategies {
 		fmt.Printf("%s: robustness=%.4f\n", name, robustness(values))
 	}

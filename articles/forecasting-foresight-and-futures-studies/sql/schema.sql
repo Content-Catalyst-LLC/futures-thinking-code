@@ -1,4 +1,3 @@
--- Forecasting, Foresight, and Futures Studies
 -- SQLite-compatible schema for forecasts, drivers, scenarios, assumptions, strategies, and evaluations.
 
 DROP TABLE IF EXISTS forecast_observations;
@@ -61,9 +60,3 @@ INSERT INTO strategies(strategy_id, strategy_name, strategy_type) VALUES
 (2, 'Flexible Foresight Strategy', 'foresight'),
 (3, 'Transformational Strategy', 'futures_studies'),
 (4, 'Defensive Continuity Strategy', 'risk_control');
-
-INSERT INTO scenarios(scenario_id, scenario_name, narrative, plausibility_score) VALUES
-(1, 'Expected Continuity', 'Baseline continuation of current assumptions.', 0.75),
-(2, 'Technology Disruption', 'Rapid technological change destabilizes existing plans.', 0.72),
-(3, 'Climate Stress', 'Climate impacts intensify across infrastructure and public systems.', 0.80),
-(4, 'Institutional Fragmentation', 'Trust and institutional capacity weaken under compounded stress.', 0.68);
