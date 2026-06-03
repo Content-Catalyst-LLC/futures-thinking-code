@@ -1,0 +1,9 @@
+"driver_id","driver_name","domain","impact_level","uncertainty_level","interaction_strength","time_sensitivity","monitoring_need","description","driver_priority_score"
+"D1","Climate shock frequency","climate",0.9,0.74,0.84,0.86,0.9,"Frequency and severity of climate-related disturbances.",0.842
+"D8","Distributional vulnerability","equity",0.88,0.7,0.84,0.82,0.9,"Unequal exposure and unequal capacity to adapt.",0.821
+"D4","Adaptive governance capacity","governance",0.88,0.68,0.86,0.8,0.86,"Ability to learn revise and coordinate policy under uncertainty.",0.811
+"D3","Institutional trust","governance",0.82,0.76,0.78,0.74,0.88,"Public legitimacy and confidence in institutions.",0.794
+"D2","Public infrastructure condition","infrastructure",0.86,0.62,0.82,0.78,0.84,"Condition of energy water transport housing and digital infrastructure.",0.777
+"D6","Public health workforce capacity","health",0.8,0.66,0.76,0.78,0.82,"Ability of health and care systems to respond under stress.",0.757
+"D7","Supply-chain reliability","economy",0.76,0.72,0.78,0.7,0.78,"Exposure to material food medicine and technology supply disruptions.",0.748
+"D5","Energy affordability","energy",0.78,0.64,0.74,0.72,0.8,"Household and system pressure from energy costs.",0.731

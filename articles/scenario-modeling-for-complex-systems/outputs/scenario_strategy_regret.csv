@@ -1,0 +1,31 @@
+scenario_id,scenario_name,strategy_id,strategy_name,viability_score,best_scenario_viability,regret
+S2,High Disruption,T5,Low-Cost Continuity,1.0845,1.4223,0.3378
+S4,Fragmented Response,T5,Low-Cost Continuity,1.2803,1.4258,0.1455
+S2,High Disruption,T1,Efficiency Optimization,1.2825,1.4223,0.1398
+S4,Fragmented Response,T1,Efficiency Optimization,1.354,1.4258,0.0718
+S5,Delayed Transformation,T5,Low-Cost Continuity,1.3747,1.4337,0.059
+S1,Baseline Continuity,T5,Low-Cost Continuity,1.3977,1.4346,0.0369
+S3,Adaptive Transition,T5,Low-Cost Continuity,1.4157,1.442,0.0263
+S5,Delayed Transformation,T1,Efficiency Optimization,1.4082,1.4337,0.0255
+S6,Public Resilience Compact,T5,Low-Cost Continuity,1.4235,1.4483,0.0248
+S6,Public Resilience Compact,T4,Justice-Centered Transformation,1.4359,1.4483,0.0124
+S1,Baseline Continuity,T1,Efficiency Optimization,1.4232,1.4346,0.0114
+S2,High Disruption,T2,Robust Resilience Portfolio,1.4112,1.4223,0.0111
+S6,Public Resilience Compact,T3,Adaptive Governance,1.4385,1.4483,0.0098
+S4,Fragmented Response,T2,Robust Resilience Portfolio,1.4162,1.4258,0.0096
+S6,Public Resilience Compact,T2,Robust Resilience Portfolio,1.4401,1.4483,0.0082
+S3,Adaptive Transition,T4,Justice-Centered Transformation,1.4349,1.442,0.0071
+S3,Adaptive Transition,T3,Adaptive Governance,1.4374,1.442,0.0046
+S2,High Disruption,T3,Adaptive Governance,1.4178,1.4223,0.0045
+S3,Adaptive Transition,T2,Robust Resilience Portfolio,1.4389,1.442,0.0031
+S1,Baseline Continuity,T4,Justice-Centered Transformation,1.4318,1.4346,0.0028
+S5,Delayed Transformation,T4,Justice-Centered Transformation,1.4316,1.4337,0.0021
+S4,Fragmented Response,T3,Adaptive Governance,1.4242,1.4258,0.0016
+S1,Baseline Continuity,T3,Adaptive Governance,1.4342,1.4346,0.0004
+S5,Delayed Transformation,T3,Adaptive Governance,1.4336,1.4337,0.0001
+S1,Baseline Continuity,T2,Robust Resilience Portfolio,1.4346,1.4346,0.0
+S2,High Disruption,T4,Justice-Centered Transformation,1.4223,1.4223,0.0
+S3,Adaptive Transition,T1,Efficiency Optimization,1.442,1.442,0.0
+S4,Fragmented Response,T4,Justice-Centered Transformation,1.4258,1.4258,0.0
+S5,Delayed Transformation,T2,Robust Resilience Portfolio,1.4337,1.4337,0.0
+S6,Public Resilience Compact,T1,Efficiency Optimization,1.4483,1.4483,0.0

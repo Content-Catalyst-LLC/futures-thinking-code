@@ -1,0 +1,7 @@
+scenario_id,scenario_name,scenario_family,growth_rate,shock_level,adaptation_gain,feedback_strength,learning_gain,governance_capacity,public_trust,distributional_pressure,description
+S1,Baseline Continuity,continuity,0.040,0.050,0.020,0.020,0.010,0.66,0.64,0.48,Gradual change with moderate governance capacity and manageable shocks.
+S2,High Disruption,disruption,0.020,0.140,0.010,0.060,0.005,0.42,0.38,0.82,Repeated shocks overwhelm weak adaptation and produce cascading system stress.
+S3,Adaptive Transition,adaptation,0.030,0.080,0.060,0.030,0.030,0.82,0.76,0.54,Institutions learn from early shocks and build adaptive capacity.
+S4,Fragmented Response,fragmentation,0.015,0.110,0.015,0.050,0.006,0.46,0.34,0.78,Policy fragmentation and weak coordination reduce system resilience.
+S5,Delayed Transformation,late_shift,0.025,0.120,0.035,0.045,0.020,0.62,0.52,0.70,Adaptation improves only after accumulating stress exposes system fragility.
+S6,Public Resilience Compact,resilience,0.032,0.075,0.070,0.025,0.035,0.88,0.82,0.42,Coordinated public investment and legitimacy support adaptive resilience.

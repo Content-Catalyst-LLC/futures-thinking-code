@@ -1,0 +1,6 @@
+strategy_id,strategy_name,worst_case_viability,mean_viability,best_case_viability,viability_range
+T4,Justice-Centered Transformation,1.4223,1.4304,1.4359,0.0136
+T3,Adaptive Governance,1.4178,1.4309,1.4385,0.0207
+T2,Robust Resilience Portfolio,1.4112,1.4291,1.4401,0.0289
+T1,Efficiency Optimization,1.2825,1.393,1.4483,0.1658
+T5,Low-Cost Continuity,1.0845,1.3294,1.4235,0.339

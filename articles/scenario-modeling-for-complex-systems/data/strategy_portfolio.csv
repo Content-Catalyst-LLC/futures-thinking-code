@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,baseline_boost,shock_absorption,adaptation_boost,equity_weight,implementation_complexity,governance_dependency,description
+T1,Efficiency Optimization,optimization,0.080,0.020,0.000,0.30,0.42,0.46,Improves baseline efficiency but has limited shock absorption and adaptive learning.
+T2,Robust Resilience Portfolio,resilience,0.040,0.060,0.030,0.78,0.64,0.72,Balances redundancy modularity adaptation and protection under uncertainty.
+T3,Adaptive Governance,adaptive,0.030,0.040,0.050,0.72,0.58,0.80,Uses monitoring triggers and learning routines to adjust over time.
+T4,Justice-Centered Transformation,transformation,0.020,0.050,0.060,0.92,0.78,0.84,Prioritizes vulnerable groups legitimacy and structural change under uncertainty.
+T5,Low-Cost Continuity,continuity,0.030,0.010,0.005,0.26,0.28,0.36,Minimizes short-term complexity but is brittle under disruption.

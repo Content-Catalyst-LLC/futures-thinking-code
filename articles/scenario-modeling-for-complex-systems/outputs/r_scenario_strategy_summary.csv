@@ -1,0 +1,31 @@
+"scenario_id","scenario_name","strategy_id","strategy_name","final_state","min_state","mean_state","max_state","final_adaptive_capacity","viability_score"
+"S1","Baseline Continuity","T1","Efficiency Optimization",2,1.08,1.8478,2,0.1976,1.4232
+"S1","Baseline Continuity","T2","Robust Resilience Portfolio",2,1.04,1.8879,2,0.3,1.4346
+"S1","Baseline Continuity","T3","Adaptive Governance",2,1.03,1.9008,2,0.3,1.4342
+"S1","Baseline Continuity","T4","Justice-Centered Transformation",2,1.02,1.9042,2,0.3,1.4318
+"S1","Baseline Continuity","T5","Low-Cost Continuity",2,1.03,1.8202,2,0.1644,1.3977
+"S2","High Disruption","T1","Efficiency Optimization",2,0.9727,1.3612,2,0.1233,1.2825
+"S2","High Disruption","T2","Robust Resilience Portfolio",2,1.04,1.8315,2,0.2192,1.4112
+"S2","High Disruption","T3","Adaptive Governance",2,1.03,1.8486,2,0.2605,1.4178
+"S2","High Disruption","T4","Justice-Centered Transformation",2,1.02,1.8708,2,0.2811,1.4223
+"S2","High Disruption","T5","Low-Cost Continuity",1.7609,0.7841,1.0769,1.7715,0.1169,1.0845
+"S3","Adaptive Transition","T1","Efficiency Optimization",2,1.08,1.8793,2,0.2807,1.442
+"S3","Adaptive Transition","T2","Robust Resilience Portfolio",2,1.04,1.9095,2,0.3,1.4389
+"S3","Adaptive Transition","T3","Adaptive Governance",2,1.03,1.9172,2,0.3,1.4374
+"S3","Adaptive Transition","T4","Justice-Centered Transformation",2,1.02,1.9195,2,0.3,1.4349
+"S3","Adaptive Transition","T5","Low-Cost Continuity",2,1.03,1.8547,2,0.2381,1.4157
+"S4","Fragmented Response","T1","Efficiency Optimization",2,1.0774,1.55,2,0.1388,1.354
+"S4","Fragmented Response","T2","Robust Resilience Portfolio",2,1.04,1.84,2,0.2411,1.4162
+"S4","Fragmented Response","T3","Adaptive Governance",2,1.03,1.863,2,0.2842,1.4242
+"S4","Fragmented Response","T4","Justice-Centered Transformation",2,1.02,1.8741,2,0.3,1.4258
+"S4","Fragmented Response","T5","Low-Cost Continuity",2,0.9695,1.3591,2,0.1176,1.2803
+"S5","Delayed Transformation","T1","Efficiency Optimization",2,1.08,1.7698,2,0.2018,1.4082
+"S5","Delayed Transformation","T2","Robust Resilience Portfolio",2,1.04,1.8835,2,0.3,1.4337
+"S5","Delayed Transformation","T3","Adaptive Governance",2,1.03,1.898,2,0.3,1.4336
+"S5","Delayed Transformation","T4","Justice-Centered Transformation",2,1.02,1.9029,2,0.3,1.4316
+"S5","Delayed Transformation","T5","Low-Cost Continuity",2,1.03,1.7005,2,0.171,1.3747
+"S6","Public Resilience Compact","T1","Efficiency Optimization",2,1.08,1.8964,2,0.3,1.4483
+"S6","Public Resilience Compact","T2","Robust Resilience Portfolio",2,1.04,1.9155,2,0.3,1.4401
+"S6","Public Resilience Compact","T3","Adaptive Governance",2,1.03,1.9226,2,0.3,1.4385
+"S6","Public Resilience Compact","T4","Justice-Centered Transformation",2,1.02,1.9245,2,0.3,1.4359
+"S6","Public Resilience Compact","T5","Low-Cost Continuity",2,1.03,1.8772,2,0.2607,1.4235

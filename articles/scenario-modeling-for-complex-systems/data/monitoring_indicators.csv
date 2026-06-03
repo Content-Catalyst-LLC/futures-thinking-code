@@ -1,0 +1,9 @@
+indicator_id,driver_id,indicator_name,baseline,target_or_threshold,review_frequency,trigger_rule,decision_response
+M1,D1,compound_shock_frequency,0.22,0.35,quarterly,If compound shock frequency exceeds threshold,Revisit high-disruption and delayed-transformation assumptions.
+M2,D2,infrastructure_stress_index,0.46,0.65,quarterly,If infrastructure stress rises above threshold,Accelerate resilience portfolio and maintenance funding.
+M3,D3,trust_divergence_index,0.38,0.58,semiannual,If trust divergence widens across groups,Add legitimacy repair and participatory governance measures.
+M4,D4,adaptive_capacity_score,0.44,0.70,quarterly,If adaptive capacity remains below target,Strengthen monitoring triggers learning routines and cross-agency coordination.
+M5,D5,energy_burden_share,0.34,0.45,quarterly,If household energy burden rises above threshold,Activate affordability protections and efficiency investment.
+M6,D6,care_system_strain_index,0.42,0.62,quarterly,If care strain exceeds threshold,Expand workforce resilience and prevention investments.
+M7,D7,supply_disruption_exposure,0.40,0.60,semiannual,If supply exposure exceeds threshold,Diversify suppliers and create strategic reserves.
+M8,D8,vulnerability_gap_index,0.48,0.64,quarterly,If vulnerability gap widens,Prioritize justice-centered transformation and targeted protection.
