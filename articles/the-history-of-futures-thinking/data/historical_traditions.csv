@@ -1,0 +1,10 @@
+tradition_id,tradition,period,methodological_discipline,institutional_power,participatory_depth,ethical_reflection,systems_orientation,description
+T1,Prophetic and Warning Futures,ancient_to_modern,0.42,0.62,0.38,0.78,0.44,Uses future warning moral critique and consequence to shape present action.
+T2,Utopian and Reform Futures,early_modern_to_modern,0.48,0.46,0.50,0.70,0.38,Imagines alternative social arrangements to critique existing institutions.
+T3,Technological and Scientific Futures,industrial_to_modern,0.74,0.70,0.30,0.48,0.62,Links science technology infrastructure and innovation to future transformation.
+T4,Military and Strategic Planning,world_war_to_cold_war,0.90,0.94,0.20,0.36,0.76,Develops scenario analysis systems analysis and strategic planning under uncertainty.
+T5,Systems and Ecological Futures,postwar_to_modern,0.88,0.74,0.42,0.68,0.96,Centers feedback limits thresholds resilience and planetary constraint.
+T6,Corporate Scenario Planning,1970s_to_modern,0.82,0.86,0.28,0.44,0.66,Uses scenarios and foresight for organizational strategy and market uncertainty.
+T7,Critical and Cultural Futures,late_20th_century_to_modern,0.72,0.48,0.62,0.90,0.58,Examines narratives worldviews metaphors ideology and power in future-making.
+T8,Participatory and Democratic Futures,late_20th_century_to_modern,0.68,0.42,0.92,0.86,0.64,Centers public participation plural knowledge democratic legitimacy and collective imagination.
+T9,Decolonial and Indigenous Futures,late_20th_century_to_modern,0.70,0.36,0.88,0.94,0.72,Challenges colonial progress narratives and centers land memory sovereignty and relational responsibility.

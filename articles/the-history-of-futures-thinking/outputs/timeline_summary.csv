@@ -1,0 +1,9 @@
+period_id,period,approx_start,approx_end,dominant_future_logic,key_development,ethical_risk
+P1,Ancient and Religious Futures,-1000,1500,prophecy_divination_cosmology,Future imagination tied to moral order cosmic signs and collective destiny,authority_without_public_contestation
+P2,Utopia and Early Modern Reform,1500,1800,alternative_social_order,Utopian writing and reform imagination make alternative societies thinkable,ideal_design_without_pluralism
+P3,Industrial and Technological Futures,1800,1940,progress_technology_planning,Industrialization science fiction demography and planning reshape future imagination,techno_progress_as_universal_good
+P4,War and Cold War Strategic Planning,1940,1970,strategic_uncertainty,Operations research systems analysis nuclear strategy and scenario analysis expand foresight methods,technocratic_and_militarized_abstraction
+P5,Institutional Futures Studies,1968,1985,professional_field,Journals institutes federations and global modeling institutionalize futures studies,field_boundary_exclusion
+P6,Corporate and Public Foresight,1970,2005,strategic_preparedness,Scenario planning and foresight spread into organizations and policy,elite_strategy_without_public_voice
+P7,Critical Participatory and Global Futures,1980,2020,plural_contested_futures,Critical cultural participatory decolonial and Indigenous futures expand the field,tokenism_or_symbolic_inclusion
+P8,AI Climate and Anticipatory Governance,2010,2035,systemic_risk_and_learning,Futures literacy anticipatory governance AI futures and climate resilience become central,predictive_automation_replacing_judgment

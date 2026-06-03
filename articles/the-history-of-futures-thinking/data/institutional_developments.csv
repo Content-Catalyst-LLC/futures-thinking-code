@@ -1,0 +1,9 @@
+institution_id,institution_or_development,year,domain,significance,method_influence,public_accountability
+I1,Futures journal,1968,scholarly_field,Created a durable scholarly forum for futures research and debate,0.78,0.54
+I2,Institute for the Future,1968,research_institution,Extended systematic futures research into organizational public-interest and strategic domains,0.76,0.58
+I3,Club of Rome Limits to Growth,1972,systems_ecology,Popularized global modeling ecological limits and long-range planetary futures,0.86,0.64
+I4,World Futures Studies Federation,1973,professional_network,Created an international network for futures scholars and practitioners,0.74,0.70
+I5,Shell scenario planning tradition,1970,corporate_foresight,Demonstrated strategic value of scenarios for uncertainty and organizational learning,0.82,0.44
+I6,UNESCO Futures Literacy,2010,education_public_learning,Frames futures literacy as a capability for understanding the role of the future in the present,0.72,0.82
+I7,OECD strategic foresight and anticipatory governance,2010,public_policy,Integrates foresight into government policy resilience and anticipatory capacity,0.78,0.76
+I8,Government foresight units and policy labs,2000,public_sector,Embed horizon scanning scenario work and long-term planning into governance,0.70,0.68

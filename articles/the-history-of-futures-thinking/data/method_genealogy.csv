@@ -1,0 +1,10 @@
+method_id,method,origin_tradition,primary_use,participatory_potential,technocratic_risk,ethical_sensitivity
+M1,Scenario planning,Military and Strategic Planning,Explore plausible futures and test strategy,0.62,0.70,0.66
+M2,Delphi method,Postwar expert consultation,Structure expert judgment under uncertainty,0.34,0.76,0.48
+M3,Horizon scanning,Strategic warning and policy foresight,Identify emerging issues and weak signals,0.58,0.56,0.62
+M4,System dynamics,Systems and Ecological Futures,Model feedback loops delays limits and nonlinearity,0.40,0.78,0.70
+M5,Backcasting,Utopian Reform and Sustainability Futures,Work backward from preferred futures to present action,0.74,0.42,0.82
+M6,Causal layered analysis,Critical and Cultural Futures,Analyze events systems worldviews and myths,0.70,0.34,0.88
+M7,Futures literacy labs,Participatory and Democratic Futures,Develop capability to use the future consciously,0.88,0.28,0.86
+M8,Participatory foresight,Participatory and Democratic Futures,Include affected communities in future-making,0.94,0.24,0.92
+M9,Decolonial futures practice,Decolonial and Indigenous Futures,Challenge colonial assumptions and recover suppressed futures,0.90,0.22,0.96

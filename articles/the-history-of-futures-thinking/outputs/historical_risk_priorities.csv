@@ -1,0 +1,8 @@
+risk_id,risk_name,description,affected_traditions,severity,mitigation_priority,weighted_risk_priority
+R3,Colonial progress narrative,One development path is treated as the universal future,Technological and Scientific Futures;Utopian and Reform Futures,0.88,high,1.056
+R1,Technocratic abstraction,Human consequences are reduced to model variables or expert-only judgments,Military and Strategic Planning;Systems and Ecological Futures;Corporate Scenario Planning,0.86,high,1.032
+R7,Predictive automation bias,Digital tools substitute prediction for judgment and accountability,Digital and AI Futures,0.84,high,1.008
+R2,Elite future capture,Powerful actors define plausible and preferable futures without meaningful participation,Corporate Scenario Planning;Public Policy Foresight;Technological Futures,0.82,high,0.984
+R6,Tokenistic participation,Publics are consulted but do not influence decisions,Participatory Futures;Public Foresight,0.78,high,0.936
+R4,Future-washing,Future-oriented language legitimizes existing institutional interests,Corporate Scenario Planning;Public Sector Foresight,0.74,medium,0.74
+R5,Scenario theater,Scenarios become polished narratives disconnected from decisions,Systems Futures;Corporate Foresight;Policy Foresight,0.68,medium,0.68
