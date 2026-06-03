@@ -1,0 +1,7 @@
+pathway_id,system_id,pathway_name,final_decision_quality,mean_decision_quality,max_uncertainty_pressure,mean_harm_risk
+P1,DS1,Human-Centered Decision Pathway,1.8,1.7266,0.6608,0.2102
+P2,DS2,AI-Augmented Decision Pathway,1.8,1.7304,0.7461,0.2942
+P3,DS3,Automated Optimization Decision Pathway,1.8,1.484,0.9955,0.498
+P4,DS4,High-Governance Hybrid Decision Pathway,1.8,1.7452,0.6634,0.142
+P5,DS5,Public-Interest Decision Infrastructure Pathway,1.8,1.7479,0.6511,0.1008
+P6,DS6,Vendor-Driven Black-Box Decision Pathway,1.8,1.5069,0.9892,0.5115

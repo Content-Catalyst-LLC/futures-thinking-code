@@ -1,0 +1,7 @@
+"control_id","system_id","control_name","control_type","documentation","auditability","explainability","human_oversight","appeal_rights","monitoring_strength","enforcement_capacity","description","governance_readiness_score","governance_gap_score"
+"G6","DS6","Vendor compliance package","vendor_governance",0.46,0.34,0.28,0.38,0.26,0.4,0.32,"Vendor-provided documentation with weak inspectability and institutional leverage.",0.3508,0.6492
+"G3","DS3","Optimization audit and harm monitoring","automation_governance",0.42,0.4,0.3,0.34,0.24,0.52,0.36,"Weak governance around automated optimization and limited appeal capacity.",0.3668,0.6332
+"G2","DS2","AI-assisted decision review protocol","hybrid_governance",0.66,0.6,0.56,0.72,0.58,0.62,0.56,"Review protocol for human-AI recommendations and escalation rules.",0.618,0.382
+"G1","DS1","Professional review and procedural documentation","process_governance",0.72,0.58,0.7,0.86,0.76,0.56,0.64,"Traditional governance based on professional review and documented procedure.",0.694,0.306
+"G4","DS4","High-governance hybrid assurance","assurance_governance",0.82,0.8,0.76,0.84,0.82,0.78,0.76,"Strong audit explanation oversight monitoring and appeal controls.",0.7996,0.2004
+"G5","DS5","Public-interest AI accountability framework","public_governance",0.88,0.84,0.82,0.86,0.88,0.82,0.8,"Public-facing safeguards for transparent and contestable AI-supported decisions.",0.8452,0.1548

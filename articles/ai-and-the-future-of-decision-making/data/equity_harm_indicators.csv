@@ -1,0 +1,7 @@
+equity_id,system_id,equity_dimension,error_burden,exposure,vulnerability,contestability,voice,protection,repair_capacity,description
+E1,DS1,Discretionary inconsistency across cases,0.48,0.52,0.56,0.70,0.62,0.66,0.58,Human discretion can produce inconsistency but usually allows explanation and review.
+E2,DS2,Unequal automation deference,0.62,0.60,0.66,0.52,0.48,0.54,0.46,Augmented systems may shift burden to affected people without clear challenge paths.
+E3,DS3,Automated harm concentration,0.82,0.80,0.78,0.24,0.22,0.28,0.22,Automated systems can concentrate harm while limiting visibility and remedy.
+E4,DS4,High-governance equity safeguards,0.42,0.50,0.52,0.80,0.72,0.76,0.70,Hybrid governance can reduce harm if oversight and appeal rights are real.
+E5,DS5,Public-interest decision protection,0.34,0.48,0.50,0.86,0.80,0.84,0.78,Public-interest decision infrastructure can protect dignity and contestability.
+E6,DS6,Vendor-mediated exclusion,0.76,0.72,0.74,0.22,0.24,0.30,0.24,Vendor-driven systems can weaken recourse and obscure who is responsible.

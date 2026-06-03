@@ -1,0 +1,7 @@
+pathway_id,system_id,pathway_name,human,machine,coordination,governance,contestability,initial_decision_quality,time_horizon
+P1,DS1,Human-Centered Decision Pathway,0.82,0.28,0.54,0.70,0.72,1.00,40
+P2,DS2,AI-Augmented Decision Pathway,0.68,0.76,0.72,0.62,0.56,1.00,40
+P3,DS3,Automated Optimization Decision Pathway,0.35,0.88,0.41,0.34,0.26,1.00,40
+P4,DS4,High-Governance Hybrid Decision Pathway,0.72,0.74,0.83,0.82,0.80,1.00,40
+P5,DS5,Public-Interest Decision Infrastructure Pathway,0.76,0.70,0.86,0.88,0.86,1.00,40
+P6,DS6,Vendor-Driven Black-Box Decision Pathway,0.42,0.82,0.46,0.34,0.22,1.00,40

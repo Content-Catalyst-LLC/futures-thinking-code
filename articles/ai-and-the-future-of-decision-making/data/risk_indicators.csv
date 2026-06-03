@@ -1,0 +1,7 @@
+risk_id,system_id,risk_name,risk_type,probability,severity,detection_difficulty,governance_gap,affected_population_exposure,mitigation_capacity,description
+R1,DS1,Human inconsistency and workload pressure,human_factor,0.58,0.54,0.42,0.34,0.52,0.66,Human-centered systems can be inconsistent under overload but remain context-sensitive.
+R2,DS2,Automation bias in professional judgment,hybrid_risk,0.66,0.68,0.58,0.48,0.60,0.54,Users may over-trust AI recommendations or struggle to challenge outputs.
+R3,DS3,Opaque local optimization harm,automation_risk,0.78,0.84,0.76,0.78,0.82,0.32,Automated optimization may scale opaque harms across users workers or communities.
+R4,DS4,Governance maintenance burden,systemic_risk,0.46,0.58,0.44,0.28,0.52,0.76,High-governance systems require sustained resources monitoring and institutional learning.
+R5,DS5,Public trust failure from misuse,legitimacy_risk,0.42,0.70,0.48,0.22,0.64,0.80,Even public-interest systems require accountability to preserve trust.
+R6,DS6,Vendor lock-in and accountability laundering,vendor_risk,0.74,0.82,0.78,0.76,0.76,0.34,Outsourced black-box systems can diffuse responsibility and weaken contestability.

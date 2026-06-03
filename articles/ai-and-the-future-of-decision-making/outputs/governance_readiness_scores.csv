@@ -1,0 +1,7 @@
+control_id,system_id,control_name,control_type,governance_readiness_score,governance_gap_score,description
+G6,DS6,Vendor compliance package,vendor_governance,0.3508,0.6492,Vendor-provided documentation with weak inspectability and institutional leverage.
+G3,DS3,Optimization audit and harm monitoring,automation_governance,0.3668,0.6332,Weak governance around automated optimization and limited appeal capacity.
+G2,DS2,AI-assisted decision review protocol,hybrid_governance,0.618,0.382,Review protocol for human-AI recommendations and escalation rules.
+G1,DS1,Professional review and procedural documentation,process_governance,0.694,0.306,Traditional governance based on professional review and documented procedure.
+G4,DS4,High-governance hybrid assurance,assurance_governance,0.7996,0.2004,Strong audit explanation oversight monitoring and appeal controls.
+G5,DS5,Public-interest AI accountability framework,public_governance,0.8452,0.1548,Public-facing safeguards for transparent and contestable AI-supported decisions.

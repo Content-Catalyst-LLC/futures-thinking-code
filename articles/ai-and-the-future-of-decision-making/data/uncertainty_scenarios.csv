@@ -1,0 +1,6 @@
+scenario_id,scenario_name,environment_stability,distribution_shift,adversarial_pressure,public_trust,regulatory_strength,institutional_capacity,description
+US1,Stable Administrative Environment,0.78,0.22,0.24,0.68,0.62,0.70,Data patterns are relatively stable and institutions retain review capacity.
+US2,Structural Change and Model Drift,0.36,0.78,0.42,0.48,0.52,0.54,Historical patterns weaken as social economic and ecological conditions change.
+US3,Crisis Decision Environment,0.28,0.70,0.56,0.42,0.48,0.46,Time pressure and uncertainty create strong temptation to automate decisions.
+US4,Adversarial Platform Environment,0.44,0.64,0.84,0.38,0.40,0.44,Actors game rankings decisions recommendations and automated controls.
+US5,High-Governance Public-Interest Environment,0.64,0.42,0.34,0.76,0.82,0.78,Institutions combine AI support with monitoring appeal and public accountability.

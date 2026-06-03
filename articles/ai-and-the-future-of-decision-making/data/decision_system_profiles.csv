@@ -1,0 +1,7 @@
+system_id,system_type,decision_domain,human_judgment,machine_inference,coordination_quality,transparency,uncertainty_management,accountability,contestability,equity_protection,automation_intensity,description
+DS1,Human-Centered System,public_administration,0.82,0.28,0.54,0.76,0.61,0.74,0.70,0.66,0.20,Human decision authority with limited machine inference but strong contextual judgment.
+DS2,AI-Augmented System,professional_services,0.68,0.76,0.72,0.58,0.69,0.58,0.52,0.56,0.56,AI supports human professionals through recommendations summaries and pattern detection.
+DS3,Automated Optimization System,platform_operations,0.35,0.88,0.41,0.32,0.47,0.30,0.24,0.28,0.88,Automated ranking routing pricing or allocation optimized for formal objectives.
+DS4,High-Governance Hybrid System,high_stakes_decisions,0.72,0.74,0.83,0.79,0.78,0.82,0.80,0.76,0.52,Human and machine decision roles are integrated with oversight audit and appeal rights.
+DS5,Public-Interest Decision Infrastructure,public_services,0.76,0.70,0.86,0.84,0.80,0.88,0.86,0.84,0.44,AI supports public-purpose decisions with strong governance contestability and equity protection.
+DS6,Vendor-Driven Black-Box System,outsourced_ai,0.42,0.82,0.46,0.28,0.42,0.34,0.22,0.30,0.76,AI decision capability is outsourced with weak transparency and limited institutional control.

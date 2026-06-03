@@ -1,0 +1,7 @@
+system_id,system_type,decision_domain,decision_system_profile_score,governance_profile_score,risk_profile_score,system_class,description
+DS5,Public-Interest Decision Infrastructure,public_services,0.8096,0.8472,0.2208,High-governance decision system,AI supports public-purpose decisions with strong governance contestability and equity protection.
+DS4,High-Governance Hybrid System,high_stakes_decisions,0.778,0.7942,0.2874,High-governance decision system,Human and machine decision roles are integrated with oversight audit and appeal rights.
+DS2,AI-Augmented System,professional_services,0.654,0.583,0.4716,Moderate-governance decision system,AI supports human professionals through recommendations summaries and pattern detection.
+DS1,Human-Centered System,public_administration,0.6244,0.7018,0.2616,Moderate-governance decision system,Human decision authority with limited machine inference but strong contextual judgment.
+DS6,Vendor-Driven Black-Box System,outsourced_ai,0.4384,0.3076,0.7272,High-risk decision system,AI decision capability is outsourced with weak transparency and limited institutional control.
+DS3,Automated Optimization System,platform_operations,0.4348,0.3182,0.7584,High-risk decision system,Automated ranking routing pricing or allocation optimized for formal objectives.

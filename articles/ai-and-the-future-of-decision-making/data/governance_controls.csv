@@ -1,0 +1,7 @@
+control_id,system_id,control_name,control_type,documentation,auditability,explainability,human_oversight,appeal_rights,monitoring_strength,enforcement_capacity,description
+G1,DS1,Professional review and procedural documentation,process_governance,0.72,0.58,0.70,0.86,0.76,0.56,0.64,Traditional governance based on professional review and documented procedure.
+G2,DS2,AI-assisted decision review protocol,hybrid_governance,0.66,0.60,0.56,0.72,0.58,0.62,0.56,Review protocol for human-AI recommendations and escalation rules.
+G3,DS3,Optimization audit and harm monitoring,automation_governance,0.42,0.40,0.30,0.34,0.24,0.52,0.36,Weak governance around automated optimization and limited appeal capacity.
+G4,DS4,High-governance hybrid assurance,assurance_governance,0.82,0.80,0.76,0.84,0.82,0.78,0.76,Strong audit explanation oversight monitoring and appeal controls.
+G5,DS5,Public-interest AI accountability framework,public_governance,0.88,0.84,0.82,0.86,0.88,0.82,0.80,Public-facing safeguards for transparent and contestable AI-supported decisions.
+G6,DS6,Vendor compliance package,vendor_governance,0.46,0.34,0.28,0.38,0.26,0.40,0.32,Vendor-provided documentation with weak inspectability and institutional leverage.

@@ -1,0 +1,7 @@
+equity_id,system_id,equity_dimension,justice_capacity_score,harm_risk_score,description
+E3,DS3,Automated harm concentration,0.23,0.7912,Automated systems can concentrate harm while limiting visibility and remedy.
+E6,DS6,Vendor-mediated exclusion,0.2508,0.75,Vendor-driven systems can weaken recourse and obscure who is responsible.
+E2,DS2,Unequal automation deference,0.4648,0.59,Augmented systems may shift burden to affected people without clear challenge paths.
+E1,DS1,Discretionary inconsistency across cases,0.5996,0.4686,Human discretion can produce inconsistency but usually allows explanation and review.
+E4,DS4,High-governance equity safeguards,0.6904,0.4064,Hybrid governance can reduce harm if oversight and appeal rights are real.
+E5,DS5,Public-interest decision protection,0.7596,0.356,Public-interest decision infrastructure can protect dignity and contestability.

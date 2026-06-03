@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,human_authority,machine_capability,coordination_design,transparency,accountability,contestability,equity_protection,uncertainty_stress_testing,description
+ST1,Automation-First Optimization,automation_first,0.28,0.88,0.42,0.32,0.30,0.24,0.28,0.36,Prioritizes speed optimization and machine inference with weak safeguards.
+ST2,Human-in-the-Loop Review,human_review,0.72,0.62,0.60,0.56,0.60,0.56,0.54,0.52,Preserves human review but may be weak if oversight lacks authority.
+ST3,High-Governance Hybrid Intelligence,hybrid_governance,0.74,0.76,0.84,0.80,0.84,0.82,0.78,0.76,Combines machine inference with strong human judgment governance and appeal rights.
+ST4,Public-Interest AI Decision Infrastructure,public_interest,0.78,0.72,0.86,0.86,0.88,0.88,0.86,0.82,Centers public purpose contestability equity and institutional learning.
+ST5,Precautionary Restriction for High-Risk Uses,precautionary,0.82,0.42,0.58,0.78,0.86,0.84,0.82,0.80,Restricts or delays high-risk uses until safeguards are strong.

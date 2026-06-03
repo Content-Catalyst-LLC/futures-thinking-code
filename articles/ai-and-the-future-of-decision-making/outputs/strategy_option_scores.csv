@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,public_interest_decision_score,governance_strength_score,description
+ST4,Public-Interest AI Decision Infrastructure,public_interest,0.8364,0.8612,Centers public purpose contestability equity and institutional learning.
+ST3,High-Governance Hybrid Intelligence,hybrid_governance,0.7984,0.8076,Combines machine inference with strong human judgment governance and appeal rights.
+ST5,Precautionary Restriction for High-Risk Uses,precautionary,0.7364,0.7884,Restricts or delays high-risk uses until safeguards are strong.
+ST2,Human-in-the-Loop Review,human_review,0.594,0.564,Preserves human review but may be weak if oversight lacks authority.
+ST1,Automation-First Optimization,automation_first,0.3832,0.3156,Prioritizes speed optimization and machine inference with weak safeguards.
