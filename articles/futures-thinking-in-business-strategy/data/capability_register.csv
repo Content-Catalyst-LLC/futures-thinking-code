@@ -1,0 +1,9 @@
+capability_id,strategy_id,capability_name,capability_type,current_strength,future_importance,development_difficulty,coordination_requirement,investment_need,learning_rate,description
+CP1,SP2,Horizon Scanning and Strategic Sensing,foresight_capability,0.68,0.88,0.42,0.64,0.50,0.78,Detects weak signals emerging technologies demand shifts and regulatory changes.
+CP2,SP2,Innovation Portfolio Management,innovation_capability,0.70,0.86,0.56,0.72,0.66,0.72,Manages staged experimentation options and innovation resource allocation.
+CP3,SP4,Supply-Chain Resilience,resilience_capability,0.66,0.90,0.62,0.80,0.72,0.64,Maintains continuity through redundancy supplier diversity and stress testing.
+CP4,SP5,Climate Transition Planning,transition_capability,0.56,0.92,0.68,0.76,0.74,0.66,Connects climate scenarios regulation investment and product redesign.
+CP5,SP7,Stakeholder Trust Governance,legitimacy_capability,0.62,0.86,0.54,0.70,0.58,0.70,Builds transparency accountability and public legitimacy in uncertain markets.
+CP6,SP3,Platform Governance and Compliance,governance_capability,0.50,0.84,0.70,0.78,0.68,0.60,Manages platform power data rules competition policy and trust exposure.
+CP7,SP6,Regional Operating Model Design,operating_model_capability,0.52,0.78,0.64,0.74,0.70,0.58,Designs regional sourcing production compliance and market delivery.
+CP8,SP1,Efficiency Execution,execution_capability,0.78,0.52,0.30,0.48,0.36,0.42,Supports cost control but may not prepare the organization for structural change.

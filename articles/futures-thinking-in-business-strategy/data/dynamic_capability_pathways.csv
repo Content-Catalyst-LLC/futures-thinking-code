@@ -1,0 +1,8 @@
+pathway_id,strategy_id,scenario_id,pathway_name,sensing,innovation,resilience,flexibility,alignment,capital_flexibility,trust,transition_readiness,initial_viability,time_horizon
+PW1,SP1,SC2,Legacy Strategy Under Fragmented Markets,0.36,0.38,0.41,0.33,0.62,0.44,0.48,0.34,1.00,40
+PW2,SP2,SC1,Adaptive Innovation Under Automation Acceleration,0.80,0.82,0.72,0.79,0.68,0.66,0.70,0.76,1.00,40
+PW3,SP4,SC3,Resilient Portfolio Under Climate Constraint,0.68,0.64,0.81,0.76,0.73,0.70,0.72,0.70,1.00,40
+PW4,SP5,SC3,Sustainability Transition Under Climate Constraint,0.74,0.72,0.76,0.70,0.66,0.58,0.82,0.86,1.00,40
+PW5,SP7,SC4,Trust-Centered Strategy Under Legitimacy Crisis,0.70,0.66,0.74,0.68,0.72,0.60,0.88,0.72,1.00,40
+PW6,SP3,SC7,Platform Strategy Under Regulated Technology,0.70,0.71,0.58,0.67,0.54,0.60,0.52,0.58,1.00,40
+PW7,SP8,SC5,Fragile Growth Under High-Cost Capital,0.62,0.76,0.44,0.52,0.46,0.48,0.40,0.42,1.00,40

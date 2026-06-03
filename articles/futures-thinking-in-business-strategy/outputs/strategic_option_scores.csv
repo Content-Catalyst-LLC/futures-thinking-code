@@ -1,0 +1,9 @@
+option_id,strategy_id,option_name,option_type,net_strategic_option_value,option_quality_score,description
+OP1,SP2,AI-Enabled Service Prototype,innovation_option,0.69,0.756,Small staged experiment to learn about automation-enabled service models.
+OP4,SP7,Trust and Transparency Program,legitimacy_option,0.6446,0.7228,Strengthens public trust through governance transparency and stakeholder accountability.
+OP3,SP5,Low-Carbon Product Line,transition_option,0.6404,0.7248,Builds market readiness for climate regulation and sustainability-driven demand.
+OP5,SP3,Platform Ecosystem Expansion,scale_option,0.588,0.6752,Expands network effects but increases regulatory and legitimacy exposure.
+OP2,SP4,Multi-Region Supplier Redundancy,resilience_option,0.5566,0.6588,Preserves continuity under fragmentation climate stress and logistics disruption.
+OP6,SP6,Regional Manufacturing Partnership,supply_chain_option,0.5374,0.6416,Creates regional resilience and optional production capacity.
+OP8,SP8,Rapid Market Capture Campaign,growth_option,0.47,0.5668,Maximizes upside but increases fragility under trust capital or regulatory stress.
+OP7,SP1,Lean Cost Optimization,efficiency_option,0.411,0.494,Improves short-term margins but contributes little future optionality.

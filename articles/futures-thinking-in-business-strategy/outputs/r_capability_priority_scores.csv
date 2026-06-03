@@ -1,0 +1,9 @@
+"capability_id","strategy_id","capability_name","capability_type","current_strength","future_importance","development_difficulty","coordination_requirement","investment_need","learning_rate","description","future_capability_gap","capability_investment_priority"
+"CP4","SP5","Climate Transition Planning","transition_capability",0.56,0.92,0.68,0.76,0.74,0.66,"Connects climate scenarios regulation investment and product redesign.",0.36,0.7508
+"CP6","SP3","Platform Governance and Compliance","governance_capability",0.5,0.84,0.7,0.78,0.68,0.6,"Manages platform power data rules competition policy and trust exposure.",0.34,0.7312
+"CP3","SP4","Supply-Chain Resilience","resilience_capability",0.66,0.9,0.62,0.8,0.72,0.64,"Maintains continuity through redundancy supplier diversity and stress testing.",0.24,0.7224
+"CP7","SP6","Regional Operating Model Design","operating_model_capability",0.52,0.78,0.64,0.74,0.7,0.58,"Designs regional sourcing production compliance and market delivery.",0.26,0.6916
+"CP2","SP2","Innovation Portfolio Management","innovation_capability",0.7,0.86,0.56,0.72,0.66,0.72,"Manages staged experimentation options and innovation resource allocation.",0.16,0.6684
+"CP5","SP7","Stakeholder Trust Governance","legitimacy_capability",0.62,0.86,0.54,0.7,0.58,0.7,"Builds transparency accountability and public legitimacy in uncertain markets.",0.24,0.6608
+"CP1","SP2","Horizon Scanning and Strategic Sensing","foresight_capability",0.68,0.88,0.42,0.64,0.5,0.78,"Detects weak signals emerging technologies demand shifts and regulatory changes.",0.2,0.6132
+"CP8","SP1","Efficiency Execution","execution_capability",0.78,0.52,0.3,0.48,0.36,0.42,"Supports cost control but may not prepare the organization for structural change.",0,0.4044

@@ -1,0 +1,9 @@
+indicator_id,scenario_id,indicator_name,indicator_domain,trigger_proximity,strategic_signal_urgency,description
+EW1,SC1,Automation Capability Acceleration,technology,1.0,0.8136,AI and automation capability improves faster than workforce and governance adaptation.
+EW7,SC7,Technology Regulatory Enforcement,regulation,1.0,0.7854,Regulators increase enforcement around AI data platforms safety and competition.
+EW3,SC3,Climate Insurance Cost Pressure,climate,0.98,0.776,Insurance costs and physical risk change site selection and asset viability.
+EW5,SC5,Capital Cost Tightening,finance,1.0,0.7716,Debt costs and investor caution constrain growth and transformation budgets.
+EW2,SC2,Trade Restriction Intensity,geopolitics,0.98,0.7514,Tariffs export controls sanctions and regional standards fragment markets.
+EW4,SC4,Trust Backlash Against Brands,legitimacy,0.98,0.7372,Stakeholder trust declines due to opacity labor issues data concerns or social harm.
+EW6,SC6,Values-Driven Consumer Switching,demand,0.98,0.708,Customers shift toward affordability sustainability privacy authenticity or responsibility.
+EW8,SC8,Local Resilience Preference,market_structure,0.94,0.6444,Customers and institutions prefer regional resilient trusted suppliers and service providers.

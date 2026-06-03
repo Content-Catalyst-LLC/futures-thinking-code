@@ -1,0 +1,9 @@
+strategy_id,strategy_name,strategy_type,innovation_capacity,uncertainty_exposure,resilience,strategic_flexibility,organizational_alignment,sensing_capability,capital_flexibility,legitimacy_trust,transition_readiness,description
+SP1,Efficiency-Driven Legacy Strategy,legacy_efficiency,0.38,0.74,0.41,0.33,0.62,0.36,0.44,0.48,0.34,Optimizes near-term efficiency but remains exposed to disruption and strategic lock-in.
+SP2,Adaptive Innovation Strategy,adaptive_innovation,0.82,0.52,0.72,0.79,0.68,0.80,0.66,0.70,0.76,Builds innovation capacity strategic options and adaptive learning under uncertainty.
+SP3,Platform Expansion Strategy,platform_expansion,0.71,0.68,0.58,0.67,0.54,0.70,0.60,0.52,0.58,Uses platform scale and network effects but faces trust regulatory and concentration risk.
+SP4,Resilient Portfolio Strategy,resilient_portfolio,0.64,0.49,0.81,0.76,0.73,0.68,0.70,0.72,0.70,Diversifies strategic exposure and preserves viability across multiple futures.
+SP5,Sustainability Transition Strategy,sustainability_transition,0.72,0.56,0.76,0.70,0.66,0.74,0.58,0.82,0.86,Repositions around climate ecological legitimacy regulatory and transition pressures.
+SP6,Regionalized Supply-Chain Strategy,regionalized_supply_chain,0.58,0.50,0.78,0.72,0.64,0.62,0.56,0.66,0.68,Reduces geopolitical logistics and climate exposure through regionalized sourcing.
+SP7,Trust-Centered Market Strategy,trust_centered_market,0.66,0.54,0.74,0.68,0.72,0.70,0.60,0.88,0.72,Builds advantage through transparency responsible governance and stakeholder legitimacy.
+SP8,High-Growth Fragile Expansion Strategy,fragile_growth,0.76,0.82,0.44,0.52,0.46,0.62,0.48,0.40,0.42,Pursues rapid growth while underinvesting in resilience trust and transition readiness.

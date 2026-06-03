@@ -1,0 +1,9 @@
+strategy_id,strategy_name,strategy_type,business_futures_readiness_score,strategic_fragility_score,strategy_class,description
+SP2,Adaptive Innovation Strategy,adaptive_innovation,0.622,0.3116,Strong futures-ready strategy profile,Builds innovation capacity strategic options and adaptive learning under uncertainty.
+SP5,Sustainability Transition Strategy,sustainability_transition,0.6006,0.3224,Developing futures-ready strategy profile,Repositions around climate ecological legitimacy regulatory and transition pressures.
+SP4,Resilient Portfolio Strategy,resilient_portfolio,0.5999,0.308,Developing futures-ready strategy profile,Diversifies strategic exposure and preserves viability across multiple futures.
+SP7,Trust-Centered Market Strategy,trust_centered_market,0.5854,0.3294,Developing futures-ready strategy profile,Builds advantage through transparency responsible governance and stakeholder legitimacy.
+SP6,Regionalized Supply-Chain Strategy,regionalized_supply_chain,0.546,0.3598,Developing futures-ready strategy profile,Reduces geopolitical logistics and climate exposure through regionalized sourcing.
+SP3,Platform Expansion Strategy,platform_expansion,0.4914,0.4464,Developing futures-ready strategy profile,Uses platform scale and network effects but faces trust regulatory and concentration risk.
+SP8,High-Growth Fragile Expansion Strategy,fragile_growth,0.3916,0.5718,High strategic fragility,Pursues rapid growth while underinvesting in resilience trust and transition readiness.
+SP1,Efficiency-Driven Legacy Strategy,legacy_efficiency,0.2977,0.6104,High strategic fragility,Optimizes near-term efficiency but remains exposed to disruption and strategic lock-in.

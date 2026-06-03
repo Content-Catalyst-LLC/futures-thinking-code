@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,market_growth,technology_acceleration,regulatory_pressure,climate_stress,supply_chain_stability,capital_availability,labor_availability,consumer_trust_pressure,geopolitical_fragmentation,description
+SC1,Accelerated Automation Economy,technology_disruption,0.62,0.88,0.58,0.46,0.60,0.58,0.50,0.62,0.48,AI robotics and software automation reshape labor productivity services and competition.
+SC2,Fragmented Global Markets,geopolitical_fragmentation,0.44,0.60,0.70,0.54,0.34,0.48,0.56,0.58,0.86,Geopolitical tension trade barriers and regional standards reshape global competition.
+SC3,Climate-Constrained Business,climate_transition,0.46,0.56,0.82,0.88,0.48,0.52,0.58,0.70,0.54,Climate impacts regulation insurance costs and ecological limits reshape operations.
+SC4,Trust and Legitimacy Crisis,legitimacy_pressure,0.42,0.60,0.74,0.58,0.56,0.50,0.60,0.92,0.52,Public skepticism toward institutions platforms employers and brands intensifies.
+SC5,High-Cost Capital Environment,financial_constraint,0.38,0.54,0.56,0.48,0.58,0.28,0.62,0.54,0.48,Interest rates investor caution and financial volatility constrain growth strategies.
+SC6,Consumer Values Shift,demand_shift,0.58,0.56,0.60,0.62,0.64,0.56,0.60,0.82,0.44,Consumers prioritize affordability sustainability privacy authenticity and responsibility.
+SC7,Regulated Technology Economy,regulated_tech,0.52,0.78,0.90,0.52,0.60,0.54,0.56,0.70,0.46,Governments impose stronger rules on AI platforms data labor safety and competition.
+SC8,Resilient Local Markets,local_resilience,0.54,0.50,0.62,0.66,0.76,0.52,0.66,0.58,0.38,Regional resilience and local trust become sources of market stability.

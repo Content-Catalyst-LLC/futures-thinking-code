@@ -1,0 +1,65 @@
+strategy_id,strategy_name,scenario_id,scenario_name,scenario_opportunity_score,scenario_pressure_score,cross_scenario_viability
+SP1,Efficiency-Driven Legacy Strategy,SC1,Accelerated Automation Economy,0.3729,0.358,0.6649
+SP1,Efficiency-Driven Legacy Strategy,SC6,Consumer Values Shift,0.3584,0.3822,0.6263
+SP1,Efficiency-Driven Legacy Strategy,SC8,Resilient Local Markets,0.329,0.3607,0.6183
+SP1,Efficiency-Driven Legacy Strategy,SC7,Regulated Technology Economy,0.3517,0.4037,0.5981
+SP1,Efficiency-Driven Legacy Strategy,SC4,Trust and Legitimacy Crisis,0.3351,0.4182,0.5669
+SP1,Efficiency-Driven Legacy Strategy,SC5,High-Cost Capital Environment,0.2852,0.3779,0.5573
+SP1,Efficiency-Driven Legacy Strategy,SC3,Climate-Constrained Business,0.3263,0.4482,0.5281
+SP1,Efficiency-Driven Legacy Strategy,SC2,Fragmented Global Markets,0.3146,0.4406,0.524
+SP2,Adaptive Innovation Strategy,SC1,Accelerated Automation Economy,0.6386,0.1878,1.1008
+SP2,Adaptive Innovation Strategy,SC6,Consumer Values Shift,0.6072,0.2011,1.056
+SP2,Adaptive Innovation Strategy,SC7,Regulated Technology Economy,0.6116,0.207,1.0547
+SP2,Adaptive Innovation Strategy,SC8,Resilient Local Markets,0.5649,0.1905,1.0244
+SP2,Adaptive Innovation Strategy,SC4,Trust and Legitimacy Crisis,0.5879,0.2167,1.0212
+SP2,Adaptive Innovation Strategy,SC3,Climate-Constrained Business,0.5701,0.228,0.9921
+SP2,Adaptive Innovation Strategy,SC2,Fragmented Global Markets,0.5563,0.2207,0.9857
+SP2,Adaptive Innovation Strategy,SC5,High-Cost Capital Environment,0.5152,0.2001,0.9651
+SP3,Platform Expansion Strategy,SC1,Accelerated Automation Economy,0.551,0.27,0.931
+SP3,Platform Expansion Strategy,SC6,Consumer Values Shift,0.5204,0.2906,0.8798
+SP3,Platform Expansion Strategy,SC7,Regulated Technology Economy,0.5241,0.3015,0.8727
+SP3,Platform Expansion Strategy,SC8,Resilient Local Markets,0.4855,0.2732,0.8623
+SP3,Platform Expansion Strategy,SC4,Trust and Legitimacy Crisis,0.4983,0.3148,0.8335
+SP3,Platform Expansion Strategy,SC2,Fragmented Global Markets,0.4755,0.3196,0.8059
+SP3,Platform Expansion Strategy,SC5,High-Cost Capital Environment,0.4382,0.2834,0.8048
+SP3,Platform Expansion Strategy,SC3,Climate-Constrained Business,0.4867,0.3322,0.8045
+SP4,Resilient Portfolio Strategy,SC1,Accelerated Automation Economy,0.5918,0.1757,1.0662
+SP4,Resilient Portfolio Strategy,SC6,Consumer Values Shift,0.5701,0.1866,1.0334
+SP4,Resilient Portfolio Strategy,SC7,Regulated Technology Economy,0.5678,0.1965,1.0212
+SP4,Resilient Portfolio Strategy,SC8,Resilient Local Markets,0.5286,0.1772,1.0014
+SP4,Resilient Portfolio Strategy,SC4,Trust and Legitimacy Crisis,0.5496,0.2028,0.9967
+SP4,Resilient Portfolio Strategy,SC3,Climate-Constrained Business,0.5325,0.2104,0.9721
+SP4,Resilient Portfolio Strategy,SC2,Fragmented Global Markets,0.5169,0.2064,0.9605
+SP4,Resilient Portfolio Strategy,SC5,High-Cost Capital Environment,0.4764,0.1858,0.9406
+SP5,Sustainability Transition Strategy,SC1,Accelerated Automation Economy,0.6244,0.1807,1.0937
+SP5,Sustainability Transition Strategy,SC6,Consumer Values Shift,0.6017,0.1898,1.0619
+SP5,Sustainability Transition Strategy,SC7,Regulated Technology Economy,0.6009,0.1935,1.0574
+SP5,Sustainability Transition Strategy,SC4,Trust and Legitimacy Crisis,0.5841,0.2031,1.031
+SP5,Sustainability Transition Strategy,SC8,Resilient Local Markets,0.5568,0.1824,1.0244
+SP5,Sustainability Transition Strategy,SC3,Climate-Constrained Business,0.5631,0.2141,0.999
+SP5,Sustainability Transition Strategy,SC2,Fragmented Global Markets,0.5471,0.2162,0.9809
+SP5,Sustainability Transition Strategy,SC5,High-Cost Capital Environment,0.5085,0.1976,0.9609
+SP6,Regionalized Supply-Chain Strategy,SC1,Accelerated Automation Economy,0.552,0.1982,1.0038
+SP6,Regionalized Supply-Chain Strategy,SC6,Consumer Values Shift,0.532,0.2114,0.9706
+SP6,Regionalized Supply-Chain Strategy,SC7,Regulated Technology Economy,0.529,0.2216,0.9574
+SP6,Regionalized Supply-Chain Strategy,SC8,Resilient Local Markets,0.494,0.2005,0.9435
+SP6,Regionalized Supply-Chain Strategy,SC4,Trust and Legitimacy Crisis,0.5115,0.2306,0.9309
+SP6,Regionalized Supply-Chain Strategy,SC3,Climate-Constrained Business,0.4962,0.2383,0.9079
+SP6,Regionalized Supply-Chain Strategy,SC2,Fragmented Global Markets,0.4821,0.2346,0.8975
+SP6,Regionalized Supply-Chain Strategy,SC5,High-Cost Capital Environment,0.4464,0.2137,0.8827
+SP7,Trust-Centered Market Strategy,SC1,Accelerated Automation Economy,0.596,0.1892,1.0568
+SP7,Trust-Centered Market Strategy,SC6,Consumer Values Shift,0.578,0.1975,1.0305
+SP7,Trust-Centered Market Strategy,SC7,Regulated Technology Economy,0.574,0.2086,1.0154
+SP7,Trust-Centered Market Strategy,SC4,Trust and Legitimacy Crisis,0.5607,0.2134,0.9973
+SP7,Trust-Centered Market Strategy,SC8,Resilient Local Markets,0.5315,0.1918,0.9897
+SP7,Trust-Centered Market Strategy,SC3,Climate-Constrained Business,0.5383,0.229,0.9592
+SP7,Trust-Centered Market Strategy,SC2,Fragmented Global Markets,0.5207,0.2294,0.9413
+SP7,Trust-Centered Market Strategy,SC5,High-Cost Capital Environment,0.4819,0.2055,0.9263
+SP8,High-Growth Fragile Expansion Strategy,SC1,Accelerated Automation Economy,0.4879,0.3487,0.7892
+SP8,High-Growth Fragile Expansion Strategy,SC6,Consumer Values Shift,0.4516,0.3749,0.7268
+SP8,High-Growth Fragile Expansion Strategy,SC7,Regulated Technology Economy,0.4595,0.3911,0.7185
+SP8,High-Growth Fragile Expansion Strategy,SC8,Resilient Local Markets,0.421,0.3525,0.7185
+SP8,High-Growth Fragile Expansion Strategy,SC4,Trust and Legitimacy Crisis,0.4293,0.4075,0.6718
+SP8,High-Growth Fragile Expansion Strategy,SC5,High-Cost Capital Environment,0.3787,0.3663,0.6625
+SP8,High-Growth Fragile Expansion Strategy,SC2,Fragmented Global Markets,0.4125,0.4173,0.6452
+SP8,High-Growth Fragile Expansion Strategy,SC3,Climate-Constrained Business,0.4206,0.4321,0.6385
