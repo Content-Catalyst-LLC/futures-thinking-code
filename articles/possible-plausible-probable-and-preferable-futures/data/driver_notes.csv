@@ -1,0 +1,7 @@
+driver_id,domain,driver,uncertainty,impact,velocity
+D1,technology,AI and automated decision systems,0.78,0.88,0.82
+D2,climate,Compound climate stress,0.66,0.94,0.78
+D3,governance,Institutional trust and legitimacy,0.84,0.86,0.62
+D4,urban_systems,Housing transport heat and ecological restoration,0.70,0.82,0.58
+D5,ethics,Future generations and long-term responsibility,0.76,0.80,0.54
+D6,economy,Efficiency optimization and labor displacement,0.72,0.78,0.70

@@ -1,0 +1,7 @@
+shift_id,future_id,previous_category,current_category,signal,shift_strength,monitoring_priority
+CS1,F3,Possible,Plausible,Public agencies and civic groups adopt participatory foresight practices,0.62,medium
+CS2,F2,Plausible,Probable,Infrastructure stress indicators and climate extremes accelerate,0.82,high
+CS3,F5,Possible,Plausible,Urban ecological restoration and circular-economy pilots expand,0.56,medium
+CS4,F1,Plausible,Probable,AI public-service pilots move from experimentation to procurement,0.78,high
+CS5,F7,Possible,Plausible,Future generations claims enter law policy and public debate,0.64,high
+CS6,F4,Plausible,Probable,Trust indicators decline and institutional coordination weakens,0.72,high

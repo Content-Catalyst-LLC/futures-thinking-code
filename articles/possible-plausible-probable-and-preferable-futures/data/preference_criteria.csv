@@ -1,0 +1,5 @@
+criterion_id,criterion,weight,description
+C1,justice,0.30,Distributional fairness and reduction of unequal harm.
+C2,sustainability,0.25,Ecological viability and long-term resource integrity.
+C3,resilience,0.25,Capacity to absorb adapt and transform under stress.
+C4,legitimacy,0.20,Public accountability participation and institutional trust.

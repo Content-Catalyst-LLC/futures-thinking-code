@@ -1,0 +1,9 @@
+"future_id","future","driver_support","pathway_coherence","constraint_fit","current_trend_strength","justice_value","sustainability_value","resilience_value","legitimacy_value","participation_need","plausibility_score","probability_score","preference_score","strategic_priority"
+"F1","AI-Augmented Public Services",0.82,0.76,0.68,0.8,0.58,0.52,0.6,0.54,0.84,0.764,0.806,0.562,0.6937
+"F8","Adaptive Climate Mobility Systems",0.66,0.72,0.58,0.48,0.76,0.84,0.82,0.74,0.88,0.661,0.534,0.791,0.6812
+"F3","Participatory Anticipatory Governance",0.62,0.7,0.56,0.42,0.86,0.78,0.84,0.9,0.94,0.633,0.48,0.843,0.6788
+"F5","Regenerative Urban Systems",0.58,0.64,0.52,0.36,0.9,0.94,0.88,0.82,0.9,0.586,0.426,0.889,0.6672
+"F2","Climate-Stressed Infrastructure",0.88,0.84,0.82,0.86,0.34,0.3,0.36,0.32,0.88,0.851,0.866,0.331,0.6467
+"F6","Efficiency-Optimized Automation",0.84,0.8,0.74,0.78,0.42,0.38,0.44,0.36,0.78,0.801,0.798,0.403,0.641
+"F7","Intergenerational Public Institutions",0.54,0.62,0.5,0.34,0.88,0.82,0.8,0.86,0.96,0.558,0.4,0.841,0.6317
+"F4","Fragmented Low-Trust Institutions",0.76,0.78,0.72,0.72,0.28,0.26,0.34,0.24,0.82,0.757,0.732,0.282,0.5608

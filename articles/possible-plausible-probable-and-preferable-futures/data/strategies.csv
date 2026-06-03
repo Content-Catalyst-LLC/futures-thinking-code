@@ -1,0 +1,6 @@
+strategy_id,strategy,probable_fit,plausible_fit,preferable_fit,adaptive_capacity,implementation_difficulty,equity_sensitivity
+S1,Forecast-Optimized Planning,0.90,0.48,0.40,0.36,0.32,0.34
+S2,Scenario-Robust Strategy,0.72,0.84,0.66,0.82,0.58,0.68
+S3,Transformational Backcasting,0.52,0.68,0.92,0.78,0.80,0.86
+S4,Participatory Futures Governance,0.58,0.74,0.90,0.86,0.70,0.94
+S5,Defensive Continuity Strategy,0.74,0.56,0.44,0.48,0.42,0.40
