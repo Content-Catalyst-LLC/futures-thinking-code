@@ -1,0 +1,321 @@
+pathway_id,technology_id,pathway_name,time_step,trajectory_strength
+P1,T1,High-Capability Low-Governance AI,1,1.0
+P1,T1,High-Capability Low-Governance AI,2,1.0245
+P1,T1,High-Capability Low-Governance AI,3,1.049
+P1,T1,High-Capability Low-Governance AI,4,1.0735
+P1,T1,High-Capability Low-Governance AI,5,1.098
+P1,T1,High-Capability Low-Governance AI,6,1.1225
+P1,T1,High-Capability Low-Governance AI,7,1.147
+P1,T1,High-Capability Low-Governance AI,8,1.1715
+P1,T1,High-Capability Low-Governance AI,9,1.182
+P1,T1,High-Capability Low-Governance AI,10,1.2065
+P1,T1,High-Capability Low-Governance AI,11,1.231
+P1,T1,High-Capability Low-Governance AI,12,1.2555
+P1,T1,High-Capability Low-Governance AI,13,1.24
+P1,T1,High-Capability Low-Governance AI,14,1.2245
+P1,T1,High-Capability Low-Governance AI,15,1.209
+P1,T1,High-Capability Low-Governance AI,16,1.1935
+P1,T1,High-Capability Low-Governance AI,17,1.178
+P1,T1,High-Capability Low-Governance AI,18,1.1485
+P1,T1,High-Capability Low-Governance AI,19,1.133
+P1,T1,High-Capability Low-Governance AI,20,1.1175
+P1,T1,High-Capability Low-Governance AI,21,1.102
+P1,T1,High-Capability Low-Governance AI,22,1.0865
+P1,T1,High-Capability Low-Governance AI,23,1.071
+P1,T1,High-Capability Low-Governance AI,24,1.0555
+P1,T1,High-Capability Low-Governance AI,25,1.04
+P1,T1,High-Capability Low-Governance AI,26,1.0245
+P1,T1,High-Capability Low-Governance AI,27,0.995
+P1,T1,High-Capability Low-Governance AI,28,0.9795
+P1,T1,High-Capability Low-Governance AI,29,0.964
+P1,T1,High-Capability Low-Governance AI,30,0.9485
+P1,T1,High-Capability Low-Governance AI,31,0.933
+P1,T1,High-Capability Low-Governance AI,32,0.9175
+P1,T1,High-Capability Low-Governance AI,33,0.902
+P1,T1,High-Capability Low-Governance AI,34,0.8865
+P1,T1,High-Capability Low-Governance AI,35,0.871
+P1,T1,High-Capability Low-Governance AI,36,0.8415
+P1,T1,High-Capability Low-Governance AI,37,0.826
+P1,T1,High-Capability Low-Governance AI,38,0.8105
+P1,T1,High-Capability Low-Governance AI,39,0.795
+P1,T1,High-Capability Low-Governance AI,40,0.7795
+P2,T2,Supported Renewable Transition,1,1.0
+P2,T2,Supported Renewable Transition,2,1.0866
+P2,T2,Supported Renewable Transition,3,1.1732
+P2,T2,Supported Renewable Transition,4,1.2598
+P2,T2,Supported Renewable Transition,5,1.3464
+P2,T2,Supported Renewable Transition,6,1.433
+P2,T2,Supported Renewable Transition,7,1.5196
+P2,T2,Supported Renewable Transition,8,1.6062
+P2,T2,Supported Renewable Transition,9,1.6788
+P2,T2,Supported Renewable Transition,10,1.7654
+P2,T2,Supported Renewable Transition,11,1.852
+P2,T2,Supported Renewable Transition,12,1.9386
+P2,T2,Supported Renewable Transition,13,2.0
+P2,T2,Supported Renewable Transition,14,2.0
+P2,T2,Supported Renewable Transition,15,2.0
+P2,T2,Supported Renewable Transition,16,2.0
+P2,T2,Supported Renewable Transition,17,2.0
+P2,T2,Supported Renewable Transition,18,2.0
+P2,T2,Supported Renewable Transition,19,2.0
+P2,T2,Supported Renewable Transition,20,2.0
+P2,T2,Supported Renewable Transition,21,2.0
+P2,T2,Supported Renewable Transition,22,2.0
+P2,T2,Supported Renewable Transition,23,2.0
+P2,T2,Supported Renewable Transition,24,2.0
+P2,T2,Supported Renewable Transition,25,2.0
+P2,T2,Supported Renewable Transition,26,2.0
+P2,T2,Supported Renewable Transition,27,2.0
+P2,T2,Supported Renewable Transition,28,2.0
+P2,T2,Supported Renewable Transition,29,2.0
+P2,T2,Supported Renewable Transition,30,2.0
+P2,T2,Supported Renewable Transition,31,2.0
+P2,T2,Supported Renewable Transition,32,2.0
+P2,T2,Supported Renewable Transition,33,2.0
+P2,T2,Supported Renewable Transition,34,2.0
+P2,T2,Supported Renewable Transition,35,2.0
+P2,T2,Supported Renewable Transition,36,2.0
+P2,T2,Supported Renewable Transition,37,2.0
+P2,T2,Supported Renewable Transition,38,2.0
+P2,T2,Supported Renewable Transition,39,2.0
+P2,T2,Supported Renewable Transition,40,2.0
+P3,T3,Constrained Biotech Expansion,1,1.0
+P3,T3,Constrained Biotech Expansion,2,1.027
+P3,T3,Constrained Biotech Expansion,3,1.054
+P3,T3,Constrained Biotech Expansion,4,1.081
+P3,T3,Constrained Biotech Expansion,5,1.108
+P3,T3,Constrained Biotech Expansion,6,1.135
+P3,T3,Constrained Biotech Expansion,7,1.162
+P3,T3,Constrained Biotech Expansion,8,1.189
+P3,T3,Constrained Biotech Expansion,9,1.202
+P3,T3,Constrained Biotech Expansion,10,1.229
+P3,T3,Constrained Biotech Expansion,11,1.256
+P3,T3,Constrained Biotech Expansion,12,1.283
+P3,T3,Constrained Biotech Expansion,13,1.27
+P3,T3,Constrained Biotech Expansion,14,1.257
+P3,T3,Constrained Biotech Expansion,15,1.244
+P3,T3,Constrained Biotech Expansion,16,1.231
+P3,T3,Constrained Biotech Expansion,17,1.218
+P3,T3,Constrained Biotech Expansion,18,1.191
+P3,T3,Constrained Biotech Expansion,19,1.178
+P3,T3,Constrained Biotech Expansion,20,1.165
+P3,T3,Constrained Biotech Expansion,21,1.152
+P3,T3,Constrained Biotech Expansion,22,1.139
+P3,T3,Constrained Biotech Expansion,23,1.126
+P3,T3,Constrained Biotech Expansion,24,1.113
+P3,T3,Constrained Biotech Expansion,25,1.1
+P3,T3,Constrained Biotech Expansion,26,1.087
+P3,T3,Constrained Biotech Expansion,27,1.06
+P3,T3,Constrained Biotech Expansion,28,1.047
+P3,T3,Constrained Biotech Expansion,29,1.034
+P3,T3,Constrained Biotech Expansion,30,1.021
+P3,T3,Constrained Biotech Expansion,31,1.008
+P3,T3,Constrained Biotech Expansion,32,0.995
+P3,T3,Constrained Biotech Expansion,33,0.982
+P3,T3,Constrained Biotech Expansion,34,0.969
+P3,T3,Constrained Biotech Expansion,35,0.956
+P3,T3,Constrained Biotech Expansion,36,0.929
+P3,T3,Constrained Biotech Expansion,37,0.916
+P3,T3,Constrained Biotech Expansion,38,0.903
+P3,T3,Constrained Biotech Expansion,39,0.89
+P3,T3,Constrained Biotech Expansion,40,0.877
+P4,T4,Public Digital Infrastructure Transition,1,1.0
+P4,T4,Public Digital Infrastructure Transition,2,1.0586
+P4,T4,Public Digital Infrastructure Transition,3,1.1172
+P4,T4,Public Digital Infrastructure Transition,4,1.1758
+P4,T4,Public Digital Infrastructure Transition,5,1.2344
+P4,T4,Public Digital Infrastructure Transition,6,1.293
+P4,T4,Public Digital Infrastructure Transition,7,1.3516
+P4,T4,Public Digital Infrastructure Transition,8,1.4102
+P4,T4,Public Digital Infrastructure Transition,9,1.4548
+P4,T4,Public Digital Infrastructure Transition,10,1.5134
+P4,T4,Public Digital Infrastructure Transition,11,1.572
+P4,T4,Public Digital Infrastructure Transition,12,1.6306
+P4,T4,Public Digital Infrastructure Transition,13,1.6892
+P4,T4,Public Digital Infrastructure Transition,14,1.7478
+P4,T4,Public Digital Infrastructure Transition,15,1.8064
+P4,T4,Public Digital Infrastructure Transition,16,1.865
+P4,T4,Public Digital Infrastructure Transition,17,1.9236
+P4,T4,Public Digital Infrastructure Transition,18,1.9682
+P4,T4,Public Digital Infrastructure Transition,19,2.0
+P4,T4,Public Digital Infrastructure Transition,20,2.0
+P4,T4,Public Digital Infrastructure Transition,21,2.0
+P4,T4,Public Digital Infrastructure Transition,22,2.0
+P4,T4,Public Digital Infrastructure Transition,23,2.0
+P4,T4,Public Digital Infrastructure Transition,24,2.0
+P4,T4,Public Digital Infrastructure Transition,25,2.0
+P4,T4,Public Digital Infrastructure Transition,26,2.0
+P4,T4,Public Digital Infrastructure Transition,27,2.0
+P4,T4,Public Digital Infrastructure Transition,28,2.0
+P4,T4,Public Digital Infrastructure Transition,29,2.0
+P4,T4,Public Digital Infrastructure Transition,30,2.0
+P4,T4,Public Digital Infrastructure Transition,31,2.0
+P4,T4,Public Digital Infrastructure Transition,32,2.0
+P4,T4,Public Digital Infrastructure Transition,33,2.0
+P4,T4,Public Digital Infrastructure Transition,34,2.0
+P4,T4,Public Digital Infrastructure Transition,35,2.0
+P4,T4,Public Digital Infrastructure Transition,36,2.0
+P4,T4,Public Digital Infrastructure Transition,37,2.0
+P4,T4,Public Digital Infrastructure Transition,38,2.0
+P4,T4,Public Digital Infrastructure Transition,39,2.0
+P4,T4,Public Digital Infrastructure Transition,40,2.0
+P5,T5,Materials for Resilient Infrastructure,1,1.0
+P5,T5,Materials for Resilient Infrastructure,2,1.0669
+P5,T5,Materials for Resilient Infrastructure,3,1.1338
+P5,T5,Materials for Resilient Infrastructure,4,1.2007
+P5,T5,Materials for Resilient Infrastructure,5,1.2676
+P5,T5,Materials for Resilient Infrastructure,6,1.3345
+P5,T5,Materials for Resilient Infrastructure,7,1.4014
+P5,T5,Materials for Resilient Infrastructure,8,1.4683
+P5,T5,Materials for Resilient Infrastructure,9,1.5212
+P5,T5,Materials for Resilient Infrastructure,10,1.5881
+P5,T5,Materials for Resilient Infrastructure,11,1.655
+P5,T5,Materials for Resilient Infrastructure,12,1.7219
+P5,T5,Materials for Resilient Infrastructure,13,1.7888
+P5,T5,Materials for Resilient Infrastructure,14,1.8557
+P5,T5,Materials for Resilient Infrastructure,15,1.9226
+P5,T5,Materials for Resilient Infrastructure,16,1.9895
+P5,T5,Materials for Resilient Infrastructure,17,2.0
+P5,T5,Materials for Resilient Infrastructure,18,2.0
+P5,T5,Materials for Resilient Infrastructure,19,2.0
+P5,T5,Materials for Resilient Infrastructure,20,2.0
+P5,T5,Materials for Resilient Infrastructure,21,2.0
+P5,T5,Materials for Resilient Infrastructure,22,2.0
+P5,T5,Materials for Resilient Infrastructure,23,2.0
+P5,T5,Materials for Resilient Infrastructure,24,2.0
+P5,T5,Materials for Resilient Infrastructure,25,2.0
+P5,T5,Materials for Resilient Infrastructure,26,2.0
+P5,T5,Materials for Resilient Infrastructure,27,2.0
+P5,T5,Materials for Resilient Infrastructure,28,2.0
+P5,T5,Materials for Resilient Infrastructure,29,2.0
+P5,T5,Materials for Resilient Infrastructure,30,2.0
+P5,T5,Materials for Resilient Infrastructure,31,2.0
+P5,T5,Materials for Resilient Infrastructure,32,2.0
+P5,T5,Materials for Resilient Infrastructure,33,2.0
+P5,T5,Materials for Resilient Infrastructure,34,2.0
+P5,T5,Materials for Resilient Infrastructure,35,2.0
+P5,T5,Materials for Resilient Infrastructure,36,2.0
+P5,T5,Materials for Resilient Infrastructure,37,2.0
+P5,T5,Materials for Resilient Infrastructure,38,2.0
+P5,T5,Materials for Resilient Infrastructure,39,2.0
+P5,T5,Materials for Resilient Infrastructure,40,2.0
+P6,T6,Care Robotics Under Labor Constraint,1,1.0
+P6,T6,Care Robotics Under Labor Constraint,2,1.0172
+P6,T6,Care Robotics Under Labor Constraint,3,1.0344
+P6,T6,Care Robotics Under Labor Constraint,4,1.0516
+P6,T6,Care Robotics Under Labor Constraint,5,1.0688
+P6,T6,Care Robotics Under Labor Constraint,6,1.086
+P6,T6,Care Robotics Under Labor Constraint,7,1.1032
+P6,T6,Care Robotics Under Labor Constraint,8,1.1204
+P6,T6,Care Robotics Under Labor Constraint,9,1.1236
+P6,T6,Care Robotics Under Labor Constraint,10,1.1408
+P6,T6,Care Robotics Under Labor Constraint,11,1.158
+P6,T6,Care Robotics Under Labor Constraint,12,1.1752
+P6,T6,Care Robotics Under Labor Constraint,13,1.1524
+P6,T6,Care Robotics Under Labor Constraint,14,1.1296
+P6,T6,Care Robotics Under Labor Constraint,15,1.1068
+P6,T6,Care Robotics Under Labor Constraint,16,1.084
+P6,T6,Care Robotics Under Labor Constraint,17,1.0612
+P6,T6,Care Robotics Under Labor Constraint,18,1.0244
+P6,T6,Care Robotics Under Labor Constraint,19,1.0016
+P6,T6,Care Robotics Under Labor Constraint,20,0.9788
+P6,T6,Care Robotics Under Labor Constraint,21,0.956
+P6,T6,Care Robotics Under Labor Constraint,22,0.9332
+P6,T6,Care Robotics Under Labor Constraint,23,0.9104
+P6,T6,Care Robotics Under Labor Constraint,24,0.8876
+P6,T6,Care Robotics Under Labor Constraint,25,0.8648
+P6,T6,Care Robotics Under Labor Constraint,26,0.842
+P6,T6,Care Robotics Under Labor Constraint,27,0.8052
+P6,T6,Care Robotics Under Labor Constraint,28,0.7824
+P6,T6,Care Robotics Under Labor Constraint,29,0.7596
+P6,T6,Care Robotics Under Labor Constraint,30,0.7368
+P6,T6,Care Robotics Under Labor Constraint,31,0.714
+P6,T6,Care Robotics Under Labor Constraint,32,0.6912
+P6,T6,Care Robotics Under Labor Constraint,33,0.6684
+P6,T6,Care Robotics Under Labor Constraint,34,0.6456
+P6,T6,Care Robotics Under Labor Constraint,35,0.6228
+P6,T6,Care Robotics Under Labor Constraint,36,0.586
+P6,T6,Care Robotics Under Labor Constraint,37,0.5632
+P6,T6,Care Robotics Under Labor Constraint,38,0.5404
+P6,T6,Care Robotics Under Labor Constraint,39,0.5176
+P6,T6,Care Robotics Under Labor Constraint,40,0.4948
+P7,T7,Public Environmental Sensing Network,1,1.0
+P7,T7,Public Environmental Sensing Network,2,1.0819
+P7,T7,Public Environmental Sensing Network,3,1.1638
+P7,T7,Public Environmental Sensing Network,4,1.2457
+P7,T7,Public Environmental Sensing Network,5,1.3276
+P7,T7,Public Environmental Sensing Network,6,1.4095
+P7,T7,Public Environmental Sensing Network,7,1.4914
+P7,T7,Public Environmental Sensing Network,8,1.5733
+P7,T7,Public Environmental Sensing Network,9,1.6412
+P7,T7,Public Environmental Sensing Network,10,1.7231
+P7,T7,Public Environmental Sensing Network,11,1.805
+P7,T7,Public Environmental Sensing Network,12,1.8869
+P7,T7,Public Environmental Sensing Network,13,1.9688
+P7,T7,Public Environmental Sensing Network,14,2.0
+P7,T7,Public Environmental Sensing Network,15,2.0
+P7,T7,Public Environmental Sensing Network,16,2.0
+P7,T7,Public Environmental Sensing Network,17,2.0
+P7,T7,Public Environmental Sensing Network,18,2.0
+P7,T7,Public Environmental Sensing Network,19,2.0
+P7,T7,Public Environmental Sensing Network,20,2.0
+P7,T7,Public Environmental Sensing Network,21,2.0
+P7,T7,Public Environmental Sensing Network,22,2.0
+P7,T7,Public Environmental Sensing Network,23,2.0
+P7,T7,Public Environmental Sensing Network,24,2.0
+P7,T7,Public Environmental Sensing Network,25,2.0
+P7,T7,Public Environmental Sensing Network,26,2.0
+P7,T7,Public Environmental Sensing Network,27,2.0
+P7,T7,Public Environmental Sensing Network,28,2.0
+P7,T7,Public Environmental Sensing Network,29,2.0
+P7,T7,Public Environmental Sensing Network,30,2.0
+P7,T7,Public Environmental Sensing Network,31,2.0
+P7,T7,Public Environmental Sensing Network,32,2.0
+P7,T7,Public Environmental Sensing Network,33,2.0
+P7,T7,Public Environmental Sensing Network,34,2.0
+P7,T7,Public Environmental Sensing Network,35,2.0
+P7,T7,Public Environmental Sensing Network,36,2.0
+P7,T7,Public Environmental Sensing Network,37,2.0
+P7,T7,Public Environmental Sensing Network,38,2.0
+P7,T7,Public Environmental Sensing Network,39,2.0
+P7,T7,Public Environmental Sensing Network,40,2.0
+P8,T8,Post-Quantum Security Migration,1,1.0
+P8,T8,Post-Quantum Security Migration,2,1.0394
+P8,T8,Post-Quantum Security Migration,3,1.0788
+P8,T8,Post-Quantum Security Migration,4,1.1182
+P8,T8,Post-Quantum Security Migration,5,1.1576
+P8,T8,Post-Quantum Security Migration,6,1.197
+P8,T8,Post-Quantum Security Migration,7,1.2364
+P8,T8,Post-Quantum Security Migration,8,1.2758
+P8,T8,Post-Quantum Security Migration,9,1.3012
+P8,T8,Post-Quantum Security Migration,10,1.3406
+P8,T8,Post-Quantum Security Migration,11,1.38
+P8,T8,Post-Quantum Security Migration,12,1.4194
+P8,T8,Post-Quantum Security Migration,13,1.4588
+P8,T8,Post-Quantum Security Migration,14,1.4982
+P8,T8,Post-Quantum Security Migration,15,1.5376
+P8,T8,Post-Quantum Security Migration,16,1.577
+P8,T8,Post-Quantum Security Migration,17,1.6164
+P8,T8,Post-Quantum Security Migration,18,1.6418
+P8,T8,Post-Quantum Security Migration,19,1.6812
+P8,T8,Post-Quantum Security Migration,20,1.7206
+P8,T8,Post-Quantum Security Migration,21,1.76
+P8,T8,Post-Quantum Security Migration,22,1.7994
+P8,T8,Post-Quantum Security Migration,23,1.8388
+P8,T8,Post-Quantum Security Migration,24,1.8782
+P8,T8,Post-Quantum Security Migration,25,1.9176
+P8,T8,Post-Quantum Security Migration,26,1.957
+P8,T8,Post-Quantum Security Migration,27,1.9824
+P8,T8,Post-Quantum Security Migration,28,2.0
+P8,T8,Post-Quantum Security Migration,29,2.0
+P8,T8,Post-Quantum Security Migration,30,2.0
+P8,T8,Post-Quantum Security Migration,31,2.0
+P8,T8,Post-Quantum Security Migration,32,2.0
+P8,T8,Post-Quantum Security Migration,33,2.0
+P8,T8,Post-Quantum Security Migration,34,2.0
+P8,T8,Post-Quantum Security Migration,35,2.0
+P8,T8,Post-Quantum Security Migration,36,2.0
+P8,T8,Post-Quantum Security Migration,37,2.0
+P8,T8,Post-Quantum Security Migration,38,2.0
+P8,T8,Post-Quantum Security Migration,39,2.0
+P8,T8,Post-Quantum Security Migration,40,2.0

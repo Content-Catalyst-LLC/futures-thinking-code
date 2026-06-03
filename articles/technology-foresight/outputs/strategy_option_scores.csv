@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,technology_scope,acceleration,precaution,public_investment,governance_strength,labor_protection,ecological_safeguard,description,strategy_viability_score,public_interest_score
+ST4,Public-Interest Infrastructure Strategy,public_investment,infrastructure,0.58,0.66,0.84,0.76,0.72,0.78,Builds public capacity data infrastructure standards and resilience.,0.7236,0.73
+ST3,Precautionary Public Safeguards,precaution,cross_technology,0.38,0.88,0.58,0.82,0.76,0.74,Restricts high-risk uses until safeguards and accountability mature.,0.698,0.7136
+ST5,Worker-Centered Technology Transition,labor_transition,labor_sensitive,0.46,0.72,0.66,0.70,0.90,0.60,Centers workers role redesign bargaining training and surveillance limits.,0.678,0.6892
+ST2,Responsible Innovation Portfolio,balanced_governance,cross_technology,0.64,0.68,0.66,0.72,0.68,0.66,Balances adoption governance standards and public interest.,0.6756,0.678
+ST1,Market Acceleration,acceleration,cross_technology,0.88,0.24,0.34,0.30,0.24,0.28,Prioritizes speed investment and adoption with weak safeguards.,0.3772,0.354

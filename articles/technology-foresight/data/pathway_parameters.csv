@@ -1,0 +1,9 @@
+pathway_id,technology_id,pathway_name,capability,institutional_support,governance_readiness,public_legitimacy,constraint_pressure,distributional_risk,initial_state,time_horizon
+P1,T1,High-Capability Low-Governance AI,0.86,0.58,0.30,0.38,0.52,0.84,1.00,40
+P2,T2,Supported Renewable Transition,0.74,0.76,0.66,0.72,0.34,0.52,1.00,40
+P3,T3,Constrained Biotech Expansion,0.78,0.48,0.42,0.44,0.62,0.70,1.00,40
+P4,T4,Public Digital Infrastructure Transition,0.70,0.62,0.56,0.62,0.46,0.58,1.00,40
+P5,T5,Materials for Resilient Infrastructure,0.64,0.66,0.58,0.68,0.42,0.48,1.00,40
+P6,T6,Care Robotics Under Labor Constraint,0.72,0.46,0.40,0.42,0.64,0.76,1.00,40
+P7,T7,Public Environmental Sensing Network,0.68,0.70,0.64,0.74,0.38,0.42,1.00,40
+P8,T8,Post-Quantum Security Migration,0.66,0.52,0.50,0.54,0.58,0.56,1.00,40

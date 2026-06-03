@@ -1,0 +1,10 @@
+signal_id,technology_id,signal_name,signal_type,novelty,relevance,urgency,evidence_quality,affected_voice,governance_relevance,interpretation,signal_priority_score
+S1,T1,Rising public AI appeal failures,accountability_signal,0.72,0.88,0.80,0.74,0.76,0.92,Appeal failures suggest AI deployment may be outpacing accountability systems.,0.814
+S7,T6,Care worker resistance to surveillance robotics,labor_signal,0.68,0.84,0.80,0.72,0.84,0.86,Technology adoption in care systems depends on labor trust and role design.,0.796
+S4,T3,Biotech safety and consent controversy,legitimacy_signal,0.70,0.82,0.74,0.70,0.78,0.88,Public legitimacy and ethics may constrain biotechnology pathways.,0.7752
+S3,T2,Grid congestion during renewable expansion,infrastructure_signal,0.58,0.86,0.82,0.80,0.68,0.70,Renewable deployment depends on grid planning and storage coordination.,0.7572
+S5,T4,Interoperability failures in public digital infrastructure,standards_signal,0.60,0.82,0.76,0.76,0.62,0.80,Fragmented standards may undermine distributed infrastructure adoption.,0.7416
+S2,T1,Compute and energy demand pressure,infrastructure_signal,0.64,0.84,0.78,0.78,0.52,0.76,AI scaling may create infrastructure and ecological pressure.,0.7404
+S8,T7,Community environmental monitoring demand,public_value_signal,0.62,0.78,0.70,0.76,0.86,0.66,Environmental sensing may support public accountability if data governance is strong.,0.7292
+S6,T5,Supply-chain pressure for critical materials,supply_signal,0.66,0.80,0.78,0.74,0.56,0.72,Scaling advanced materials depends on supply chains and ecological governance.,0.7264
+S9,T8,Post-quantum migration delay,security_signal,0.64,0.76,0.72,0.70,0.44,0.74,Quantum-secure infrastructure requires long-range migration planning.,0.6852

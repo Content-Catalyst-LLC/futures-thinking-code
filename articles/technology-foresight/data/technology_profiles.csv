@@ -1,0 +1,9 @@
+technology_id,technology_name,technology_domain,maturity,capability_growth,institutional_support,infrastructure_readiness,governance_readiness,social_legitimacy,ecological_pressure,distributional_risk,strategic_importance,description
+T1,AI-Driven Automation,artificial_intelligence,0.72,0.86,0.56,0.63,0.38,0.46,0.62,0.82,0.92,Automation technologies with high capability growth but weak governance and high distributional risk.
+T2,Renewable Energy Acceleration,energy_systems,0.78,0.74,0.74,0.68,0.66,0.72,0.48,0.54,0.88,Renewable energy and storage pathways with strong public value and infrastructure constraints.
+T3,Biotech Platform Expansion,biotechnology,0.54,0.78,0.48,0.41,0.42,0.44,0.58,0.70,0.84,Biotechnology platforms with high potential and significant governance and legitimacy concerns.
+T4,Distributed Digital Infrastructure,digital_infrastructure,0.61,0.70,0.52,0.57,0.50,0.58,0.64,0.68,0.78,Distributed data and compute systems with interoperability and governance challenges.
+T5,Advanced Materials for Infrastructure,materials_science,0.58,0.64,0.62,0.55,0.56,0.66,0.52,0.46,0.76,Advanced materials with potential resilience benefits and supply-chain considerations.
+T6,Robotics and Care Systems,robotics_care,0.52,0.72,0.46,0.44,0.40,0.42,0.46,0.76,0.82,Robotics for care and service systems with workforce and legitimacy concerns.
+T7,Environmental Sensing Networks,environmental_monitoring,0.70,0.68,0.64,0.66,0.58,0.70,0.40,0.44,0.80,Sensor networks for climate ecology infrastructure and public monitoring.
+T8,Quantum-Secure Infrastructure,cybersecurity_quantum,0.38,0.66,0.50,0.36,0.46,0.50,0.42,0.58,0.74,Quantum-resistant security systems with long-range infrastructure implications.

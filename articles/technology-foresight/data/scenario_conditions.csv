@@ -1,0 +1,6 @@
+scenario_id,scenario_name,scenario_family,regulation_strength,public_trust,capital_availability,infrastructure_capacity,geopolitical_stability,ecological_constraint,labor_protection,description
+SC1,Coordinated Responsible Innovation,cooperation,0.78,0.76,0.70,0.72,0.66,0.68,0.72,Institutions coordinate innovation with safeguards public trust and infrastructure planning.
+SC2,Market-Led Acceleration,market_acceleration,0.42,0.48,0.84,0.60,0.56,0.46,0.36,Capital accelerates adoption faster than governance labor protection and public accountability.
+SC3,Fragmented Techno-Nationalism,geopolitical_fragmentation,0.58,0.42,0.62,0.52,0.30,0.58,0.44,Geopolitical competition fragments standards supply chains and governance systems.
+SC4,Ecological Constraint and Public Backlash,legitimacy_crisis,0.68,0.36,0.48,0.50,0.46,0.88,0.62,Ecological stress and public mistrust constrain technology adoption and legitimacy.
+SC5,Public-Interest Technology Transition,public_transformation,0.82,0.80,0.66,0.76,0.62,0.72,0.82,Public-interest investment aligns technology with resilience equity and accountability.

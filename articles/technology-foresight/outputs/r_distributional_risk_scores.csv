@@ -1,0 +1,9 @@
+"risk_id","technology_id","risk_name","burden_concentration","exposure","worker_displacement","community_vulnerability","mitigation_capacity","description","distributional_risk_score"
+"R1","T1","AI labor displacement and decision opacity",0.82,0.76,0.86,0.72,0.38,"Automation concentrates risk among workers and people subject to opaque decisions.",0.7746
+"R2","T2","Energy transition burden shifting",0.58,0.62,0.38,0.66,0.62,"Transition costs can burden households and extractive regions if poorly governed.",0.5416
+"R3","T3","Biotech access and consent inequity",0.7,0.66,0.42,0.74,0.44,"Biotechnology can create access consent and biosecurity inequalities.",0.624
+"R4","T4","Digital dependency and exclusion",0.68,0.7,0.54,0.72,0.48,"Distributed infrastructure can deepen exclusion if access and interoperability fail.",0.646
+"R5","T5","Material extraction burdens",0.62,0.58,0.34,0.7,0.5,"Material innovation can shift ecological and labor burdens to extraction sites.",0.5544
+"R6","T6","Care surveillance and labor intensification",0.76,0.72,0.78,0.8,0.4,"Care robotics can intensify work and surveillance without worker-centered governance.",0.748
+"R7","T7","Environmental data misuse and exclusion",0.44,0.5,0.22,0.6,0.64,"Environmental data can support accountability or enable uneven surveillance.",0.4304
+"R8","T8","Cybersecurity migration inequality",0.54,0.58,0.3,0.62,0.52,"Security transition may leave under-resourced institutions behind.",0.5068

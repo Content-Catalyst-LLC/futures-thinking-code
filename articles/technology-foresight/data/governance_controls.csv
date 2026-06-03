@@ -1,0 +1,10 @@
+control_id,technology_id,control_name,control_type,regulatory_capacity,standards_maturity,accountability_infrastructure,public_participation,enforcement_feasibility,description
+G1,T1,AI audit and appeal rights,accountability,0.46,0.50,0.42,0.48,0.44,Controls for public AI decision systems and automated administration.
+G2,T1,Compute energy transparency,infrastructure_governance,0.44,0.38,0.40,0.34,0.42,Controls for AI energy demand and compute infrastructure externalities.
+G3,T2,Grid planning and affordability safeguards,public_utility_governance,0.70,0.66,0.64,0.62,0.68,Controls for renewable deployment reliability and energy justice.
+G4,T3,Biotech safety and consent review,bioethics,0.52,0.46,0.48,0.56,0.50,Controls for biotechnology safety consent and public legitimacy.
+G5,T4,Open interoperability standards,standards,0.58,0.52,0.50,0.48,0.54,Controls for distributed digital infrastructure and public-sector interoperability.
+G6,T5,Critical materials stewardship,supply_chain_governance,0.54,0.46,0.48,0.42,0.50,Controls for material sourcing recycling and ecological risk.
+G7,T6,Worker-centered robotics governance,labor_governance,0.48,0.42,0.46,0.66,0.44,Controls for robotics in care labor rights surveillance and role design.
+G8,T7,Community data governance,data_governance,0.60,0.56,0.58,0.78,0.52,Controls for environmental monitoring data ownership and public accountability.
+G9,T8,Critical infrastructure migration standards,security_standards,0.56,0.48,0.50,0.34,0.54,Controls for post-quantum migration and infrastructure security.

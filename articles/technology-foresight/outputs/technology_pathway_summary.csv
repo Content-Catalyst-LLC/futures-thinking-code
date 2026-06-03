@@ -1,0 +1,9 @@
+pathway_id,technology_id,pathway_name,final_trajectory_strength,mean_trajectory_strength,minimum_trajectory_strength,maximum_trajectory_strength
+P2,T2,Supported Renewable Transition,2.0,1.8415,1.0,2.0
+P4,T4,Public Digital Infrastructure Transition,2.0,1.7703,1.0,2.0
+P5,T5,Materials for Resilient Infrastructure,2.0,1.7979,1.0,2.0
+P7,T7,Public Environmental Sensing Network,2.0,1.833,1.0,2.0
+P8,T8,Post-Quantum Security Migration,2.0,1.6602,1.0,2.0
+P3,T3,Constrained Biotech Expansion,0.877,1.0946,0.877,1.283
+P1,T1,High-Capability Low-Governance AI,0.7795,1.0458,0.7795,1.2555
+P6,T6,Care Robotics Under Labor Constraint,0.4948,0.9035,0.4948,1.1752
