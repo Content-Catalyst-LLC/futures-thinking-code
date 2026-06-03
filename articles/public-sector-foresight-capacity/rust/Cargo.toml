@@ -1,0 +1,6 @@
+[package]
+name = "public_sector_foresight_capacity_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

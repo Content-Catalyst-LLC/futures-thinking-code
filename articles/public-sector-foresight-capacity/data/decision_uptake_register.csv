@@ -1,0 +1,9 @@
+uptake_id,capacity_id,decision_area,uptake_strength,budget_influence,regulatory_influence,procurement_influence,implementation_influence,evaluation_influence,participation_influence,description
+U1,FC1,Strategic conversation only,0.22,0.12,0.10,0.10,0.14,0.18,0.26,Workshop insights remain mostly conversational with weak formal decision impact.
+U2,FC2,Executive strategic briefing,0.58,0.38,0.46,0.36,0.42,0.50,0.34,Central foresight findings reach senior officials but have mixed budget and participation effects.
+U3,FC3,Departmental policy review,0.68,0.56,0.58,0.50,0.60,0.64,0.48,Distributed network channels foresight into policy review cycles and sectoral plans.
+U4,FC4,Experimentation pipeline,0.56,0.42,0.52,0.46,0.54,0.72,0.66,Policy lab connects foresight to prototypes but needs stronger implementation authority.
+U5,FC5,Budget and investment process,0.82,0.90,0.62,0.70,0.78,0.74,0.54,Budget-integrated foresight influences finance resilience investment and procurement.
+U6,FC6,Participatory strategy and review,0.72,0.60,0.58,0.50,0.62,0.76,0.92,Participatory model connects public voice scenario planning and accountability.
+U7,FC7,Local resilience planning,0.60,0.42,0.44,0.46,0.64,0.62,0.82,Local foresight affects resilience planning and community engagement but remains fiscally constrained.
+U8,FC8,External report delivery,0.34,0.26,0.24,0.22,0.24,0.30,0.28,Outsourced foresight produces reports but weakly changes institutional routines.

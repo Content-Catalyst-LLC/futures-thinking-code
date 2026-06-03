@@ -1,0 +1,9 @@
+capacity_id,foresight_model,institution_type,scanning_capacity,scenario_capacity,decision_uptake,participation_capacity,budget_connection,evaluation_capacity,institutional_learning,implementation_authority,knowledge_infrastructure,legitimacy,description
+FC1,Ad Hoc Foresight Workshop,episodic_foresight,0.32,0.46,0.24,0.28,0.18,0.22,0.26,0.20,0.24,0.34,Occasional workshop model that broadens conversation but lacks mandate authority budget connection and learning routines.
+FC2,Central Foresight Unit,central_unit,0.74,0.82,0.56,0.46,0.42,0.56,0.62,0.48,0.64,0.54,Central unit with strong methods and scanning but weaker implementation and public participation.
+FC3,Distributed Ministry Foresight Network,distributed_network,0.70,0.76,0.66,0.54,0.58,0.64,0.72,0.62,0.68,0.60,Distributed network linking sectoral ministries with recurring foresight and policy review routines.
+FC4,Public-Sector Foresight Lab,policy_lab,0.62,0.72,0.52,0.70,0.46,0.70,0.74,0.50,0.58,0.62,Policy lab model using experimentation and facilitation but requiring stronger authority and finance links.
+FC5,Budget-Integrated Foresight System,budget_integrated,0.66,0.74,0.82,0.58,0.88,0.72,0.76,0.84,0.70,0.66,Foresight system connected to public finance lifecycle costing resilience budgets and implementation.
+FC6,Participatory Public Foresight System,participatory_system,0.68,0.78,0.68,0.90,0.62,0.76,0.80,0.60,0.72,0.86,Democratic foresight system emphasizing public voice contestability legitimacy and institutional learning.
+FC7,Local Government Foresight Office,local_government,0.60,0.66,0.58,0.76,0.44,0.62,0.68,0.56,0.54,0.74,Local foresight office with strong community knowledge but weaker fiscal capacity and national coordination.
+FC8,Consultant-Driven Foresight Program,outsourced_program,0.64,0.72,0.40,0.38,0.34,0.46,0.36,0.30,0.42,0.44,Externally supported foresight program that produces outputs but weakens internal institutional learning.

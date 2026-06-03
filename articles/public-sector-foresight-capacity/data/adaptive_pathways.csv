@@ -1,0 +1,9 @@
+pathway_id,capacity_id,scenario_id,pathway_name,scanning,scenarios,participation,budget,evaluation,learning,authority,legitimacy,initial_capacity,time_horizon
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,0.32,0.46,0.28,0.18,0.22,0.26,0.20,0.34,0.34,40
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,0.74,0.82,0.46,0.42,0.56,0.62,0.48,0.54,0.62,40
+PW3,FC3,SC1,Distributed Ministry Network Pathway,0.70,0.76,0.54,0.58,0.64,0.72,0.62,0.60,0.66,40
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,0.62,0.72,0.70,0.46,0.70,0.74,0.50,0.62,0.60,40
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,0.66,0.74,0.58,0.88,0.72,0.76,0.84,0.66,0.72,40
+PW6,FC6,SC6,Participatory Public Foresight Pathway,0.68,0.78,0.90,0.62,0.76,0.80,0.60,0.86,0.70,40
+PW7,FC7,SC5,Local Government Foresight Pathway,0.60,0.66,0.76,0.44,0.62,0.68,0.56,0.74,0.58,40
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,0.64,0.72,0.38,0.34,0.46,0.36,0.30,0.44,0.46,40

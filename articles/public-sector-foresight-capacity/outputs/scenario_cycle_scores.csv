@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,foresight_stress_pressure_score,foresight_opportunity_score,description
+SC7,Reactive Crisis Planning,crisis_response,0.6628,0.3196,Institutions respond after disruption rather than building standing foresight capacity.
+SC2,Foresight as Strategy Theater,symbolic_foresight,0.558,0.408,Public agencies produce future-facing reports with little decision influence.
+SC4,Technocratic Foresight,technocratic_foresight,0.5504,0.4696,Expert-led models dominate while public contestability and justice are weak.
+SC3,Consultant Driven Foresight,outsourced_foresight,0.5492,0.4184,External providers shape future narratives but internal learning remains weak.
+SC5,Fragmented Local Foresight,local_fragmentation,0.544,0.508,Local innovation grows but national support and capacity equality remain uneven.
+SC1,Embedded Foresight State Capacity,integrated_capacity,0.4272,0.694,Foresight is embedded in budgets regulation implementation and public learning.
+SC6,Democratic Public Foresight,democratic_foresight,0.4096,0.7176,Public agencies communities workers and experts co-create foresight and policy learning.

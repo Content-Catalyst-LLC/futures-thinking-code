@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_family,technology_disruption,climate_stress,fiscal_pressure,public_trust,institutional_capacity,participation_quality,review_frequency,implementation_pressure,description
+SC1,Embedded Foresight State Capacity,integrated_capacity,0.58,0.60,0.46,0.76,0.82,0.74,0.78,0.68,Foresight is embedded in budgets regulation implementation and public learning.
+SC2,Foresight as Strategy Theater,symbolic_foresight,0.56,0.58,0.54,0.44,0.46,0.34,0.32,0.36,Public agencies produce future-facing reports with little decision influence.
+SC3,Consultant Driven Foresight,outsourced_foresight,0.60,0.54,0.50,0.46,0.44,0.32,0.40,0.38,External providers shape future narratives but internal learning remains weak.
+SC4,Technocratic Foresight,technocratic_foresight,0.72,0.56,0.46,0.42,0.66,0.28,0.58,0.54,Expert-led models dominate while public contestability and justice are weak.
+SC5,Fragmented Local Foresight,local_fragmentation,0.52,0.70,0.62,0.54,0.48,0.66,0.52,0.58,Local innovation grows but national support and capacity equality remain uneven.
+SC6,Democratic Public Foresight,democratic_foresight,0.54,0.60,0.48,0.82,0.74,0.90,0.76,0.66,Public agencies communities workers and experts co-create foresight and policy learning.
+SC7,Reactive Crisis Planning,crisis_response,0.62,0.76,0.72,0.36,0.38,0.30,0.24,0.44,Institutions respond after disruption rather than building standing foresight capacity.

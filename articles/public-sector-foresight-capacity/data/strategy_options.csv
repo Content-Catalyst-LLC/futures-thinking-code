@@ -1,0 +1,8 @@
+strategy_id,strategy_name,strategy_type,foresight_mandate,horizon_scanning,scenario_cycles,decision_pathways,participatory_foresight,budget_alignment,evaluation_capacity,knowledge_infrastructure,implementation_authority,description
+ST1,Standing Foresight Mandate,institutional_design,0.90,0.70,0.72,0.74,0.58,0.62,0.66,0.68,0.72,Defines authority responsibility decision pathways and recurring foresight obligations.
+ST2,Public Horizon Scanning System,scanning_system,0.70,0.92,0.66,0.60,0.62,0.54,0.64,0.86,0.58,Creates signal repositories source mapping interpretation routines and escalation pathways.
+ST3,Recurring Scenario Cycle,scenario_planning,0.72,0.70,0.92,0.68,0.66,0.60,0.72,0.70,0.62,Institutionalizes scenario planning assumption review policy stress testing and monitoring.
+ST4,Foresight to Budget Pipeline,public_finance,0.76,0.66,0.70,0.86,0.56,0.94,0.74,0.70,0.88,Links foresight to prevention budgets infrastructure investment procurement and implementation.
+ST5,Participatory Public Foresight Program,democratic_foresight,0.70,0.68,0.78,0.66,0.94,0.58,0.76,0.66,0.62,Builds community foresight citizen deliberation contestability and public learning.
+ST6,Policy Lab With Implementation Pathways,experimentation,0.68,0.62,0.72,0.74,0.76,0.60,0.88,0.64,0.72,Connects pilots prototypes evaluation and safeguards to scaling decisions.
+ST7,Foresight Evaluation and Maturity Model,evaluation,0.72,0.66,0.68,0.70,0.70,0.64,0.92,0.76,0.66,Tracks uptake quality inclusion decisions changed learning and public value.

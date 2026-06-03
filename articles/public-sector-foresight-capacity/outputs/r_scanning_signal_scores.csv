@@ -1,0 +1,9 @@
+"signal_id","signal_name","domain","signal_strength","novelty","uncertainty","policy_relevance","equity_relevance","detection_difficulty","response_readiness","description","scanning_signal_priority_score","response_gap_score"
+"S2","Rapid AI Procurement Across Public Agencies","ai_governance",0.78,0.64,0.58,0.8,0.74,0.5,0.4,"Fast public AI procurement can outrun audit procurement rules public explanation and rights safeguards.",0.6776,0.6
+"S1","Insurance Withdrawal from High-Risk Neighborhoods","climate_infrastructure",0.72,0.52,0.5,0.84,0.82,0.42,0.44,"Insurance retreat signals climate exposure housing vulnerability and fiscal risk.",0.6488,0.56
+"S5","Youth Trust Decline in Public Institutions","democracy",0.62,0.48,0.56,0.72,0.74,0.58,0.42,"Declining youth trust can indicate long-term legitimacy and democratic participation risk.",0.6228,0.58
+"S6","Water Stress Complaints from Local Communities","water_systems",0.6,0.4,0.52,0.78,0.76,0.46,0.48,"Community reports can detect water stress before national indicators shift.",0.5964,0.52
+"S7","Regional Care Workforce Shortage","demography_health",0.68,0.44,0.46,0.78,0.72,0.4,0.5,"Care workforce shortage signals aging pressure public health strain and service vulnerability.",0.5904,0.5
+"S3","Local Service Demand Spike","public_services",0.66,0.42,0.46,0.76,0.78,0.38,0.52,"Service demand anomalies can reveal demographic stress health pressure or economic vulnerability.",0.5856,0.48
+"S4","Deferred Infrastructure Maintenance Backlog","infrastructure",0.7,0.36,0.42,0.82,0.68,0.34,0.48,"Maintenance backlog indicates future failure risk and budget underinvestment.",0.5756,0.52
+"S8","Supply Chain Chokepoint for Critical Public Inputs","supply_chains",0.66,0.46,0.52,0.74,0.58,0.44,0.54,"Input delays can reveal geopolitical dependency procurement fragility and emergency preparedness gaps.",0.5664,0.46

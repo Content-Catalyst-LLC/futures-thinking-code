@@ -1,0 +1,9 @@
+pathway_id,capacity_id,scenario_id,pathway_name,final_foresight_capacity,mean_foresight_capacity,final_decision_uptake,final_legitimacy_score,final_learning_score
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,1.8,1.4297,1.0748,1.3234,1.3695
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,1.8,1.6723,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,1.8,1.6922,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,1.8,1.675,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,1.8,1.715,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,1.8,1.707,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,1.8,1.67,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,1.8,1.6004,1.4,1.4,1.4

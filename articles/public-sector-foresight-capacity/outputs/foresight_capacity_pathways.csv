@@ -1,0 +1,321 @@
+pathway_id,capacity_id,scenario_id,pathway_name,time_step,foresight_capacity,decision_uptake,legitimacy_score,learning_score
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,1,0.34,0.19,0.34,0.26
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,2,0.4067,0.2132,0.3656,0.2801
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,3,0.475,0.2364,0.3912,0.3006
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,4,0.545,0.2596,0.4168,0.3216
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,5,0.6168,0.2828,0.4424,0.343
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,6,0.6903,0.306,0.468,0.365
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,7,0.7655,0.3292,0.4936,0.3873
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,8,0.8343,0.3484,0.5162,0.4081
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,9,0.9128,0.3716,0.5418,0.4313
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,10,0.993,0.3948,0.5674,0.455
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,11,1.075,0.418,0.593,0.4792
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,12,1.1588,0.4412,0.6186,0.5038
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,13,1.2443,0.4644,0.6442,0.5289
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,14,1.3317,0.4876,0.6698,0.5545
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,15,1.4208,0.5108,0.6954,0.5805
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,16,1.5037,0.53,0.718,0.6049
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,17,1.5962,0.5532,0.7436,0.6317
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,18,1.6906,0.5764,0.7692,0.6591
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,19,1.7868,0.5996,0.7948,0.6869
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,20,1.8,0.6228,0.8204,0.7151
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,21,1.8,0.646,0.846,0.7438
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,22,1.8,0.6692,0.8716,0.773
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,23,1.8,0.6924,0.8972,0.8027
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,24,1.8,0.7116,0.9198,0.8307
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,25,1.8,0.7348,0.9454,0.8612
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,26,1.8,0.758,0.971,0.8922
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,27,1.8,0.7812,0.9966,0.9236
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,28,1.8,0.8044,1.0222,0.9555
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,29,1.8,0.8276,1.0478,0.9878
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,30,1.8,0.8508,1.0734,1.0206
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,31,1.8,0.874,1.099,1.0539
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,32,1.8,0.8932,1.1216,1.0856
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,33,1.8,0.9164,1.1472,1.1197
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,34,1.8,0.9396,1.1728,1.1543
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,35,1.8,0.9628,1.1984,1.1894
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,36,1.8,0.986,1.224,1.2249
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,37,1.8,1.0092,1.2496,1.2609
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,38,1.8,1.0324,1.2752,1.2973
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,39,1.8,1.0556,1.3008,1.3342
+PW1,FC1,SC2,Ad Hoc Workshop Under Strategy Theater,40,1.8,1.0748,1.3234,1.3695
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,1,0.62,0.45,0.54,0.62
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,2,0.7667,0.5094,0.5888,0.6706
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,3,0.9176,0.5688,0.6376,0.7224
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,4,1.0725,0.6282,0.6864,0.7753
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,5,1.2316,0.6876,0.7352,0.8295
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,6,1.3948,0.747,0.784,0.8848
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,7,1.5622,0.8064,0.8328,0.9413
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,8,1.7256,0.8618,0.8786,0.997
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,9,1.8,0.9212,0.9274,1.0558
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,10,1.8,0.9806,0.9762,1.1158
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,11,1.8,1.04,1.025,1.177
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,12,1.8,1.0994,1.0738,1.2394
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,13,1.8,1.1588,1.1226,1.303
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,14,1.8,1.2182,1.1714,1.3677
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,15,1.8,1.2776,1.2202,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,16,1.8,1.333,1.266,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,17,1.8,1.3924,1.3148,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,18,1.8,1.4,1.3636,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,19,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,20,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,21,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,22,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,23,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,24,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,25,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,26,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,27,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,28,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,29,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,30,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,31,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,32,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,33,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,34,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,35,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,36,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,37,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,38,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,39,1.8,1.4,1.4,1.4
+PW2,FC2,SC1,Central Foresight Unit Integrated Pathway,40,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,1,0.66,0.6,0.6,0.72
+PW3,FC3,SC1,Distributed Ministry Network Pathway,2,0.8261,0.6768,0.6564,0.7803
+PW3,FC3,SC1,Distributed Ministry Network Pathway,3,0.9973,0.7536,0.7128,0.8422
+PW3,FC3,SC1,Distributed Ministry Network Pathway,4,1.1736,0.8304,0.7692,0.9056
+PW3,FC3,SC1,Distributed Ministry Network Pathway,5,1.3551,0.9072,0.8256,0.9706
+PW3,FC3,SC1,Distributed Ministry Network Pathway,6,1.5417,0.984,0.882,1.037
+PW3,FC3,SC1,Distributed Ministry Network Pathway,7,1.7336,1.0608,0.9384,1.1051
+PW3,FC3,SC1,Distributed Ministry Network Pathway,8,1.8,1.1336,0.9918,1.1725
+PW3,FC3,SC1,Distributed Ministry Network Pathway,9,1.8,1.2104,1.0482,1.2435
+PW3,FC3,SC1,Distributed Ministry Network Pathway,10,1.8,1.2872,1.1046,1.3161
+PW3,FC3,SC1,Distributed Ministry Network Pathway,11,1.8,1.364,1.161,1.3902
+PW3,FC3,SC1,Distributed Ministry Network Pathway,12,1.8,1.4,1.2174,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,13,1.8,1.4,1.2738,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,14,1.8,1.4,1.3302,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,15,1.8,1.4,1.3866,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,16,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,17,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,18,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,19,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,20,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,21,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,22,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,23,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,24,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,25,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,26,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,27,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,28,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,29,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,30,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,31,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,32,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,33,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,34,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,35,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,36,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,37,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,38,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,39,1.8,1.4,1.4,1.4
+PW3,FC3,SC1,Distributed Ministry Network Pathway,40,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,1,0.6,0.48,0.62,0.74
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,2,0.7549,0.5466,0.6866,0.8003
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,3,0.9145,0.6132,0.7532,0.862
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,4,1.0791,0.6798,0.8198,0.925
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,5,1.2485,0.7464,0.8864,0.9893
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,6,1.4228,0.813,0.953,1.055
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,7,1.602,0.8796,1.0196,1.122
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,8,1.778,0.9422,1.0832,1.1882
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,9,1.8,1.0088,1.1498,1.2578
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,10,1.8,1.0754,1.2164,1.3287
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,11,1.8,1.142,1.283,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,12,1.8,1.2086,1.3496,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,13,1.8,1.2752,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,14,1.8,1.3418,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,15,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,16,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,17,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,18,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,19,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,20,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,21,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,22,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,23,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,24,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,25,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,26,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,27,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,28,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,29,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,30,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,31,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,32,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,33,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,34,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,35,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,36,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,37,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,38,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,39,1.8,1.4,1.4,1.4
+PW4,FC4,SC6,Public Foresight Lab Learning Pathway,40,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,1,0.72,0.86,0.66,0.76
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,2,0.9168,0.9652,0.722,0.8301
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,3,1.12,1.0704,0.784,0.9023
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,4,1.3298,1.1756,0.846,0.9766
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,5,1.5462,1.2808,0.908,1.053
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,6,1.7692,1.386,0.97,1.1316
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,7,1.8,1.4,1.032,1.2104
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,8,1.8,1.4,1.091,1.2872
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,9,1.8,1.4,1.153,1.366
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,10,1.8,1.4,1.215,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,11,1.8,1.4,1.277,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,12,1.8,1.4,1.339,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,13,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,14,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,15,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,16,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,17,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,18,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,19,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,20,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,21,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,22,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,23,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,24,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,25,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,26,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,27,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,28,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,29,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,30,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,31,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,32,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,33,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,34,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,35,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,36,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,37,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,38,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,39,1.8,1.4,1.4,1.4
+PW5,FC5,SC1,Budget Integrated Foresight Pathway,40,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,1,0.7,0.61,0.86,0.8
+PW6,FC6,SC6,Participatory Public Foresight Pathway,2,0.8842,0.6914,0.9432,0.8674
+PW6,FC6,SC6,Participatory Public Foresight Pathway,3,1.0742,0.7728,1.0264,0.9365
+PW6,FC6,SC6,Participatory Public Foresight Pathway,4,1.27,0.8542,1.1096,1.0072
+PW6,FC6,SC6,Participatory Public Foresight Pathway,5,1.4716,0.9356,1.1928,1.0795
+PW6,FC6,SC6,Participatory Public Foresight Pathway,6,1.6792,1.017,1.276,1.1534
+PW6,FC6,SC6,Participatory Public Foresight Pathway,7,1.8,1.0984,1.3592,1.229
+PW6,FC6,SC6,Participatory Public Foresight Pathway,8,1.8,1.1758,1.4,1.3041
+PW6,FC6,SC6,Participatory Public Foresight Pathway,9,1.8,1.2572,1.4,1.3828
+PW6,FC6,SC6,Participatory Public Foresight Pathway,10,1.8,1.3386,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,11,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,12,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,13,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,14,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,15,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,16,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,17,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,18,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,19,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,20,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,21,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,22,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,23,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,24,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,25,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,26,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,27,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,28,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,29,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,30,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,31,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,32,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,33,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,34,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,35,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,36,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,37,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,38,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,39,1.8,1.4,1.4,1.4
+PW6,FC6,SC6,Participatory Public Foresight Pathway,40,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,1,0.58,0.5,0.74,0.68
+PW7,FC7,SC5,Local Government Foresight Pathway,2,0.7336,0.5662,0.8096,0.7359
+PW7,FC7,SC5,Local Government Foresight Pathway,3,0.8919,0.6324,0.8792,0.7932
+PW7,FC7,SC5,Local Government Foresight Pathway,4,1.0551,0.6986,0.9488,0.8517
+PW7,FC7,SC5,Local Government Foresight Pathway,5,1.223,0.7648,1.0184,0.9116
+PW7,FC7,SC5,Local Government Foresight Pathway,6,1.3958,0.831,1.088,0.9729
+PW7,FC7,SC5,Local Government Foresight Pathway,7,1.5735,0.8972,1.1576,1.0354
+PW7,FC7,SC5,Local Government Foresight Pathway,8,1.7479,0.9594,1.2242,1.0972
+PW7,FC7,SC5,Local Government Foresight Pathway,9,1.8,1.0256,1.2938,1.1623
+PW7,FC7,SC5,Local Government Foresight Pathway,10,1.8,1.0918,1.3634,1.2287
+PW7,FC7,SC5,Local Government Foresight Pathway,11,1.8,1.158,1.4,1.2965
+PW7,FC7,SC5,Local Government Foresight Pathway,12,1.8,1.2242,1.4,1.3656
+PW7,FC7,SC5,Local Government Foresight Pathway,13,1.8,1.2904,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,14,1.8,1.3566,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,15,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,16,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,17,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,18,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,19,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,20,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,21,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,22,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,23,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,24,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,25,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,26,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,27,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,28,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,29,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,30,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,31,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,32,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,33,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,34,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,35,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,36,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,37,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,38,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,39,1.8,1.4,1.4,1.4
+PW7,FC7,SC5,Local Government Foresight Pathway,40,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,1,0.46,0.32,0.44,0.36
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,2,0.5744,0.3634,0.4798,0.3943
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,3,0.6917,0.4068,0.5196,0.4294
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,4,0.8121,0.4502,0.5594,0.4654
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,5,0.9355,0.4936,0.5992,0.5023
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,6,1.0619,0.537,0.639,0.54
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,7,1.1914,0.5804,0.6788,0.5786
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,8,1.3159,0.6198,0.7156,0.616
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,9,1.4513,0.6632,0.7554,0.6563
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,10,1.5898,0.7066,0.7952,0.6974
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,11,1.7315,0.75,0.835,0.7394
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,12,1.8,0.7934,0.8748,0.7823
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,13,1.8,0.8368,0.9146,0.826
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,14,1.8,0.8802,0.9544,0.8706
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,15,1.8,0.9236,0.9942,0.9161
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,16,1.8,0.963,1.031,0.9604
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,17,1.8,1.0064,1.0708,1.0075
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,18,1.8,1.0498,1.1106,1.0555
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,19,1.8,1.0932,1.1504,1.1043
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,20,1.8,1.1366,1.1902,1.1541
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,21,1.8,1.18,1.23,1.2047
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,22,1.8,1.2234,1.2698,1.2561
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,23,1.8,1.2668,1.3096,1.3085
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,24,1.8,1.3062,1.3464,1.3596
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,25,1.8,1.3496,1.3862,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,26,1.8,1.393,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,27,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,28,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,29,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,30,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,31,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,32,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,33,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,34,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,35,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,36,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,37,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,38,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,39,1.8,1.4,1.4,1.4
+PW8,FC8,SC3,Consultant Driven Foresight Pathway,40,1.8,1.4,1.4,1.4

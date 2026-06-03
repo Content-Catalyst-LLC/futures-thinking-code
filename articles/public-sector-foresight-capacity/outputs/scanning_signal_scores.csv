@@ -1,0 +1,9 @@
+signal_id,signal_name,domain,scanning_signal_priority_score,response_gap_score,description
+S2,Rapid AI Procurement Across Public Agencies,ai_governance,0.6776,0.6,Fast public AI procurement can outrun audit procurement rules public explanation and rights safeguards.
+S1,Insurance Withdrawal from High-Risk Neighborhoods,climate_infrastructure,0.6488,0.56,Insurance retreat signals climate exposure housing vulnerability and fiscal risk.
+S5,Youth Trust Decline in Public Institutions,democracy,0.6228,0.58,Declining youth trust can indicate long-term legitimacy and democratic participation risk.
+S6,Water Stress Complaints from Local Communities,water_systems,0.5964,0.52,Community reports can detect water stress before national indicators shift.
+S7,Regional Care Workforce Shortage,demography_health,0.5904,0.5,Care workforce shortage signals aging pressure public health strain and service vulnerability.
+S3,Local Service Demand Spike,public_services,0.5856,0.48,Service demand anomalies can reveal demographic stress health pressure or economic vulnerability.
+S4,Deferred Infrastructure Maintenance Backlog,infrastructure,0.5756,0.52,Maintenance backlog indicates future failure risk and budget underinvestment.
+S8,Supply Chain Chokepoint for Critical Public Inputs,supply_chains,0.5664,0.46,Input delays can reveal geopolitical dependency procurement fragility and emergency preparedness gaps.

@@ -1,0 +1,9 @@
+uptake_id,capacity_id,decision_area,decision_uptake_score,budget_influence,implementation_influence,description
+U5,FC5,Budget and investment process,0.7488,0.9,0.78,Budget-integrated foresight influences finance resilience investment and procurement.
+U6,FC6,Participatory strategy and review,0.6632,0.6,0.62,Participatory model connects public voice scenario planning and accountability.
+U3,FC3,Departmental policy review,0.5868,0.56,0.6,Distributed network channels foresight into policy review cycles and sectoral plans.
+U7,FC7,Local resilience planning,0.5584,0.42,0.64,Local foresight affects resilience planning and community engagement but remains fiscally constrained.
+U4,FC4,Experimentation pipeline,0.5436,0.42,0.54,Policy lab connects foresight to prototypes but needs stronger implementation authority.
+U2,FC2,Executive strategic briefing,0.4448,0.38,0.42,Central foresight findings reach senior officials but have mixed budget and participation effects.
+U8,FC8,External report delivery,0.2724,0.26,0.24,Outsourced foresight produces reports but weakly changes institutional routines.
+U1,FC1,Strategic conversation only,0.1588,0.12,0.14,Workshop insights remain mostly conversational with weak formal decision impact.
