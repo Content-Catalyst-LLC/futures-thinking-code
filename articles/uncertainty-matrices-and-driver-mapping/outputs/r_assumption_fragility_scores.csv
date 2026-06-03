@@ -1,0 +1,6 @@
+"assumption_id","driver_id","assumption_name","assumption_text","confidence","fragility","monitoring_signal","revision_rule","assumption_failure_risk"
+"A5","D10","Fiscal capacity assumption","Public finance can absorb repeated emergencies without crowding out prevention",0.42,0.86,"fiscal_resilience_gap_index","Revise investment strategy if fiscal gap widens.",0.734
+"A3","D3","AI accountability assumption","Public AI accountability capacity can mature alongside deployment",0.44,0.84,"public_ai_appeal_failure_rate","Pause deployment assumptions if appeal failures increase.",0.714
+"A2","D2","Trust cooperation assumption","Public trust remains sufficient to support basic policy cooperation",0.46,0.82,"trust_divergence_index","Move to fragmentation scenario if trust divergence widens and participation declines.",0.694
+"A4","D4","Energy stress assumption","Energy affordability and grid stress remain manageable through incremental policy",0.5,0.8,"energy_burden_and_grid_stress_index","Shift to high-stress energy scenario if threshold is crossed.",0.665
+"A1","D1","Climate envelope assumption","Compound climate hazards remain within the current adaptation planning envelope",0.52,0.78,"compound_hazard_frequency_index","Revise scenarios if index exceeds threshold for two consecutive reviews.",0.645

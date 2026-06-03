@@ -1,0 +1,6 @@
+assumption_id,driver_id,assumption_name,assumption_text,confidence,fragility,monitoring_signal,revision_rule
+A1,D1,Climate envelope assumption,Compound climate hazards remain within the current adaptation planning envelope,0.52,0.78,compound_hazard_frequency_index,Revise scenarios if index exceeds threshold for two consecutive reviews.
+A2,D2,Trust cooperation assumption,Public trust remains sufficient to support basic policy cooperation,0.46,0.82,trust_divergence_index,Move to fragmentation scenario if trust divergence widens and participation declines.
+A3,D3,AI accountability assumption,Public AI accountability capacity can mature alongside deployment,0.44,0.84,public_ai_appeal_failure_rate,Pause deployment assumptions if appeal failures increase.
+A4,D4,Energy stress assumption,Energy affordability and grid stress remain manageable through incremental policy,0.50,0.80,energy_burden_and_grid_stress_index,Shift to high-stress energy scenario if threshold is crossed.
+A5,D10,Fiscal capacity assumption,Public finance can absorb repeated emergencies without crowding out prevention,0.42,0.86,fiscal_resilience_gap_index,Revise investment strategy if fiscal gap widens.

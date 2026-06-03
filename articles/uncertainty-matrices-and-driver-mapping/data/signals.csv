@@ -1,0 +1,11 @@
+signal_id,driver_id,signal_name,signal_type,novelty,relevance,urgency,evidence_quality,affected_voice,interpretation
+S1,D1,More frequent compound heat and storm events,climate_signal,0.56,0.92,0.88,0.86,0.64,Compound climate hazards are becoming central to planning assumptions.
+S2,D2,Trust divergence across communities,legitimacy_signal,0.66,0.86,0.78,0.68,0.72,Trust is uneven and may fracture further under service failures.
+S3,D3,Public complaints about automated eligibility decisions,accountability_signal,0.70,0.84,0.78,0.72,0.76,AI accountability capacity may lag deployment.
+S4,D4,Peak-load strain and energy-burden growth,infrastructure_signal,0.60,0.86,0.82,0.80,0.66,Energy affordability and reliability risks are converging.
+S5,D5,Care-worker exits and staffing shortages,labor_signal,0.58,0.82,0.76,0.78,0.72,Care capacity is weakening under demographic and workforce pressure.
+S6,D6,Regional water conflict and biodiversity stress,ecology_signal,0.68,0.88,0.80,0.74,0.66,Food water and ecological systems are becoming more tightly coupled.
+S7,D7,Maintenance backlog and public-service interruptions,infrastructure_signal,0.54,0.84,0.84,0.82,0.58,Deferred maintenance is moving from hidden risk to visible failure.
+S8,D8,Student disengagement with future relevance,learning_signal,0.68,0.74,0.66,0.60,0.74,Education may be misaligned with future uncertainty and civic capability.
+S9,D9,Supply disruptions for strategic materials,geopolitical_signal,0.72,0.84,0.80,0.66,0.54,Geopolitical fragmentation may create material bottlenecks.
+S10,D10,Public finance stress after repeated emergencies,fiscal_signal,0.62,0.88,0.84,0.72,0.62,Emergency costs may crowd out preventive investment.

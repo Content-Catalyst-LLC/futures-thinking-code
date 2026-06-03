@@ -1,0 +1,11 @@
+indicator_id,driver_id,indicator_name,baseline,threshold,review_frequency,assumption_risk,trigger_rule,decision_response
+M1,D1,compound_hazard_frequency_index,0.34,0.50,quarterly,Climate stress remains within current adaptation envelope,If compound hazard index exceeds threshold,Revise baseline assumptions and stress-test adaptation scenarios.
+M2,D2,trust_divergence_index,0.42,0.58,semiannual,Public trust remains sufficient for cooperation,If trust divergence widens,Activate legitimacy and participation review.
+M3,D3,public_ai_appeal_failure_rate,0.28,0.44,quarterly,AI accountability mechanisms keep pace with deployment,If appeal failure rate rises,Pause high-risk AI scaling and strengthen due-process safeguards.
+M4,D4,energy_burden_and_grid_stress_index,0.46,0.64,quarterly,Energy system stress remains manageable,If energy stress rises above threshold,Escalate affordability and grid resilience strategy.
+M5,D5,care_workforce_strain_index,0.50,0.66,quarterly,Care workforce capacity remains stable,If care strain exceeds threshold,Activate workforce resilience and prevention planning.
+M6,D6,food_water_ecology_stress_index,0.48,0.64,semiannual,Regional ecological stress remains localized,If regional stress rises,Convene integrated food-water-ecology review.
+M7,D7,infrastructure_backlog_risk_index,0.52,0.68,semiannual,Backlog remains manageable,If backlog risk exceeds threshold,Shift investment toward maintenance stewardship.
+M8,D8,anticipatory_learning_gap_index,0.40,0.60,annual,Civic futures capability develops gradually,If learning gap remains high,Revise curriculum and public learning investments.
+M9,D9,supply_security_disruption_index,0.38,0.58,quarterly,Supply disruptions remain temporary,If disruption index rises,Stress-test strategic-material and supply security scenarios.
+M10,D10,fiscal_resilience_gap_index,0.44,0.62,quarterly,Public finance can absorb emergencies,If fiscal resilience gap widens,Review no-regret investments and financing options.

@@ -1,0 +1,11 @@
+driver_id,driver_name,domain,driver_type,impact,uncertainty,urgency,interaction_strength,distributional_burden,monitoring_feasibility,evidence_strength,controllability,description
+D1,Climate exposure and compound hazards,environmental,structural_driver,0.92,0.62,0.88,0.90,0.92,0.78,0.86,0.42,Increasing compound climate hazards affect housing health infrastructure energy and migration.
+D2,Public trust and institutional legitimacy,political_institutional,critical_uncertainty,0.88,0.82,0.80,0.84,0.84,0.70,0.68,0.54,Trust may recover fragment or collapse depending on accountability performance and public voice.
+D3,Public-sector AI accountability capacity,technology_governance,critical_uncertainty,0.84,0.78,0.78,0.76,0.88,0.74,0.72,0.62,AI deployment may outpace audit appeal rights procurement standards and institutional oversight.
+D4,Energy affordability and grid resilience,energy_infrastructure,structural_driver,0.86,0.70,0.82,0.86,0.86,0.82,0.80,0.58,Energy burden and grid stress interact with climate exposure electrification and public trust.
+D5,Care workforce capacity,health_labor,structural_driver,0.82,0.66,0.76,0.78,0.90,0.76,0.78,0.48,Care labor capacity affects public health aging resilience and household vulnerability.
+D6,Regional food-water-ecology stress,ecological_systems,critical_uncertainty,0.88,0.74,0.80,0.88,0.88,0.68,0.74,0.38,Water stress biodiversity loss food production and land-use conflict may create cascading regional risks.
+D7,Infrastructure maintenance backlog,infrastructure,structural_driver,0.84,0.58,0.84,0.82,0.82,0.80,0.82,0.56,Deferred maintenance creates hidden fragility across public systems and long-lived assets.
+D8,Futures literacy and civic capability,education_civic_capacity,watchlist_uncertainty,0.74,0.70,0.66,0.72,0.76,0.62,0.60,0.52,Learning systems may or may not build the civic and anticipatory capacity needed for uncertainty.
+D9,Geopolitical fragmentation and supply security,geopolitics,critical_uncertainty,0.86,0.80,0.78,0.84,0.76,0.70,0.66,0.34,Conflict sanctions trade fragmentation and supply-chain disruptions may reshape strategic options.
+D10,Public finance and fiscal capacity,economic_governance,critical_uncertainty,0.90,0.76,0.82,0.86,0.84,0.78,0.72,0.60,Fiscal capacity may enable resilience investment or constrain adaptation under austerity.

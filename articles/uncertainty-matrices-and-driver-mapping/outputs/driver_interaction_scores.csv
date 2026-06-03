@@ -1,0 +1,15 @@
+interaction_id,source_driver_id,target_driver_id,relationship_type,influence_weight,direction,delay_risk,cascade_potential,interaction_priority_score,notes
+I1,D1,D4,reinforces,0.86,positive,0.62,0.88,0.7473,Climate hazards increase cooling demand and grid stress.
+I13,D10,D7,conditions,0.84,mixed,0.7,0.88,0.7468,Fiscal capacity determines whether maintenance backlog is reduced or deferred.
+I3,D1,D6,reinforces,0.82,positive,0.7,0.88,0.729,Climate hazards intensify ecological and water-system stress.
+I9,D6,D1,amplifies_vulnerability,0.8,positive,0.68,0.88,0.7072,Ecological stress amplifies climate vulnerability and adaptation burdens.
+I10,D7,D4,reinforces,0.78,positive,0.66,0.86,0.6809,Infrastructure backlog increases grid and energy-system vulnerability.
+I2,D1,D5,reinforces,0.78,positive,0.58,0.82,0.656,Climate exposure increases health and care-system burden.
+I12,D10,D1,conditions,0.76,mixed,0.56,0.82,0.6354,Fiscal capacity shapes adaptation and climate-risk response.
+I4,D2,D3,conditions,0.76,mixed,0.52,0.74,0.6095,Trust shapes legitimacy and public response to AI governance.
+I6,D3,D2,reinforces_or_weakens,0.74,mixed,0.46,0.76,0.5868,AI harms may erode trust while accountable governance may strengthen it.
+I7,D4,D2,affects_legitimacy,0.72,mixed,0.5,0.8,0.5868,Energy affordability and outage risk shape institutional legitimacy.
+I11,D9,D4,constrains,0.72,positive,0.5,0.8,0.5868,Geopolitical fragmentation affects energy materials and grid transition inputs.
+I5,D2,D7,conditions,0.7,mixed,0.6,0.78,0.5838,Low trust reduces support for maintenance investment and stewardship.
+I8,D5,D2,affects_trust,0.68,mixed,0.54,0.74,0.5488,Care-system strain influences public experience of institutional reliability.
+I14,D8,D2,strengthens,0.58,positive,0.74,0.62,0.4762,Futures literacy and civic capability may support trust and public reasoning.

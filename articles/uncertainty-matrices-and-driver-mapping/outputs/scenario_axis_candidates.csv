@@ -1,0 +1,6 @@
+axis_rank,driver_id,driver_name,domain,impact,uncertainty,axis_suitability_score,scenario_axis_note
+1,D10,Public finance and fiscal capacity,economic_governance,0.9,0.76,0.3304,Candidate axis for scenario contrast: Public finance and fiscal capacity
+2,D2,Public trust and institutional legitimacy,political_institutional,0.88,0.82,0.2885,Candidate axis for scenario contrast: Public trust and institutional legitimacy
+3,D6,Regional food-water-ecology stress,ecological_systems,0.88,0.74,0.2884,Candidate axis for scenario contrast: Regional food-water-ecology stress
+4,D9,Geopolitical fragmentation and supply security,geopolitics,0.86,0.8,0.267,Candidate axis for scenario contrast: Geopolitical fragmentation and supply security
+5,D3,Public-sector AI accountability capacity,technology_governance,0.84,0.78,0.2653,Candidate axis for scenario contrast: Public-sector AI accountability capacity

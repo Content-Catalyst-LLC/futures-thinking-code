@@ -1,0 +1,15 @@
+interaction_id,source_driver_id,target_driver_id,relationship_type,influence_weight,direction,delay_risk,cascade_potential,notes
+I1,D1,D4,reinforces,0.86,positive,0.62,0.88,Climate hazards increase cooling demand and grid stress.
+I2,D1,D5,reinforces,0.78,positive,0.58,0.82,Climate exposure increases health and care-system burden.
+I3,D1,D6,reinforces,0.82,positive,0.70,0.88,Climate hazards intensify ecological and water-system stress.
+I4,D2,D3,conditions,0.76,mixed,0.52,0.74,Trust shapes legitimacy and public response to AI governance.
+I5,D2,D7,conditions,0.70,mixed,0.60,0.78,Low trust reduces support for maintenance investment and stewardship.
+I6,D3,D2,reinforces_or_weakens,0.74,mixed,0.46,0.76,AI harms may erode trust while accountable governance may strengthen it.
+I7,D4,D2,affects_legitimacy,0.72,mixed,0.50,0.80,Energy affordability and outage risk shape institutional legitimacy.
+I8,D5,D2,affects_trust,0.68,mixed,0.54,0.74,Care-system strain influences public experience of institutional reliability.
+I9,D6,D1,amplifies_vulnerability,0.80,positive,0.68,0.88,Ecological stress amplifies climate vulnerability and adaptation burdens.
+I10,D7,D4,reinforces,0.78,positive,0.66,0.86,Infrastructure backlog increases grid and energy-system vulnerability.
+I11,D9,D4,constrains,0.72,positive,0.50,0.80,Geopolitical fragmentation affects energy materials and grid transition inputs.
+I12,D10,D1,conditions,0.76,mixed,0.56,0.82,Fiscal capacity shapes adaptation and climate-risk response.
+I13,D10,D7,conditions,0.84,mixed,0.70,0.88,Fiscal capacity determines whether maintenance backlog is reduced or deferred.
+I14,D8,D2,strengthens,0.58,positive,0.74,0.62,Futures literacy and civic capability may support trust and public reasoning.
