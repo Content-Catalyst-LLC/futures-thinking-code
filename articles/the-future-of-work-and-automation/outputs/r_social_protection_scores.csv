@@ -1,0 +1,7 @@
+"protection_id","occupation_id","protection_name","training_access","income_support","portable_benefits","wage_floor","appeal_rights","collective_bargaining_access","public_investment","description","social_protection_readiness_score","social_protection_gap_score"
+"SP5","O5","Platform worker portable protection",0.3,0.28,0.26,0.34,0.24,0.2,0.28,"Platform workers face weak protections and limited appeal rights.",0.272,0.728
+"SP6","O7","Logistics worker algorithmic protections",0.38,0.36,0.34,0.44,0.32,0.28,0.36,"Logistics workers need stronger protections against surveillance and pace pressure.",0.3548,0.6452
+"SP1","O1","Administrative transition support",0.46,0.44,0.42,0.5,0.48,0.38,0.44,"Support is uneven for administrative workers facing AI exposure.",0.446,0.554
+"SP3","O3","Care workforce stabilization",0.48,0.46,0.44,0.58,0.5,0.42,0.6,"Care work needs wage support staffing and public investment.",0.494,0.506
+"SP2","O2","Skilled trades apprenticeship and safety protection",0.66,0.52,0.5,0.62,0.54,0.58,0.64,"Apprenticeships and safety rules support mobility in skilled work.",0.5792,0.4208
+"SP4","O4","Professional AI transition support",0.72,0.54,0.56,0.62,0.58,0.48,0.56,"Knowledge workers often have better access to AI training and mobility.",0.5824,0.4176

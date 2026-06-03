@@ -1,0 +1,7 @@
+scenario_id,scenario_name,scenario_family,automation_intensity,augmentation_capacity,worker_voice,job_quality,surveillance_intensity,transition_support,skill_mobility,social_protection,description
+S1,Automation for Control,control,0.86,0.34,0.22,0.30,0.88,0.28,0.32,0.26,Automation is used to reduce costs intensify work and expand monitoring.
+S2,Augmented Professional Work,augmentation,0.52,0.78,0.48,0.62,0.54,0.56,0.68,0.52,AI supports professionals while governance and access remain uneven.
+S3,Platformized Labor Markets,platformization,0.74,0.42,0.26,0.34,0.82,0.34,0.40,0.30,More work is mediated by platforms ratings dynamic pay and opaque allocation.
+S4,Public-Interest Automation,public_interest,0.58,0.72,0.70,0.74,0.38,0.78,0.76,0.82,Automation reduces drudgery and improves safety with public safeguards.
+S5,Democratic Work Redesign,democratic_redesign,0.50,0.76,0.86,0.82,0.28,0.84,0.82,0.86,Workers participate in redesigning technology workflows and productivity distribution.
+S6,Fragmented Skill Divide,polarization,0.72,0.58,0.34,0.42,0.70,0.36,0.42,0.34,High-skill groups gain leverage while lower-wage workers face monitoring and exposure.

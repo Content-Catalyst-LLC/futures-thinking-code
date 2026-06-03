@@ -1,0 +1,9 @@
+occupation_id,occupation_name,sector,exposure_pressure_score,worker_centered_capacity_score,transition_risk_score,adjusted_job_quality_score,description
+O7,Logistics and Warehousing,logistics,0.7304,0.348,0.5068,0.378,Logistics work faces algorithmic routing pace pressure surveillance and robotics integration.
+O5,Platform-Based Service Work,platform_labor,0.716,0.2664,0.4831,0.3008,Platform work faces algorithmic control income volatility and limited social protection.
+O1,Administrative Support,office_administration,0.6724,0.434,0.3981,0.4744,Administrative roles face high AI exposure and uneven retraining pathways.
+O6,Manufacturing Production,manufacturing,0.6012,0.494,0.2789,0.514,Production work faces robotics workflow automation monitoring and restructured task design.
+O3,Care Work,health_and_care,0.5,0.4308,0.1656,0.4444,Care work remains relational and embodied but faces monitoring documentation and scheduling automation.
+O8,Education and Training,education,0.444,0.588,0.1196,0.5908,Education work may be augmented by AI but depends on human relationships judgment and care.
+O4,Knowledge Work,professional_services,0.4956,0.6512,0.1164,0.6376,Knowledge work is strongly exposed to AI augmentation and output-expectation shifts.
+O2,Skilled Trades and Maintenance,infrastructure,0.4108,0.6072,0.1058,0.6176,Skilled trades have lower substitution exposure but growing diagnostic and robotics augmentation.

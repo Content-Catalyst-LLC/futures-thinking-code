@@ -1,0 +1,7 @@
+risk_id,occupation_id,risk_name,risk_type,probability,severity,detection_difficulty,worker_voice_gap,due_process_gap,privacy_exposure,mitigation_capacity,description
+R1,O1,Automated productivity scoring,performance_management,0.62,0.58,0.52,0.54,0.48,0.58,0.50,Productivity dashboards may intensify administrative work and reduce discretion.
+R2,O3,Care documentation surveillance,care_monitoring,0.58,0.66,0.56,0.60,0.52,0.64,0.46,Care documentation systems can become monitoring tools rather than burden relief.
+R3,O5,Opaque platform deactivation,platform_control,0.76,0.82,0.80,0.78,0.86,0.72,0.28,Platform workers may lose access to work without meaningful appeal.
+R4,O7,Warehouse pace and movement tracking,workplace_surveillance,0.84,0.78,0.60,0.72,0.66,0.86,0.34,High-speed logistics systems can intensify pace and surveillance.
+R5,O4,AI output expectation inflation,knowledge_work_intensification,0.68,0.60,0.58,0.46,0.40,0.48,0.52,AI tools may raise expectations without improving wages autonomy or time.
+R6,O6,Robotics-driven task displacement,robotics_displacement,0.66,0.70,0.54,0.58,0.50,0.46,0.44,Robotics can restructure production jobs faster than training pathways adapt.

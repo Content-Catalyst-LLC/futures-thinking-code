@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,worker_centered_strategy_score,shared_prosperity_score,description
+ST5,Democratic Work Redesign,democratic_redesign,0.854,0.8516,Workers participate in redesigning tasks technology metrics and productivity distribution.
+ST4,Public-Interest Automation Strategy,public_interest,0.8124,0.8132,Uses public policy and investment to align automation with social protection and care infrastructure.
+ST3,Worker-Centered Automation Governance,worker_centered,0.7548,0.7392,Combines automation with worker voice job quality privacy safeguards and shared gains.
+ST2,Reskilling Without Power,training_only,0.4128,0.4096,Offers training but does not strengthen worker voice or distributional protections.
+ST1,Automation for Cost Reduction,cost_reduction,0.2324,0.228,Prioritizes cost savings and automation adoption with weak worker protections.

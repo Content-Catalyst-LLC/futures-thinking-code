@@ -1,0 +1,7 @@
+scenario_id,scenario_name,scenario_family,worker_centered_capacity_score,displacement_control_pressure_score,scenario_class,description
+S5,Democratic Work Redesign,democratic_redesign,0.818,0.2888,High worker-centered capacity,Workers participate in redesigning technology workflows and productivity distribution.
+S4,Public-Interest Automation,public_interest,0.74,0.3608,Contested transition pathway,Automation reduces drudgery and improves safety with public safeguards.
+S2,Augmented Professional Work,augmentation,0.602,0.4724,Contested transition pathway,AI supports professionals while governance and access remain uneven.
+S6,Fragmented Skill Divide,polarization,0.4092,0.6704,High displacement and control risk,High-skill groups gain leverage while lower-wage workers face monitoring and exposure.
+S3,Platformized Labor Markets,platformization,0.334,0.7152,High displacement and control risk,More work is mediated by platforms ratings dynamic pay and opaque allocation.
+S1,Automation for Control,control,0.2772,0.7936,High displacement and control risk,Automation is used to reduce costs intensify work and expand monitoring.

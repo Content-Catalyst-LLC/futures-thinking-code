@@ -1,0 +1,6 @@
+strategy_id,strategy_name,strategy_type,automation_governance,worker_voice,training_commitment,social_protection,job_quality_commitment,privacy_protection,productivity_sharing,care_investment,description
+ST1,Automation for Cost Reduction,cost_reduction,0.28,0.18,0.26,0.24,0.26,0.22,0.20,0.18,Prioritizes cost savings and automation adoption with weak worker protections.
+ST2,Reskilling Without Power,training_only,0.42,0.28,0.68,0.40,0.42,0.38,0.32,0.36,Offers training but does not strengthen worker voice or distributional protections.
+ST3,Worker-Centered Automation Governance,worker_centered,0.78,0.82,0.74,0.70,0.78,0.76,0.70,0.66,Combines automation with worker voice job quality privacy safeguards and shared gains.
+ST4,Public-Interest Automation Strategy,public_interest,0.84,0.76,0.82,0.86,0.82,0.80,0.76,0.84,Uses public policy and investment to align automation with social protection and care infrastructure.
+ST5,Democratic Work Redesign,democratic_redesign,0.86,0.90,0.84,0.82,0.88,0.82,0.86,0.80,Workers participate in redesigning tasks technology metrics and productivity distribution.

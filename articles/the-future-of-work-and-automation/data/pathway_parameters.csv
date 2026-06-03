@@ -1,0 +1,9 @@
+pathway_id,occupation_id,pathway_name,task_exposure,augmentation_capacity,worker_voice,training_access,social_protection,surveillance_intensity,initial_job_quality,time_horizon
+P1,O1,Administrative Support Automation Pathway,0.78,0.54,0.38,0.42,0.46,0.68,0.62,40
+P2,O2,Skilled Trades Augmentation Pathway,0.42,0.66,0.58,0.60,0.56,0.38,0.68,40
+P3,O3,Care Work Under Automation Pressure,0.34,0.52,0.36,0.44,0.40,0.54,0.55,40
+P4,O4,Knowledge Work AI Augmentation Pathway,0.66,0.82,0.54,0.72,0.60,0.46,0.70,40
+P5,O5,Platform-Based Service Work Pathway,0.58,0.40,0.22,0.30,0.24,0.86,0.46,40
+P6,O6,Manufacturing Automation and Robotics Pathway,0.70,0.58,0.46,0.52,0.48,0.62,0.60,40
+P7,O7,Logistics Algorithmic Management Pathway,0.74,0.48,0.28,0.36,0.34,0.82,0.50,40
+P8,O8,Education AI Augmentation Pathway,0.46,0.68,0.52,0.60,0.56,0.42,0.66,40

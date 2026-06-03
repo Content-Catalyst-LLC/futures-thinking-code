@@ -1,0 +1,7 @@
+protection_id,occupation_id,protection_name,social_protection_readiness_score,social_protection_gap_score,description
+SP5,O5,Platform worker portable protection,0.272,0.728,Platform workers face weak protections and limited appeal rights.
+SP6,O7,Logistics worker algorithmic protections,0.3548,0.6452,Logistics workers need stronger protections against surveillance and pace pressure.
+SP1,O1,Administrative transition support,0.446,0.554,Support is uneven for administrative workers facing AI exposure.
+SP3,O3,Care workforce stabilization,0.494,0.506,Care work needs wage support staffing and public investment.
+SP2,O2,Skilled trades apprenticeship and safety protection,0.5792,0.4208,Apprenticeships and safety rules support mobility in skilled work.
+SP4,O4,Professional AI transition support,0.5824,0.4176,Knowledge workers often have better access to AI training and mobility.

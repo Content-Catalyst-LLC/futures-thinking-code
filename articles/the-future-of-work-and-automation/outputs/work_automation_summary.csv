@@ -1,0 +1,9 @@
+pathway_id,occupation_id,pathway_name,final_job_quality,mean_transition_risk,final_skill_mobility
+P2,O2,Skilled Trades Augmentation Pathway,1.5,0.4427,1.2
+P4,O4,Knowledge Work AI Augmentation Pathway,1.4978,0.5584,1.2
+P8,O8,Education AI Augmentation Pathway,1.4962,0.4768,1.2
+P3,O3,Care Work Under Automation Pressure,0.1726,0.5206,1.2
+P1,O1,Administrative Support Automation Pathway,0.0,0.9032,1.1766
+P5,O5,Platform-Based Service Work Pathway,0.0,0.8782,0.5652
+P6,O6,Manufacturing Automation and Robotics Pathway,0.0,0.7615,1.2
+P7,O7,Logistics Algorithmic Management Pathway,0.0,0.9506,0.8436

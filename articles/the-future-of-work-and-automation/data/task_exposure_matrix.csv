@@ -1,0 +1,17 @@
+task_id,occupation_id,task_name,task_category,task_weight,ai_exposure,robotics_exposure,monitoring_exposure,augmentation_potential,human_context_requirement,description
+T1,O1,Document processing and routine correspondence,routine_cognitive,0.24,0.86,0.10,0.54,0.62,0.34,Routine administrative documentation is highly exposed to AI and workflow automation.
+T2,O1,Scheduling and coordination,coordination,0.18,0.68,0.08,0.62,0.64,0.48,Scheduling can be automated but still requires judgment in complex organizations.
+T3,O2,Inspection and diagnosis,technical_judgment,0.24,0.48,0.42,0.40,0.72,0.66,AI tools can support diagnosis while human skill remains central.
+T4,O2,Repair and installation,embodied_physical,0.34,0.22,0.50,0.30,0.56,0.78,Physical work remains context-dependent and locally adaptive.
+T5,O3,Emotional and relational care,care_relational,0.30,0.18,0.16,0.44,0.34,0.92,Care relationships are poorly substitutable even if supported by tools.
+T6,O3,Documentation and compliance reporting,administrative_care,0.20,0.74,0.04,0.62,0.68,0.40,AI documentation tools may reduce burden or increase reporting expectations.
+T7,O4,Research synthesis and drafting,knowledge_work,0.26,0.82,0.02,0.42,0.84,0.58,Generative AI strongly affects drafting analysis and synthesis tasks.
+T8,O4,Strategic judgment and stakeholder negotiation,strategic_judgment,0.22,0.36,0.02,0.30,0.62,0.86,Strategic judgment remains deeply human and institutional.
+T9,O5,Task acceptance and route execution,platform_coordination,0.32,0.52,0.10,0.88,0.34,0.42,Platform systems coordinate tasks through algorithmic management.
+T10,O5,Customer interaction and service delivery,service_interaction,0.28,0.36,0.08,0.72,0.42,0.68,Service delivery combines human presence with platform scoring.
+T11,O6,Machine operation and repetitive assembly,routine_physical,0.34,0.42,0.78,0.64,0.50,0.42,Robotics and monitoring are strong in structured production settings.
+T12,O6,Quality control and exception handling,technical_judgment,0.24,0.58,0.36,0.54,0.66,0.62,AI can assist quality control while humans handle exceptions.
+T13,O7,Picking packing and movement,routine_physical,0.38,0.34,0.70,0.88,0.42,0.38,Warehouse work faces robotics and high monitoring exposure.
+T14,O7,Exception handling and safety judgment,operational_judgment,0.16,0.42,0.28,0.60,0.56,0.70,Human judgment remains crucial in unsafe or unexpected conditions.
+T15,O8,Lesson planning and feedback,education_cognitive,0.24,0.70,0.02,0.36,0.72,0.72,AI can assist planning and feedback while teachers retain pedagogical judgment.
+T16,O8,Classroom relationship and developmental support,education_relational,0.30,0.20,0.02,0.28,0.42,0.92,Human relationships remain central to learning and development.

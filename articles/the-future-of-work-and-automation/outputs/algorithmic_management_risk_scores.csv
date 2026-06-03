@@ -1,0 +1,7 @@
+risk_id,occupation_id,risk_name,risk_type,algorithmic_management_risk_score,mitigation_capacity,description
+R3,O5,Opaque platform deactivation,platform_control,0.7904,0.28,Platform workers may lose access to work without meaningful appeal.
+R4,O7,Warehouse pace and movement tracking,workplace_surveillance,0.7376,0.34,High-speed logistics systems can intensify pace and surveillance.
+R2,O3,Care documentation surveillance,care_monitoring,0.5904,0.46,Care documentation systems can become monitoring tools rather than burden relief.
+R6,O6,Robotics-driven task displacement,robotics_displacement,0.5868,0.44,Robotics can restructure production jobs faster than training pathways adapt.
+R1,O1,Automated productivity scoring,performance_management,0.5516,0.5,Productivity dashboards may intensify administrative work and reduce discretion.
+R5,O4,AI output expectation inflation,knowledge_work_intensification,0.538,0.52,AI tools may raise expectations without improving wages autonomy or time.

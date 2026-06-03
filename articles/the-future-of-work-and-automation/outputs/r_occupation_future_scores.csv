@@ -1,0 +1,9 @@
+"occupation_id","occupation_name","sector","employment_scale","wage_security","task_exposure","augmentation_capacity","worker_voice","training_access","social_protection","surveillance_intensity","initial_job_quality","description","exposure_pressure_score","worker_centered_capacity_score","transition_risk_score"
+"O7","Logistics and Warehousing","logistics",0.62,0.42,0.74,0.48,0.28,0.36,0.34,0.82,0.5,"Logistics work faces algorithmic routing pace pressure surveillance and robotics integration.",0.7304,0.348,0.5068
+"O5","Platform-Based Service Work","platform_labor",0.5,0.26,0.58,0.4,0.22,0.3,0.24,0.86,0.46,"Platform work faces algorithmic control income volatility and limited social protection.",0.716,0.2664,0.4831
+"O1","Administrative Support","office_administration",0.72,0.46,0.78,0.54,0.38,0.42,0.46,0.68,0.62,"Administrative roles face high AI exposure and uneven retraining pathways.",0.6724,0.434,0.3981
+"O6","Manufacturing Production","manufacturing",0.54,0.52,0.7,0.58,0.46,0.52,0.48,0.62,0.6,"Production work faces robotics workflow automation monitoring and restructured task design.",0.6012,0.494,0.2789
+"O3","Care Work","health_and_care",0.76,0.4,0.34,0.52,0.36,0.44,0.4,0.54,0.55,"Care work remains relational and embodied but faces monitoring documentation and scheduling automation.",0.5,0.4308,0.1656
+"O8","Education and Training","education",0.6,0.58,0.46,0.68,0.52,0.6,0.56,0.42,0.66,"Education work may be augmented by AI but depends on human relationships judgment and care.",0.444,0.588,0.1196
+"O4","Knowledge Work","professional_services",0.64,0.66,0.66,0.82,0.54,0.72,0.6,0.46,0.7,"Knowledge work is strongly exposed to AI augmentation and output-expectation shifts.",0.4956,0.6512,0.1164
+"O2","Skilled Trades and Maintenance","infrastructure",0.58,0.62,0.42,0.66,0.58,0.6,0.56,0.38,0.68,"Skilled trades have lower substitution exposure but growing diagnostic and robotics augmentation.",0.4108,0.6072,0.1058
