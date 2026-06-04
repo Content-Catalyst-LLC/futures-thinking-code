@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,geopolitical_strategy_value_score,description
+GT7,GF7,Institutional Renewal and Legitimacy Reform,0.8044,Reforms global and regional institutions around legitimacy representation enforcement and shared risk.
+GT8,GF8,Systemic Breakdown Emergency Stabilization,0.8016,Restores communication humanitarian corridors supply stability and basic institutional coordination.
+GT6,GF6,Regionalized Resilience and Redundancy,0.7248,Strengthens regional infrastructure supply chains food water energy health and security resilience.
+GT5,GF5,Climate-Security Cooperation and Adaptation Finance,0.7186,Links climate adaptation food water migration finance and regional security cooperation.
+GT1,GF1,Managed Rivalry and Crisis Communication,0.717,Maintains competition below conflict thresholds through diplomacy communication and restraint.
+GT3,GF3,Fragmentation Stabilization Package,0.7154,Builds regional capacity humanitarian response public finance and conflict prevention.
+GT4,GF4,Technology Governance and Strategic Stability,0.6884,Builds guardrails for AI cyber semiconductors data platforms satellites and dual-use systems.
+GT2,GF2,Bloc Risk Reduction and Strategic Channels,0.6672,Reduces bloc escalation through selective cooperation standards and crisis channels.

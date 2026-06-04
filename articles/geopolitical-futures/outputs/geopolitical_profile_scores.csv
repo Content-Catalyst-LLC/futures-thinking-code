@@ -1,0 +1,9 @@
+profile_id,future_name,geopolitical_stability_score,cascade_risk_score,profile_class,description
+GF7,Institutional Renewal,0.3862,0.3478,Stronger geopolitical resilience,Global and regional institutions adapt through representation accountability and enforcement reform.
+GF1,Cooperative Multipolarity,0.336,0.3979,Stronger geopolitical resilience,Major powers compete while preserving institutional cooperation and crisis communication.
+GF6,Regionalized Resilience,0.2538,0.458,Stronger geopolitical resilience,Regions build stronger energy food infrastructure health and security systems.
+GF2,Competitive Bloc Formation,0.1336,0.5823,Mixed or transitional geopolitical pathway,States organize into security technology trade finance and information blocs.
+GF4,Technologically Contested Order,0.096,0.6252,Mixed or transitional geopolitical pathway,AI cyber semiconductors satellites data and platforms become central fields of strategic competition.
+GF5,Climate-Security Stress World,0.0578,0.6514,High cascade risk,Climate shocks food pressure water scarcity displacement and infrastructure risk intensify geopolitical stress.
+GF3,Fragmented Instability,0.0171,0.6766,High cascade risk,Regional crises multiply while global institutions weaken.
+GF8,Systemic Breakdown,-0.1226,0.8066,High cascade risk,Rules institutions communication and restraint mechanisms fail across geopolitical domains.

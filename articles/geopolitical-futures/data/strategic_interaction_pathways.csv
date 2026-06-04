@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,communication_capacity,domestic_pressure_a,domestic_pressure_b,economic_interdependence,institutional_buffer,technology_shock_exposure,climate_security_exposure,information_disorder,initial_actor_a,initial_actor_b,time_horizon
+SP1,GF1,GS1,Managed Rivalry Pathway,0.72,0.42,0.44,0.68,0.66,0.40,0.42,0.36,1.00,1.00,40
+SP2,GF2,GS2,Competitive Bloc Formation Pathway,0.48,0.62,0.66,0.42,0.44,0.66,0.54,0.58,1.00,1.00,40
+SP3,GF3,GS3,Fragmented Crisis Pathway,0.30,0.58,0.62,0.28,0.26,0.58,0.74,0.76,1.00,1.00,40
+SP4,GF4,GS4,Technologically Contested Order Pathway,0.40,0.54,0.58,0.50,0.38,0.92,0.54,0.82,1.00,1.00,40
+SP5,GF5,GS5,Climate-Security Stress Pathway,0.36,0.56,0.58,0.44,0.34,0.50,0.94,0.62,1.00,1.00,40
+SP6,GF6,GS6,Regionalized Resilience Pathway,0.58,0.46,0.48,0.54,0.60,0.48,0.52,0.46,1.00,1.00,40
+SP7,GF7,GS7,Institutional Renewal Pathway,0.78,0.36,0.38,0.66,0.82,0.38,0.40,0.30,1.00,1.00,40
+SP8,GF8,GS8,Systemic Breakdown Pathway,0.18,0.76,0.78,0.20,0.16,0.84,0.88,0.86,1.00,1.00,40

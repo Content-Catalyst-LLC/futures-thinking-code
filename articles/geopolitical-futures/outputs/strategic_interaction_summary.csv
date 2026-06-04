@@ -1,0 +1,9 @@
+pathway_id,pathway_name,final_escalation_pressure,mean_escalation_pressure,final_system_resilience,mean_system_resilience
+SP1,Managed Rivalry Pathway,0,0.0099,1.8,1.5533
+SP6,Regionalized Resilience Pathway,0,0.0256,1.8,1.4482
+SP7,Institutional Renewal Pathway,0,0.005,1.8,1.6008
+SP2,Competitive Bloc Formation Pathway,0.2379,0.3,1.6653,1.0213
+SP4,Technologically Contested Order Pathway,0.2516,0.3294,1.4492,0.8931
+SP5,Climate-Security Stress Pathway,0.5033,0.4486,1.0146,0.716
+SP3,Fragmented Crisis Pathway,1.1179,0.7749,0,0.2232
+SP8,Systemic Breakdown Pathway,1.8,1.3711,0,0.0247

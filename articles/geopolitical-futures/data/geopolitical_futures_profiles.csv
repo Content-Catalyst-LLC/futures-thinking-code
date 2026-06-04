@@ -1,0 +1,9 @@
+profile_id,future_name,power_concentration,interdependence,institutional_coordination,technological_competition,climate_stress,economic_vulnerability,domestic_resilience,information_integrity,resource_security,crisis_communication,description
+GF1,Cooperative Multipolarity,0.46,0.74,0.71,0.48,0.52,0.42,0.68,0.64,0.66,0.72,Major powers compete while preserving institutional cooperation and crisis communication.
+GF2,Competitive Bloc Formation,0.68,0.58,0.49,0.72,0.61,0.62,0.52,0.46,0.54,0.48,States organize into security technology trade finance and information blocs.
+GF3,Fragmented Instability,0.57,0.42,0.31,0.63,0.77,0.76,0.36,0.32,0.38,0.30,Regional crises multiply while global institutions weaken.
+GF4,Technologically Contested Order,0.62,0.65,0.44,0.88,0.66,0.58,0.48,0.38,0.50,0.40,AI cyber semiconductors satellites data and platforms become central fields of strategic competition.
+GF5,Climate-Security Stress World,0.54,0.52,0.38,0.56,0.90,0.70,0.40,0.42,0.34,0.36,Climate shocks food pressure water scarcity displacement and infrastructure risk intensify geopolitical stress.
+GF6,Regionalized Resilience,0.50,0.56,0.58,0.52,0.58,0.48,0.62,0.58,0.70,0.58,Regions build stronger energy food infrastructure health and security systems.
+GF7,Institutional Renewal,0.44,0.70,0.82,0.46,0.48,0.38,0.74,0.70,0.72,0.78,Global and regional institutions adapt through representation accountability and enforcement reform.
+GF8,Systemic Breakdown,0.76,0.30,0.22,0.82,0.86,0.88,0.24,0.20,0.26,0.18,Rules institutions communication and restraint mechanisms fail across geopolitical domains.

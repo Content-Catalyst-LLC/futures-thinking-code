@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,geopolitical_governance_capacity_score,description
+GG7,GF7,Institutional Renewal Governance,0.8198,Institutions reform around legitimacy representation enforcement communication and shared risk.
+GG1,GF1,Cooperative Multipolar Governance,0.737,Diplomacy institutions and communication preserve systemic cooperation.
+GG6,GF6,Regionalized Resilience Governance,0.6672,Regional institutions coordinate energy food infrastructure health migration and security resilience.
+GG5,GF5,Climate-Security Governance Capacity,0.5418,Climate-security coordination improves but pressure remains high and uneven.
+GG2,GF2,Bloc Governance with Limited Channels,0.5414,Blocs harden but limited channels reduce escalation.
+GG4,GF4,Technology Contest Governance,0.4458,Technology competition outpaces governance across cyber AI platforms and semiconductors.
+GG3,GF3,Fragmented Instability Governance Gap,0.3556,Weak coordination and legitimacy produce fragmented crisis response.
+GG8,GF8,Systemic Breakdown Governance Baseline,0.2146,Communication legitimacy and coordination collapse across geopolitical systems.

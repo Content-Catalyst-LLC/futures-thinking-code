@@ -1,0 +1,9 @@
+scenario_id,scenario_name,military_tension,economic_fragmentation,technology_rivalry,climate_security_pressure,institutional_weakness,information_disorder,supply_chain_stress,migration_pressure,energy_resource_stress,crisis_communication_gap,description
+GS1,Cooperative Multipolarity,0.38,0.36,0.42,0.48,0.30,0.34,0.36,0.34,0.38,0.28,Competition persists but institutions and communication reduce systemic escalation risk.
+GS2,Competitive Bloc Formation,0.62,0.72,0.76,0.58,0.54,0.58,0.66,0.50,0.60,0.54,Security technology trade finance and information systems harden into competing blocs.
+GS3,Fragmented Instability,0.72,0.68,0.64,0.78,0.80,0.76,0.70,0.72,0.68,0.78,Regional crises multiply while institutions weaken and crisis coordination becomes selective.
+GS4,Technologically Contested Order,0.58,0.62,0.94,0.58,0.60,0.82,0.72,0.44,0.56,0.62,Technology rivalry shapes cyber conflict AI competition semiconductor controls and information instability.
+GS5,Climate-Security Stress World,0.56,0.58,0.52,0.94,0.68,0.62,0.64,0.84,0.78,0.62,Climate shocks intensify food water migration infrastructure and regional security pressures.
+GS6,Regionalized Resilience,0.46,0.48,0.50,0.56,0.46,0.48,0.44,0.42,0.46,0.44,Regions build practical resilience while global order remains contested.
+GS7,Institutional Renewal,0.32,0.34,0.40,0.42,0.24,0.30,0.36,0.32,0.36,0.22,Institutions reform around representation accountability communication and shared risk governance.
+GS8,Systemic Breakdown,0.92,0.88,0.86,0.90,0.94,0.88,0.84,0.86,0.88,0.92,Restraint mechanisms fail across military economic technological environmental and institutional domains.

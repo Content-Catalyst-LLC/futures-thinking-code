@@ -1,0 +1,9 @@
+scenario_id,scenario_name,geopolitical_stress_score,description
+GS8,Systemic Breakdown,0.8892,Restraint mechanisms fail across military economic technological environmental and institutional domains.
+GS3,Fragmented Instability,0.7256,Regional crises multiply while institutions weaken and crisis coordination becomes selective.
+GS5,Climate-Security Stress World,0.6712,Climate shocks intensify food water migration infrastructure and regional security pressures.
+GS4,Technologically Contested Order,0.6594,Technology rivalry shapes cyber conflict AI competition semiconductor controls and information instability.
+GS2,Competitive Bloc Formation,0.6204,Security technology trade finance and information systems harden into competing blocs.
+GS6,Regionalized Resilience,0.4764,Regions build practical resilience while global order remains contested.
+GS1,Cooperative Multipolarity,0.372,Competition persists but institutions and communication reduce systemic escalation risk.
+GS7,Institutional Renewal,0.3348,Institutions reform around representation accountability communication and shared risk governance.

@@ -1,0 +1,6 @@
+risk_id,scenario_id,risk_name,probability_proxy,severity,cascade_potential,visibility_gap,recovery_difficulty,distributional_harm,preparedness,description
+GR1,GS8,Systemic Geopolitical Breakdown,0.42,0.98,0.96,0.60,0.94,0.94,0.22,Multiple restraint mechanisms fail across military economic technological environmental and institutional systems.
+GR2,GS3,Fragmented Regional Crisis Cascade,0.68,0.86,0.88,0.52,0.80,0.90,0.34,Regional crises cascade through food energy migration finance and humanitarian systems.
+GR3,GS4,Technology Escalation and Cyber Cascade,0.64,0.82,0.86,0.72,0.78,0.70,0.36,Cyber AI semiconductor and platform rivalry escalates through opaque technical systems.
+GR4,GS5,Climate-Security Compound Stress,0.76,0.88,0.84,0.56,0.82,0.92,0.30,Heat drought flood food shock water scarcity and displacement intensify geopolitical stress.
+GR5,GS2,Bloc Fragmentation and Economic Retaliation,0.70,0.78,0.78,0.48,0.72,0.68,0.42,Trade finance technology and security blocs amplify retaliation and reduce global problem-solving.

@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,diplomatic_capacity,crisis_communication,institutional_legitimacy,regional_coordination,technology_accountability,climate_security_coordination,information_integrity_capacity,domestic_resilience_capacity,description
+GG1,GF1,Cooperative Multipolar Governance,0.82,0.86,0.74,0.72,0.62,0.66,0.70,0.68,Diplomacy institutions and communication preserve systemic cooperation.
+GG2,GF2,Bloc Governance with Limited Channels,0.58,0.62,0.50,0.54,0.56,0.48,0.50,0.52,Blocs harden but limited channels reduce escalation.
+GG3,GF3,Fragmented Instability Governance Gap,0.38,0.34,0.30,0.36,0.42,0.40,0.32,0.36,Weak coordination and legitimacy produce fragmented crisis response.
+GG4,GF4,Technology Contest Governance,0.52,0.48,0.44,0.46,0.34,0.42,0.38,0.48,Technology competition outpaces governance across cyber AI platforms and semiconductors.
+GG5,GF5,Climate-Security Governance Capacity,0.56,0.52,0.46,0.64,0.44,0.78,0.48,0.50,Climate-security coordination improves but pressure remains high and uneven.
+GG6,GF6,Regionalized Resilience Governance,0.68,0.64,0.60,0.82,0.58,0.72,0.60,0.72,Regional institutions coordinate energy food infrastructure health migration and security resilience.
+GG7,GF7,Institutional Renewal Governance,0.88,0.84,0.92,0.80,0.76,0.78,0.74,0.76,Institutions reform around legitimacy representation enforcement communication and shared risk.
+GG8,GF8,Systemic Breakdown Governance Baseline,0.22,0.18,0.20,0.24,0.26,0.22,0.18,0.24,Communication legitimacy and coordination collapse across geopolitical systems.

@@ -1,0 +1,9 @@
+"profile_id","future_name","power_concentration","interdependence","institutional_coordination","technological_competition","climate_stress","economic_vulnerability","domestic_resilience","information_integrity","resource_security","crisis_communication","description","geopolitical_stability_score","cascade_risk_score"
+"GF7","Institutional Renewal",0.44,0.7,0.82,0.46,0.48,0.38,0.74,0.7,0.72,0.78,"Global and regional institutions adapt through representation accountability and enforcement reform.",0.3862,0.3478
+"GF1","Cooperative Multipolarity",0.46,0.74,0.71,0.48,0.52,0.42,0.68,0.64,0.66,0.72,"Major powers compete while preserving institutional cooperation and crisis communication.",0.336,0.3979
+"GF6","Regionalized Resilience",0.5,0.56,0.58,0.52,0.58,0.48,0.62,0.58,0.7,0.58,"Regions build stronger energy food infrastructure health and security systems.",0.2538,0.458
+"GF2","Competitive Bloc Formation",0.68,0.58,0.49,0.72,0.61,0.62,0.52,0.46,0.54,0.48,"States organize into security technology trade finance and information blocs.",0.1336,0.5823
+"GF4","Technologically Contested Order",0.62,0.65,0.44,0.88,0.66,0.58,0.48,0.38,0.5,0.4,"AI cyber semiconductors satellites data and platforms become central fields of strategic competition.",0.096,0.6252
+"GF5","Climate-Security Stress World",0.54,0.52,0.38,0.56,0.9,0.7,0.4,0.42,0.34,0.36,"Climate shocks food pressure water scarcity displacement and infrastructure risk intensify geopolitical stress.",0.0578,0.6514
+"GF3","Fragmented Instability",0.57,0.42,0.31,0.63,0.77,0.76,0.36,0.32,0.38,0.3,"Regional crises multiply while global institutions weaken.",0.0171,0.6766
+"GF8","Systemic Breakdown",0.76,0.3,0.22,0.82,0.86,0.88,0.24,0.2,0.26,0.18,"Rules institutions communication and restraint mechanisms fail across geopolitical domains.",-0.1226,0.8066

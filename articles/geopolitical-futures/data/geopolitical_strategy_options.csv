@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,diplomacy_gain,crisis_communication_gain,institutional_gain,supply_chain_resilience_gain,technology_governance_gain,climate_security_gain,energy_resource_gain,information_integrity_gain,domestic_resilience_gain,regional_cooperation_gain,implementation_capacity,description
+GT1,GF1,Managed Rivalry and Crisis Communication,0.84,0.94,0.76,0.62,0.60,0.58,0.56,0.70,0.68,0.72,0.70,Maintains competition below conflict thresholds through diplomacy communication and restraint.
+GT2,GF2,Bloc Risk Reduction and Strategic Channels,0.66,0.82,0.60,0.76,0.72,0.54,0.68,0.62,0.60,0.58,0.62,Reduces bloc escalation through selective cooperation standards and crisis channels.
+GT3,GF3,Fragmentation Stabilization Package,0.72,0.76,0.78,0.70,0.60,0.70,0.66,0.66,0.78,0.80,0.54,Builds regional capacity humanitarian response public finance and conflict prevention.
+GT4,GF4,Technology Governance and Strategic Stability,0.62,0.70,0.72,0.74,0.94,0.50,0.58,0.82,0.64,0.56,0.60,Builds guardrails for AI cyber semiconductors data platforms satellites and dual-use systems.
+GT5,GF5,Climate-Security Cooperation and Adaptation Finance,0.68,0.66,0.74,0.70,0.52,0.96,0.84,0.58,0.76,0.86,0.56,Links climate adaptation food water migration finance and regional security cooperation.
+GT6,GF6,Regionalized Resilience and Redundancy,0.70,0.66,0.68,0.86,0.62,0.72,0.80,0.64,0.82,0.92,0.64,Strengthens regional infrastructure supply chains food water energy health and security resilience.
+GT7,GF7,Institutional Renewal and Legitimacy Reform,0.88,0.86,0.96,0.68,0.74,0.76,0.70,0.78,0.76,0.82,0.58,Reforms global and regional institutions around legitimacy representation enforcement and shared risk.
+GT8,GF8,Systemic Breakdown Emergency Stabilization,0.82,0.90,0.84,0.80,0.68,0.78,0.76,0.72,0.86,0.84,0.44,Restores communication humanitarian corridors supply stability and basic institutional coordination.
