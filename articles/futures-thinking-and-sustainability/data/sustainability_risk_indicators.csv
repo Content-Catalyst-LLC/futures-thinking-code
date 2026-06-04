@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,irreversibility,systemic_reach,visibility_gap,distributional_harm,preparedness,description
+SR1,SS5,Climate Shock Governance Failure,climate_governance,0.72,0.92,0.78,0.88,0.54,0.84,0.38,Extreme climate events overwhelm institutions and expose weak preparedness.
+SR2,SS2,Ecological Threshold Crossing,ecological_threshold,0.66,0.90,0.90,0.84,0.62,0.76,0.34,Ecosystem degradation approaches thresholds with irreversible or hard-to-reverse consequences.
+SR3,SS3,Unequal Adaptation and Managed Abandonment,social_vulnerability,0.70,0.82,0.66,0.76,0.50,0.94,0.36,Adaptation resources protect privileged groups while vulnerable communities face exposure.
+SR4,SS4,Technological Solutionism and Extraction,technology_governance,0.64,0.68,0.52,0.62,0.56,0.66,0.44,Green technologies reduce some pressures while shifting extraction labor and governance risks.
+SR5,SS7,Green Growth Without Justice,political_economy,0.68,0.74,0.58,0.72,0.50,0.90,0.42,Transition investment reinforces inequality displacement extraction and weak labor protection.
+SR6,SS6,Regional Resilience Underfunding,public_finance,0.54,0.66,0.48,0.58,0.44,0.62,0.50,Place-based resilience remains underfunded despite ecological and community benefits.
+SR7,SS1,Transition Coordination Failure,governance,0.46,0.70,0.50,0.72,0.42,0.60,0.58,Coordinated transition weakens when institutions lose alignment or public trust.
+SR8,SS8,Transformation Backlash and Legitimacy Risk,democratic_legitimacy,0.48,0.72,0.44,0.66,0.46,0.70,0.56,Ambitious sustainability transformation faces backlash if legitimacy participation and fairness are weak.

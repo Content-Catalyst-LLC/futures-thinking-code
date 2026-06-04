@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,sustainability_viability,stress_exposure,institutional_capacity
+PW1,SF1,SS2,High-Consumption Fragility Pathway,1,1.0,0.6824,0.3796
+PW1,SF1,SS2,High-Consumption Fragility Pathway,2,0.9234,0.6764,0.4149
+PW1,SF1,SS2,High-Consumption Fragility Pathway,3,0.8486,0.6704,0.4502
+PW1,SF1,SS2,High-Consumption Fragility Pathway,4,0.7754,0.6644,0.4855
+PW1,SF1,SS2,High-Consumption Fragility Pathway,5,0.704,0.6584,0.5208
+PW1,SF1,SS2,High-Consumption Fragility Pathway,6,0.6343,0.6524,0.5561
+PW1,SF1,SS2,High-Consumption Fragility Pathway,7,0.5663,0.6464,0.5914
+PW1,SF1,SS2,High-Consumption Fragility Pathway,8,0.5,0.6404,0.6267
+PW1,SF1,SS2,High-Consumption Fragility Pathway,9,0.335,0.6394,0.658
+PW1,SF1,SS2,High-Consumption Fragility Pathway,10,0.2717,0.6334,0.6933
+PW1,SF1,SS2,High-Consumption Fragility Pathway,11,0.2102,0.6274,0.7286
+PW1,SF1,SS2,High-Consumption Fragility Pathway,12,0.1503,0.6214,0.7639
+PW1,SF1,SS2,High-Consumption Fragility Pathway,13,0.0922,0.6154,0.7992
+PW1,SF1,SS2,High-Consumption Fragility Pathway,14,0.0357,0.6094,0.8345
+PW1,SF1,SS2,High-Consumption Fragility Pathway,15,0.0,0.6034,0.8698
+PW1,SF1,SS2,High-Consumption Fragility Pathway,16,0.0,0.5974,0.9051
+PW1,SF1,SS2,High-Consumption Fragility Pathway,17,0.0,0.5914,0.9404
+PW1,SF1,SS2,High-Consumption Fragility Pathway,18,0.0,0.5904,0.9717
+PW1,SF1,SS2,High-Consumption Fragility Pathway,19,0.0,0.5844,1.007
+PW1,SF1,SS2,High-Consumption Fragility Pathway,20,0.0,0.5784,1.0423
+PW1,SF1,SS2,High-Consumption Fragility Pathway,21,0.0,0.5724,1.0776
+PW1,SF1,SS2,High-Consumption Fragility Pathway,22,0.0,0.5664,1.1129
+PW1,SF1,SS2,High-Consumption Fragility Pathway,23,0.0,0.5604,1.1482
+PW1,SF1,SS2,High-Consumption Fragility Pathway,24,0.0,0.5544,1.1835
+PW1,SF1,SS2,High-Consumption Fragility Pathway,25,0.0,0.5484,1.2188
+PW1,SF1,SS2,High-Consumption Fragility Pathway,26,0.0,0.5424,1.2541
+PW1,SF1,SS2,High-Consumption Fragility Pathway,27,0.0,0.5414,1.2854
+PW1,SF1,SS2,High-Consumption Fragility Pathway,28,0.0,0.5354,1.3207
+PW1,SF1,SS2,High-Consumption Fragility Pathway,29,0.0,0.5294,1.356
+PW1,SF1,SS2,High-Consumption Fragility Pathway,30,0.0,0.5234,1.3913
+PW1,SF1,SS2,High-Consumption Fragility Pathway,31,0.0,0.5174,1.4266
+PW1,SF1,SS2,High-Consumption Fragility Pathway,32,0.0,0.5114,1.4619
+PW1,SF1,SS2,High-Consumption Fragility Pathway,33,0.0,0.5054,1.4972
+PW1,SF1,SS2,High-Consumption Fragility Pathway,34,0.0,0.4994,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,35,0.0,0.4934,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,36,0.0,0.4924,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,37,0.0,0.4864,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,38,0.0,0.4804,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,39,0.0,0.4744,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,40,0.0,0.4684,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,1,1.0,0.2592,0.7594
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,2,1.0068,0.1956,0.8327
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,3,1.0198,0.132,0.906
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,4,1.0388,0.0684,0.9793
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,5,1.064,0.0048,1.0526
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,6,1.0923,0.0,1.1259
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,7,1.1236,0.0,1.1992
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,8,1.1577,0.0,1.2725
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,9,1.0947,0.0,1.3418
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,10,1.1346,0.0,1.4151
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,11,1.1774,0.0,1.4884
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,12,1.2207,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,13,1.264,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,14,1.3073,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,15,1.3506,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,16,1.3939,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,17,1.4372,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,18,1.3805,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,19,1.4238,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,20,1.4671,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,21,1.5104,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,22,1.5537,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,23,1.597,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,24,1.6403,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,25,1.6836,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,26,1.7268,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,27,1.6701,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,28,1.7134,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,29,1.7567,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,30,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,31,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,32,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,33,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,34,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,35,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,36,1.7433,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,37,1.7866,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,38,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,39,1.8,0.0,1.5
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,40,1.8,0.0,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,1,1.0,0.6384,0.3708
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,2,0.9304,0.6254,0.4049
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,3,0.8628,0.6124,0.439
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,4,0.7973,0.5994,0.4731
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,5,0.7337,0.5864,0.5072
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,6,0.6722,0.5734,0.5413
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,7,0.6127,0.5604,0.5754
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,8,0.5552,0.5474,0.6095
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,9,0.3993,0.5394,0.6396
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,10,0.3454,0.5264,0.6737
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,11,0.2936,0.5134,0.7078
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,12,0.2437,0.5004,0.7419
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,13,0.1959,0.4874,0.776
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,14,0.15,0.4744,0.8101
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,15,0.1062,0.4614,0.8442
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,16,0.0644,0.4484,0.8783
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,17,0.0246,0.4354,0.9124
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,18,0.0,0.4274,0.9425
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,19,0.0,0.4144,0.9766
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,20,0.0,0.4014,1.0107
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,21,0.0,0.3884,1.0448
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,22,0.0,0.3754,1.0789
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,23,0.0,0.3624,1.113
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,24,0.0,0.3494,1.1471
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,25,0.0,0.3364,1.1812
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,26,0.0,0.3234,1.2153
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,27,0.0,0.3154,1.2454
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,28,0.0,0.3024,1.2795
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,29,0.0,0.2894,1.3136
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,30,0.0,0.2764,1.3477
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,31,0.0,0.2634,1.3818
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,32,0.0,0.2504,1.4159
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,33,0.0,0.2374,1.45
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,34,0.0,0.2244,1.4841
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,35,0.0,0.2114,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,36,0.0,0.2034,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,37,0.0,0.1904,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,38,0.0,0.1774,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,39,0.0,0.1644,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,40,0.0,0.1514,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,1,1.0,0.4156,0.5852
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,2,0.9747,0.3736,0.6406
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,3,0.9537,0.3316,0.696
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,4,0.9371,0.2896,0.7514
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,5,0.9247,0.2476,0.8068
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,6,0.9167,0.2056,0.8622
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,7,0.913,0.1636,0.9176
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,8,0.9136,0.1216,0.973
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,9,0.8181,0.0846,1.0244
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,10,0.827,0.0426,1.0798
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,11,0.8401,0.0006,1.1352
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,12,0.8555,0.0,1.1906
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,13,0.8731,0.0,1.246
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,14,0.8929,0.0,1.3014
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,15,0.915,0.0,1.3568
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,16,0.9392,0.0,1.4122
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,17,0.9657,0.0,1.4676
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,18,0.8935,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,19,0.9212,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,20,0.949,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,21,0.9768,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,22,1.0045,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,23,1.0323,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,24,1.0601,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,25,1.0878,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,26,1.1156,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,27,1.0434,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,28,1.0712,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,29,1.0989,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,30,1.1267,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,31,1.1545,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,32,1.1822,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,33,1.21,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,34,1.2378,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,35,1.2655,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,36,1.1933,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,37,1.2211,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,38,1.2488,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,39,1.2766,0.0,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,40,1.3044,0.0,1.5
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,1,1.0,0.68,0.3576
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,2,0.9228,0.6722,0.3912
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,3,0.8474,0.6644,0.4248
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,4,0.7737,0.6566,0.4584
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,5,0.7017,0.6488,0.492
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,6,0.6315,0.641,0.5256
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,7,0.563,0.6332,0.5592
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,8,0.4963,0.6254,0.5928
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,9,0.3308,0.6226,0.6224
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,10,0.2671,0.6148,0.656
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,11,0.2051,0.607,0.6896
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,12,0.1449,0.5992,0.7232
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,13,0.0864,0.5914,0.7568
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,14,0.0296,0.5836,0.7904
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,15,0.0,0.5758,0.824
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,16,0.0,0.568,0.8576
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,17,0.0,0.5602,0.8912
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,18,0.0,0.5574,0.9208
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,19,0.0,0.5496,0.9544
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,20,0.0,0.5418,0.988
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,21,0.0,0.534,1.0216
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,22,0.0,0.5262,1.0552
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,23,0.0,0.5184,1.0888
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,24,0.0,0.5106,1.1224
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,25,0.0,0.5028,1.156
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,26,0.0,0.495,1.1896
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,27,0.0,0.4922,1.2192
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,28,0.0,0.4844,1.2528
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,29,0.0,0.4766,1.2864
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,30,0.0,0.4688,1.32
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,31,0.0,0.461,1.3536
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,32,0.0,0.4532,1.3872
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,33,0.0,0.4454,1.4208
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,34,0.0,0.4376,1.4544
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,35,0.0,0.4298,1.488
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,36,0.0,0.427,1.5
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,37,0.0,0.4192,1.5
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,38,0.0,0.4114,1.5
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,39,0.0,0.4036,1.5
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,40,0.0,0.3958,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,1,1.0,0.3008,0.7156
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,2,0.9985,0.241,0.7832
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,3,1.0026,0.1812,0.8508
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,4,1.0125,0.1214,0.9184
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,5,1.0281,0.0616,0.986
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,6,1.0493,0.0018,1.0536
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,7,1.0734,0.0,1.1212
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,8,1.1001,0.0,1.1888
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,9,1.0294,0.0,1.2524
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,10,1.0614,0.0,1.32
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,11,1.0961,0.0,1.3876
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,12,1.1335,0.0,1.4552
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,13,1.1727,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,14,1.2119,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,15,1.2511,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,16,1.2903,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,17,1.3295,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,18,1.2687,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,19,1.3079,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,20,1.3471,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,21,1.3863,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,22,1.4255,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,23,1.4647,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,24,1.5038,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,25,1.543,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,26,1.5822,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,27,1.5214,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,28,1.5606,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,29,1.5998,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,30,1.639,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,31,1.6782,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,32,1.7174,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,33,1.7566,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,34,1.7958,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,35,1.8,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,36,1.7392,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,37,1.7784,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,38,1.8,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,39,1.8,0.0,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,40,1.8,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,1,1.0,0.5116,0.4756
+PW7,SF7,SS7,Green Growth Without Justice Pathway,2,0.9547,0.4832,0.5204
+PW7,SF7,SS7,Green Growth Without Justice Pathway,3,0.9127,0.4548,0.5652
+PW7,SF7,SS7,Green Growth Without Justice Pathway,4,0.8739,0.4264,0.61
+PW7,SF7,SS7,Green Growth Without Justice Pathway,5,0.8382,0.398,0.6548
+PW7,SF7,SS7,Green Growth Without Justice Pathway,6,0.8058,0.3696,0.6996
+PW7,SF7,SS7,Green Growth Without Justice Pathway,7,0.7766,0.3412,0.7444
+PW7,SF7,SS7,Green Growth Without Justice Pathway,8,0.7507,0.3128,0.7892
+PW7,SF7,SS7,Green Growth Without Justice Pathway,9,0.6275,0.2894,0.83
+PW7,SF7,SS7,Green Growth Without Justice Pathway,10,0.6075,0.261,0.8748
+PW7,SF7,SS7,Green Growth Without Justice Pathway,11,0.5907,0.2326,0.9196
+PW7,SF7,SS7,Green Growth Without Justice Pathway,12,0.5772,0.2042,0.9644
+PW7,SF7,SS7,Green Growth Without Justice Pathway,13,0.5669,0.1758,1.0092
+PW7,SF7,SS7,Green Growth Without Justice Pathway,14,0.5597,0.1474,1.054
+PW7,SF7,SS7,Green Growth Without Justice Pathway,15,0.5558,0.119,1.0988
+PW7,SF7,SS7,Green Growth Without Justice Pathway,16,0.5551,0.0906,1.1436
+PW7,SF7,SS7,Green Growth Without Justice Pathway,17,0.5577,0.0622,1.1884
+PW7,SF7,SS7,Green Growth Without Justice Pathway,18,0.463,0.0388,1.2292
+PW7,SF7,SS7,Green Growth Without Justice Pathway,19,0.4715,0.0104,1.274
+PW7,SF7,SS7,Green Growth Without Justice Pathway,20,0.4823,0.0,1.3188
+PW7,SF7,SS7,Green Growth Without Justice Pathway,21,0.495,0.0,1.3636
+PW7,SF7,SS7,Green Growth Without Justice Pathway,22,0.5094,0.0,1.4084
+PW7,SF7,SS7,Green Growth Without Justice Pathway,23,0.5256,0.0,1.4532
+PW7,SF7,SS7,Green Growth Without Justice Pathway,24,0.5436,0.0,1.498
+PW7,SF7,SS7,Green Growth Without Justice Pathway,25,0.5617,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,26,0.5798,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,27,0.4979,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,28,0.516,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,29,0.5341,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,30,0.5521,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,31,0.5702,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,32,0.5883,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,33,0.6064,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,34,0.6245,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,35,0.6426,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,36,0.5607,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,37,0.5788,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,38,0.5968,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,39,0.6149,0.0,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,40,0.633,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,1,1.0,0.2184,0.8024
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,2,1.0152,0.1484,0.8798
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,3,1.037,0.0784,0.9572
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,4,1.0654,0.0084,1.0346
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,5,1.0974,0.0,1.112
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,6,1.1324,0.0,1.1894
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,7,1.1705,0.0,1.2668
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,8,1.2117,0.0,1.3442
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,9,1.1559,0.0,1.4176
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,10,1.2031,0.0,1.495
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,11,1.2506,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,12,1.298,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,13,1.3455,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,14,1.3929,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,15,1.4404,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,16,1.4878,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,17,1.5353,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,18,1.4827,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,19,1.5302,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,20,1.5776,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,21,1.6251,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,22,1.6725,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,23,1.72,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,24,1.7674,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,25,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,26,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,27,1.7474,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,28,1.7949,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,29,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,30,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,31,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,32,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,33,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,34,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,35,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,36,1.7474,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,37,1.7949,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,38,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,39,1.8,0.0,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,40,1.8,0.0,1.5

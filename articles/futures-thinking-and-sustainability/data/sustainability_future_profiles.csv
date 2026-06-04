@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,ecological_integrity,social_equity,adaptive_capacity,technological_responsibility,governance_coordination,public_finance_capacity,resilience_capacity,justice_legitimacy,degradation_pressure,description
+SF1,High-Consumption Fragile Future,high_consumption_fragility,0.32,0.38,0.46,0.42,0.29,0.42,0.40,0.34,0.84,Consumption and growth continue while ecological degradation inequality and infrastructure fragility deepen.
+SF2,Managed Sustainable Transition,managed_transition,0.78,0.72,0.79,0.66,0.76,0.72,0.78,0.74,0.34,Institutions coordinate climate action ecological restoration public investment social protection and adaptive governance.
+SF3,Fragmented Unequal Adaptation,unequal_adaptation,0.44,0.34,0.48,0.46,0.31,0.36,0.42,0.28,0.72,Wealthier actors adapt while vulnerable communities face exposure displacement and underinvestment.
+SF4,Technologically Assisted Green Shift,technology_green_shift,0.66,0.52,0.68,0.58,0.54,0.58,0.64,0.48,0.48,Innovation accelerates emissions reduction and monitoring but justice and governance remain uneven.
+SF5,Climate Shock Governance Crisis,governance_crisis,0.38,0.40,0.42,0.44,0.34,0.34,0.36,0.32,0.82,Extreme events overwhelm public systems and reveal weak institutions and low adaptive capacity.
+SF6,Regenerative Regional Resilience,regional_resilience,0.74,0.70,0.76,0.62,0.68,0.62,0.80,0.72,0.38,Regions rebuild food water energy ecological and community systems around resilience and repair.
+SF7,Green Growth Without Justice,green_growth_unequal,0.58,0.36,0.58,0.54,0.46,0.50,0.52,0.30,0.56,Low-carbon investment expands but benefits are captured unevenly and extraction continues.
+SF8,Just Transformative Sustainability,just_transformation,0.82,0.82,0.80,0.70,0.78,0.76,0.82,0.86,0.30,Ecological integrity social justice public capacity and institutional learning reinforce one another.

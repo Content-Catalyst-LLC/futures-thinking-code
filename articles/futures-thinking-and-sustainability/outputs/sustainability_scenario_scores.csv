@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,sustainability_stress_score,transition_opportunity_score,description
+SS5,Climate Shock Governance Crisis,shock_crisis,0.7734,0.2528,Extreme events overwhelm public systems and expose institutional fragility.
+SS2,High-Consumption Fragile Future,fragile_consumption,0.7292,0.3128,Consumption continues while ecological and social stress accumulate.
+SS3,Fragmented Unequal Adaptation,unequal_adaptation,0.6966,0.328,Adaptation benefits wealthier actors while exposed communities face worsening risk.
+SS7,Green Growth Without Justice,unequal_green_growth,0.6178,0.4836,Green investment expands while unequal power extraction and labor insecurity persist.
+SS4,Technologically Assisted Green Shift,technology_shift,0.5538,0.5668,Technology accelerates green transition but creates governance extraction and distributional challenges.
+SS6,Regenerative Regional Resilience,regional_resilience,0.4782,0.5668,Regional systems strengthen food water energy ecological and community resilience.
+SS1,Managed Sustainable Transition,managed_transition,0.4162,0.6412,Coordinated public policy investment ecological restoration and social protection support sustainability transition.
+SS8,Just Transformative Sustainability,just_transformation,0.3908,0.674,Justice ecological repair public investment and democratic legitimacy support transformation.

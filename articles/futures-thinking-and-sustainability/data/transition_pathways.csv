@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,ecology,governance,adaptation,public_finance,resilience,justice,degradation_pressure,initial_viability,time_horizon
+PW1,SF1,SS2,High-Consumption Fragility Pathway,0.32,0.29,0.46,0.42,0.40,0.34,0.84,1.00,40
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,0.78,0.76,0.79,0.72,0.78,0.74,0.34,1.00,40
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,0.44,0.31,0.48,0.36,0.42,0.28,0.72,1.00,40
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,0.66,0.54,0.68,0.58,0.64,0.48,0.48,1.00,40
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,0.38,0.34,0.42,0.34,0.36,0.32,0.82,1.00,40
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,0.74,0.68,0.76,0.62,0.80,0.72,0.38,1.00,40
+PW7,SF7,SS7,Green Growth Without Justice Pathway,0.58,0.46,0.58,0.50,0.52,0.30,0.56,1.00,40
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,0.82,0.78,0.80,0.76,0.82,0.86,0.30,1.00,40

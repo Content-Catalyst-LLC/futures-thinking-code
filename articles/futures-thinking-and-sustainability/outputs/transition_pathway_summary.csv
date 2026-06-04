@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_viability,mean_viability,mean_stress_exposure,final_institutional_capacity
+PW2,SF2,SS1,Managed Sustainable Transition Pathway,1.8,1.4684,0.0165,1.5
+PW6,SF6,SS6,Regenerative Regional Resilience Pathway,1.8,1.3914,0.0227,1.5
+PW8,SF8,SS8,Just Transformative Sustainability Pathway,1.8,1.5225,0.0113,1.5
+PW4,SF4,SS4,Technologically Assisted Green Shift Pathway,1.3044,1.0284,0.0569,1.5
+PW7,SF7,SS7,Green Growth Without Justice Pathway,0.633,0.6215,0.1232,1.5
+PW1,SF1,SS2,High-Consumption Fragility Pathway,0.0,0.1762,0.5746,1.5
+PW3,SF3,SS3,Fragmented Unequal Adaptation Pathway,0.0,0.1997,0.3942,1.5
+PW5,SF5,SS5,Climate Shock Governance Crisis Pathway,0.0,0.175,0.5371,1.5

@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,sustainability_gain_score,implementation_readiness_score,description
+TS8,SF8,Transformative Sustainability Platform,transformative_sustainability,0.8424,0.8108,Integrates ecological integrity justice public finance adaptive governance and long-term transformation.
+TS2,SF2,Coordinated Transition Governance,managed_transition,0.7824,0.7836,Coordinates long-term climate ecological social and public investment strategies.
+TS6,SF6,Regenerative Regional Systems,regional_regeneration,0.7584,0.7332,Strengthens regional food water energy ecological restoration and community resilience.
+TS7,SF7,Just Transition and Distributional Accountability,just_transition,0.75,0.7108,Ensures low-carbon investment protects workers communities affordability and democratic legitimacy.
+TS3,SF3,Equitable Adaptation and Vulnerability Reduction,equity_adaptation,0.7392,0.7068,Directs adaptation resources toward exposed communities and reduces unequal risk.
+TS5,SF5,Institutional Stress Testing and Crisis Preparedness,institutional_resilience,0.7224,0.718,Builds capacity for climate shocks early warning public response and institutional learning.
+TS4,SF4,Responsible Technology and Sustainability Governance,responsible_technology,0.6532,0.6504,Embeds technology in governance labor accountability material responsibility and public value.
+TS1,SF1,Reduce Degradation and Consumption Lock-In,degradation_reduction,0.6244,0.6,Reduces ecological damage and shifts away from high-consumption lock-in.

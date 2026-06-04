@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,climate_stress,biodiversity_pressure,resource_constraint,inequality_pressure,technology_change,governance_fragmentation,public_finance_stress,transition_momentum,description
+SS1,Managed Sustainable Transition,managed_transition,0.46,0.48,0.46,0.42,0.62,0.30,0.36,0.82,Coordinated public policy investment ecological restoration and social protection support sustainability transition.
+SS2,High-Consumption Fragile Future,fragile_consumption,0.84,0.78,0.74,0.76,0.56,0.68,0.64,0.30,Consumption continues while ecological and social stress accumulate.
+SS3,Fragmented Unequal Adaptation,unequal_adaptation,0.72,0.66,0.64,0.88,0.50,0.74,0.68,0.38,Adaptation benefits wealthier actors while exposed communities face worsening risk.
+SS4,Technologically Assisted Green Shift,technology_shift,0.56,0.54,0.58,0.58,0.90,0.50,0.48,0.68,Technology accelerates green transition but creates governance extraction and distributional challenges.
+SS5,Climate Shock Governance Crisis,shock_crisis,0.94,0.76,0.70,0.74,0.48,0.82,0.86,0.28,Extreme events overwhelm public systems and expose institutional fragility.
+SS6,Regenerative Regional Resilience,regional_resilience,0.58,0.50,0.52,0.46,0.54,0.42,0.46,0.76,Regional systems strengthen food water energy ecological and community resilience.
+SS7,Green Growth Without Justice,unequal_green_growth,0.60,0.58,0.66,0.82,0.78,0.54,0.52,0.62,Green investment expands while unequal power extraction and labor insecurity persist.
+SS8,Just Transformative Sustainability,just_transformation,0.48,0.44,0.42,0.34,0.64,0.30,0.34,0.88,Justice ecological repair public investment and democratic legitimacy support transformation.

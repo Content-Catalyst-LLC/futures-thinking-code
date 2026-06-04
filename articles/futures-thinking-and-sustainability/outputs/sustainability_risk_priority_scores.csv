@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,sustainability_risk_priority_score,distributional_harm,preparedness,description
+SR2,SS2,Ecological Threshold Crossing,ecological_threshold,0.783,0.76,0.34,Ecosystem degradation approaches thresholds with irreversible or hard-to-reverse consequences.
+SR1,SS5,Climate Shock Governance Failure,climate_governance,0.7802,0.84,0.38,Extreme climate events overwhelm institutions and expose weak preparedness.
+SR3,SS3,Unequal Adaptation and Managed Abandonment,social_vulnerability,0.7316,0.94,0.36,Adaptation resources protect privileged groups while vulnerable communities face exposure.
+SR5,SS7,Green Growth Without Justice,political_economy,0.6836,0.9,0.42,Transition investment reinforces inequality displacement extraction and weak labor protection.
+SR4,SS4,Technological Solutionism and Extraction,technology_governance,0.6106,0.66,0.44,Green technologies reduce some pressures while shifting extraction labor and governance risks.
+SR8,SS8,Transformation Backlash and Legitimacy Risk,democratic_legitimacy,0.5726,0.7,0.56,Ambitious sustainability transformation faces backlash if legitimacy participation and fairness are weak.
+SR7,SS1,Transition Coordination Failure,governance,0.5646,0.6,0.58,Coordinated transition weakens when institutions lose alignment or public trust.
+SR6,SS6,Regional Resilience Underfunding,public_finance,0.5546,0.62,0.5,Place-based resilience remains underfunded despite ecological and community benefits.

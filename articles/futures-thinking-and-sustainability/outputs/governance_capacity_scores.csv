@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,governance_capacity_score,legitimacy_gap_score,description
+GC8,SF8,Transformative Sustainability Governance,transformative_governance,0.8324,0.164,Strong democratic capacity supports ecological integrity justice adaptive learning and public investment.
+GC1,SF2,Managed Transition Governance Capacity,transition_governance,0.7708,0.2356,Institutional systems support coordination monitoring public investment and adaptive learning.
+GC6,SF7,Just Transition Accountability Framework,just_transition,0.7184,0.2708,Governance tracks distributional impacts labor rights affordability and community benefits.
+GC5,SF6,Regional Regenerative Governance,regional_governance,0.7164,0.2792,Regional institutions support ecological repair local resilience and community participation.
+GC3,SF4,Responsible Innovation Governance,technology_governance,0.6188,0.3888,Technology is monitored through public-interest governance and accountability.
+GC4,SF5,Crisis Preparedness and Emergency Capacity,crisis_governance,0.4796,0.5292,Emergency systems require stronger planning funding and legitimacy under climate shock.
+GC2,SF3,Unequal Adaptation Governance Gap,vulnerability_governance,0.378,0.6248,Weak participation and accountability deepen unequal adaptation.
+GC7,SF1,Fragile Sustainability Governance Baseline,fragile_baseline,0.3188,0.6824,Weak governance allows degradation and inequality to accumulate.

@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,sustainability_viability_score,sustainability_fragility_score,profile_class,description
+SF8,Just Transformative Sustainability,just_transformation,0.7736,0.2098,Stronger sustainability pathway,Ecological integrity social justice public capacity and institutional learning reinforce one another.
+SF2,Managed Sustainable Transition,managed_transition,0.7204,0.2592,Stronger sustainability pathway,Institutions coordinate climate action ecological restoration public investment social protection and adaptive governance.
+SF6,Regenerative Regional Resilience,regional_resilience,0.678,0.2992,Stronger sustainability pathway,Regions rebuild food water energy ecological and community systems around resilience and repair.
+SF4,Technologically Assisted Green Shift,technology_green_shift,0.5506,0.4222,Mixed or transitional sustainability future,Innovation accelerates emissions reduction and monitoring but justice and governance remain uneven.
+SF7,Green Growth Without Justice,green_growth_unequal,0.4394,0.5288,Mixed or transitional sustainability future,Low-carbon investment expands but benefits are captured unevenly and extraction continues.
+SF3,Fragmented Unequal Adaptation,unequal_adaptation,0.3308,0.6369,High sustainability fragility,Wealthier actors adapt while vulnerable communities face exposure displacement and underinvestment.
+SF5,Climate Shock Governance Crisis,governance_crisis,0.3114,0.6614,High sustainability fragility,Extreme events overwhelm public systems and reveal weak institutions and low adaptive capacity.
+SF1,High-Consumption Fragile Future,high_consumption_fragility,0.3072,0.6635,High sustainability fragility,Consumption and growth continue while ecological degradation inequality and infrastructure fragility deepen.
