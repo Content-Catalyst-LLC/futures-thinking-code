@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,extraction_burden,community_voice,external_control,ecological_harm,local_benefit,reparative_capacity,consent_quality,sovereignty_recognition,time_horizon
+ACF1,CFP1,CFS1,Green Extraction Continuity Pathway,0.84,0.32,0.82,0.76,0.38,0.24,0.34,0.30,40
+ACF2,CFP2,CFS2,Technocratic Development Revival Pathway,0.72,0.40,0.86,0.66,0.46,0.32,0.40,0.36,40
+ACF3,CFP3,CFS3,Data Colonial Futures Pathway,0.70,0.26,0.92,0.54,0.34,0.26,0.28,0.30,40
+ACF4,CFP4,CFS4,Climate Security Fortress Pathway,0.66,0.30,0.88,0.50,0.32,0.28,0.30,0.26,40
+ACF5,CFP5,CFS5,Conservation Without People Pathway,0.62,0.34,0.78,0.46,0.36,0.30,0.32,0.28,40
+ACF6,CFP6,CFS6,Reparative Plural Futures Pathway,0.34,0.88,0.30,0.28,0.82,0.92,0.86,0.90,40
+ACF7,CFP7,CFS7,Suppressed Imagination Pathway,0.52,0.26,0.80,0.44,0.30,0.22,0.26,0.24,40
+ACF8,CFP8,CFS8,Contested Democratic Future-Making Pathway,0.44,0.82,0.36,0.32,0.78,0.84,0.82,0.80,40

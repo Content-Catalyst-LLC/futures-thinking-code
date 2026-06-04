@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,extraction_burden,community_voice,external_control,ecological_harm,local_benefit,reparative_capacity,consent_quality,sovereignty_recognition,description
+EVR1,CFP1,Green Extraction Continuity Record,0.84,0.32,0.82,0.76,0.38,0.24,0.34,0.30,Clean transition benefits depend on local extraction and weak consent.
+EVR2,CFP2,Technocratic Development Revival Record,0.72,0.40,0.86,0.66,0.46,0.32,0.40,0.36,External development planning preserves modernization hierarchy and dependency.
+EVR3,CFP3,Data Colonial Futures Record,0.70,0.26,0.92,0.54,0.34,0.26,0.28,0.30,Digital systems extract data labor language and behavioral traces.
+EVR4,CFP4,Climate Security Fortress Record,0.66,0.30,0.88,0.50,0.32,0.28,0.30,0.26,Security framing overrides mobility justice and climate repair.
+EVR5,CFP5,Conservation Without People Record,0.62,0.34,0.78,0.46,0.36,0.30,0.32,0.28,Conservation and carbon systems restrict community authority.
+EVR6,CFP6,Reparative Plural Futures Record,0.34,0.88,0.30,0.28,0.82,0.92,0.86,0.90,Reparative futures center land authority knowledge justice and structural repair.
+EVR7,CFP7,Suppressed Imagination Record,0.52,0.26,0.80,0.44,0.30,0.22,0.26,0.24,Dominant institutions police plausibility and limit decolonial imagination.
+EVR8,CFP8,Contested Democratic Future-Making Record,0.44,0.82,0.36,0.32,0.78,0.84,0.82,0.80,Communities contest future-making and expand democratic authority.

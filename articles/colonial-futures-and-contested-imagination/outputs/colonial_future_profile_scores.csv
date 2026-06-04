@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,coloniality_risk_score,reparative_future_score,reparative_gap_score,profile_class,description
+CFP1,Green Extraction Continuity,green_extraction,0.7494,0.3116,0.4378,High coloniality risk,Clean energy and digital systems expand through mineral extraction and land-intensive infrastructure.
+CFP3,Data Colonial Futures,data_colonialism,0.709,0.2924,0.4166,High coloniality risk,AI and digital platforms expand through data extraction cloud dependency predictive governance and hidden labor.
+CFP4,Climate Security Fortress,climate_security_fortress,0.6974,0.3076,0.3898,Mixed or contested future,Wealthy states respond to climate stress through hardened borders resource control and security planning.
+CFP7,Suppressed Imagination,suppressed_imagination,0.6934,0.273,0.4204,Mixed or contested future,Dominant institutions dismiss reparative and decolonial futures as impractical or destabilizing.
+CFP5,Conservation Without People,green_colonialism,0.6914,0.319,0.3724,Mixed or contested future,Biodiversity and carbon projects expand through protected areas offsets and external ecological governance.
+CFP2,Technocratic Development Revival,technocratic_development,0.6824,0.3754,0.307,Mixed or contested future,Development institutions promote modernization through infrastructure finance technology and market integration.
+CFP8,Contested Democratic Future-Making,contested_democratic,0.2828,0.7814,0.0,Stronger reparative future capacity,Communities youth workers Indigenous peoples migrants and civil society contest dominant scenarios and build alternatives.
+CFP6,Reparative Plural Futures,reparative_future,0.2228,0.8454,0.0,Stronger reparative future capacity,Land finance climate policy technology and institutions are redesigned around repair and self-determination.

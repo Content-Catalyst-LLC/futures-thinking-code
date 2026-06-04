@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,extraction_pressure,external_control_pressure,consent_gap,land_risk,knowledge_erasure,data_extraction,security_drift,ecological_harm,reparative_opening,community_voice,description
+CFS1,Green Extraction Continuity,green_extraction,0.92,0.82,0.78,0.90,0.64,0.52,0.40,0.78,0.24,0.32,Clean technology futures reproduce mineral sacrifice zones and land-intensive extraction.
+CFS2,Technocratic Development Revival,technocratic_development,0.72,0.86,0.68,0.74,0.60,0.46,0.42,0.66,0.32,0.40,Development pathways are shaped by external finance technology and modernization metrics.
+CFS3,Data Colonial Futures,data_colonialism,0.56,0.92,0.76,0.48,0.72,0.96,0.50,0.54,0.26,0.28,AI platforms extract data labor and social knowledge while centralizing digital authority.
+CFS4,Climate Security Fortress,climate_security_fortress,0.62,0.88,0.72,0.56,0.58,0.46,0.96,0.50,0.28,0.30,Climate stress is answered through borders surveillance military planning and resource control.
+CFS5,Conservation Without People,green_colonialism,0.58,0.78,0.74,0.84,0.66,0.36,0.54,0.46,0.30,0.34,Conservation and carbon projects restrict land and livelihoods without community authority.
+CFS6,Reparative Plural Futures,reparative_future,0.32,0.30,0.16,0.38,0.18,0.22,0.24,0.28,0.94,0.88,Future-making centers repair sovereignty ecological restoration and plural knowledge.
+CFS7,Suppressed Imagination,suppressed_imagination,0.52,0.80,0.80,0.52,0.82,0.44,0.56,0.44,0.22,0.26,Reparative and decolonial futures are dismissed as unrealistic or destabilizing.
+CFS8,Contested Democratic Future-Making,contested_democratic,0.42,0.36,0.18,0.44,0.22,0.30,0.26,0.32,0.84,0.90,Public contestation expands the range of serious futures and shifts authority.

@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,irreversibility,visibility_gap,distributional_harm,rights_risk,preparedness,description
+CRI1,CFS1,Green Extraction Sacrifice Zones,green_extraction,0.72,0.90,0.84,0.50,0.92,0.82,0.30,Clean transition pathways reproduce extraction harm and land dispossession.
+CRI2,CFS3,Data Colonial Power Concentration,data_colonialism,0.76,0.84,0.70,0.74,0.76,0.80,0.34,AI and digital infrastructures centralize control while extracting data labor and social knowledge.
+CRI3,CFS4,Climate Security Fortress,security_futures,0.64,0.86,0.76,0.58,0.84,0.94,0.32,Climate stress is framed as threat and answered with surveillance borders and militarization.
+CRI4,CFS5,Green Colonial Conservation,green_colonialism,0.58,0.82,0.78,0.56,0.86,0.88,0.36,Conservation and carbon projects restrict land use and community authority.
+CRI5,CFS2,Technocratic Development Dependency,development,0.66,0.76,0.64,0.48,0.70,0.62,0.40,External development futures reproduce debt dependency and modernization hierarchy.
+CRI6,CFS7,Plausibility Policing,contested_imagination,0.70,0.78,0.60,0.70,0.78,0.68,0.38,Reparative and decolonial futures are dismissed as unrealistic by dominant institutions.
+CRI7,CFS6,Reparative Implementation Gap,reparative_future,0.42,0.68,0.58,0.38,0.66,0.52,0.54,Reparative futures are named but implementation power funding and authority remain weak.
+CRI8,CFS8,Contested Governance Backlash,contested_democratic,0.50,0.72,0.56,0.50,0.72,0.70,0.46,Powerful actors resist community-led futures and redistribute conflict into governance systems.

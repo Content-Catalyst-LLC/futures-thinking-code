@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,reparative_strategy_value_score,implementation_readiness_score,description
+RSO6,CFP6,Reparative Futures Institution,reparative_institution,0.8894,0.831,Creates institutions for repair land authority historical memory finance and accountability.
+RSO8,CFP8,Community-Led Scenario Governance,community_scenario_governance,0.8476,0.823,Shifts foresight authority toward affected communities and rights holders across scenario design and implementation.
+RSO5,CFP5,Rights-Based Conservation Governance,rights_based_conservation,0.7842,0.763,Centers Indigenous and community governance in conservation biodiversity and carbon futures.
+RSO1,CFP1,Just Transition Consent and Benefit System,transition_justice,0.7766,0.766,Links transition projects to consent ownership restoration labor rights and community benefit.
+RSO2,CFP2,Self-Determined Development Compact,self_determined_development,0.7496,0.7536,Replaces externally imposed development metrics with local authority public capacity and ecological limits.
+RSO7,CFP7,Contested Imagination Platform,contested_imagination,0.7438,0.7342,Builds public platforms for marginalized futures community scenario work and plausibility challenge.
+RSO3,CFP3,Data Sovereignty and Public Digital Infrastructure,data_sovereignty,0.7254,0.7298,Builds data sovereignty public digital infrastructure labor rights and contestable AI governance.
+RSO4,CFP4,Human Security and Mobility Justice,human_security,0.6798,0.7056,Redirects climate-security planning toward protection mobility justice adaptation finance and rights.

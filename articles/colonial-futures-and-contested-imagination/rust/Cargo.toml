@@ -1,0 +1,6 @@
+[package]
+name = "colonial_futures_contested_imagination_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
