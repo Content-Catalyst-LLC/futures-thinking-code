@@ -1,0 +1,9 @@
+profile_id,scenario_name,scenario_family,climate_burden,debt_without_assets,infrastructure_decay,ecological_damage,institutional_capacity,technological_lock_in,adaptive_capacity,future_representation,reparative_continuity,public_legitimacy,description
+IGP1,Stewardship State,stewardship_state,0.34,0.32,0.28,0.30,0.82,0.36,0.84,0.80,0.72,0.78,Institutions adopt long-term budgeting climate accountability future-generation review and public investment rules.
+IGP2,Short-Term Extraction,short_term_extraction,0.88,0.76,0.70,0.84,0.38,0.62,0.36,0.24,0.28,0.30,Present actors maximize growth profit political wins and resource use while deferring long-term costs.
+IGP3,Climate Repair Pathway,climate_repair,0.24,0.42,0.34,0.22,0.76,0.42,0.82,0.72,0.80,0.74,Mitigation adaptation loss-and-damage finance just transition and restoration are treated as duties across generations.
+IGP4,Technological Lock-In,technological_lock_in,0.54,0.60,0.56,0.48,0.46,0.90,0.48,0.38,0.44,0.42,AI surveillance digital identity and platform infrastructure become embedded without sufficient accountability.
+IGP5,Deferred Maintenance Crisis,deferred_maintenance,0.62,0.72,0.92,0.66,0.34,0.58,0.32,0.28,0.34,0.36,Infrastructure public health education and ecological systems are neglected until failure becomes visible.
+IGP6,Reparative Intergenerational Compact,reparative_compact,0.30,0.36,0.32,0.26,0.84,0.34,0.86,0.86,0.94,0.84,Long-term responsibility includes land climate racial ecological and fiscal repair.
+IGP7,Youth-Led Democratic Renewal,youth_democratic_renewal,0.38,0.40,0.36,0.34,0.78,0.40,0.80,0.88,0.76,0.82,Youth movements assemblies litigation and civic institutions reshape long-term policy.
+IGP8,Institutional Time Collapse,time_collapse,0.76,0.70,0.82,0.78,0.28,0.72,0.30,0.22,0.24,0.26,Crises overwhelm planning capacity and short-term emergency governance becomes permanent.

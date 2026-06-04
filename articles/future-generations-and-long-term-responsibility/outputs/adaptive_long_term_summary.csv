@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_inherited_burden,final_future_freedom,final_institutional_capacity,final_ecological_damage,final_adaptive_capacity,final_future_representation,final_stewardship_score,mean_stewardship_score
+ALP1,IGP1,FGS1,Stewardship State Pathway,0.0,1.8,1.8,0.0,1.8,1.8,1.62,1.1916
+ALP6,IGP6,FGS6,Reparative Intergenerational Compact Pathway,0.0,1.8,1.8,0.0,1.8,1.8,1.62,1.2618
+ALP7,IGP7,FGS7,Youth-Led Democratic Renewal Pathway,0.0,1.8,1.8,0.0,1.8,1.8,1.62,1.2025
+ALP3,IGP3,FGS3,Climate Repair Pathway,0.0,1.8,1.8,0.0,1.8,1.7735,1.6163,1.1508
+ALP4,IGP4,FGS4,Technological Lock-In Pathway,0.0,1.0356,1.0259,0.0,0.8951,0.9263,0.8635,0.53
+ALP5,IGP5,FGS5,Deferred Maintenance Crisis Pathway,0.6493,0.1335,0.4724,0.5161,0.2297,0.6239,0.2714,0.2274
+ALP2,IGP2,FGS2,Short-Term Extraction Pathway,0.8705,0.0,0.3973,0.7972,0.1101,0.5381,0.1364,0.1564
+ALP8,IGP8,FGS8,Institutional Time Collapse Pathway,1.0414,0.0,0.1704,0.9446,0.0,0.4243,0.0072,0.0721

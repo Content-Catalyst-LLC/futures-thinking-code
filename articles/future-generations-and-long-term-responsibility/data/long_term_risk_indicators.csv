@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,irreversibility,visibility_gap,distributional_harm,future_generation_harm,preparedness,description
+LTR1,FGS2,Short-Term Extraction Burden,short_termism,0.72,0.90,0.78,0.50,0.84,0.92,0.28,Present advantage transfers ecological fiscal and institutional burden to future people.
+LTR2,FGS5,Deferred Maintenance Cascade,maintenance,0.76,0.86,0.70,0.48,0.78,0.84,0.30,Infrastructure public health education and environmental systems fail after chronic underinvestment.
+LTR3,FGS4,Technological Lock-In,technology,0.68,0.82,0.76,0.66,0.72,0.78,0.34,Opaque AI surveillance and platform systems become difficult for future people to contest or remove.
+LTR4,FGS8,Institutional Time Collapse,institutional_fragility,0.64,0.88,0.74,0.56,0.80,0.88,0.26,Continuous crisis erodes planning capacity and future-oriented governance.
+LTR5,FGS3,Climate Repair Implementation Gap,climate_repair,0.52,0.82,0.86,0.44,0.86,0.84,0.42,Climate repair is promised but finance implementation and legal duties remain insufficient.
+LTR6,FGS6,Reparative Compact Backlash,reparative_future,0.48,0.76,0.62,0.50,0.78,0.70,0.46,Actors benefiting from inherited inequality resist repair and future-generation duties.
+LTR7,FGS7,Youth Representation Tokenism,youth_participation,0.56,0.68,0.42,0.58,0.62,0.66,0.44,Youth participation exists but remains advisory symbolic or disconnected from formal authority.
+LTR8,FGS1,Stewardship Implementation Drift,stewardship,0.42,0.62,0.44,0.36,0.54,0.58,0.58,Long-term stewardship institutions weaken over time without political and budgetary support.

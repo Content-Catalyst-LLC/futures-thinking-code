@@ -1,0 +1,9 @@
+profile_id,scenario_name,scenario_family,inherited_burden_score,future_freedom_score,stewardship_score,intergenerational_gap_score,profile_class,description
+IGP6,Reparative Intergenerational Compact,reparative_compact,0.28,0.7798,0.7364,0.0,Stronger long-term stewardship,Long-term responsibility includes land climate racial ecological and fiscal repair.
+IGP1,Stewardship State,stewardship_state,0.2908,0.7594,0.6824,0.0,Stronger long-term stewardship,Institutions adopt long-term budgeting climate accountability future-generation review and public investment rules.
+IGP7,Youth-Led Democratic Renewal,youth_democratic_renewal,0.338,0.7326,0.6788,0.0,Stronger long-term stewardship,Youth movements assemblies litigation and civic institutions reshape long-term policy.
+IGP3,Climate Repair Pathway,climate_repair,0.3008,0.725,0.6589,0.0,Stronger long-term stewardship,Mitigation adaptation loss-and-damage finance just transition and restoration are treated as duties across generations.
+IGP4,Technological Lock-In,technological_lock_in,0.5932,0.4026,0.3349,0.1906,Mixed intergenerational pathway,AI surveillance digital identity and platform infrastructure become embedded without sufficient accountability.
+IGP5,Deferred Maintenance Crisis,deferred_maintenance,0.6952,0.3066,0.2219,0.3886,Mixed intergenerational pathway,Infrastructure public health education and ecological systems are neglected until failure becomes visible.
+IGP2,Short-Term Extraction,short_term_extraction,0.7456,0.3048,0.2069,0.4408,High inherited burden,Present actors maximize growth profit political wins and resource use while deferring long-term costs.
+IGP8,Institutional Time Collapse,time_collapse,0.7524,0.255,0.1596,0.4974,High inherited burden,Crises overwhelm planning capacity and short-term emergency governance becomes permanent.

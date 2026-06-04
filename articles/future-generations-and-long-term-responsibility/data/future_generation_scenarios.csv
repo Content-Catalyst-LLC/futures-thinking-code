@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,short_term_pressure,climate_delay,ecological_threshold_risk,debt_transfer,maintenance_deferral,technology_lock_in,institutional_fragility,future_representation_gap,reparative_gap,adaptive_learning_capacity,description
+FGS1,Stewardship State,stewardship_state,0.28,0.30,0.32,0.32,0.26,0.34,0.26,0.20,0.28,0.82,Long-term institutions align budgets laws infrastructure climate policy and public investment.
+FGS2,Short-Term Extraction,short_term_extraction,0.92,0.88,0.84,0.76,0.70,0.62,0.64,0.76,0.72,0.34,Present advantage is maximized while future harm is deferred.
+FGS3,Climate Repair Pathway,climate_repair,0.34,0.22,0.26,0.40,0.34,0.40,0.32,0.28,0.24,0.80,Climate repair becomes a central intergenerational responsibility.
+FGS4,Technological Lock-In,technological_lock_in,0.62,0.54,0.48,0.60,0.56,0.94,0.58,0.62,0.56,0.46,Digital and AI systems create inherited opacity and difficult-to-reverse governance systems.
+FGS5,Deferred Maintenance Crisis,deferred_maintenance,0.72,0.62,0.66,0.72,0.94,0.58,0.78,0.72,0.66,0.32,Maintenance prevention public health and infrastructure investment are repeatedly deferred.
+FGS6,Reparative Intergenerational Compact,reparative_compact,0.30,0.28,0.30,0.34,0.30,0.32,0.26,0.14,0.12,0.86,Repair and long-horizon stewardship are built into law budgets and public authority.
+FGS7,Youth-Led Democratic Renewal,youth_democratic_renewal,0.36,0.38,0.36,0.40,0.36,0.38,0.34,0.10,0.24,0.78,Youth participation reshapes long-term governance and accountability.
+FGS8,Institutional Time Collapse,time_collapse,0.86,0.76,0.78,0.70,0.82,0.72,0.94,0.78,0.80,0.24,Continuous crisis erodes planning capacity and future-oriented decision-making.

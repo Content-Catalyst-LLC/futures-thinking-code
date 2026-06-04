@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,inherited_burden,future_freedom,institutional_capacity,ecological_damage,adaptive_capacity,future_representation,reparative_continuity,public_legitimacy,description
+IR1,IGP1,Stewardship State Record,0.34,0.78,0.82,0.30,0.84,0.80,0.72,0.78,Long-term rules improve stewardship while preserving public legitimacy.
+IR2,IGP2,Short-Term Extraction Record,0.82,0.30,0.38,0.84,0.36,0.24,0.28,0.30,Immediate advantage creates high inherited burden and weak future freedom.
+IR3,IGP3,Climate Repair Pathway Record,0.38,0.76,0.76,0.24,0.82,0.72,0.80,0.74,Climate repair improves future freedom and ecological inheritance.
+IR4,IGP4,Technological Lock-In Record,0.64,0.42,0.46,0.48,0.48,0.38,0.44,0.42,Technical systems become inherited constraints without reversibility.
+IR5,IGP5,Deferred Maintenance Crisis Record,0.78,0.34,0.34,0.66,0.32,0.28,0.34,0.36,Maintenance deferral raises future costs and weakens institutional capacity.
+IR6,IGP6,Reparative Compact Record,0.32,0.84,0.84,0.26,0.86,0.86,0.94,0.84,Repair and stewardship strengthen future freedom and legitimacy.
+IR7,IGP7,Youth-Led Democratic Renewal Record,0.36,0.80,0.78,0.34,0.80,0.88,0.76,0.82,Youth participation expands future representation and democratic renewal.
+IR8,IGP8,Institutional Time Collapse Record,0.86,0.28,0.28,0.78,0.30,0.22,0.24,0.26,Crisis governance erodes planning capacity and future-oriented accountability.

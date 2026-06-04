@@ -1,0 +1,6 @@
+[package]
+name = "future_generations_long_term_responsibility_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
