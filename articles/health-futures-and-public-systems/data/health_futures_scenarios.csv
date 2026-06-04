@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,disease_burden_pressure,climate_health_pressure,biological_risk_pressure,workforce_pressure,care_pressure,chronic_disease_pressure,mental_health_pressure,technology_governance_pressure,trust_pressure,equity_pressure,description
+HS1,Preventive Public Health Renewal,preventive_renewal,0.34,0.36,0.34,0.32,0.36,0.38,0.34,0.36,0.30,0.28,Prevention public health primary care and social support reduce future health burden.
+HS2,High-Tech Fragmented Medicine,high_tech_fragmented,0.58,0.56,0.50,0.62,0.66,0.70,0.64,0.82,0.70,0.78,Technology advances while care access public health prevention and equity remain fragmented.
+HS3,Climate-Driven Health Stress,climate_health_stress,0.66,0.94,0.58,0.70,0.62,0.64,0.70,0.52,0.66,0.72,Heat smoke flood water risk displacement and changing disease patterns drive recurring health stress.
+HS4,Aging and Care Capacity Crisis,aging_care_crisis,0.64,0.54,0.46,0.78,0.94,0.82,0.62,0.48,0.58,0.66,Long-term care chronic disease workforce and family caregiving systems face sustained pressure.
+HS5,Pandemic and Biosecurity Shock,pandemic_biosecurity,0.84,0.56,0.94,0.86,0.66,0.64,0.72,0.60,0.88,0.78,New pathogen risk strains surveillance hospitals supply chains social protection and trust.
+HS6,Mental Health and Social Stress Future,mental_health_stress,0.56,0.50,0.42,0.64,0.58,0.60,0.94,0.58,0.72,0.70,Isolation insecurity work stress climate anxiety trauma and weak community care increase distress.
+HS7,Equitable Health Systems Transformation,equitable_transformation,0.28,0.34,0.30,0.32,0.34,0.36,0.32,0.30,0.24,0.22,Prevention care access public health trust climate readiness and equity reinforce resilience.
+HS8,Austerity and Public Health Erosion,austerity_erosion,0.78,0.82,0.74,0.88,0.86,0.84,0.80,0.66,0.82,0.88,Fiscal constraint weakens public health workforce care access prevention and trust.

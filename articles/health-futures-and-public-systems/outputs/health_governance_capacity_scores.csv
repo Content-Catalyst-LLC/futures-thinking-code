@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,health_governance_capacity_score,legitimacy_gap_score,description
+HG7,HF7,Equitable Health Transformation Governance,equitable_transformation,0.8726,0.1242,Health governance integrates prevention care public health technology accountability climate readiness and justice.
+HG1,HF1,Preventive Public Health Governance,preventive_renewal,0.796,0.2014,Strong prevention governance links surveillance finance workforce community trust and access.
+HG5,HF5,Pandemic Preparedness Governance,pandemic_biosecurity,0.6596,0.3486,Preparedness relies on surveillance labs supply chains communication social protection and coordination.
+HG3,HF3,Climate Health Governance Capacity,climate_health,0.6418,0.3554,Climate health governance coordinates heat smoke flood water disease exposure and emergency planning.
+HG6,HF6,Mental Health Systems Governance,mental_health,0.5806,0.4088,Community care crisis alternatives school support and trauma-informed systems require stronger governance.
+HG4,HF4,Aging and Care Governance Strain,aging_care_crisis,0.4916,0.5042,Care systems lack workforce finance standards caregiver support and long-term institutional capacity.
+HG2,HF2,High-Tech Fragmented Governance Gap,high_tech_fragmented,0.4526,0.5554,Technology expands while accountability access prevention and public health governance lag.
+HG8,HF8,Public Health Erosion Baseline,austerity_erosion,0.2922,0.7084,Weak finance workforce monitoring participation and care capacity produce public health fragility.

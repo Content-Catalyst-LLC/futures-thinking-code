@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,prevention_capacity,healthcare_access,public_health_infrastructure,climate_readiness,workforce_resilience,technology_governance,social_protection,public_trust,equity_capacity,care_capacity,description
+HF1,Preventive Public Health Renewal,preventive_renewal,0.82,0.74,0.86,0.70,0.72,0.66,0.78,0.76,0.80,0.72,Public systems invest in prevention primary care public health social determinants environmental health and community trust.
+HF2,High-Tech Fragmented Medicine,high_tech_fragmented,0.46,0.58,0.48,0.42,0.44,0.34,0.42,0.38,0.34,0.40,Advanced medical technology expands while access prevention public health and care systems remain uneven.
+HF3,Climate-Driven Health Stress,climate_health_stress,0.52,0.54,0.56,0.30,0.38,0.46,0.46,0.42,0.40,0.44,Heat smoke flood disease shifts displacement and infrastructure stress repeatedly pressure health systems.
+HF4,Aging and Care Capacity Crisis,aging_care_crisis,0.58,0.50,0.52,0.44,0.30,0.42,0.50,0.46,0.44,0.26,Longer lives chronic disease and care demand rise while workforce family and long-term care systems strain.
+HF5,Pandemic and Biosecurity Shock,pandemic_biosecurity,0.50,0.48,0.46,0.40,0.34,0.44,0.44,0.34,0.38,0.42,New pathogen risk interacts with misinformation weak surveillance supply shortages and trust deficits.
+HF6,Mental Health and Social Stress Future,mental_health_stress,0.54,0.50,0.50,0.42,0.40,0.44,0.48,0.36,0.40,0.46,Isolation insecurity climate anxiety digital life work stress and trauma overwhelm crisis systems.
+HF7,Equitable Health Systems Transformation,equitable_transformation,0.86,0.84,0.88,0.78,0.76,0.78,0.84,0.82,0.88,0.80,Health systems integrate prevention care technology environmental protection trust and justice.
+HF8,Austerity and Public Health Erosion,austerity_erosion,0.34,0.40,0.30,0.28,0.26,0.32,0.30,0.28,0.26,0.24,Public health care infrastructure and prevention capacity erode under fiscal constraint and institutional neglect.

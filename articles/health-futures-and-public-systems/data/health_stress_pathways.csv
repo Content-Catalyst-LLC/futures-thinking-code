@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,prevention,healthcare_access,public_health,climate_readiness,workforce,social_protection,public_trust,equity,care_capacity,initial_resilience,time_horizon
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,0.82,0.74,0.86,0.70,0.72,0.78,0.76,0.80,0.72,1.00,40
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,0.46,0.58,0.48,0.42,0.44,0.42,0.38,0.34,0.40,1.00,40
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,0.52,0.54,0.56,0.30,0.38,0.46,0.42,0.40,0.44,1.00,40
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,0.58,0.50,0.52,0.44,0.30,0.50,0.46,0.44,0.26,1.00,40
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,0.50,0.48,0.46,0.40,0.34,0.44,0.34,0.38,0.42,1.00,40
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,0.54,0.50,0.50,0.42,0.40,0.48,0.36,0.40,0.46,1.00,40
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,0.86,0.84,0.88,0.78,0.76,0.84,0.82,0.88,0.80,1.00,40
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,0.34,0.40,0.30,0.28,0.26,0.30,0.28,0.26,0.24,1.00,40

@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,health_system_stress_score,health_transformation_opportunity_score,description
+HS8,Austerity and Public Health Erosion,austerity_erosion,0.809,0.1808,Fiscal constraint weakens public health workforce care access prevention and trust.
+HS5,Pandemic and Biosecurity Shock,pandemic_biosecurity,0.7476,0.2346,New pathogen risk strains surveillance hospitals supply chains social protection and trust.
+HS3,Climate-Driven Health Stress,climate_health_stress,0.6818,0.3106,Heat smoke flood water risk displacement and changing disease patterns drive recurring health stress.
+HS4,Aging and Care Capacity Crisis,aging_care_crisis,0.6594,0.3358,Long-term care chronic disease workforce and family caregiving systems face sustained pressure.
+HS2,High-Tech Fragmented Medicine,high_tech_fragmented,0.633,0.3656,Technology advances while care access public health prevention and equity remain fragmented.
+HS6,Mental Health and Social Stress Future,mental_health_stress,0.6054,0.399,Isolation insecurity work stress climate anxiety trauma and weak community care increase distress.
+HS1,Preventive Public Health Renewal,preventive_renewal,0.343,0.6638,Prevention public health primary care and social support reduce future health burden.
+HS7,Equitable Health Systems Transformation,equitable_transformation,0.3114,0.6984,Prevention care access public health trust climate readiness and equity reinforce resilience.

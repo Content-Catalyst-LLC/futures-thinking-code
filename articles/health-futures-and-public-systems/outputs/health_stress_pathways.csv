@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,public_health_resilience,system_stress,adaptive_capacity
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,1,1.0,0.2284,0.7762
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,2,1.0036,0.1738,0.8731
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,3,1.0145,0.1192,0.9711
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,4,1.0325,0.0646,1.0702
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,5,1.0579,0.01,1.1704
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,6,1.0878,0.0,1.2708
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,7,1.1218,0.0,1.3712
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,8,1.0397,0.0,1.468
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,9,1.0815,0.0,1.5684
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,10,1.1079,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,11,1.151,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,12,1.1941,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,13,1.1272,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,14,1.1704,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,15,1.2135,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,16,1.1366,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,17,1.1798,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,18,1.2229,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,19,1.266,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,20,1.2924,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,21,1.3355,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,22,1.3786,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,23,1.4217,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,24,1.3449,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,25,1.388,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,26,1.3211,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,27,1.3643,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,28,1.4074,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,29,1.4505,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,30,1.4769,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,31,1.52,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,32,1.4431,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,33,1.4862,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,34,1.5294,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,35,1.5725,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,36,1.6156,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,37,1.6588,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,38,1.7019,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,39,1.635,0.0,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,40,1.5414,0.0,1.6
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,1,1.0,0.5522,0.4498
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,2,0.946,0.5928,0.4913
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,3,0.8913,0.6334,0.5321
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,4,0.8357,0.674,0.572
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,5,0.7792,0.7146,0.6111
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,6,0.7218,0.7552,0.6494
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,7,0.6635,0.7958,0.6869
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,8,0.4837,0.8424,0.7198
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,9,0.4229,0.883,0.7556
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,10,0.3229,0.9596,0.7898
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,11,0.2578,1.0002,0.8232
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,12,0.1915,1.0408,0.8558
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,13,0.0136,1.088,0.8852
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,14,0.0,1.1286,0.916
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,15,0.0,1.1692,0.946
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,16,0.0,1.2158,0.9715
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,17,0.0,1.2564,0.9998
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,18,0.0,1.297,1.0273
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,19,0.0,1.3376,1.0539
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,20,0.0,1.4142,1.079
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,21,0.0,1.4548,1.1033
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,22,0.0,1.4954,1.1268
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,23,0.0,1.536,1.1495
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,24,0.0,1.5826,1.1677
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,25,0.0,1.6,1.1891
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,26,0.0,1.6,1.2083
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,27,0.0,1.6,1.2297
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,28,0.0,1.6,1.2511
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,29,0.0,1.6,1.2725
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,30,0.0,1.6,1.2939
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,31,0.0,1.6,1.3153
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,32,0.0,1.6,1.3331
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,33,0.0,1.6,1.3545
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,34,0.0,1.6,1.3759
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,35,0.0,1.6,1.3973
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,36,0.0,1.6,1.4187
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,37,0.0,1.6,1.4401
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,38,0.0,1.6,1.4615
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,39,0.0,1.6,1.4807
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,40,0.0,1.6,1.4985
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,1,1.0,0.5458,0.4606
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,2,0.9488,0.5824,0.5066
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,3,0.8972,0.619,0.5518
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,4,0.8452,0.6556,0.5963
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,5,0.7928,0.6922,0.64
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,6,0.7399,0.7288,0.683
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,7,0.6865,0.7654,0.7253
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,8,0.512,0.808,0.7632
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,9,0.457,0.8446,0.8039
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,10,0.3657,0.9148,0.8432
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,11,0.3074,0.9514,0.8818
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,12,0.2484,0.988,0.9196
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,13,0.0782,1.0312,0.9544
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,14,0.0172,1.0678,0.9906
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,15,0.0,1.1044,1.0261
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,16,0.0,1.147,1.0572
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,17,0.0,1.1836,1.0911
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,18,0.0,1.2202,1.1243
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,19,0.0,1.2568,1.1568
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,20,0.0,1.327,1.1878
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,21,0.0,1.3636,1.2182
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,22,0.0,1.4002,1.2478
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,23,0.0,1.4368,1.2766
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,24,0.0,1.4794,1.301
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,25,0.0,1.516,1.3283
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,26,0.0,1.5592,1.3525
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,27,0.0,1.5958,1.3782
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,28,0.0,1.6,1.4038
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,29,0.0,1.6,1.4294
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,30,0.0,1.6,1.455
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,31,0.0,1.6,1.4806
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,32,0.0,1.6,1.5026
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,33,0.0,1.6,1.5282
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,34,0.0,1.6,1.5538
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,35,0.0,1.6,1.5794
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,36,0.0,1.6,1.6
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,37,0.0,1.6,1.6
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,38,0.0,1.6,1.6
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,39,0.0,1.6,1.6
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,40,0.0,1.6,1.6
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,1,1.0,0.5388,0.4654
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,2,0.9488,0.5734,0.5089
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,3,0.8973,0.608,0.5518
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,4,0.8453,0.6426,0.5939
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,5,0.793,0.6772,0.6354
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,6,0.7402,0.7118,0.6761
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,7,0.6869,0.7464,0.7162
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,8,0.5126,0.787,0.7519
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,9,0.4578,0.8216,0.7904
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,10,0.3553,0.9006,0.8274
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,11,0.2966,0.9352,0.8637
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,12,0.2372,0.9698,0.8993
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,13,0.0667,1.011,0.9319
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,14,0.0055,1.0456,0.966
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,15,0.0,1.0802,0.9994
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,16,0.0,1.1208,1.0284
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,17,0.0,1.1554,1.0603
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,18,0.0,1.19,1.0915
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,19,0.0,1.2246,1.122
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,20,0.0,1.3036,1.1509
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,21,0.0,1.3382,1.1791
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,22,0.0,1.3728,1.2067
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,23,0.0,1.4074,1.2335
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,24,0.0,1.448,1.256
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,25,0.0,1.4826,1.2813
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,26,0.0,1.5238,1.3036
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,27,0.0,1.5584,1.3275
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,28,0.0,1.593,1.3506
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,29,0.0,1.6,1.3736
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,30,0.0,1.6,1.3966
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,31,0.0,1.6,1.4196
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,32,0.0,1.6,1.439
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,33,0.0,1.6,1.462
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,34,0.0,1.6,1.485
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,35,0.0,1.6,1.508
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,36,0.0,1.6,1.531
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,37,0.0,1.6,1.554
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,38,0.0,1.6,1.577
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,39,0.0,1.6,1.5978
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,40,0.0,1.6,1.6
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,1,1.0,0.5748,0.4268
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,2,0.9425,0.619,0.4652
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,3,0.8839,0.6632,0.5028
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,4,0.8241,0.7074,0.5394
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,5,0.7631,0.7516,0.5752
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,6,0.7008,0.7958,0.6101
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,7,0.6373,0.84,0.6441
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,8,0.4519,0.8902,0.6735
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,9,0.3851,0.9344,0.7056
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,10,0.28,1.0134,0.7361
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,11,0.2082,1.0576,0.7657
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,12,0.135,1.1018,0.7945
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,13,0.0,1.1526,0.8201
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,14,0.0,1.1968,0.8469
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,15,0.0,1.241,0.8729
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,16,0.0,1.2912,0.8943
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,17,0.0,1.3354,0.9184
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,18,0.0,1.3796,0.9416
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,19,0.0,1.4238,0.9639
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,20,0.0,1.5028,0.9846
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,21,0.0,1.547,1.0045
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,22,0.0,1.5912,1.0235
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,23,0.0,1.6,1.0423
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,24,0.0,1.6,1.0575
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,25,0.0,1.6,1.0763
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,26,0.0,1.6,1.0929
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,27,0.0,1.6,1.1117
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,28,0.0,1.6,1.1305
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,29,0.0,1.6,1.1493
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,30,0.0,1.6,1.1681
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,31,0.0,1.6,1.1869
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,32,0.0,1.6,1.2021
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,33,0.0,1.6,1.2209
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,34,0.0,1.6,1.2397
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,35,0.0,1.6,1.2585
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,36,0.0,1.6,1.2773
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,37,0.0,1.6,1.2961
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,38,0.0,1.6,1.3149
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,39,0.0,1.6,1.3315
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,40,0.0,1.6,1.3467
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,1,1.0,0.5406,0.4614
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,2,0.9486,0.574,0.5057
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,3,0.897,0.6074,0.5494
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,4,0.8451,0.6408,0.5924
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,5,0.7928,0.6742,0.6347
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,6,0.7402,0.7076,0.6763
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,7,0.6873,0.741,0.7173
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,8,0.5135,0.7804,0.7539
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,9,0.4592,0.8138,0.7934
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,10,0.3701,0.8796,0.8316
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,11,0.3129,0.913,0.8692
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,12,0.2552,0.9464,0.906
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,13,0.0865,0.9864,0.9399
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,14,0.0271,1.0198,0.9753
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,15,0.0,1.0532,1.01
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,16,0.0,1.0926,1.0404
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,17,0.0,1.126,1.0737
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,18,0.0,1.1594,1.1063
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,19,0.0,1.1928,1.1382
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,20,0.0,1.2586,1.1689
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,21,0.0,1.292,1.1988
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,22,0.0,1.3254,1.2281
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,23,0.0,1.3588,1.2567
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,24,0.0,1.3982,1.281
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,25,0.0,1.4316,1.3081
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,26,0.0,1.4716,1.3323
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,27,0.0,1.505,1.358
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,28,0.0,1.5384,1.383
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,29,0.0,1.5718,1.4074
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,30,0.0,1.6,1.4312
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,31,0.0,1.6,1.455
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,32,0.0,1.6,1.4752
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,33,0.0,1.6,1.499
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,34,0.0,1.6,1.5228
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,35,0.0,1.6,1.5466
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,36,0.0,1.6,1.5704
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,37,0.0,1.6,1.5942
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,38,0.0,1.6,1.6
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,39,0.0,1.6,1.6
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,40,0.0,1.6,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,1,1.0,0.1696,0.8332
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,2,1.0134,0.101,0.9378
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,3,1.0351,0.0324,1.0437
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,4,1.0631,0.0,1.1503
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,5,1.0953,0.0,1.2569
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,6,1.1318,0.0,1.3635
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,7,1.1725,0.0,1.4701
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,8,1.0974,0.0,1.5731
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,9,1.1433,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,10,1.1773,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,11,1.2232,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,12,1.2692,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,13,1.2051,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,14,1.251,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,15,1.297,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,16,1.2229,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,17,1.2689,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,18,1.3148,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,19,1.3607,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,20,1.3947,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,21,1.4406,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,22,1.4866,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,23,1.5325,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,24,1.4584,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,25,1.5044,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,26,1.4403,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,27,1.4863,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,28,1.5322,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,29,1.5781,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,30,1.6121,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,31,1.658,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,32,1.584,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,33,1.6299,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,34,1.6758,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,35,1.7218,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,36,1.7677,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,37,1.8,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,38,1.8,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,39,1.7359,0.0,1.6
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,40,1.6499,0.0,1.6
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,1,1.0,0.6966,0.3044
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,2,0.9212,0.778,0.3238
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,3,0.8383,0.8594,0.3417
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,4,0.7511,0.9408,0.3578
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,5,0.6596,1.0222,0.3724
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,6,0.5638,1.1036,0.3853
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,7,0.4635,1.185,0.3966
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,8,0.2382,1.2724,0.4026
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,9,0.1284,1.3538,0.4105
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,10,0.0,1.4808,0.4159
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,11,0.0,1.5622,0.4196
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,12,0.0,1.6,0.4226
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,13,0.0,1.6,0.4234
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,14,0.0,1.6,0.4264
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,15,0.0,1.6,0.4294
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,16,0.0,1.6,0.4288
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,17,0.0,1.6,0.4318
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,18,0.0,1.6,0.4348
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,19,0.0,1.6,0.4378
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,20,0.0,1.6,0.4408
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,21,0.0,1.6,0.4438
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,22,0.0,1.6,0.4468
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,23,0.0,1.6,0.4498
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,24,0.0,1.6,0.4492
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,25,0.0,1.6,0.4522
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,26,0.0,1.6,0.453
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,27,0.0,1.6,0.456
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,28,0.0,1.6,0.459
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,29,0.0,1.6,0.462
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,30,0.0,1.6,0.465
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,31,0.0,1.6,0.468
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,32,0.0,1.6,0.4674
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,33,0.0,1.6,0.4704
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,34,0.0,1.6,0.4734
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,35,0.0,1.6,0.4764
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,36,0.0,1.6,0.4794
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,37,0.0,1.6,0.4824
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,38,0.0,1.6,0.4854
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,39,0.0,1.6,0.4862
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,40,0.0,1.6,0.4856

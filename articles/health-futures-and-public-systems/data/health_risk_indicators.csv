@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,cascade_potential,visibility_gap,recovery_difficulty,distributional_harm,preparedness,description
+HR1,HS5,Pandemic and Biosecurity Shock,biosecurity,0.62,0.94,0.92,0.66,0.86,0.84,0.38,New pathogen risk overwhelms surveillance care supply chains communication and trust.
+HR2,HS3,Climate Health Compound Stress,climate_health,0.76,0.90,0.84,0.54,0.82,0.92,0.34,Heat smoke flood outages displacement and disease shifts combine with unequal exposure.
+HR3,HS4,Aging and Care Capacity Crisis,care_systems,0.72,0.82,0.76,0.46,0.80,0.78,0.36,Care workforce family caregivers long-term care and chronic disease systems face sustained overload.
+HR4,HS6,Mental Health and Social Stress Surge,mental_health,0.78,0.78,0.72,0.58,0.74,0.82,0.40,Isolation insecurity climate anxiety trauma and weak community systems increase distress.
+HR5,HS2,Technology Bias and Fragmented Access,technology_governance,0.60,0.72,0.62,0.72,0.66,0.78,0.42,AI digital health and proprietary platforms deepen bias surveillance administrative burden and access inequality.
+HR6,HS8,Public Health Infrastructure Erosion,institutional_capacity,0.70,0.88,0.86,0.52,0.84,0.88,0.30,Austerity and neglect weaken prevention workforce surveillance labs communication and trust.
+HR7,HS1,Prevention Implementation Gap,implementation_risk,0.44,0.62,0.54,0.42,0.56,0.58,0.64,Prevention agenda fails if funding workforce law community partnerships and accountability are weak.
+HR8,HS7,Equitable Transformation Capacity Gap,equity_governance,0.38,0.66,0.58,0.46,0.60,0.70,0.62,Equitable transformation stalls if institutional coordination and trust-building are insufficient.

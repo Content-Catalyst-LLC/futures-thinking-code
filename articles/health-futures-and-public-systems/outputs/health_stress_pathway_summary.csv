@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_resilience,mean_resilience,mean_system_stress,final_adaptive_capacity
+HP7,HF7,HS7,Equitable Health Systems Transformation Pathway,1.6499,1.3958,0.0076,1.6
+HP1,HF1,HS1,Preventive Public Health Renewal Pathway,1.5414,1.3023,0.0149,1.6
+HP2,HF2,HS2,High-Tech Fragmented Medicine Pathway,0.0,0.1883,1.2755,1.4985
+HP3,HF3,HS3,Climate-Driven Health Stress Pathway,0.0,0.1974,1.2396,1.6
+HP4,HF4,HS4,Aging and Care Capacity Crisis Pathway,0.0,0.1961,1.2242,1.6
+HP5,HF5,HS5,Pandemic and Biosecurity Shock Pathway,0.0,0.1803,1.3103,1.3467
+HP6,HF6,HS6,Mental Health and Social Stress Pathway,0.0,0.1984,1.205,1.6
+HP8,HF8,HS8,Austerity and Public Health Erosion Pathway,0.0,0.1391,1.4664,0.4856

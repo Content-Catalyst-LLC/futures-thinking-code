@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,health_risk_priority_score,distributional_harm,preparedness,description
+HR1,HS5,Pandemic and Biosecurity Shock,biosecurity,0.8044,0.84,0.38,New pathogen risk overwhelms surveillance care supply chains communication and trust.
+HR2,HS3,Climate Health Compound Stress,climate_health,0.8,0.92,0.34,Heat smoke flood outages displacement and disease shifts combine with unequal exposure.
+HR6,HS8,Public Health Infrastructure Erosion,institutional_capacity,0.7882,0.88,0.3,Austerity and neglect weaken prevention workforce surveillance labs communication and trust.
+HR4,HS6,Mental Health and Social Stress Surge,mental_health,0.7326,0.82,0.4,Isolation insecurity climate anxiety trauma and weak community systems increase distress.
+HR3,HS4,Aging and Care Capacity Crisis,care_systems,0.7286,0.78,0.36,Care workforce family caregivers long-term care and chronic disease systems face sustained overload.
+HR5,HS2,Technology Bias and Fragmented Access,technology_governance,0.6768,0.78,0.42,AI digital health and proprietary platforms deepen bias surveillance administrative burden and access inequality.
+HR8,HS7,Equitable Transformation Capacity Gap,equity_governance,0.5592,0.7,0.62,Equitable transformation stalls if institutional coordination and trust-building are insufficient.
+HR7,HS1,Prevention Implementation Gap,implementation_risk,0.5212,0.58,0.64,Prevention agenda fails if funding workforce law community partnerships and accountability are weak.
