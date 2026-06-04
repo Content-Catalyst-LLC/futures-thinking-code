@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,food_water_land_resilience,resource_stress,adaptive_capacity
+PW1,FWL1,FS1,Regenerative Transition Pathway,1,1.0,0.2782,0.7772
+PW1,FWL1,FS1,Regenerative Transition Pathway,2,1.0085,0.2156,0.8698
+PW1,FWL1,FS1,Regenerative Transition Pathway,3,1.0244,0.153,0.9624
+PW1,FWL1,FS1,Regenerative Transition Pathway,4,1.0478,0.0904,1.055
+PW1,FWL1,FS1,Regenerative Transition Pathway,5,1.0787,0.0278,1.1476
+PW1,FWL1,FS1,Regenerative Transition Pathway,6,1.115,0.0,1.2402
+PW1,FWL1,FS1,Regenerative Transition Pathway,7,1.1549,0.0,1.3328
+PW1,FWL1,FS1,Regenerative Transition Pathway,8,1.0784,0.0,1.4218
+PW1,FWL1,FS1,Regenerative Transition Pathway,9,1.1256,0.0,1.5144
+PW1,FWL1,FS1,Regenerative Transition Pathway,10,1.1762,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,11,1.2269,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,12,1.2775,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,13,1.3281,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,14,1.3788,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,15,1.4294,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,16,1.36,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,17,1.4107,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,18,1.4613,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,19,1.5119,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,20,1.5626,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,21,1.6132,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,22,1.6638,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,23,1.7145,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,24,1.6451,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,25,1.6957,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,26,1.7464,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,27,1.797,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,28,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,29,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,30,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,31,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,32,1.7306,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,33,1.7813,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,34,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,35,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,36,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,37,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,38,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,39,1.8,0.0,1.6
+PW1,FWL1,FS1,Regenerative Transition Pathway,40,1.7306,0.0,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,1,1.0,0.5988,0.452
+PW2,FWL2,FS2,High-Yield Degradation Pathway,2,0.9512,0.593,0.4994
+PW2,FWL2,FS2,High-Yield Degradation Pathway,3,0.9046,0.5872,0.5468
+PW2,FWL2,FS2,High-Yield Degradation Pathway,4,0.8603,0.5814,0.5942
+PW2,FWL2,FS2,High-Yield Degradation Pathway,5,0.8182,0.5756,0.6416
+PW2,FWL2,FS2,High-Yield Degradation Pathway,6,0.7783,0.5698,0.689
+PW2,FWL2,FS2,High-Yield Degradation Pathway,7,0.7407,0.564,0.7364
+PW2,FWL2,FS2,High-Yield Degradation Pathway,8,0.5849,0.5642,0.7802
+PW2,FWL2,FS2,High-Yield Degradation Pathway,9,0.5513,0.5584,0.8276
+PW2,FWL2,FS2,High-Yield Degradation Pathway,10,0.5199,0.5526,0.875
+PW2,FWL2,FS2,High-Yield Degradation Pathway,11,0.4908,0.5468,0.9224
+PW2,FWL2,FS2,High-Yield Degradation Pathway,12,0.4639,0.541,0.9698
+PW2,FWL2,FS2,High-Yield Degradation Pathway,13,0.4392,0.5352,1.0172
+PW2,FWL2,FS2,High-Yield Degradation Pathway,14,0.4168,0.5294,1.0646
+PW2,FWL2,FS2,High-Yield Degradation Pathway,15,0.3967,0.5236,1.112
+PW2,FWL2,FS2,High-Yield Degradation Pathway,16,0.2583,0.5238,1.1558
+PW2,FWL2,FS2,High-Yield Degradation Pathway,17,0.2421,0.518,1.2032
+PW2,FWL2,FS2,High-Yield Degradation Pathway,18,0.2282,0.5122,1.2506
+PW2,FWL2,FS2,High-Yield Degradation Pathway,19,0.2165,0.5064,1.298
+PW2,FWL2,FS2,High-Yield Degradation Pathway,20,0.2071,0.5006,1.3454
+PW2,FWL2,FS2,High-Yield Degradation Pathway,21,0.1999,0.4948,1.3928
+PW2,FWL2,FS2,High-Yield Degradation Pathway,22,0.1949,0.489,1.4402
+PW2,FWL2,FS2,High-Yield Degradation Pathway,23,0.1922,0.4832,1.4876
+PW2,FWL2,FS2,High-Yield Degradation Pathway,24,0.0713,0.4834,1.5314
+PW2,FWL2,FS2,High-Yield Degradation Pathway,25,0.0725,0.4776,1.5788
+PW2,FWL2,FS2,High-Yield Degradation Pathway,26,0.075,0.4718,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,27,0.0778,0.466,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,28,0.081,0.4602,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,29,0.0845,0.4544,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,30,0.0884,0.4486,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,31,0.0926,0.4428,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,32,0.0,0.443,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,33,0.0046,0.4372,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,34,0.0095,0.4314,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,35,0.0147,0.4256,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,36,0.0203,0.4198,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,37,0.0262,0.414,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,38,0.0325,0.4082,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,39,0.0392,0.4024,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,40,0.0,0.4026,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,1,1.0,0.6572,0.3948
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,2,0.9414,0.6676,0.4396
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,3,0.8839,0.678,0.4844
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,4,0.8277,0.6884,0.5292
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,5,0.7725,0.6988,0.574
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,6,0.7186,0.7092,0.6188
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,7,0.6658,0.7196,0.6636
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,8,0.4937,0.736,0.7048
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,9,0.4428,0.7464,0.7496
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,10,0.393,0.7568,0.7944
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,11,0.3444,0.7672,0.8392
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,12,0.2969,0.7776,0.884
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,13,0.2507,0.788,0.9288
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,14,0.2056,0.7984,0.9736
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,15,0.1616,0.8088,1.0184
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,16,0.0,0.8252,1.0596
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,17,0.0,0.8356,1.1044
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,18,0.0,0.846,1.1492
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,19,0.0,0.8564,1.194
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,20,0.0,0.8668,1.2388
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,21,0.0,0.8772,1.2836
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,22,0.0,0.8876,1.3284
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,23,0.0,0.898,1.3732
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,24,0.0,0.9144,1.4144
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,25,0.0,0.9248,1.4592
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,26,0.0,0.9352,1.504
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,27,0.0,0.9456,1.5488
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,28,0.0,0.956,1.5936
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,29,0.0,0.9664,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,30,0.0,0.9768,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,31,0.0,0.9872,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,32,0.0,1.0036,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,33,0.0,1.014,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,34,0.0,1.0244,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,35,0.0,1.0348,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,36,0.0,1.0452,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,37,0.0,1.0556,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,38,0.0,1.066,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,39,0.0,1.0764,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,40,0.0,1.0928,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,1,1.0,0.6938,0.3952
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,2,0.9388,0.7104,0.4404
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,3,0.8783,0.727,0.4856
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,4,0.8187,0.7436,0.5308
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,5,0.7599,0.7602,0.576
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,6,0.7019,0.7768,0.6212
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,7,0.6447,0.7934,0.6664
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,8,0.4678,0.816,0.708
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,9,0.4117,0.8326,0.7532
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,10,0.3565,0.8492,0.7984
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,11,0.302,0.8658,0.8436
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,12,0.2484,0.8824,0.8888
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,13,0.1956,0.899,0.934
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,14,0.1436,0.9156,0.9792
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,15,0.0924,0.9322,1.0244
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,16,0.0,0.9548,1.066
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,17,0.0,0.9714,1.1112
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,18,0.0,0.988,1.1564
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,19,0.0,1.0046,1.2016
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,20,0.0,1.0212,1.2468
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,21,0.0,1.0378,1.292
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,22,0.0,1.0544,1.3372
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,23,0.0,1.071,1.3824
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,24,0.0,1.0936,1.424
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,25,0.0,1.1102,1.4692
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,26,0.0,1.1268,1.5144
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,27,0.0,1.1434,1.5596
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,28,0.0,1.16,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,29,0.0,1.1766,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,30,0.0,1.1932,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,31,0.0,1.2098,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,32,0.0,1.2324,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,33,0.0,1.249,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,34,0.0,1.2656,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,35,0.0,1.2822,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,36,0.0,1.2988,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,37,0.0,1.3154,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,38,0.0,1.332,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,39,0.0,1.3486,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,40,0.0,1.3712,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,1,1.0,0.6276,0.3972
+PW5,FWL5,FS5,Land Financialization Pathway,2,0.9442,0.6276,0.4356
+PW5,FWL5,FS5,Land Financialization Pathway,3,0.89,0.6276,0.474
+PW5,FWL5,FS5,Land Financialization Pathway,4,0.8373,0.6276,0.5124
+PW5,FWL5,FS5,Land Financialization Pathway,5,0.7861,0.6276,0.5508
+PW5,FWL5,FS5,Land Financialization Pathway,6,0.7365,0.6276,0.5892
+PW5,FWL5,FS5,Land Financialization Pathway,7,0.6884,0.6276,0.6276
+PW5,FWL5,FS5,Land Financialization Pathway,8,0.5213,0.6336,0.6624
+PW5,FWL5,FS5,Land Financialization Pathway,9,0.4758,0.6336,0.7008
+PW5,FWL5,FS5,Land Financialization Pathway,10,0.4318,0.6336,0.7392
+PW5,FWL5,FS5,Land Financialization Pathway,11,0.3893,0.6336,0.7776
+PW5,FWL5,FS5,Land Financialization Pathway,12,0.3484,0.6336,0.816
+PW5,FWL5,FS5,Land Financialization Pathway,13,0.309,0.6336,0.8544
+PW5,FWL5,FS5,Land Financialization Pathway,14,0.2712,0.6336,0.8928
+PW5,FWL5,FS5,Land Financialization Pathway,15,0.2349,0.6336,0.9312
+PW5,FWL5,FS5,Land Financialization Pathway,16,0.0796,0.6396,0.966
+PW5,FWL5,FS5,Land Financialization Pathway,17,0.0459,0.6396,1.0044
+PW5,FWL5,FS5,Land Financialization Pathway,18,0.0136,0.6396,1.0428
+PW5,FWL5,FS5,Land Financialization Pathway,19,0.0,0.6396,1.0812
+PW5,FWL5,FS5,Land Financialization Pathway,20,0.0,0.6396,1.1196
+PW5,FWL5,FS5,Land Financialization Pathway,21,0.0,0.6396,1.158
+PW5,FWL5,FS5,Land Financialization Pathway,22,0.0,0.6396,1.1964
+PW5,FWL5,FS5,Land Financialization Pathway,23,0.0,0.6396,1.2348
+PW5,FWL5,FS5,Land Financialization Pathway,24,0.0,0.6456,1.2696
+PW5,FWL5,FS5,Land Financialization Pathway,25,0.0,0.6456,1.308
+PW5,FWL5,FS5,Land Financialization Pathway,26,0.0,0.6456,1.3464
+PW5,FWL5,FS5,Land Financialization Pathway,27,0.0,0.6456,1.3848
+PW5,FWL5,FS5,Land Financialization Pathway,28,0.0,0.6456,1.4232
+PW5,FWL5,FS5,Land Financialization Pathway,29,0.0,0.6456,1.4616
+PW5,FWL5,FS5,Land Financialization Pathway,30,0.0,0.6456,1.5
+PW5,FWL5,FS5,Land Financialization Pathway,31,0.0,0.6456,1.5384
+PW5,FWL5,FS5,Land Financialization Pathway,32,0.0,0.6516,1.5732
+PW5,FWL5,FS5,Land Financialization Pathway,33,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,34,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,35,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,36,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,37,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,38,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,39,0.0,0.6516,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,40,0.0,0.6576,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,1,1.0,0.492,0.5552
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,2,0.9701,0.4658,0.615
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,3,0.9442,0.4396,0.6748
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,4,0.9222,0.4134,0.7346
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,5,0.9042,0.3872,0.7944
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,6,0.8902,0.361,0.8542
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,7,0.8801,0.3348,0.914
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,8,0.7535,0.3146,0.9702
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,9,0.7508,0.2884,1.03
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,10,0.7522,0.2622,1.0898
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,11,0.7574,0.236,1.1496
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,12,0.7667,0.2098,1.2094
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,13,0.7799,0.1836,1.2692
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,14,0.7971,0.1574,1.329
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,15,0.8182,0.1312,1.3888
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,16,0.7228,0.111,1.445
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,17,0.7514,0.0848,1.5048
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,18,0.7839,0.0586,1.5646
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,19,0.8194,0.0324,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,20,0.8565,0.0062,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,21,0.8939,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,22,0.9314,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,23,0.9688,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,24,0.8863,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,25,0.9238,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,26,0.9612,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,27,0.9987,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,28,1.0361,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,29,1.0736,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,30,1.111,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,31,1.1485,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,32,1.066,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,33,1.1034,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,34,1.1409,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,35,1.1783,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,36,1.2158,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,37,1.2532,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,38,1.2907,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,39,1.3281,0.0,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,40,1.2456,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,1,1.0,0.2912,0.772
+PW7,FWL7,FS7,Watershed Restoration Pathway,2,1.0071,0.2328,0.863
+PW7,FWL7,FS7,Watershed Restoration Pathway,3,1.0214,0.1744,0.954
+PW7,FWL7,FS7,Watershed Restoration Pathway,4,1.0428,0.116,1.045
+PW7,FWL7,FS7,Watershed Restoration Pathway,5,1.0713,0.0576,1.136
+PW7,FWL7,FS7,Watershed Restoration Pathway,6,1.107,0.0,1.227
+PW7,FWL7,FS7,Watershed Restoration Pathway,7,1.1462,0.0,1.318
+PW7,FWL7,FS7,Watershed Restoration Pathway,8,1.069,0.0,1.4054
+PW7,FWL7,FS7,Watershed Restoration Pathway,9,1.1154,0.0,1.4964
+PW7,FWL7,FS7,Watershed Restoration Pathway,10,1.1655,0.0,1.5874
+PW7,FWL7,FS7,Watershed Restoration Pathway,11,1.216,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,12,1.2666,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,13,1.3172,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,14,1.3677,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,15,1.4183,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,16,1.3488,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,17,1.3994,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,18,1.45,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,19,1.5005,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,20,1.5511,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,21,1.6016,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,22,1.6522,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,23,1.7028,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,24,1.6333,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,25,1.6839,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,26,1.7344,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,27,1.785,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,28,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,29,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,30,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,31,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,32,1.7306,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,33,1.7811,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,34,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,35,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,36,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,37,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,38,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,39,1.8,0.0,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,40,1.7306,0.0,1.6
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,1,1.0,0.6936,0.338
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,2,0.9329,0.7068,0.372
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,3,0.8664,0.72,0.406
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,4,0.8005,0.7332,0.44
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,5,0.7351,0.7464,0.474
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,6,0.6703,0.7596,0.508
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,7,0.606,0.7728,0.542
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,8,0.4219,0.792,0.5724
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,9,0.3583,0.8052,0.6064
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,10,0.2952,0.8184,0.6404
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,11,0.2327,0.8316,0.6744
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,12,0.1708,0.8448,0.7084
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,13,0.1095,0.858,0.7424
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,14,0.0487,0.8712,0.7764
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,15,0.0,0.8844,0.8104
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,16,0.0,0.9036,0.8408
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,17,0.0,0.9168,0.8748
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,18,0.0,0.93,0.9088
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,19,0.0,0.9432,0.9428
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,20,0.0,0.9564,0.9768
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,21,0.0,0.9696,1.0108
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,22,0.0,0.9828,1.0448
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,23,0.0,0.996,1.0788
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,24,0.0,1.0152,1.1092
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,25,0.0,1.0284,1.1432
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,26,0.0,1.0416,1.1772
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,27,0.0,1.0548,1.2112
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,28,0.0,1.068,1.2452
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,29,0.0,1.0812,1.2792
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,30,0.0,1.0944,1.3132
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,31,0.0,1.1076,1.3472
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,32,0.0,1.1268,1.3776
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,33,0.0,1.14,1.4116
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,34,0.0,1.1532,1.4456
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,35,0.0,1.1664,1.4796
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,36,0.0,1.1796,1.5136
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,37,0.0,1.1928,1.5476
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,38,0.0,1.206,1.5816
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,39,0.0,1.2192,1.6
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,40,0.0,1.2384,1.6

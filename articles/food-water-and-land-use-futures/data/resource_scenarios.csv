@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,food_pressure,water_pressure,land_pressure,soil_degradation_pressure,biodiversity_pressure,climate_pressure,market_pressure,governance_fragmentation,rights_conflict_pressure,description
+FS1,Regenerative Food-Water-Land Transition,regenerative_transition,0.34,0.32,0.36,0.28,0.30,0.42,0.36,0.30,0.28,Food water land restoration and rights-based governance reinforce resilience.
+FS2,High-Yield Degradation Pathway,high_yield_degradation,0.42,0.62,0.68,0.82,0.78,0.58,0.62,0.50,0.52,Output rises while soil water biodiversity and livelihoods deteriorate.
+FS3,Water Scarcity and Allocation Conflict,water_conflict,0.66,0.92,0.70,0.58,0.54,0.78,0.70,0.72,0.88,Drought aquifer depletion and competing demand intensify conflict.
+FS4,Climate Shock Food Crisis,climate_food_crisis,0.94,0.76,0.66,0.62,0.58,0.94,0.88,0.74,0.70,Climate extremes and market disruption produce acute food insecurity.
+FS5,Land Financialization and Dispossession,land_financialization,0.58,0.52,0.90,0.62,0.70,0.56,0.84,0.76,0.92,Speculation carbon markets and large land acquisition increase dispossession.
+FS6,Technology-Intensive Controlled System,technology_intensive,0.40,0.46,0.48,0.50,0.54,0.52,0.58,0.56,0.44,Technology improves monitoring and productivity but introduces dependency and exclusion risk.
+FS7,Watershed Restoration and Local Resilience,watershed_restoration,0.36,0.30,0.34,0.26,0.24,0.46,0.40,0.34,0.30,Watershed restoration local food infrastructure and community governance reduce stress.
+FS8,Extractive Land and Water Stress,extractive_stress,0.70,0.82,0.86,0.78,0.88,0.74,0.76,0.82,0.84,Extraction pollution insecure rights and weak enforcement accelerate resource degradation.

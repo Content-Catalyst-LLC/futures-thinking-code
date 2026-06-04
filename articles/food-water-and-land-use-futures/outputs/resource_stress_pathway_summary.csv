@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_resilience,mean_resilience,mean_resource_stress,final_adaptive_capacity
+PW1,FWL1,FS1,Regenerative Transition Pathway,1.7306,1.4969,0.0191,1.6
+PW7,FWL7,FS7,Watershed Restoration Pathway,1.7306,1.4904,0.0218,1.6
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,1.2456,0.9594,0.1242,1.6
+PW2,FWL2,FS2,High-Yield Degradation Pathway,0.0,0.3112,0.4984,1.6
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,0.0,0.21,0.8727,1.6
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,0.0,0.199,1.0302,1.6
+PW5,FWL5,FS5,Land Financialization Pathway,0.0,0.2251,0.6403,1.6
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,0.0,0.1812,0.9637,1.6

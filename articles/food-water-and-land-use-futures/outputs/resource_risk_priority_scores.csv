@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,resource_risk_priority_score,distributional_harm,preparedness,description
+FR2,FS3,Groundwater Depletion and Allocation Conflict,water_security,0.8078,0.82,0.32,Aquifer depletion and drought intensify conflict between agriculture cities ecosystems and households.
+FR1,FS4,Climate Shock Food Crisis,food_security,0.7914,0.92,0.36,Extreme weather market disruption and weak safety nets create acute food insecurity.
+FR5,FS8,Extraction Pollution and Ecosystem Collapse,ecological_integrity,0.7874,0.88,0.34,Extraction pollution and habitat loss weaken water food biodiversity and health.
+FR4,FS5,Land Dispossession and Rights Conflict,land_rights,0.7696,0.96,0.3,Speculation land acquisition and weak tenure displace communities and undermine stewardship.
+FR3,FS2,Soil Degradation and Productive Decline,soil_health,0.734,0.7,0.38,Short-term yield gains undermine long-term productive capacity and water retention.
+FR6,FS6,Technology Dependency and Data Extraction,technology_governance,0.6148,0.62,0.46,Technology improves monitoring while increasing platform dependence and unequal access.
+FR8,FS7,Watershed Coordination Failure,basin_governance,0.58,0.58,0.56,Watershed restoration fails when upstream downstream institutions and rights are misaligned.
+FR7,FS1,Regenerative Implementation Gap,implementation_risk,0.5116,0.54,0.64,Regenerative strategy fails if finance rights institutions and monitoring are weak.

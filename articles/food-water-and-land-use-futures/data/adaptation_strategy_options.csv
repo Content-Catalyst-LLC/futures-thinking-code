@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,production_gain,water_gain,soil_gain,biodiversity_gain,governance_gain,justice_gain,livelihood_gain,implementation_capacity,description
+FO1,FWL1,Regenerative Transition Package,regenerative_transition,0.78,0.82,0.94,0.88,0.82,0.90,0.86,0.70,Coordinates soil restoration water governance biodiversity food access and rights.
+FO2,FWL2,High-Yield Safeguards and Soil Recovery,soil_water_safeguards,0.82,0.64,0.88,0.68,0.64,0.60,0.66,0.62,Redirects intensification toward soil water biodiversity and farmer viability.
+FO3,FWL3,Basin Allocation and Groundwater Reform,water_governance,0.58,0.94,0.66,0.62,0.78,0.74,0.66,0.58,Manages drought groundwater extraction allocation rules and upstream downstream cooperation.
+FO4,FWL4,Food Security Shock Protection,food_security,0.66,0.62,0.60,0.54,0.72,0.84,0.78,0.64,Builds reserves safety nets nutrition support early warning and logistics resilience.
+FO5,FWL5,Land Rights and Anti-Dispossession Safeguards,land_rights,0.54,0.56,0.58,0.66,0.82,0.96,0.82,0.56,Protects land tenure Indigenous rights community governance and public value.
+FO6,FWL6,Public-Interest Agricultural Technology,technology_governance,0.84,0.72,0.66,0.62,0.76,0.70,0.64,0.66,Aligns sensing AI irrigation and controlled systems with access data rights and ecological goals.
+FO7,FWL7,Watershed Restoration and Local Food Resilience,watershed_restoration,0.70,0.92,0.86,0.94,0.78,0.82,0.86,0.62,Restores wetlands forests floodplains soils local food networks and basin resilience.
+FO8,FWL8,Extraction Control and Ecological Repair,ecological_repair,0.56,0.76,0.80,0.88,0.84,0.86,0.74,0.54,Controls pollution extraction land degradation and weak enforcement while repairing ecosystems.

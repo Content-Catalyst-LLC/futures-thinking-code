@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,production,water_security,soil_health,biodiversity,governance,justice,livelihood_resilience,climate_exposure,market_vulnerability,initial_resilience,time_horizon
+PW1,FWL1,FS1,Regenerative Transition Pathway,0.72,0.76,0.82,0.78,0.76,0.80,0.78,0.42,0.38,1.00,40
+PW2,FWL2,FS2,High-Yield Degradation Pathway,0.86,0.44,0.32,0.30,0.50,0.42,0.46,0.58,0.62,1.00,40
+PW3,FWL3,FS3,Water Scarcity Conflict Pathway,0.58,0.28,0.48,0.42,0.36,0.34,0.38,0.74,0.70,1.00,40
+PW4,FWL4,FS4,Climate Shock Food Crisis Pathway,0.42,0.38,0.42,0.40,0.40,0.38,0.36,0.88,0.86,1.00,40
+PW5,FWL5,FS5,Land Financialization Pathway,0.62,0.50,0.46,0.38,0.34,0.24,0.30,0.56,0.78,1.00,40
+PW6,FWL6,FS6,Technology-Intensive Controlled System Pathway,0.78,0.60,0.56,0.46,0.58,0.46,0.50,0.52,0.58,1.00,40
+PW7,FWL7,FS7,Watershed Restoration Pathway,0.68,0.82,0.78,0.84,0.72,0.76,0.80,0.46,0.44,1.00,40
+PW8,FWL8,FS8,Extractive Land and Water Stress Pathway,0.60,0.34,0.36,0.28,0.32,0.26,0.28,0.68,0.74,1.00,40

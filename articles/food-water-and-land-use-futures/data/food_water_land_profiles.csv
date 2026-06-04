@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,production_capacity,water_security,soil_health,biodiversity_integrity,governance_capacity,climate_exposure,market_vulnerability,justice_capacity,livelihood_resilience,description
+FWL1,Regenerative Food-Water-Land Transition,regenerative_transition,0.72,0.76,0.82,0.78,0.76,0.42,0.38,0.80,0.78,Agriculture water governance soil restoration biodiversity livelihoods and rights reinforce long-term resilience.
+FWL2,High-Yield Degradation Pathway,high_yield_degradation,0.86,0.44,0.32,0.30,0.50,0.58,0.62,0.42,0.46,Production rises through intensification while soil water biodiversity and farmer viability decline.
+FWL3,Water Scarcity and Allocation Conflict,water_conflict,0.58,0.28,0.48,0.42,0.36,0.74,0.70,0.34,0.38,Drought groundwater depletion urban demand and irrigation pressure intensify conflict and scarcity.
+FWL4,Climate Shock Food Crisis,climate_food_crisis,0.42,0.38,0.42,0.40,0.40,0.88,0.86,0.38,0.36,Extreme weather supply disruption price volatility and weak safety nets converge into food insecurity.
+FWL5,Land Financialization and Dispossession,land_financialization,0.62,0.50,0.46,0.38,0.34,0.56,0.78,0.24,0.30,Land becomes governed by speculative capital carbon markets or large-scale acquisition.
+FWL6,Technology-Intensive Controlled System,technology_intensive,0.78,0.60,0.56,0.46,0.58,0.52,0.58,0.46,0.50,Precision agriculture AI sensors controlled environments and water technologies expand unevenly.
+FWL7,Watershed Restoration and Local Resilience,watershed_restoration,0.68,0.82,0.78,0.84,0.72,0.46,0.44,0.76,0.80,Wetlands forests soils floodplains local food infrastructure and community governance strengthen resilience.
+FWL8,Extractive Land and Water Stress,extractive_stress,0.60,0.34,0.36,0.28,0.32,0.68,0.74,0.26,0.28,Extraction pollution insecure rights and weak governance accelerate degradation and vulnerability.

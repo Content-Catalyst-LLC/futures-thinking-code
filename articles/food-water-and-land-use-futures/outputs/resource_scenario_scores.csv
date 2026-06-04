@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,resource_stress_score,resource_transformation_opportunity_score,description
+FS8,Extractive Land and Water Stress,extractive_stress,0.796,0.1976,Extraction pollution insecure rights and weak enforcement accelerate resource degradation.
+FS4,Climate Shock Food Crisis,climate_food_crisis,0.7624,0.257,Climate extremes and market disruption produce acute food insecurity.
+FS3,Water Scarcity and Allocation Conflict,water_conflict,0.7144,0.2802,Drought aquifer depletion and competing demand intensify conflict.
+FS5,Land Financialization and Dispossession,land_financialization,0.6806,0.3136,Speculation carbon markets and large land acquisition increase dispossession.
+FS2,High-Yield Degradation Pathway,high_yield_degradation,0.6292,0.3796,Output rises while soil water biodiversity and livelihoods deteriorate.
+FS6,Technology-Intensive Controlled System,technology_intensive,0.4938,0.5044,Technology improves monitoring and productivity but introduces dependency and exclusion risk.
+FS1,Regenerative Food-Water-Land Transition,regenerative_transition,0.3346,0.6812,Food water land restoration and rights-based governance reinforce resilience.
+FS7,Watershed Restoration and Local Resilience,watershed_restoration,0.3344,0.6802,Watershed restoration local food infrastructure and community governance reduce stress.

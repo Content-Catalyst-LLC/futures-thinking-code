@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,food_water_land_resilience_score,food_water_land_fragility_score,profile_class,description
+FWL1,Regenerative Food-Water-Land Transition,regenerative_transition,0.6786,0.2742,Stronger regenerative resilience,Agriculture water governance soil restoration biodiversity livelihoods and rights reinforce long-term resilience.
+FWL7,Watershed Restoration and Local Resilience,watershed_restoration,0.667,0.2874,Stronger regenerative resilience,Wetlands forests soils floodplains local food infrastructure and community governance strengthen resilience.
+FWL6,Technology-Intensive Controlled System,technology_intensive,0.4426,0.4834,Mixed or transitional pathway,Precision agriculture AI sensors controlled environments and water technologies expand unevenly.
+FWL2,High-Yield Degradation Pathway,high_yield_degradation,0.337,0.585,Mixed or transitional pathway,Production rises through intensification while soil water biodiversity and farmer viability decline.
+FWL5,Land Financialization and Dispossession,land_financialization,0.2704,0.622,High systemic fragility,Land becomes governed by speculative capital carbon markets or large-scale acquisition.
+FWL3,Water Scarcity and Allocation Conflict,water_conflict,0.2498,0.647,High systemic fragility,Drought groundwater depletion urban demand and irrigation pressure intensify conflict and scarcity.
+FWL4,Climate Shock Food Crisis,climate_food_crisis,0.2124,0.6852,High systemic fragility,Extreme weather supply disruption price volatility and weak safety nets converge into food insecurity.
+FWL8,Extractive Land and Water Stress,extractive_stress,0.1996,0.6852,High systemic fragility,Extraction pollution insecure rights and weak governance accelerate degradation and vulnerability.

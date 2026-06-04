@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,land_rights,water_governance,food_security_institutions,soil_monitoring,biodiversity_governance,participation,public_finance,description
+FG1,FWL1,Regenerative Resource Governance,regenerative_transition,0.84,0.82,0.78,0.82,0.80,0.86,0.76,Rights-based governance coordinates food water soil biodiversity and livelihoods.
+FG2,FWL2,High-Yield Governance Gap,high_yield_degradation,0.46,0.42,0.58,0.34,0.32,0.42,0.52,Production policy outpaces soil water biodiversity and livelihood safeguards.
+FG3,FWL3,Basin Allocation Governance,water_governance,0.52,0.88,0.56,0.58,0.54,0.62,0.58,Water rights aquifer governance drought allocation and basin coordination become central.
+FG4,FWL4,Food Crisis Protection Governance,food_security,0.48,0.54,0.88,0.50,0.46,0.58,0.72,Public reserves safety nets nutrition support and early warning reduce crisis exposure.
+FG5,FWL5,Land Rights Governance Failure,land_financialization,0.26,0.44,0.46,0.42,0.40,0.30,0.38,Weak tenure and land financialization undermine rights stewardship and legitimacy.
+FG6,FWL6,Agricultural Technology Governance,technology_governance,0.56,0.62,0.60,0.72,0.58,0.54,0.60,Digital tools are governed for access data rights accountability and ecological monitoring.
+FG7,FWL7,Watershed Restoration Governance,watershed_restoration,0.76,0.88,0.72,0.82,0.90,0.82,0.74,Watershed restoration links local knowledge basin institutions and ecological repair.
+FG8,FWL8,Extraction Control Governance,ecological_repair,0.34,0.38,0.42,0.40,0.36,0.34,0.36,Weak institutions allow extraction pollution land degradation and public harm.

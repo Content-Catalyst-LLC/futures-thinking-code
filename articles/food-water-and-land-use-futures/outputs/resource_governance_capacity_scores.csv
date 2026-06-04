@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,resource_governance_capacity_score,legitimacy_gap_score,description
+FG1,FWL1,Regenerative Resource Governance,regenerative_transition,0.8126,0.1848,Rights-based governance coordinates food water soil biodiversity and livelihoods.
+FG7,FWL7,Watershed Restoration Governance,watershed_restoration,0.8078,0.1944,Watershed restoration links local knowledge basin institutions and ecological repair.
+FG3,FWL3,Basin Allocation Governance,water_governance,0.619,0.386,Water rights aquifer governance drought allocation and basin coordination become central.
+FG6,FWL6,Agricultural Technology Governance,technology_governance,0.6018,0.404,Digital tools are governed for access data rights accountability and ecological monitoring.
+FG4,FWL4,Food Crisis Protection Governance,food_security,0.5928,0.4086,Public reserves safety nets nutrition support and early warning reduce crisis exposure.
+FG2,FWL2,High-Yield Governance Gap,high_yield_degradation,0.4376,0.5606,Production policy outpaces soil water biodiversity and livelihood safeguards.
+FG5,FWL5,Land Rights Governance Failure,land_financialization,0.381,0.6276,Weak tenure and land financialization undermine rights stewardship and legitimacy.
+FG8,FWL8,Extraction Control Governance,ecological_repair,0.3718,0.6312,Weak institutions allow extraction pollution land degradation and public harm.
