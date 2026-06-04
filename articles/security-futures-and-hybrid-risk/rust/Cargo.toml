@@ -1,0 +1,6 @@
+[package]
+name = "security_futures_hybrid_risk_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

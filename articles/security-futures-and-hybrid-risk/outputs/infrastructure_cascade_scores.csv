@@ -1,0 +1,9 @@
+dependency_id,source_system,target_system,cascade_exposure_score,public_private_risk_score,description
+ID2,Energy,Health,0.3805,0.7,Hospitals rely on power backup fuel devices records and climate control.
+ID1,Energy,Water,0.306,0.686,Electricity supports pumping treatment pressure systems and water service continuity.
+ID4,Transport,Food,0.3027,0.716,Food systems rely on ports trucks rail warehouses fuel and refrigeration.
+ID8,Information Systems,Public Trust,0.2718,0.754,Information integrity and trusted communication shape crisis coordination and public behavior.
+ID5,Cloud Systems,Public Services,0.2333,0.794,Government systems rely on private cloud infrastructure identity and data services.
+ID3,Telecommunications,Finance,0.2184,0.702,Payments and markets rely on digital connectivity and timing.
+ID6,Satellites,Navigation,0.2123,0.68,Positioning timing logistics finance agriculture defense and emergency response rely on satellites.
+ID7,Finance,Supply Chains,0.1395,0.666,Credit payments insurance and trade finance support supply-chain continuity.

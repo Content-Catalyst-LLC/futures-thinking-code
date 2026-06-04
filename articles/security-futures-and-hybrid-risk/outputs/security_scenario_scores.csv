@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,hybrid_security_stress_score,response_opportunity_score,description
+SHS8,Systemic Security Breakdown,systemic_security_breakdown,0.9038,0.0908,Multiple security stresses cascade through civilian and strategic systems.
+SHS4,Climate-Security Compound Shock,climate_security_shock,0.7072,0.298,Climate and resource shocks combine with displacement infrastructure stress and weak institutions.
+SHS2,Cyber-Infrastructure Cascade,cyber_infrastructure_cascade,0.7014,0.283,Cyber-physical disruption spreads across infrastructure and essential services.
+SHS5,Autonomous Escalation Risk,autonomous_escalation,0.6348,0.3614,AI-enabled systems accelerate decision cycles attribution uncertainty and escalation risk.
+SHS6,Resource Coercion and Supply Fragmentation,resource_coercion,0.6208,0.3774,Energy food minerals fertilizer chips and logistics chokepoints become coercive tools.
+SHS3,Information Disorder Crisis,information_disorder,0.5892,0.379,Disinformation and synthetic media weaken emergency response legitimacy and public trust.
+SHS1,Managed Hybrid Competition,managed_hybrid_competition,0.4258,0.583,Persistent gray-zone activity remains managed through resilience communication and proportional response.
+SHS7,Human Security and Resilience Renewal,human_security_resilience,0.312,0.7016,Civilian protection infrastructure resilience public trust and adaptive institutions reduce hybrid vulnerability.

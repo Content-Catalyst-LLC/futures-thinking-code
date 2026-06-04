@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,security_strategy_value_score,implementation_readiness_score,description
+SST7,SFH7,Human Security and Resilience Renewal,human_security,0.8128,0.81,Centers civilian protection rights public systems resilience trust and adaptive learning.
+SST8,SFH8,Emergency System Stabilization,emergency_stabilization,0.7178,0.6392,Restores basic infrastructure public communication civilian protection and institutional coordination during breakdown.
+SST2,SFH2,Cyber-Infrastructure Resilience,cascade_resilience,0.7164,0.7164,Strengthens segmentation backups redundancy incident response mutual aid and recovery capacity.
+SST4,SFH4,Climate-Security Adaptation,climate_security_adaptation,0.7096,0.6916,Connects climate adaptation food water energy mobility health and emergency planning.
+SST1,SFH1,Adaptive Hybrid Deterrence,adaptive_deterrence,0.6878,0.6916,Combines deterrence by denial public communication resilience and proportional response.
+SST5,SFH5,AI Escalation Control and Oversight,ai_escalation_control,0.6644,0.6888,Adds human control auditability escalation safeguards legal review and accountability to automated systems.
+SST6,SFH6,Resource and Supply-Chain Resilience,resource_resilience,0.6506,0.6352,Builds reserves diversification circularity fair sourcing and regional coordination.
+SST3,SFH3,Information Integrity and Public Trust,information_integrity,0.6418,0.6888,Builds trusted communication journalism media literacy platform accountability and crisis messaging.

@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,cascade_potential,visibility_gap,recovery_difficulty,distributional_harm,preparedness,description
+SRI1,SHS8,Systemic Security Breakdown,systemic_breakdown,0.36,0.98,0.96,0.58,0.94,0.96,0.18,Hybrid disruption climate stress information disorder economic shock and institutional distrust reinforce one another.
+SRI2,SHS2,Cyber-Infrastructure Cascade,cyber_infrastructure,0.62,0.92,0.94,0.48,0.86,0.84,0.34,Cyber-physical disruption spreads through energy water health finance and communications.
+SRI3,SHS3,Information Disorder Crisis,information_disorder,0.70,0.80,0.74,0.62,0.72,0.70,0.40,Synthetic media disinformation and platform manipulation weaken public trust and crisis response.
+SRI4,SHS4,Climate-Security Compound Shock,climate_security,0.68,0.90,0.86,0.50,0.84,0.92,0.36,Heat drought flood food stress displacement and infrastructure exposure combine.
+SRI5,SHS5,Autonomous Escalation Risk,autonomous_escalation,0.50,0.86,0.78,0.70,0.82,0.62,0.38,AI-enabled systems compress decision time and increase attribution ambiguity.
+SRI6,SHS6,Resource Coercion and Supply Fragmentation,resource_security,0.64,0.78,0.80,0.46,0.70,0.76,0.42,Energy food minerals fertilizer semiconductors and logistics chokepoints create strategic pressure.
+SRI7,SHS1,Managed Hybrid Pressure,gray_zone,0.72,0.62,0.58,0.44,0.54,0.52,0.56,Gray-zone activity remains chronic and tests institutional endurance.
+SRI8,SHS7,Human Security Implementation Gap,human_security,0.42,0.58,0.50,0.36,0.52,0.64,0.66,Security reforms center people but face resource and implementation constraints.

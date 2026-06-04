@@ -1,0 +1,9 @@
+"risk_id","scenario_id","risk_name","risk_domain","probability_proxy","severity","cascade_potential","visibility_gap","recovery_difficulty","distributional_harm","preparedness","description","hybrid_risk_priority_score"
+"SRI1","SHS8","Systemic Security Breakdown","systemic_breakdown",0.36,0.98,0.96,0.58,0.94,0.96,0.18,"Hybrid disruption climate stress information disorder economic shock and institutional distrust reinforce one another.",0.825
+"SRI4","SHS4","Climate-Security Compound Shock","climate_security",0.68,0.9,0.86,0.5,0.84,0.92,0.36,"Heat drought flood food stress displacement and infrastructure exposure combine.",0.7916
+"SRI2","SHS2","Cyber-Infrastructure Cascade","cyber_infrastructure",0.62,0.92,0.94,0.48,0.86,0.84,0.34,"Cyber-physical disruption spreads through energy water health finance and communications.",0.7902
+"SRI3","SHS3","Information Disorder Crisis","information_disorder",0.7,0.8,0.74,0.62,0.72,0.7,0.4,"Synthetic media disinformation and platform manipulation weaken public trust and crisis response.",0.7098
+"SRI5","SHS5","Autonomous Escalation Risk","autonomous_escalation",0.5,0.86,0.78,0.7,0.82,0.62,0.38,"AI-enabled systems compress decision time and increase attribution ambiguity.",0.7092
+"SRI6","SHS6","Resource Coercion and Supply Fragmentation","resource_security",0.64,0.78,0.8,0.46,0.7,0.76,0.42,"Energy food minerals fertilizer semiconductors and logistics chokepoints create strategic pressure.",0.6982
+"SRI7","SHS1","Managed Hybrid Pressure","gray_zone",0.72,0.62,0.58,0.44,0.54,0.52,0.56,"Gray-zone activity remains chronic and tests institutional endurance.",0.5634
+"SRI8","SHS7","Human Security Implementation Gap","human_security",0.42,0.58,0.5,0.36,0.52,0.64,0.66,"Security reforms center people but face resource and implementation constraints.",0.4996

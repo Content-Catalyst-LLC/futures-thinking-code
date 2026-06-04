@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,hybrid_risk_score,security_resilience_score,resilience_gap_score,profile_class,description
+SFH8,Systemic Security Breakdown,systemic_security_breakdown,0.8538,0.1828,0.671,High hybrid security risk,Cyber disruption climate stress information disorder economic shock and institutional distrust reinforce one another.
+SFH2,Cyber-Infrastructure Cascade,cyber_infrastructure_cascade,0.6736,0.3948,0.2788,Mixed or transitional security future,A cyber or cyber-physical attack disrupts energy water health finance or logistics systems.
+SFH4,Climate-Security Compound Shock,climate_security_shock,0.6494,0.4508,0.1986,Mixed or transitional security future,Heat drought flood food stress displacement and energy demand combine with weak institutions.
+SFH5,Autonomous Escalation Risk,autonomous_escalation,0.6334,0.3916,0.2418,Mixed or transitional security future,AI-enabled surveillance cyber tools autonomous systems and decision-support systems accelerate crisis dynamics.
+SFH3,Information Disorder Crisis,information_disorder,0.6228,0.3748,0.248,Mixed or transitional security future,Synthetic media disinformation platform manipulation and public distrust weaken emergency response or election legitimacy.
+SFH6,Resource Coercion and Supply Fragmentation,resource_coercion,0.612,0.4816,0.1304,Mixed or transitional security future,Energy food minerals chips fertilizer or logistics chokepoints become tools of pressure.
+SFH1,Managed Hybrid Competition,managed_hybrid_competition,0.4436,0.6548,0.0,Stronger security resilience,States and institutions face persistent gray-zone activity but maintain crisis communication resilience and proportional response.
+SFH7,Human Security and Resilience Renewal,human_security_resilience,0.3348,0.806,0.0,Stronger security resilience,Security institutions center civilian protection infrastructure resilience rights climate adaptation and public trust.

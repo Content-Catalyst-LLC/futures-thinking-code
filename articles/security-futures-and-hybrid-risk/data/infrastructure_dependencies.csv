@@ -1,0 +1,9 @@
+dependency_id,source_system,target_system,dependency_weight,disruption_sensitivity,recovery_capacity,public_harm_potential,private_operator_dependency,description
+ID1,Energy,Water,0.90,0.84,0.54,0.88,0.52,Electricity supports pumping treatment pressure systems and water service continuity.
+ID2,Energy,Health,0.92,0.88,0.50,0.94,0.48,Hospitals rely on power backup fuel devices records and climate control.
+ID3,Telecommunications,Finance,0.86,0.78,0.56,0.74,0.70,Payments and markets rely on digital connectivity and timing.
+ID4,Transport,Food,0.88,0.80,0.50,0.86,0.62,Food systems rely on ports trucks rail warehouses fuel and refrigeration.
+ID5,Cloud Systems,Public Services,0.82,0.76,0.52,0.78,0.90,Government systems rely on private cloud infrastructure identity and data services.
+ID6,Satellites,Navigation,0.78,0.72,0.46,0.70,0.68,Positioning timing logistics finance agriculture defense and emergency response rely on satellites.
+ID7,Finance,Supply Chains,0.74,0.66,0.58,0.68,0.72,Credit payments insurance and trade finance support supply-chain continuity.
+ID8,Information Systems,Public Trust,0.80,0.74,0.44,0.82,0.76,Information integrity and trusted communication shape crisis coordination and public behavior.

@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,cyber_shock,infrastructure_shock,information_shock,climate_shock,resource_shock,migration_pressure,security_escalation,institutional_fragmentation,private_infrastructure_dependency,civilian_harm_pressure,description
+SHS1,Managed Hybrid Competition,managed_hybrid_competition,0.48,0.44,0.50,0.38,0.42,0.36,0.46,0.32,0.52,0.34,Persistent gray-zone activity remains managed through resilience communication and proportional response.
+SHS2,Cyber-Infrastructure Cascade,cyber_infrastructure_cascade,0.96,0.92,0.64,0.52,0.58,0.42,0.60,0.68,0.84,0.78,Cyber-physical disruption spreads across infrastructure and essential services.
+SHS3,Information Disorder Crisis,information_disorder,0.62,0.50,0.96,0.42,0.40,0.46,0.52,0.72,0.66,0.64,Disinformation and synthetic media weaken emergency response legitimacy and public trust.
+SHS4,Climate-Security Compound Shock,climate_security_shock,0.54,0.72,0.62,0.96,0.78,0.76,0.62,0.66,0.58,0.84,Climate and resource shocks combine with displacement infrastructure stress and weak institutions.
+SHS5,Autonomous Escalation Risk,autonomous_escalation,0.82,0.66,0.72,0.42,0.48,0.36,0.88,0.62,0.74,0.58,AI-enabled systems accelerate decision cycles attribution uncertainty and escalation risk.
+SHS6,Resource Coercion and Supply Fragmentation,resource_coercion,0.48,0.66,0.52,0.62,0.94,0.58,0.56,0.60,0.70,0.62,Energy food minerals fertilizer chips and logistics chokepoints become coercive tools.
+SHS7,Human Security and Resilience Renewal,human_security_resilience,0.36,0.34,0.30,0.36,0.32,0.28,0.30,0.24,0.34,0.22,Civilian protection infrastructure resilience public trust and adaptive institutions reduce hybrid vulnerability.
+SHS8,Systemic Security Breakdown,systemic_security_breakdown,0.92,0.94,0.92,0.88,0.86,0.84,0.90,0.92,0.88,0.96,Multiple security stresses cascade through civilian and strategic systems.

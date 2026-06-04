@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_hybrid_risk,mean_hybrid_risk,final_cascade_pressure,final_security_resilience,final_public_trust
+ASP1,SFH1,SHS1,Managed Hybrid Competition Pathway,0.0473,0.1122,0.0572,1.8,1.8
+ASP7,SFH7,SHS7,Human Security Resilience Pathway,0.0,0.0251,0.0052,1.8,1.8
+ASP6,SFH6,SHS6,Resource Coercion Pathway,1.8,1.5125,1.8,0.4853,0.399
+ASP4,SFH4,SHS4,Climate-Security Compound Shock Pathway,1.8,1.5781,1.8,0.1431,0.2137
+ASP2,SFH2,SHS2,Cyber-Infrastructure Cascade Pathway,1.8,1.6003,1.8,0.0,0.0051
+ASP3,SFH3,SHS3,Information Disorder Crisis Pathway,1.8,1.5837,1.8,0.0,0.0
+ASP5,SFH5,SHS5,Autonomous Escalation Risk Pathway,1.8,1.5695,1.8,0.0,0.0
+ASP8,SFH8,SHS8,Systemic Security Breakdown Pathway,1.8,1.7093,1.8,0.0,0.0

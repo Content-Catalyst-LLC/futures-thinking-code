@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,initial_resilience,cyber_exposure,infrastructure_dependence,information_vulnerability,climate_security_stress,resource_dependence,institutional_coordination,civilian_protection,adaptive_resilience,public_trust,system_stress,time_horizon
+ASP1,SFH1,SHS1,Managed Hybrid Competition Pathway,0.72,0.54,0.62,0.52,0.44,0.50,0.70,0.66,0.72,0.68,0.46,40
+ASP2,SFH2,SHS2,Cyber-Infrastructure Cascade Pathway,0.46,0.92,0.90,0.66,0.54,0.62,0.42,0.40,0.46,0.44,0.82,40
+ASP3,SFH3,SHS3,Information Disorder Crisis Pathway,0.42,0.66,0.60,0.92,0.46,0.48,0.38,0.44,0.42,0.28,0.78,40
+ASP4,SFH4,SHS4,Climate-Security Compound Shock Pathway,0.50,0.58,0.76,0.64,0.94,0.72,0.46,0.48,0.50,0.42,0.84,40
+ASP5,SFH5,SHS5,Autonomous Escalation Risk Pathway,0.44,0.78,0.72,0.70,0.50,0.58,0.44,0.38,0.44,0.40,0.72,40
+ASP6,SFH6,SHS6,Resource Coercion Pathway,0.54,0.52,0.78,0.58,0.68,0.90,0.50,0.46,0.54,0.48,0.76,40
+ASP7,SFH7,SHS7,Human Security Resilience Pathway,0.86,0.42,0.56,0.38,0.42,0.46,0.82,0.88,0.86,0.84,0.34,40
+ASP8,SFH8,SHS8,Systemic Security Breakdown Pathway,0.18,0.88,0.92,0.90,0.88,0.84,0.22,0.20,0.18,0.16,0.94,40
