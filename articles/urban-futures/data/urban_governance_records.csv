@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,coordination,participation,public_finance,maintenance_capacity,digital_accountability,housing_governance,climate_governance,description
+UG1,UF6,Adaptive Public Governance,adaptive_public,0.86,0.82,0.80,0.78,0.76,0.82,0.84,Strong public capacity coordinates infrastructure housing climate digital systems and social protection.
+UG2,UF5,Financialized Growth Governance Gap,financialized_growth,0.48,0.38,0.50,0.46,0.44,0.30,0.52,Land and housing systems are shaped by speculation while public value capture remains weak.
+UG3,UF4,Digital Accountability Governance,digital_governance,0.70,0.58,0.66,0.62,0.90,0.52,0.60,Digital systems are governed through audits rights cybersecurity and public accountability.
+UG4,UF3,Coastal Adaptation Governance,climate_governance,0.62,0.56,0.58,0.60,0.50,0.54,0.88,Climate adaptation governance manages flood heat insurance ecological buffers and exposed housing.
+UG5,UF7,Informal Systems Governance,informality_governance,0.50,0.76,0.42,0.46,0.36,0.62,0.52,Institutions recognize informal systems while improving tenure services and safety.
+UG6,UF1,Legacy Infrastructure Governance,legacy_repair,0.60,0.52,0.56,0.72,0.46,0.50,0.54,Legacy systems require maintenance-first planning and long-term repair finance.
+UG7,UF8,Governance Repair Baseline,institutional_repair,0.28,0.30,0.30,0.34,0.32,0.28,0.36,Fragmented authority weak finance and low trust limit urban transformation capacity.
+UG8,UF2,Emerging Megacity Governance Capacity,emerging_megacity,0.44,0.58,0.40,0.42,0.34,0.48,0.46,Formal institutions lag behind population growth informal systems and service demand.

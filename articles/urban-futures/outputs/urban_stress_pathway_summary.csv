@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_urban_viability,mean_urban_viability,mean_system_load,final_adaptive_capacity
+PW6,UF6,US1,Adaptive Public City Pathway,1.6899,1.2727,0.0543,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,0.5236,0.683,0.3618,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,0.0497,0.4251,0.3995,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,0.0,0.1788,0.8484,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,0.0,0.2032,0.8253,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,0.0,0.2084,0.7449,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,0.0,0.1767,0.8969,1.6
+PW8,UF8,US7,Governance Breakdown City Pathway,0.0,0.1392,1.1862,1.5274

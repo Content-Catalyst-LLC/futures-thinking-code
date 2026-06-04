@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,urban_strategy_value_score,implementation_readiness_score,description
+UO6,UF6,Adaptive Public City Platform,adaptive_public,0.826,0.8124,Integrates housing infrastructure climate public finance digital accountability and social cohesion.
+UO8,UF8,Governance Repair and Fiscal Stabilization,institutional_repair,0.722,0.7172,Rebuilds institutional coordination public finance trust accountability and implementation capacity.
+UO5,UF5,Public Value Capture and Anti-Displacement,land_housing,0.7076,0.6928,Uses public land value capture housing protections and affordability tools to reduce speculative displacement.
+UO3,UF3,Coastal Climate Adaptation and Managed Risk,climate_adaptation,0.6876,0.6764,Combines flood protection ecological buffers insurance reform public health and managed retreat where unavoidable.
+UO7,UF7,Informal Systems Recognition and Upgrading,informality_upgrade,0.6808,0.6528,Recognizes informal housing transit labor and mutual aid while improving safety tenure and services.
+UO2,UF2,Inclusive Megacity Service Expansion,service_expansion,0.6492,0.638,Expands water sanitation mobility housing and public services while recognizing informal systems.
+UO4,UF4,Democratic Digital Urban Infrastructure,digital_governance,0.6368,0.6396,Builds accountable digital public infrastructure data rights cyber resilience audits and interoperability.
+UO1,UF1,Maintenance-First Infrastructure Renewal,infrastructure_repair,0.6328,0.6556,Reduces deferred maintenance and cascade risk through lifecycle repair and resilience investment.

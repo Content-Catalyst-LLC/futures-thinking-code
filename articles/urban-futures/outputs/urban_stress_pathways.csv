@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,urban_viability,system_load,adaptive_capacity
+PW1,UF1,US8,Legacy Industrial Repair Pathway,1,1.0,0.458,0.5774
+PW1,UF1,US8,Legacy Industrial Repair Pathway,2,0.9567,0.4544,0.634
+PW1,UF1,US8,Legacy Industrial Repair Pathway,3,0.9159,0.4508,0.6906
+PW1,UF1,US8,Legacy Industrial Repair Pathway,4,0.8776,0.4472,0.7472
+PW1,UF1,US8,Legacy Industrial Repair Pathway,5,0.8418,0.4436,0.8038
+PW1,UF1,US8,Legacy Industrial Repair Pathway,6,0.8084,0.44,0.8604
+PW1,UF1,US8,Legacy Industrial Repair Pathway,7,0.7775,0.4364,0.917
+PW1,UF1,US8,Legacy Industrial Repair Pathway,8,0.6386,0.4383,0.9703
+PW1,UF1,US8,Legacy Industrial Repair Pathway,9,0.6123,0.4347,1.0269
+PW1,UF1,US8,Legacy Industrial Repair Pathway,10,0.5884,0.4311,1.0835
+PW1,UF1,US8,Legacy Industrial Repair Pathway,11,0.5669,0.4275,1.1401
+PW1,UF1,US8,Legacy Industrial Repair Pathway,12,0.548,0.4239,1.1967
+PW1,UF1,US8,Legacy Industrial Repair Pathway,13,0.5315,0.4203,1.2533
+PW1,UF1,US8,Legacy Industrial Repair Pathway,14,0.5175,0.4167,1.3099
+PW1,UF1,US8,Legacy Industrial Repair Pathway,15,0.506,0.4131,1.3665
+PW1,UF1,US8,Legacy Industrial Repair Pathway,16,0.3865,0.415,1.4198
+PW1,UF1,US8,Legacy Industrial Repair Pathway,17,0.3795,0.4114,1.4764
+PW1,UF1,US8,Legacy Industrial Repair Pathway,18,0.375,0.4078,1.533
+PW1,UF1,US8,Legacy Industrial Repair Pathway,19,0.373,0.4042,1.5896
+PW1,UF1,US8,Legacy Industrial Repair Pathway,20,0.3716,0.4006,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,21,0.3704,0.397,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,22,0.3694,0.3934,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,23,0.3686,0.3898,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,24,0.2577,0.3917,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,25,0.2571,0.3881,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,26,0.2566,0.3845,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,27,0.2564,0.3809,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,28,0.2564,0.3773,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,29,0.2566,0.3737,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,30,0.257,0.3701,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,31,0.2576,0.3665,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,32,0.1481,0.3684,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,33,0.1489,0.3648,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,34,0.1498,0.3612,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,35,0.151,0.3576,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,36,0.1524,0.354,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,37,0.154,0.3504,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,38,0.1558,0.3468,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,39,0.1578,0.3432,1.6
+PW1,UF1,US8,Legacy Industrial Repair Pathway,40,0.0497,0.3451,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,1,1.0,0.5754,0.4272
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,2,0.93,0.5888,0.4683
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,3,0.8609,0.6022,0.5094
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,4,0.7925,0.6156,0.5505
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,5,0.7251,0.629,0.5916
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,6,0.6584,0.6424,0.6327
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,7,0.5927,0.6558,0.6738
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,8,0.4172,0.6747,0.7116
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,9,0.3527,0.6881,0.7527
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,10,0.2889,0.7015,0.7938
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,11,0.2261,0.7149,0.8349
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,12,0.164,0.7283,0.876
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,13,0.1028,0.7417,0.9171
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,14,0.0424,0.7551,0.9582
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,15,0.0,0.7685,0.9993
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,16,0.0,0.7874,1.0371
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,17,0.0,0.8008,1.0782
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,18,0.0,0.8142,1.1193
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,19,0.0,0.8276,1.1604
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,20,0.0,0.841,1.2015
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,21,0.0,0.8544,1.2426
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,22,0.0,0.8678,1.2837
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,23,0.0,0.8812,1.3248
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,24,0.0,0.9001,1.3626
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,25,0.0,0.9135,1.4037
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,26,0.0,0.9269,1.4448
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,27,0.0,0.9403,1.4859
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,28,0.0,0.9537,1.527
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,29,0.0,0.9671,1.5681
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,30,0.0,0.9805,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,31,0.0,0.9939,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,32,0.0,1.0128,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,33,0.0,1.0262,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,34,0.0,1.0396,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,35,0.0,1.053,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,36,0.0,1.0664,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,37,0.0,1.0798,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,38,0.0,1.0932,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,39,0.0,1.1066,1.6
+PW2,UF2,US5,High-Growth Emerging Megacity Pathway,40,0.0,1.1255,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,1,1.0,0.566,0.483
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,2,0.9378,0.5787,0.5324
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,3,0.8769,0.5914,0.5818
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,4,0.8172,0.6041,0.6312
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,5,0.7586,0.6168,0.6806
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,6,0.7013,0.6295,0.73
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,7,0.6452,0.6422,0.7794
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,8,0.4799,0.6604,0.8255
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,9,0.4258,0.6731,0.8749
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,10,0.3729,0.6858,0.9243
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,11,0.3212,0.6985,0.9737
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,12,0.2707,0.7112,1.0231
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,13,0.2214,0.7239,1.0725
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,14,0.1734,0.7366,1.1219
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,15,0.1265,0.7493,1.1713
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,16,0.0,0.7675,1.2174
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,17,0.0,0.7802,1.2668
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,18,0.0,0.7929,1.3162
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,19,0.0,0.8056,1.3656
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,20,0.0,0.8183,1.415
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,21,0.0,0.831,1.4644
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,22,0.0,0.8437,1.5138
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,23,0.0,0.8564,1.5632
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,24,0.0,0.8746,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,25,0.0,0.8873,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,26,0.0,0.9,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,27,0.0,0.9127,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,28,0.0,0.9254,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,29,0.0,0.9381,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,30,0.0,0.9508,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,31,0.0,0.9635,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,32,0.0,0.9817,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,33,0.0,0.9944,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,34,0.0,1.0071,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,35,0.0,1.0198,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,36,0.0,1.0325,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,37,0.0,1.0452,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,38,0.0,1.0579,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,39,0.0,1.0706,1.6
+PW3,UF3,US3,Climate-Stressed Coastal City Pathway,40,0.0,1.0888,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,1,1.0,0.4262,0.6358
+PW4,UF4,US4,Digitally Integrated Global City Pathway,2,0.9689,0.4223,0.7028
+PW4,UF4,US4,Digitally Integrated Global City Pathway,3,0.9408,0.4184,0.7698
+PW4,UF4,US4,Digitally Integrated Global City Pathway,4,0.9155,0.4145,0.8368
+PW4,UF4,US4,Digitally Integrated Global City Pathway,5,0.8932,0.4106,0.9038
+PW4,UF4,US4,Digitally Integrated Global City Pathway,6,0.8738,0.4067,0.9708
+PW4,UF4,US4,Digitally Integrated Global City Pathway,7,0.8573,0.4028,1.0378
+PW4,UF4,US4,Digitally Integrated Global City Pathway,8,0.7332,0.4044,1.1015
+PW4,UF4,US4,Digitally Integrated Global City Pathway,9,0.7221,0.4005,1.1685
+PW4,UF4,US4,Digitally Integrated Global City Pathway,10,0.7139,0.3966,1.2355
+PW4,UF4,US4,Digitally Integrated Global City Pathway,11,0.7086,0.3927,1.3025
+PW4,UF4,US4,Digitally Integrated Global City Pathway,12,0.7062,0.3888,1.3695
+PW4,UF4,US4,Digitally Integrated Global City Pathway,13,0.7067,0.3849,1.4365
+PW4,UF4,US4,Digitally Integrated Global City Pathway,14,0.7101,0.381,1.5035
+PW4,UF4,US4,Digitally Integrated Global City Pathway,15,0.7165,0.3771,1.5705
+PW4,UF4,US4,Digitally Integrated Global City Pathway,16,0.6139,0.3787,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,17,0.6216,0.3748,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,18,0.6295,0.3709,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,19,0.6376,0.367,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,20,0.646,0.3631,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,21,0.6546,0.3592,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,22,0.6634,0.3553,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,23,0.6725,0.3514,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,24,0.5715,0.353,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,25,0.5807,0.3491,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,26,0.5902,0.3452,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,27,0.5998,0.3413,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,28,0.6097,0.3374,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,29,0.6199,0.3335,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,30,0.6303,0.3296,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,31,0.6409,0.3257,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,32,0.5414,0.3273,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,33,0.5522,0.3234,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,34,0.5631,0.3195,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,35,0.5744,0.3156,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,36,0.5858,0.3117,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,37,0.5975,0.3078,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,38,0.6094,0.3039,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,39,0.6216,0.3,1.6
+PW4,UF4,US4,Digitally Integrated Global City Pathway,40,0.5236,0.3016,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,1,1.0,0.548,0.4652
+PW5,UF5,US2,Financialized Growth City Pathway,2,0.9393,0.5575,0.5125
+PW5,UF5,US2,Financialized Growth City Pathway,3,0.8799,0.567,0.5598
+PW5,UF5,US2,Financialized Growth City Pathway,4,0.8219,0.5765,0.6071
+PW5,UF5,US2,Financialized Growth City Pathway,5,0.7652,0.586,0.6544
+PW5,UF5,US2,Financialized Growth City Pathway,6,0.7097,0.5955,0.7017
+PW5,UF5,US2,Financialized Growth City Pathway,7,0.6557,0.605,0.749
+PW5,UF5,US2,Financialized Growth City Pathway,8,0.4924,0.62,0.793
+PW5,UF5,US2,Financialized Growth City Pathway,9,0.4405,0.6295,0.8403
+PW5,UF5,US2,Financialized Growth City Pathway,10,0.39,0.639,0.8876
+PW5,UF5,US2,Financialized Growth City Pathway,11,0.3407,0.6485,0.9349
+PW5,UF5,US2,Financialized Growth City Pathway,12,0.2928,0.658,0.9822
+PW5,UF5,US2,Financialized Growth City Pathway,13,0.2462,0.6675,1.0295
+PW5,UF5,US2,Financialized Growth City Pathway,14,0.2009,0.677,1.0768
+PW5,UF5,US2,Financialized Growth City Pathway,15,0.1569,0.6865,1.1241
+PW5,UF5,US2,Financialized Growth City Pathway,16,0.0038,0.7015,1.1681
+PW5,UF5,US2,Financialized Growth City Pathway,17,0.0,0.711,1.2154
+PW5,UF5,US2,Financialized Growth City Pathway,18,0.0,0.7205,1.2627
+PW5,UF5,US2,Financialized Growth City Pathway,19,0.0,0.73,1.31
+PW5,UF5,US2,Financialized Growth City Pathway,20,0.0,0.7395,1.3573
+PW5,UF5,US2,Financialized Growth City Pathway,21,0.0,0.749,1.4046
+PW5,UF5,US2,Financialized Growth City Pathway,22,0.0,0.7585,1.4519
+PW5,UF5,US2,Financialized Growth City Pathway,23,0.0,0.768,1.4992
+PW5,UF5,US2,Financialized Growth City Pathway,24,0.0,0.783,1.5432
+PW5,UF5,US2,Financialized Growth City Pathway,25,0.0,0.7925,1.5905
+PW5,UF5,US2,Financialized Growth City Pathway,26,0.0,0.802,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,27,0.0,0.8115,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,28,0.0,0.821,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,29,0.0,0.8305,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,30,0.0,0.84,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,31,0.0,0.8495,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,32,0.0,0.8645,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,33,0.0,0.874,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,34,0.0,0.8835,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,35,0.0,0.893,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,36,0.0,0.9025,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,37,0.0,0.912,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,38,0.0,0.9215,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,39,0.0,0.931,1.6
+PW5,UF5,US2,Financialized Growth City Pathway,40,0.0,0.946,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,1,1.0,0.3064,0.7476
+PW6,UF6,US1,Adaptive Public City Pathway,2,0.9912,0.2827,0.8221
+PW6,UF6,US1,Adaptive Public City Pathway,3,0.9867,0.259,0.8966
+PW6,UF6,US1,Adaptive Public City Pathway,4,0.9867,0.2353,0.9711
+PW6,UF6,US1,Adaptive Public City Pathway,5,0.9911,0.2116,1.0456
+PW6,UF6,US1,Adaptive Public City Pathway,6,0.9999,0.1879,1.1201
+PW6,UF6,US1,Adaptive Public City Pathway,7,1.0131,0.1642,1.1946
+PW6,UF6,US1,Adaptive Public City Pathway,8,0.9202,0.146,1.2658
+PW6,UF6,US1,Adaptive Public City Pathway,9,0.9417,0.1223,1.3403
+PW6,UF6,US1,Adaptive Public City Pathway,10,0.9677,0.0986,1.4148
+PW6,UF6,US1,Adaptive Public City Pathway,11,0.998,0.0749,1.4893
+PW6,UF6,US1,Adaptive Public City Pathway,12,1.0327,0.0512,1.5638
+PW6,UF6,US1,Adaptive Public City Pathway,13,1.0703,0.0275,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,14,1.1093,0.0038,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,15,1.1486,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,16,1.0778,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,17,1.1171,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,18,1.1563,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,19,1.1956,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,20,1.2349,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,21,1.2741,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,22,1.3134,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,23,1.3526,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,24,1.2819,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,25,1.3211,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,26,1.3604,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,27,1.3996,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,28,1.4389,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,29,1.4781,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,30,1.5174,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,31,1.5566,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,32,1.4859,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,33,1.5251,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,34,1.5644,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,35,1.6036,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,36,1.6429,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,37,1.6821,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,38,1.7214,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,39,1.7606,0.0,1.6
+PW6,UF6,US1,Adaptive Public City Pathway,40,1.6899,0.0,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,1,1.0,0.5752,0.4348
+PW7,UF7,US5,Informal Adaptive City Pathway,2,0.9299,0.5911,0.4745
+PW7,UF7,US5,Informal Adaptive City Pathway,3,0.8604,0.607,0.5142
+PW7,UF7,US5,Informal Adaptive City Pathway,4,0.7916,0.6229,0.5539
+PW7,UF7,US5,Informal Adaptive City Pathway,5,0.7234,0.6388,0.5936
+PW7,UF7,US5,Informal Adaptive City Pathway,6,0.6558,0.6547,0.6333
+PW7,UF7,US5,Informal Adaptive City Pathway,7,0.5889,0.6706,0.673
+PW7,UF7,US5,Informal Adaptive City Pathway,8,0.4121,0.692,0.7094
+PW7,UF7,US5,Informal Adaptive City Pathway,9,0.346,0.7079,0.7491
+PW7,UF7,US5,Informal Adaptive City Pathway,10,0.2805,0.7238,0.7888
+PW7,UF7,US5,Informal Adaptive City Pathway,11,0.2156,0.7397,0.8285
+PW7,UF7,US5,Informal Adaptive City Pathway,12,0.1514,0.7556,0.8682
+PW7,UF7,US5,Informal Adaptive City Pathway,13,0.0878,0.7715,0.9079
+PW7,UF7,US5,Informal Adaptive City Pathway,14,0.0248,0.7874,0.9476
+PW7,UF7,US5,Informal Adaptive City Pathway,15,0.0,0.8033,0.9873
+PW7,UF7,US5,Informal Adaptive City Pathway,16,0.0,0.8247,1.0237
+PW7,UF7,US5,Informal Adaptive City Pathway,17,0.0,0.8406,1.0634
+PW7,UF7,US5,Informal Adaptive City Pathway,18,0.0,0.8565,1.1031
+PW7,UF7,US5,Informal Adaptive City Pathway,19,0.0,0.8724,1.1428
+PW7,UF7,US5,Informal Adaptive City Pathway,20,0.0,0.8883,1.1825
+PW7,UF7,US5,Informal Adaptive City Pathway,21,0.0,0.9042,1.2222
+PW7,UF7,US5,Informal Adaptive City Pathway,22,0.0,0.9201,1.2619
+PW7,UF7,US5,Informal Adaptive City Pathway,23,0.0,0.936,1.3016
+PW7,UF7,US5,Informal Adaptive City Pathway,24,0.0,0.9574,1.338
+PW7,UF7,US5,Informal Adaptive City Pathway,25,0.0,0.9733,1.3777
+PW7,UF7,US5,Informal Adaptive City Pathway,26,0.0,0.9892,1.4174
+PW7,UF7,US5,Informal Adaptive City Pathway,27,0.0,1.0051,1.4571
+PW7,UF7,US5,Informal Adaptive City Pathway,28,0.0,1.021,1.4968
+PW7,UF7,US5,Informal Adaptive City Pathway,29,0.0,1.0369,1.5365
+PW7,UF7,US5,Informal Adaptive City Pathway,30,0.0,1.0528,1.5762
+PW7,UF7,US5,Informal Adaptive City Pathway,31,0.0,1.0687,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,32,0.0,1.0901,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,33,0.0,1.106,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,34,0.0,1.1219,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,35,0.0,1.1378,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,36,0.0,1.1537,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,37,0.0,1.1696,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,38,0.0,1.1855,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,39,0.0,1.2014,1.6
+PW7,UF7,US5,Informal Adaptive City Pathway,40,0.0,1.2228,1.6
+PW8,UF8,US7,Governance Breakdown City Pathway,1,1.0,0.6688,0.3388
+PW8,UF8,US7,Governance Breakdown City Pathway,2,0.9101,0.6967,0.3697
+PW8,UF8,US7,Governance Breakdown City Pathway,3,0.8198,0.7246,0.4006
+PW8,UF8,US7,Governance Breakdown City Pathway,4,0.729,0.7525,0.4315
+PW8,UF8,US7,Governance Breakdown City Pathway,5,0.6378,0.7804,0.4624
+PW8,UF8,US7,Governance Breakdown City Pathway,6,0.5462,0.8083,0.4933
+PW8,UF8,US7,Governance Breakdown City Pathway,7,0.4541,0.8362,0.5242
+PW8,UF8,US7,Governance Breakdown City Pathway,8,0.2511,0.8696,0.5518
+PW8,UF8,US7,Governance Breakdown City Pathway,9,0.1577,0.8975,0.5827
+PW8,UF8,US7,Governance Breakdown City Pathway,10,0.0638,0.9254,0.6136
+PW8,UF8,US7,Governance Breakdown City Pathway,11,0.0,0.9533,0.6445
+PW8,UF8,US7,Governance Breakdown City Pathway,12,0.0,0.9812,0.6754
+PW8,UF8,US7,Governance Breakdown City Pathway,13,0.0,1.0091,0.7063
+PW8,UF8,US7,Governance Breakdown City Pathway,14,0.0,1.037,0.7372
+PW8,UF8,US7,Governance Breakdown City Pathway,15,0.0,1.0649,0.7681
+PW8,UF8,US7,Governance Breakdown City Pathway,16,0.0,1.0983,0.7957
+PW8,UF8,US7,Governance Breakdown City Pathway,17,0.0,1.1262,0.8266
+PW8,UF8,US7,Governance Breakdown City Pathway,18,0.0,1.1541,0.8575
+PW8,UF8,US7,Governance Breakdown City Pathway,19,0.0,1.182,0.8884
+PW8,UF8,US7,Governance Breakdown City Pathway,20,0.0,1.2099,0.9193
+PW8,UF8,US7,Governance Breakdown City Pathway,21,0.0,1.2378,0.9502
+PW8,UF8,US7,Governance Breakdown City Pathway,22,0.0,1.2657,0.9811
+PW8,UF8,US7,Governance Breakdown City Pathway,23,0.0,1.2936,1.012
+PW8,UF8,US7,Governance Breakdown City Pathway,24,0.0,1.327,1.0396
+PW8,UF8,US7,Governance Breakdown City Pathway,25,0.0,1.3549,1.0705
+PW8,UF8,US7,Governance Breakdown City Pathway,26,0.0,1.3828,1.1014
+PW8,UF8,US7,Governance Breakdown City Pathway,27,0.0,1.4107,1.1323
+PW8,UF8,US7,Governance Breakdown City Pathway,28,0.0,1.4386,1.1632
+PW8,UF8,US7,Governance Breakdown City Pathway,29,0.0,1.4665,1.1941
+PW8,UF8,US7,Governance Breakdown City Pathway,30,0.0,1.4944,1.225
+PW8,UF8,US7,Governance Breakdown City Pathway,31,0.0,1.5,1.2559
+PW8,UF8,US7,Governance Breakdown City Pathway,32,0.0,1.5,1.2835
+PW8,UF8,US7,Governance Breakdown City Pathway,33,0.0,1.5,1.3144
+PW8,UF8,US7,Governance Breakdown City Pathway,34,0.0,1.5,1.3453
+PW8,UF8,US7,Governance Breakdown City Pathway,35,0.0,1.5,1.3762
+PW8,UF8,US7,Governance Breakdown City Pathway,36,0.0,1.5,1.4071
+PW8,UF8,US7,Governance Breakdown City Pathway,37,0.0,1.5,1.438
+PW8,UF8,US7,Governance Breakdown City Pathway,38,0.0,1.5,1.4689
+PW8,UF8,US7,Governance Breakdown City Pathway,39,0.0,1.5,1.4998
+PW8,UF8,US7,Governance Breakdown City Pathway,40,0.0,1.5,1.5274

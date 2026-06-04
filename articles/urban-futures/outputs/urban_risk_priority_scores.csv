@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,urban_risk_priority_score,distributional_harm,preparedness,description
+UR5,US7,Governance Fragmentation Crisis,institutional_failure,0.7826,0.82,0.3,Fragmented institutions turn infrastructure climate housing and fiscal stress into systemic crisis.
+UR1,US3,Urban Heat and Grid Stress Cascade,climate_infrastructure,0.7568,0.86,0.42,Extreme heat increases energy demand health burden labor risk and infrastructure stress.
+UR4,US5,Informal Settlement Service Deficit,informality_services,0.744,0.9,0.36,Informal communities face unsafe services tenure insecurity and exclusion from formal investment.
+UR2,US2,Speculative Displacement Spiral,housing_finance,0.7404,0.94,0.38,Rising land values and financialized housing displace residents and weaken social cohesion.
+UR3,US4,Digital Governance Capture,digital_governance,0.6634,0.66,0.44,Smart-city systems create surveillance vendor lock-in opacity and weak public accountability.
+UR8,US8,Deferred Maintenance Rebound,maintenance_risk,0.6318,0.62,0.58,Repair-focused strategies can fail if maintenance budgets are cut after visible crisis declines.
+UR7,US6,Regional Coordination Breakdown,regional_governance,0.5796,0.58,0.54,Watersheds housing transport and labor markets exceed municipal boundaries.
+UR6,US1,Public Investment Coordination Risk,implementation_risk,0.51,0.5,0.64,Adaptive public strategies can fail if budgets authority and accountability are misaligned.

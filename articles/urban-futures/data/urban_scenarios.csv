@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,infrastructure_stress,housing_pressure,climate_pressure,fiscal_pressure,digital_dependency,migration_pressure,governance_fragmentation,social_fragmentation,description
+US1,Adaptive Public City,adaptive_public,0.38,0.34,0.42,0.36,0.48,0.44,0.30,0.34,Public investment housing stability climate adaptation and accountable digital systems strengthen urban capacity.
+US2,Financialized Growth City,financialized_growth,0.50,0.88,0.56,0.52,0.72,0.54,0.56,0.82,Speculative real estate and platform capital intensify displacement inequality and public value leakage.
+US3,Climate-Stressed Fragmented City,climate_fragmented,0.68,0.62,0.92,0.70,0.50,0.66,0.68,0.78,Climate shocks interact with inequality housing stress and fragmented governance.
+US4,Smart but Opaque City,smart_opaque,0.46,0.56,0.50,0.44,0.94,0.42,0.58,0.54,Digital systems expand but public oversight privacy interoperability and democratic accountability lag.
+US5,Informal Adaptive City,informal_adaptive,0.72,0.70,0.66,0.74,0.38,0.86,0.76,0.58,Formal systems lag while informal networks provide housing transit labor and services.
+US6,Regional Resilience City,regional_resilience,0.42,0.48,0.52,0.46,0.52,0.56,0.42,0.44,Regional coordination links housing transit watersheds energy food systems and climate resilience.
+US7,Governance Breakdown City,governance_breakdown,0.84,0.78,0.82,0.88,0.58,0.70,0.94,0.86,Fiscal stress institutional fragmentation and declining trust turn manageable risks into systemic crisis.
+US8,Maintenance-First Repair City,maintenance_first,0.34,0.42,0.46,0.40,0.44,0.42,0.34,0.38,Preventive repair lifecycle budgeting and resilience investment reduce cascade-failure risk.

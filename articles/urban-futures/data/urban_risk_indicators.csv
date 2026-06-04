@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,cascade_potential,visibility_gap,recovery_difficulty,distributional_harm,preparedness,description
+UR1,US3,Urban Heat and Grid Stress Cascade,climate_infrastructure,0.72,0.88,0.86,0.46,0.74,0.86,0.42,Extreme heat increases energy demand health burden labor risk and infrastructure stress.
+UR2,US2,Speculative Displacement Spiral,housing_finance,0.76,0.82,0.74,0.42,0.72,0.94,0.38,Rising land values and financialized housing displace residents and weaken social cohesion.
+UR3,US4,Digital Governance Capture,digital_governance,0.62,0.70,0.68,0.76,0.62,0.66,0.44,Smart-city systems create surveillance vendor lock-in opacity and weak public accountability.
+UR4,US5,Informal Settlement Service Deficit,informality_services,0.78,0.78,0.70,0.54,0.76,0.90,0.36,Informal communities face unsafe services tenure insecurity and exclusion from formal investment.
+UR5,US7,Governance Fragmentation Crisis,institutional_failure,0.70,0.90,0.88,0.50,0.84,0.82,0.30,Fragmented institutions turn infrastructure climate housing and fiscal stress into systemic crisis.
+UR6,US1,Public Investment Coordination Risk,implementation_risk,0.42,0.64,0.58,0.40,0.54,0.50,0.64,Adaptive public strategies can fail if budgets authority and accountability are misaligned.
+UR7,US6,Regional Coordination Breakdown,regional_governance,0.50,0.68,0.66,0.44,0.62,0.58,0.54,Watersheds housing transport and labor markets exceed municipal boundaries.
+UR8,US8,Deferred Maintenance Rebound,maintenance_risk,0.56,0.72,0.76,0.48,0.70,0.62,0.58,Repair-focused strategies can fail if maintenance budgets are cut after visible crisis declines.

@@ -1,0 +1,9 @@
+profile_id,city_future_name,city_type,urban_viability_score,urban_fragility_score,profile_class,description
+UF6,Adaptive Public City,adaptive_public,0.475,0.3634,Stronger adaptive urban profile,Public investment housing stability climate adaptation and governance capacity reinforce resilience.
+UF4,Digitally Integrated Global City,digital_global,0.3664,0.4956,Mixed or transitional urban future,High connectivity and global capital flows create both operational capacity and digital governance risk.
+UF1,Legacy Industrial Metropolis,legacy_industrial,0.2728,0.5318,Mixed or transitional urban future,Aging infrastructure economic transition fiscal constraint and entrenched inequality shape long-term urban viability.
+UF5,Financialized Growth City,financialized_growth,0.1702,0.6464,High urban fragility,Real estate capital platform systems and speculative growth produce displacement and public value leakage.
+UF3,Climate-Stressed Coastal City,climate_coastal,0.1542,0.6333,High urban fragility,Flood risk sea-level exposure insurance pressure and stormwater stress shape coastal urban futures.
+UF7,Informal Adaptive City,informal_adaptive,0.1144,0.6482,High urban fragility,Informal housing transit labor and mutual aid systems fill formal service gaps under rapid change.
+UF2,High-Growth Emerging Megacity,emerging_megacity,0.1043,0.6589,High urban fragility,Rapid population growth and infrastructure deficits create intense demand for inclusive service expansion.
+UF8,Governance Breakdown City,governance_breakdown,0.0164,0.7514,High urban fragility,Fiscal stress fragmented authority maintenance neglect and declining trust amplify urban fragility.
