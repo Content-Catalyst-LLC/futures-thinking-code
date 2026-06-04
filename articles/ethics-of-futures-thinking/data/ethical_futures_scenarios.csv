@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,technocratic_opacity,participation_depth,intergenerational_weight,risk_inequality,corporate_capture_pressure,security_drift,climate_justice_alignment,ai_opacity,accountability_strength,adaptive_learning_capacity,description
+EFS1,Ethical Foresight as Public Capacity,public_capacity,0.24,0.82,0.78,0.32,0.26,0.30,0.76,0.34,0.80,0.82,Transparent participatory foresight becomes a public-interest institutional capability.
+EFS2,Technocratic Futures Without Accountability,technocracy,0.86,0.30,0.44,0.70,0.48,0.54,0.40,0.72,0.34,0.42,Models dashboards and expert systems shape decisions with limited participation.
+EFS3,Corporate Future Capture,corporate_capture,0.74,0.28,0.38,0.78,0.92,0.42,0.30,0.78,0.30,0.40,Private actors define technology labor infrastructure and market futures around profit and control.
+EFS4,Climate Justice Foresight,climate_justice,0.32,0.78,0.88,0.30,0.34,0.28,0.94,0.38,0.76,0.78,Climate futures integrate historical responsibility adaptation loss and damage Indigenous rights and intergenerational ethics.
+EFS5,Security Foresight Drift,security_drift,0.68,0.34,0.50,0.72,0.44,0.94,0.42,0.66,0.38,0.46,Hybrid risk and security foresight expand surveillance militarization and border-control logic.
+EFS6,AI-Accelerated Anticipation,ai_acceleration,0.82,0.36,0.48,0.66,0.76,0.58,0.40,0.94,0.36,0.54,AI systems rapidly generate forecasts classifications and scenarios for institutions.
+EFS7,Contested Futures and Democratic Imagination,democratic_imagination,0.30,0.90,0.72,0.28,0.24,0.26,0.74,0.32,0.84,0.76,Communities youth workers Indigenous peoples migrants and civil society challenge dominant future narratives.
+EFS8,Ethical Collapse Through Short-Termism,short_termism,0.70,0.26,0.18,0.84,0.62,0.60,0.22,0.64,0.24,0.28,Institutions prioritize immediate political financial or strategic incentives while long-term harm deepens.

@@ -1,0 +1,16 @@
+record_id,scenario_id,group_name,time_period,benefit,risk,voice_weight,moral_weight,exposure,protection,description
+SDP1,EFS6,High-Income Group,1,0.80,0.18,0.82,0.70,0.22,0.78,High-income actors receive early technological benefits and stronger protection.
+SDP2,EFS6,Middle-Income Group,1,0.60,0.28,0.58,0.80,0.36,0.64,Middle-income groups receive moderate benefits with moderate transition risk.
+SDP3,EFS6,Low-Income Group,1,0.35,0.55,0.34,0.95,0.72,0.38,Low-income groups face high exposure and lower voice in AI-enabled futures.
+SDP4,EFS6,Frontline Community,1,0.30,0.70,0.28,1.00,0.86,0.30,Frontline communities experience concentrated risk and weak protection.
+SDP5,EFS6,Future Generation,1,0.40,0.62,0.10,1.00,0.74,0.22,Future generations face long-term risk without direct present voice.
+SDP6,EFS4,High-Income Group,2,0.72,0.20,0.72,0.70,0.26,0.74,Climate justice scenario reduces some privileged benefits while preserving protection.
+SDP7,EFS4,Middle-Income Group,2,0.66,0.26,0.62,0.80,0.34,0.66,Middle-income groups gain moderate protection through adaptation investment.
+SDP8,EFS4,Low-Income Group,2,0.62,0.38,0.58,0.95,0.58,0.62,Low-income groups receive stronger protection through justice-oriented adaptation.
+SDP9,EFS4,Frontline Community,2,0.68,0.36,0.72,1.00,0.62,0.70,Frontline communities receive stronger voice and adaptation support.
+SDP10,EFS4,Future Generation,2,0.78,0.28,0.20,1.00,0.46,0.66,Future generations benefit from climate justice and long-term stewardship.
+SDP11,EFS8,High-Income Group,3,0.86,0.24,0.84,0.70,0.30,0.76,Short-termism preserves near-term advantage for powerful groups.
+SDP12,EFS8,Middle-Income Group,3,0.58,0.42,0.50,0.80,0.52,0.48,Middle-income groups face rising insecurity under institutional short-termism.
+SDP13,EFS8,Low-Income Group,3,0.34,0.78,0.28,0.95,0.90,0.24,Low-income groups experience high risk and weak protection.
+SDP14,EFS8,Frontline Community,3,0.25,0.92,0.20,1.00,0.96,0.18,Frontline communities absorb severe future burden.
+SDP15,EFS8,Future Generation,3,0.22,0.96,0.05,1.00,0.98,0.10,Future generations inherit severe risk without present representation.

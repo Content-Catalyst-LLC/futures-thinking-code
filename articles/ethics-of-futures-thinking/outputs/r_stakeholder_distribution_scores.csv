@@ -1,0 +1,16 @@
+"record_id","scenario_id","group_name","time_period","benefit","risk","voice_weight","moral_weight","exposure","protection","description","net_welfare","justice_adjusted_score"
+"SDP15","EFS8","Future Generation",3,0.22,0.96,0.05,1,0.98,0.1,"Future generations inherit severe risk without present representation.",-0.74,-0.853
+"SDP14","EFS8","Frontline Community",3,0.25,0.92,0.2,1,0.96,0.18,"Frontline communities absorb severe future burden.",-0.67,-0.741
+"SDP13","EFS8","Low-Income Group",3,0.34,0.78,0.28,0.95,0.9,0.24,"Low-income groups experience high risk and weak protection.",-0.44,-0.477
+"SDP4","EFS6","Frontline Community",1,0.3,0.7,0.28,1,0.86,0.3,"Frontline communities experience concentrated risk and weak protection.",-0.4,-0.398
+"SDP5","EFS6","Future Generation",1,0.4,0.62,0.1,1,0.74,0.22,"Future generations face long-term risk without direct present voice.",-0.22,-0.214
+"SDP3","EFS6","Low-Income Group",1,0.35,0.55,0.34,0.95,0.72,0.38,"Low-income groups face high exposure and lower voice in AI-enabled futures.",-0.2,-0.133
+"SDP12","EFS8","Middle-Income Group",3,0.58,0.42,0.5,0.8,0.52,0.48,"Middle-income groups face rising insecurity under institutional short-termism.",0.16,0.308
+"SDP8","EFS4","Low-Income Group",2,0.62,0.38,0.58,0.95,0.58,0.62,"Low-income groups receive stronger protection through justice-oriented adaptation.",0.24,0.44
+"SDP9","EFS4","Frontline Community",2,0.68,0.36,0.72,1,0.62,0.7,"Frontline communities receive stronger voice and adaptation support.",0.32,0.55
+"SDP2","EFS6","Middle-Income Group",1,0.6,0.28,0.58,0.8,0.36,0.64,"Middle-income groups receive moderate benefits with moderate transition risk.",0.32,0.572
+"SDP7","EFS4","Middle-Income Group",2,0.66,0.26,0.62,0.8,0.34,0.66,"Middle-income groups gain moderate protection through adaptation investment.",0.4,0.668
+"SDP10","EFS4","Future Generation",2,0.78,0.28,0.2,1,0.46,0.66,"Future generations benefit from climate justice and long-term stewardship.",0.5,0.724
+"SDP6","EFS4","High-Income Group",2,0.72,0.2,0.72,0.7,0.26,0.74,"Climate justice scenario reduces some privileged benefits while preserving protection.",0.52,0.826
+"SDP11","EFS8","High-Income Group",3,0.86,0.24,0.84,0.7,0.3,0.76,"Short-termism preserves near-term advantage for powerful groups.",0.62,0.929
+"SDP1","EFS6","High-Income Group",1,0.8,0.18,0.82,0.7,0.22,0.78,"High-income actors receive early technological benefits and stronger protection.",0.62,0.96

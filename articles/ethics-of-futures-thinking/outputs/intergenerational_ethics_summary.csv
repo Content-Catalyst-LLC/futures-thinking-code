@@ -1,0 +1,9 @@
+pathway_id,scenario_id,pathway_name,final_present_benefit,final_future_benefit,mean_risk,final_legitimacy,final_justice_adjusted_score,mean_justice_adjusted_score
+IEP4,EFS4,Climate Justice Foresight Pathway,0.7793,1.8,0.1286,1.3374,0.7176,0.5181
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,0.8287,1.757,0.1105,1.3746,0.708,0.5101
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,0.7437,1.7136,0.1114,1.4452,0.6846,0.4871
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,1.1338,1.2032,0.4857,0.5024,0.2936,0.1748
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,1.1003,1.1504,0.5122,0.3859,0.2532,0.1448
+IEP5,EFS5,Security Foresight Drift Pathway,1.0397,1.106,0.5414,0.4628,0.2291,0.1128
+IEP3,EFS3,Corporate Future Capture Pathway,1.2081,1.0158,0.557,0.3039,0.1902,0.1033
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,1.1515,0.6754,0.7703,0.1253,-0.0319,-0.0804

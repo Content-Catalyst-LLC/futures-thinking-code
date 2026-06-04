@@ -1,0 +1,4 @@
+scenario_id,mean_justice_adjusted_score,justice_score_dispersion,lowest_group_score,highest_group_score
+EFS4,0.6416,0.1346,0.44,0.826
+EFS6,0.1574,0.519,-0.398,0.96
+EFS8,-0.1668,0.6816,-0.853,0.929

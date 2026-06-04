@@ -1,0 +1,9 @@
+pathway_id,scenario_id,pathway_name,present_benefit,future_benefit,present_risk,future_risk,discount_weight,inequality_penalty,participation_quality,accountability_strength,precaution_strength,adaptive_learning_capacity,time_horizon
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,0.62,0.82,0.30,0.24,0.92,0.32,0.82,0.80,0.74,0.82,40
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,0.72,0.58,0.46,0.62,0.70,0.68,0.30,0.34,0.42,0.42,40
+IEP3,EFS3,Corporate Future Capture Pathway,0.82,0.50,0.42,0.70,0.62,0.78,0.28,0.30,0.40,0.40,40
+IEP4,EFS4,Climate Justice Foresight Pathway,0.58,0.88,0.34,0.26,0.96,0.30,0.78,0.76,0.86,0.78,40
+IEP5,EFS5,Security Foresight Drift Pathway,0.70,0.52,0.52,0.68,0.68,0.72,0.34,0.38,0.62,0.46,40
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,0.78,0.60,0.44,0.64,0.66,0.66,0.36,0.36,0.50,0.54,40
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,0.56,0.80,0.30,0.28,0.90,0.28,0.90,0.84,0.78,0.76,40
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,0.74,0.30,0.54,0.92,0.45,0.84,0.26,0.24,0.28,0.28,40

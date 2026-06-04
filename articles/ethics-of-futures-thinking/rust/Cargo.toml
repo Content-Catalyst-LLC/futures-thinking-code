@@ -1,0 +1,6 @@
+[package]
+name = "ethics_of_futures_thinking_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

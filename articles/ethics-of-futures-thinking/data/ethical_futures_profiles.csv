@@ -1,0 +1,9 @@
+profile_id,institution_type,profile_family,intergenerational_responsibility,inclusion,accountability,risk_equity,transparency,contestability,precaution,adaptive_learning,epistemic_pluralism,public_legitimacy,description
+EFP1,Government Agency,public_institution,0.68,0.56,0.64,0.52,0.61,0.58,0.62,0.60,0.54,0.60,Public agency with moderate foresight capacity but uneven inclusion and risk-equity practices.
+EFP2,Technology Firm,private_technology,0.46,0.41,0.38,0.35,0.33,0.30,0.42,0.52,0.36,0.34,Technology firm with strong modeling capacity but weak public accountability and contestability.
+EFP3,International Organization,multilateral,0.74,0.72,0.71,0.69,0.67,0.62,0.70,0.68,0.70,0.72,International organization with stronger long-term responsibility inclusion and risk-equity norms.
+EFP4,City Administration,local_governance,0.59,0.63,0.60,0.57,0.55,0.56,0.60,0.62,0.61,0.58,City government balancing practical implementation with community participation and local accountability.
+EFP5,Research Institute,research,0.66,0.58,0.55,0.49,0.62,0.50,0.64,0.70,0.60,0.54,Research institute with analytical strength but moderate participation and accountability.
+EFP6,Civil Society Coalition,civil_society,0.72,0.84,0.76,0.82,0.78,0.80,0.74,0.72,0.86,0.82,Civil society coalition with strong inclusion justice and public legitimacy but limited formal authority.
+EFP7,Infrastructure Authority,infrastructure,0.61,0.52,0.58,0.50,0.54,0.48,0.66,0.58,0.50,0.52,Infrastructure authority with long-lived decisions but limited contestability and inclusion.
+EFP8,Security Agency,security,0.56,0.38,0.46,0.40,0.42,0.34,0.70,0.56,0.36,0.38,Security institution with precaution capacity but weak transparency participation and rights-sensitive contestability.

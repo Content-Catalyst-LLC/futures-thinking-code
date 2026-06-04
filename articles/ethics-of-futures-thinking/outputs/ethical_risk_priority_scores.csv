@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,ethical_risk_priority_score,distributional_harm,rights_risk,preparedness,description
+ERI1,EFS8,Short-Termist Ethical Collapse,short_termism,0.7808,0.88,0.74,0.24,Immediate incentives override long-term ecological institutional and social responsibility.
+ERI2,EFS3,Corporate Future Capture,corporate_capture,0.7438,0.82,0.7,0.3,Private actors define future pathways around proprietary systems profit and control.
+ERI4,EFS6,AI Anticipatory Power Concentration,ai_opacity,0.7394,0.74,0.78,0.36,AI systems scale opaque assumptions and unaccountable future classifications.
+ERI3,EFS5,Security Foresight Drift,security_drift,0.7378,0.78,0.92,0.34,Preparedness becomes surveillance border control militarization or rights erosion.
+ERI6,EFS4,Climate Justice Implementation Gap,climate_justice,0.7218,0.9,0.62,0.42,Climate futures name justice but fail on finance adaptation repair and local authority.
+ERI5,EFS2,Technocratic Accountability Gap,technocracy,0.691,0.72,0.66,0.38,Expert systems shape policy without participation transparency or contestability.
+ERI8,EFS7,Democratic Imagination Suppression,democratic_imagination,0.6588,0.8,0.7,0.44,Community futures are dismissed as unrealistic threatening or inconvenient.
+ERI7,EFS1,Public Capacity Underinvestment,public_capacity,0.4958,0.58,0.4,0.56,Public foresight capability remains underfunded and unevenly implemented.

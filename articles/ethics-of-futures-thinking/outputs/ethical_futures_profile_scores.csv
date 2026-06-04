@@ -1,0 +1,9 @@
+profile_id,institution_type,profile_family,ethical_futures_profile_score,ethical_capacity_gap,profile_class,description
+EFP6,Civil Society Coalition,civil_society,0.7834,0.2166,Stronger ethical futures capacity,Civil society coalition with strong inclusion justice and public legitimacy but limited formal authority.
+EFP3,International Organization,multilateral,0.696,0.304,Moderate ethical futures capacity,International organization with stronger long-term responsibility inclusion and risk-equity norms.
+EFP1,Government Agency,public_institution,0.597,0.403,Moderate ethical futures capacity,Public agency with moderate foresight capacity but uneven inclusion and risk-equity practices.
+EFP4,City Administration,local_governance,0.5911,0.4089,Moderate ethical futures capacity,City government balancing practical implementation with community participation and local accountability.
+EFP5,Research Institute,research,0.5872,0.4128,Moderate ethical futures capacity,Research institute with analytical strength but moderate participation and accountability.
+EFP7,Infrastructure Authority,infrastructure,0.5517,0.4483,Moderate ethical futures capacity,Infrastructure authority with long-lived decisions but limited contestability and inclusion.
+EFP8,Security Agency,security,0.4602,0.5398,Weak ethical futures capacity,Security institution with precaution capacity but weak transparency participation and rights-sensitive contestability.
+EFP2,Technology Firm,private_technology,0.389,0.611,Weak ethical futures capacity,Technology firm with strong modeling capacity but weak public accountability and contestability.

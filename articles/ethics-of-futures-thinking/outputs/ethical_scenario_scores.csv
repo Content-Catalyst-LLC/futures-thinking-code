@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,ethical_failure_risk_score,ethical_opportunity_score,description
+EFS8,Ethical Collapse Through Short-Termism,short_termism,0.7156,0.2544,Institutions prioritize immediate political financial or strategic incentives while long-term harm deepens.
+EFS3,Corporate Future Capture,corporate_capture,0.7092,0.3042,Private actors define technology labor infrastructure and market futures around profit and control.
+EFS6,AI-Accelerated Anticipation,ai_acceleration,0.6904,0.3644,AI systems rapidly generate forecasts classifications and scenarios for institutions.
+EFS2,Technocratic Futures Without Accountability,technocracy,0.6532,0.3558,Models dashboards and expert systems shape decisions with limited participation.
+EFS5,Security Foresight Drift,security_drift,0.6512,0.3852,Hybrid risk and security foresight expand surveillance militarization and border-control logic.
+EFS4,Climate Justice Foresight,climate_justice,0.2712,0.7804,Climate futures integrate historical responsibility adaptation loss and damage Indigenous rights and intergenerational ethics.
+EFS1,Ethical Foresight as Public Capacity,public_capacity,0.2592,0.7674,Transparent participatory foresight becomes a public-interest institutional capability.
+EFS7,Contested Futures and Democratic Imagination,democratic_imagination,0.2504,0.7698,Communities youth workers Indigenous peoples migrants and civil society challenge dominant future narratives.

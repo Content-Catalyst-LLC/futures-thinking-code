@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,ethical_strategy_value_score,implementation_readiness_score,description
+ESO6,EFP6,Community-Led Futures Governance,community_governance,0.8658,0.8006,Shifts foresight authority toward affected communities and public accountability.
+ESO7,EFP7,Justice-Sensitive Infrastructure Pathways,infrastructure_ethics,0.788,0.7368,Evaluates infrastructure futures through long-term burden repair equity and reversibility.
+ESO4,EFP4,Participatory Scenario Co-Design,participatory_foresight,0.7796,0.7614,Co-designs scenarios with affected communities workers youth and frontline groups.
+ESO3,EFP3,Future Generations Review Mechanism,intergenerational_governance,0.761,0.724,Adds institutional representation for future generations and long-horizon review.
+ESO1,EFP1,Public Foresight Accountability Framework,governance_framework,0.753,0.7352,Creates public standards for assumptions participation equity review contestability and revision.
+ESO8,EFP8,Human Security Safeguards for Foresight,security_ethics,0.7504,0.7282,Prevents security foresight from becoming surveillance militarization or rights erosion.
+ESO2,EFP2,Algorithmic Foresight Audit and Contestability,ai_accountability,0.7428,0.7358,Audits predictive foresight systems and creates appeal rights and public accountability.
+ESO5,EFP5,Assumption Documentation and Model Cards,method_transparency,0.7282,0.721,Documents assumptions model limits values uncertainty and distributional effects.

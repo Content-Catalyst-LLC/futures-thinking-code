@@ -1,0 +1,321 @@
+pathway_id,scenario_id,pathway_name,time_step,present_benefit,future_benefit,present_risk,future_risk,legitimacy,justice_adjusted_score
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,1,0.62,0.82,0.3,0.24,0.81,0.2846
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,2,0.6241,0.844,0.2934,0.2244,0.8239,0.297
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,3,0.6282,0.8681,0.2868,0.2089,0.8377,0.3093
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,4,0.6324,0.8921,0.2803,0.1933,0.8517,0.3217
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,5,0.6365,0.9162,0.2737,0.1778,0.8656,0.3341
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,6,0.6486,0.9401,0.2671,0.1622,0.8796,0.3485
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,7,0.6527,0.9642,0.2605,0.1466,0.8936,0.3609
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,8,0.6568,0.9882,0.2539,0.1311,0.9077,0.3733
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,9,0.661,1.0122,0.2474,0.1156,0.9217,0.3856
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,10,0.6651,1.0363,0.2408,0.1,0.9359,0.398
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,11,0.6692,1.0603,0.2342,0.0844,0.95,0.4104
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,12,0.6813,1.0843,0.2277,0.0689,0.9642,0.4248
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,13,0.6854,1.1083,0.2211,0.0534,0.9784,0.4372
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,14,0.6896,1.1324,0.2145,0.0378,0.9927,0.4496
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,15,0.6937,1.1564,0.2079,0.0223,1.0069,0.462
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,16,0.6978,1.1804,0.2013,0.0067,1.0212,0.4745
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,17,0.7019,1.2045,0.1948,0.0,1.0356,0.4851
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,18,0.714,1.2284,0.1882,0.0,1.05,0.4964
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,19,0.7182,1.2525,0.1816,0.0,1.0644,0.5057
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,20,0.7223,1.2765,0.1751,0.0,1.0788,0.515
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,21,0.7264,1.3005,0.1685,0.0,1.0933,0.5244
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,22,0.7305,1.3246,0.1619,0.0,1.1078,0.5337
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,23,0.7346,1.3486,0.1553,0.0,1.1224,0.543
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,24,0.7468,1.3726,0.1487,0.0,1.1369,0.5543
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,25,0.7509,1.3966,0.1422,0.0,1.1515,0.5637
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,26,0.755,1.4207,0.1356,0.0,1.1662,0.573
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,27,0.7591,1.4447,0.129,0.0,1.1809,0.5823
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,28,0.7632,1.4687,0.1224,0.0,1.1956,0.5917
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,29,0.7674,1.4928,0.1159,0.0,1.2103,0.601
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,30,0.7795,1.5167,0.1093,0.0,1.2251,0.6124
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,31,0.7836,1.5408,0.1027,0.0,1.2399,0.6217
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,32,0.7877,1.5648,0.0961,0.0,1.2547,0.6311
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,33,0.7918,1.5889,0.0895,0.0,1.2696,0.6404
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,34,0.796,1.6129,0.083,0.0,1.2845,0.6498
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,35,0.8001,1.6369,0.0764,0.0,1.2994,0.6592
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,36,0.8122,1.6609,0.0698,0.0,1.3144,0.6705
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,37,0.8163,1.6849,0.0633,0.0,1.3294,0.6799
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,38,0.8204,1.709,0.0567,0.0,1.3445,0.6893
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,39,0.8246,1.733,0.0501,0.0,1.3595,0.6987
+IEP1,EFS1,Ethical Foresight as Public Capacity Pathway,40,0.8287,1.757,0.0435,0.0,1.3746,0.708
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,1,0.72,0.58,0.46,0.62,0.3896,0.0365
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,2,0.7285,0.5946,0.4599,0.6172,0.3895,0.0417
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,3,0.737,0.6093,0.4599,0.6144,0.3894,0.047
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,4,0.7456,0.6239,0.4598,0.6116,0.3893,0.0522
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,5,0.7541,0.6386,0.4598,0.6088,0.3892,0.0575
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,6,0.7706,0.6531,0.4597,0.606,0.3891,0.0647
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,7,0.7791,0.6678,0.4596,0.6032,0.389,0.07
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,8,0.7876,0.6824,0.4596,0.6004,0.3889,0.0752
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,9,0.7962,0.697,0.4596,0.5976,0.3888,0.0805
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,10,0.8047,0.7117,0.4595,0.5948,0.3887,0.0857
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,11,0.8132,0.7263,0.4594,0.592,0.3886,0.091
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,12,0.8297,0.7409,0.4594,0.5892,0.3885,0.0982
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,13,0.8382,0.7555,0.4593,0.5865,0.3884,0.1035
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,14,0.8468,0.7702,0.4593,0.5837,0.3883,0.1087
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,15,0.8553,0.7848,0.4592,0.5809,0.3882,0.114
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,16,0.8638,0.7994,0.4591,0.5781,0.3881,0.1192
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,17,0.8723,0.8141,0.4591,0.5753,0.388,0.1245
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,18,0.8888,0.8286,0.4591,0.5726,0.3879,0.1317
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,19,0.8974,0.8433,0.459,0.5698,0.3878,0.1369
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,20,0.9059,0.8579,0.4589,0.567,0.3878,0.1422
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,21,0.9144,0.8725,0.4589,0.5642,0.3877,0.1475
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,22,0.9229,0.8872,0.4588,0.5614,0.3876,0.1527
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,23,0.9314,0.9018,0.4588,0.5586,0.3875,0.158
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,24,0.948,0.9164,0.4587,0.5558,0.3874,0.1652
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,25,0.9565,0.931,0.4586,0.553,0.3873,0.1705
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,26,0.965,0.9457,0.4586,0.5502,0.3872,0.1757
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,27,0.9735,0.9603,0.4585,0.5475,0.3871,0.1809
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,28,0.982,0.9749,0.4585,0.5447,0.387,0.1862
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,29,0.9906,0.9896,0.4584,0.5419,0.3869,0.1914
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,30,1.0071,1.0041,0.4584,0.5391,0.3868,0.1987
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,31,1.0156,1.0188,0.4583,0.5363,0.3867,0.2039
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,32,1.0241,1.0334,0.4582,0.5335,0.3866,0.2092
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,33,1.0326,1.0481,0.4582,0.5307,0.3865,0.2145
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,34,1.0412,1.0627,0.4581,0.5279,0.3865,0.2197
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,35,1.0497,1.0773,0.4581,0.5251,0.3864,0.225
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,36,1.0662,1.0919,0.458,0.5223,0.3863,0.2322
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,37,1.0747,1.1065,0.458,0.5195,0.3862,0.2374
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,38,1.0832,1.1212,0.4579,0.5167,0.3861,0.2427
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,39,1.0918,1.1358,0.4579,0.514,0.386,0.2479
+IEP2,EFS2,Technocratic Futures Without Accountability Pathway,40,1.1003,1.1504,0.4578,0.5112,0.3859,0.2532
+IEP3,EFS3,Corporate Future Capture Pathway,1,0.82,0.5,0.42,0.7,0.358,0.0163
+IEP3,EFS3,Corporate Future Capture Pathway,2,0.8287,0.5132,0.4209,0.6988,0.3567,0.0205
+IEP3,EFS3,Corporate Future Capture Pathway,3,0.8374,0.5265,0.4218,0.6976,0.3554,0.0246
+IEP3,EFS3,Corporate Future Capture Pathway,4,0.8462,0.5397,0.4226,0.6964,0.3541,0.0288
+IEP3,EFS3,Corporate Future Capture Pathway,5,0.8549,0.553,0.4235,0.6952,0.3528,0.033
+IEP3,EFS3,Corporate Future Capture Pathway,6,0.8716,0.5661,0.4244,0.694,0.3514,0.0391
+IEP3,EFS3,Corporate Future Capture Pathway,7,0.8803,0.5794,0.4253,0.6928,0.3501,0.0433
+IEP3,EFS3,Corporate Future Capture Pathway,8,0.889,0.5926,0.4262,0.6916,0.3488,0.0474
+IEP3,EFS3,Corporate Future Capture Pathway,9,0.8978,0.6058,0.4271,0.6904,0.3474,0.0516
+IEP3,EFS3,Corporate Future Capture Pathway,10,0.9065,0.6191,0.428,0.6892,0.3461,0.0557
+IEP3,EFS3,Corporate Future Capture Pathway,11,0.9152,0.6323,0.4288,0.688,0.3448,0.0599
+IEP3,EFS3,Corporate Future Capture Pathway,12,0.9319,0.6455,0.4297,0.6868,0.3434,0.0661
+IEP3,EFS3,Corporate Future Capture Pathway,13,0.9406,0.6587,0.4306,0.6857,0.3421,0.0702
+IEP3,EFS3,Corporate Future Capture Pathway,14,0.9494,0.672,0.4315,0.6845,0.3407,0.0744
+IEP3,EFS3,Corporate Future Capture Pathway,15,0.9581,0.6852,0.4324,0.6833,0.3393,0.0785
+IEP3,EFS3,Corporate Future Capture Pathway,16,0.9668,0.6984,0.4332,0.6821,0.338,0.0827
+IEP3,EFS3,Corporate Future Capture Pathway,17,0.9755,0.7117,0.4341,0.6809,0.3366,0.0868
+IEP3,EFS3,Corporate Future Capture Pathway,18,0.9922,0.7248,0.435,0.6798,0.3352,0.093
+IEP3,EFS3,Corporate Future Capture Pathway,19,1.001,0.7381,0.4359,0.6786,0.3338,0.0971
+IEP3,EFS3,Corporate Future Capture Pathway,20,1.0097,0.7513,0.4368,0.6774,0.3325,0.1013
+IEP3,EFS3,Corporate Future Capture Pathway,21,1.0184,0.7645,0.4377,0.6762,0.3311,0.1054
+IEP3,EFS3,Corporate Future Capture Pathway,22,1.0271,0.7778,0.4386,0.675,0.3297,0.1096
+IEP3,EFS3,Corporate Future Capture Pathway,23,1.0358,0.791,0.4394,0.6738,0.3283,0.1138
+IEP3,EFS3,Corporate Future Capture Pathway,24,1.0526,0.8042,0.4403,0.6726,0.3269,0.1199
+IEP3,EFS3,Corporate Future Capture Pathway,25,1.0613,0.8174,0.4412,0.6714,0.3255,0.1241
+IEP3,EFS3,Corporate Future Capture Pathway,26,1.07,0.8307,0.4421,0.6702,0.3241,0.1282
+IEP3,EFS3,Corporate Future Capture Pathway,27,1.0787,0.8439,0.443,0.6691,0.3227,0.1323
+IEP3,EFS3,Corporate Future Capture Pathway,28,1.0874,0.8571,0.4439,0.6679,0.3212,0.1365
+IEP3,EFS3,Corporate Future Capture Pathway,29,1.0962,0.8704,0.4447,0.6667,0.3198,0.1406
+IEP3,EFS3,Corporate Future Capture Pathway,30,1.1129,0.8835,0.4456,0.6655,0.3184,0.1468
+IEP3,EFS3,Corporate Future Capture Pathway,31,1.1216,0.8968,0.4465,0.6643,0.3169,0.1509
+IEP3,EFS3,Corporate Future Capture Pathway,32,1.1303,0.91,0.4474,0.6631,0.3155,0.1551
+IEP3,EFS3,Corporate Future Capture Pathway,33,1.139,0.9233,0.4483,0.6619,0.3141,0.1592
+IEP3,EFS3,Corporate Future Capture Pathway,34,1.1478,0.9365,0.4491,0.6607,0.3126,0.1634
+IEP3,EFS3,Corporate Future Capture Pathway,35,1.1565,0.9497,0.45,0.6595,0.3112,0.1675
+IEP3,EFS3,Corporate Future Capture Pathway,36,1.1732,0.9629,0.4509,0.6583,0.3097,0.1737
+IEP3,EFS3,Corporate Future Capture Pathway,37,1.1819,0.9761,0.4518,0.6571,0.3083,0.1778
+IEP3,EFS3,Corporate Future Capture Pathway,38,1.1906,0.9894,0.4527,0.6559,0.3068,0.182
+IEP3,EFS3,Corporate Future Capture Pathway,39,1.1994,1.0026,0.4536,0.6548,0.3053,0.1861
+IEP3,EFS3,Corporate Future Capture Pathway,40,1.2081,1.0158,0.4545,0.6536,0.3039,0.1902
+IEP4,EFS4,Climate Justice Foresight Pathway,1,0.58,0.88,0.34,0.26,0.8068,0.2869
+IEP4,EFS4,Climate Justice Foresight Pathway,2,0.5839,0.9039,0.3329,0.2436,0.8197,0.2996
+IEP4,EFS4,Climate Justice Foresight Pathway,3,0.5878,0.9278,0.3259,0.2272,0.8327,0.3123
+IEP4,EFS4,Climate Justice Foresight Pathway,4,0.5916,0.9516,0.3188,0.2108,0.8457,0.325
+IEP4,EFS4,Climate Justice Foresight Pathway,5,0.5955,0.9755,0.3118,0.1944,0.8588,0.3376
+IEP4,EFS4,Climate Justice Foresight Pathway,6,0.6074,0.9993,0.3047,0.178,0.8718,0.3523
+IEP4,EFS4,Climate Justice Foresight Pathway,7,0.6113,1.0232,0.2976,0.1616,0.8849,0.365
+IEP4,EFS4,Climate Justice Foresight Pathway,8,0.6152,1.0471,0.2906,0.1452,0.8981,0.3777
+IEP4,EFS4,Climate Justice Foresight Pathway,9,0.619,1.0709,0.2836,0.1288,0.9113,0.3904
+IEP4,EFS4,Climate Justice Foresight Pathway,10,0.6229,1.0948,0.2765,0.1124,0.9245,0.4031
+IEP4,EFS4,Climate Justice Foresight Pathway,11,0.6268,1.1187,0.2694,0.096,0.9377,0.4159
+IEP4,EFS4,Climate Justice Foresight Pathway,12,0.6387,1.1425,0.2624,0.0796,0.951,0.4306
+IEP4,EFS4,Climate Justice Foresight Pathway,13,0.6426,1.1664,0.2553,0.0633,0.9644,0.4433
+IEP4,EFS4,Climate Justice Foresight Pathway,14,0.6464,1.1903,0.2483,0.0469,0.9777,0.456
+IEP4,EFS4,Climate Justice Foresight Pathway,15,0.6503,1.2142,0.2412,0.0305,0.9911,0.4687
+IEP4,EFS4,Climate Justice Foresight Pathway,16,0.6542,1.238,0.2341,0.0141,1.0045,0.4815
+IEP4,EFS4,Climate Justice Foresight Pathway,17,0.6581,1.2619,0.2271,0.0,1.018,0.4938
+IEP4,EFS4,Climate Justice Foresight Pathway,18,0.67,1.2857,0.2201,0.0,1.0315,0.5052
+IEP4,EFS4,Climate Justice Foresight Pathway,19,0.6738,1.3096,0.213,0.0,1.045,0.5147
+IEP4,EFS4,Climate Justice Foresight Pathway,20,0.6777,1.3335,0.2059,0.0,1.0586,0.5241
+IEP4,EFS4,Climate Justice Foresight Pathway,21,0.6816,1.3573,0.1989,0.0,1.0722,0.5336
+IEP4,EFS4,Climate Justice Foresight Pathway,22,0.6855,1.3812,0.1918,0.0,1.0859,0.5431
+IEP4,EFS4,Climate Justice Foresight Pathway,23,0.6894,1.4051,0.1848,0.0,1.0995,0.5526
+IEP4,EFS4,Climate Justice Foresight Pathway,24,0.7012,1.4289,0.1777,0.0,1.1132,0.564
+IEP4,EFS4,Climate Justice Foresight Pathway,25,0.7051,1.4528,0.1706,0.0,1.127,0.5735
+IEP4,EFS4,Climate Justice Foresight Pathway,26,0.709,1.4767,0.1636,0.0,1.1408,0.583
+IEP4,EFS4,Climate Justice Foresight Pathway,27,0.7129,1.5005,0.1565,0.0,1.1546,0.5925
+IEP4,EFS4,Climate Justice Foresight Pathway,28,0.7168,1.5244,0.1495,0.0,1.1684,0.602
+IEP4,EFS4,Climate Justice Foresight Pathway,29,0.7206,1.5483,0.1424,0.0,1.1823,0.6115
+IEP4,EFS4,Climate Justice Foresight Pathway,30,0.7325,1.5721,0.1354,0.0,1.1962,0.623
+IEP4,EFS4,Climate Justice Foresight Pathway,31,0.7364,1.596,0.1283,0.0,1.2102,0.6325
+IEP4,EFS4,Climate Justice Foresight Pathway,32,0.7403,1.6199,0.1212,0.0,1.2242,0.642
+IEP4,EFS4,Climate Justice Foresight Pathway,33,0.7442,1.6437,0.1142,0.0,1.2382,0.6515
+IEP4,EFS4,Climate Justice Foresight Pathway,34,0.748,1.6676,0.1071,0.0,1.2523,0.661
+IEP4,EFS4,Climate Justice Foresight Pathway,35,0.7519,1.6915,0.1001,0.0,1.2664,0.6706
+IEP4,EFS4,Climate Justice Foresight Pathway,36,0.7638,1.7153,0.093,0.0,1.2805,0.6821
+IEP4,EFS4,Climate Justice Foresight Pathway,37,0.7677,1.7392,0.086,0.0,1.2947,0.6916
+IEP4,EFS4,Climate Justice Foresight Pathway,38,0.7716,1.763,0.0789,0.0,1.3089,0.7011
+IEP4,EFS4,Climate Justice Foresight Pathway,39,0.7754,1.7869,0.0719,0.0,1.3231,0.7107
+IEP4,EFS4,Climate Justice Foresight Pathway,40,0.7793,1.8,0.0648,0.0,1.3374,0.7176
+IEP5,EFS5,Security Foresight Drift Pathway,1,0.7,0.52,0.52,0.68,0.4524,-0.0034
+IEP5,EFS5,Security Foresight Drift Pathway,2,0.7075,0.535,0.5189,0.675,0.4526,0.0023
+IEP5,EFS5,Security Foresight Drift Pathway,3,0.715,0.5501,0.5179,0.6701,0.4527,0.0079
+IEP5,EFS5,Security Foresight Drift Pathway,4,0.7224,0.5651,0.5168,0.6651,0.4529,0.0136
+IEP5,EFS5,Security Foresight Drift Pathway,5,0.7299,0.5802,0.5158,0.6602,0.4531,0.0192
+IEP5,EFS5,Security Foresight Drift Pathway,6,0.7454,0.5951,0.5147,0.6552,0.4533,0.0269
+IEP5,EFS5,Security Foresight Drift Pathway,7,0.7529,0.6102,0.5136,0.6502,0.4535,0.0325
+IEP5,EFS5,Security Foresight Drift Pathway,8,0.7604,0.6252,0.5126,0.6453,0.4537,0.0382
+IEP5,EFS5,Security Foresight Drift Pathway,9,0.7678,0.6402,0.5116,0.6404,0.4539,0.0438
+IEP5,EFS5,Security Foresight Drift Pathway,10,0.7753,0.6553,0.5105,0.6354,0.4541,0.0495
+IEP5,EFS5,Security Foresight Drift Pathway,11,0.7828,0.6703,0.5094,0.6304,0.4543,0.0551
+IEP5,EFS5,Security Foresight Drift Pathway,12,0.7983,0.6853,0.5084,0.6255,0.4545,0.0627
+IEP5,EFS5,Security Foresight Drift Pathway,13,0.8058,0.7003,0.5073,0.6206,0.4547,0.0684
+IEP5,EFS5,Security Foresight Drift Pathway,14,0.8132,0.7154,0.5063,0.6156,0.455,0.074
+IEP5,EFS5,Security Foresight Drift Pathway,15,0.8207,0.7304,0.5052,0.6107,0.4552,0.0797
+IEP5,EFS5,Security Foresight Drift Pathway,16,0.8282,0.7454,0.5041,0.6057,0.4554,0.0853
+IEP5,EFS5,Security Foresight Drift Pathway,17,0.8357,0.7605,0.5031,0.6008,0.4557,0.091
+IEP5,EFS5,Security Foresight Drift Pathway,18,0.8512,0.7754,0.5021,0.5958,0.4559,0.0986
+IEP5,EFS5,Security Foresight Drift Pathway,19,0.8586,0.7905,0.501,0.5909,0.4562,0.1043
+IEP5,EFS5,Security Foresight Drift Pathway,20,0.8661,0.8055,0.4999,0.5859,0.4564,0.1099
+IEP5,EFS5,Security Foresight Drift Pathway,21,0.8736,0.8205,0.4989,0.581,0.4567,0.1156
+IEP5,EFS5,Security Foresight Drift Pathway,22,0.8811,0.8356,0.4978,0.576,0.457,0.1213
+IEP5,EFS5,Security Foresight Drift Pathway,23,0.8886,0.8506,0.4968,0.571,0.4573,0.1269
+IEP5,EFS5,Security Foresight Drift Pathway,24,0.904,0.8656,0.4957,0.5661,0.4575,0.1346
+IEP5,EFS5,Security Foresight Drift Pathway,25,0.9115,0.8806,0.4946,0.5611,0.4578,0.1402
+IEP5,EFS5,Security Foresight Drift Pathway,26,0.919,0.8957,0.4936,0.5562,0.4581,0.1459
+IEP5,EFS5,Security Foresight Drift Pathway,27,0.9265,0.9107,0.4925,0.5513,0.4584,0.1515
+IEP5,EFS5,Security Foresight Drift Pathway,28,0.934,0.9257,0.4915,0.5463,0.4587,0.1572
+IEP5,EFS5,Security Foresight Drift Pathway,29,0.9414,0.9408,0.4904,0.5414,0.459,0.1628
+IEP5,EFS5,Security Foresight Drift Pathway,30,0.9569,0.9557,0.4894,0.5364,0.4593,0.1705
+IEP5,EFS5,Security Foresight Drift Pathway,31,0.9644,0.9708,0.4883,0.5315,0.4597,0.1761
+IEP5,EFS5,Security Foresight Drift Pathway,32,0.9719,0.9858,0.4872,0.5265,0.46,0.1818
+IEP5,EFS5,Security Foresight Drift Pathway,33,0.9794,1.0009,0.4862,0.5215,0.4603,0.1875
+IEP5,EFS5,Security Foresight Drift Pathway,34,0.9868,1.0159,0.4851,0.5166,0.4606,0.1931
+IEP5,EFS5,Security Foresight Drift Pathway,35,0.9943,1.0309,0.4841,0.5116,0.461,0.1988
+IEP5,EFS5,Security Foresight Drift Pathway,36,1.0098,1.0459,0.483,0.5067,0.4613,0.2064
+IEP5,EFS5,Security Foresight Drift Pathway,37,1.0173,1.0609,0.482,0.5017,0.4617,0.2121
+IEP5,EFS5,Security Foresight Drift Pathway,38,1.0248,1.076,0.4809,0.4968,0.462,0.2178
+IEP5,EFS5,Security Foresight Drift Pathway,39,1.0322,1.091,0.4799,0.4919,0.4624,0.2234
+IEP5,EFS5,Security Foresight Drift Pathway,40,1.0397,1.106,0.4788,0.4869,0.4628,0.2291
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,1,0.78,0.6,0.44,0.64,0.4404,0.056
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,2,0.7878,0.6155,0.4393,0.6351,0.4419,0.0618
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,3,0.7957,0.631,0.4386,0.6302,0.4435,0.0676
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,4,0.8035,0.6464,0.4379,0.6254,0.445,0.0734
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,5,0.8114,0.6619,0.4372,0.6205,0.4465,0.0792
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,6,0.8272,0.6773,0.4365,0.6156,0.4481,0.0869
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,7,0.835,0.6928,0.4358,0.6107,0.4496,0.0927
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,8,0.8429,0.7083,0.4351,0.6058,0.4511,0.0985
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,9,0.8507,0.7237,0.4344,0.601,0.4527,0.1043
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,10,0.8586,0.7392,0.4337,0.5961,0.4542,0.1101
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,11,0.8664,0.7547,0.433,0.5912,0.4558,0.1159
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,12,0.8822,0.7701,0.4323,0.5864,0.4574,0.1236
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,13,0.8901,0.7856,0.4316,0.5816,0.4589,0.1294
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,14,0.8979,0.8011,0.4309,0.5767,0.4605,0.1352
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,15,0.9058,0.8166,0.4302,0.5718,0.462,0.141
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,16,0.9136,0.832,0.4295,0.5669,0.4636,0.1468
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,17,0.9214,0.8475,0.4288,0.562,0.4652,0.1525
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,18,0.9373,0.8629,0.4282,0.5572,0.4668,0.1603
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,19,0.9451,0.8784,0.4275,0.5523,0.4684,0.1661
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,20,0.953,0.8939,0.4268,0.5474,0.4699,0.1719
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,21,0.9608,0.9093,0.4261,0.5426,0.4715,0.1777
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,22,0.9686,0.9248,0.4254,0.5377,0.4731,0.1835
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,23,0.9765,0.9403,0.4247,0.5328,0.4747,0.1892
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,24,0.9923,0.9557,0.424,0.5279,0.4763,0.197
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,25,1.0002,0.9712,0.4233,0.523,0.4779,0.2028
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,26,1.008,0.9867,0.4226,0.5182,0.4795,0.2086
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,27,1.0158,1.0021,0.4219,0.5134,0.4811,0.2144
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,28,1.0237,1.0176,0.4212,0.5085,0.4828,0.2202
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,29,1.0315,1.0331,0.4205,0.5036,0.4844,0.2259
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,30,1.0474,1.0485,0.4198,0.4987,0.486,0.2337
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,31,1.0552,1.064,0.4191,0.4939,0.4876,0.2395
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,32,1.063,1.0795,0.4184,0.489,0.4892,0.2453
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,33,1.0709,1.0949,0.4177,0.4841,0.4909,0.2511
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,34,1.0787,1.1104,0.417,0.4792,0.4925,0.2569
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,35,1.0866,1.1259,0.4163,0.4743,0.4942,0.2627
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,36,1.1024,1.1413,0.4156,0.4695,0.4958,0.2705
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,37,1.1102,1.1568,0.4149,0.4646,0.4974,0.2763
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,38,1.1181,1.1722,0.4142,0.4597,0.4991,0.282
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,39,1.1259,1.1877,0.4135,0.4549,0.5007,0.2878
+IEP6,EFS6,AI-Accelerated Anticipation Pathway,40,1.1338,1.2032,0.4128,0.4501,0.5024,0.2936
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,1,0.56,0.8,0.3,0.28,0.842,0.2602
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,2,0.5635,0.8234,0.2927,0.2639,0.8568,0.2725
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,3,0.567,0.8469,0.2855,0.2478,0.8716,0.2848
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,4,0.5704,0.8703,0.2782,0.2316,0.8864,0.2971
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,5,0.5739,0.8938,0.271,0.2155,0.9013,0.3094
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,6,0.5854,0.9171,0.2637,0.1994,0.9162,0.3237
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,7,0.5889,0.9406,0.2564,0.1833,0.9312,0.336
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,8,0.5924,0.964,0.2492,0.1672,0.9462,0.3483
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,9,0.5958,0.9874,0.242,0.1511,0.9612,0.3606
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,10,0.5993,1.0109,0.2347,0.135,0.9763,0.373
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,11,0.6028,1.0343,0.2274,0.1188,0.9914,0.3853
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,12,0.6143,1.0577,0.2202,0.1027,1.0065,0.3996
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,13,0.6178,1.0811,0.2129,0.0867,1.0217,0.4119
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,14,0.6212,1.1046,0.2057,0.0706,1.0369,0.4243
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,15,0.6247,1.128,0.1984,0.0544,1.0522,0.4366
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,16,0.6282,1.1514,0.1911,0.0383,1.0675,0.449
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,17,0.6317,1.1749,0.1839,0.0222,1.0828,0.4613
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,18,0.6432,1.1982,0.1767,0.0061,1.0981,0.4756
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,19,0.6466,1.2217,0.1694,0.0,1.1135,0.486
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,20,0.6501,1.2451,0.1621,0.0,1.129,0.4951
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,21,0.6536,1.2685,0.1549,0.0,1.1444,0.5043
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,22,0.6571,1.292,0.1476,0.0,1.1599,0.5134
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,23,0.6606,1.3154,0.1404,0.0,1.1755,0.5226
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,24,0.672,1.3388,0.1331,0.0,1.191,0.5337
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,25,0.6755,1.3622,0.1258,0.0,1.2066,0.5429
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,26,0.679,1.3857,0.1186,0.0,1.2223,0.552
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,27,0.6825,1.4091,0.1113,0.0,1.238,0.5612
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,28,0.686,1.4325,0.1041,0.0,1.2537,0.5704
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,29,0.6894,1.456,0.0968,0.0,1.2695,0.5795
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,30,0.7009,1.4793,0.0896,0.0,1.2852,0.5907
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,31,0.7044,1.5028,0.0823,0.0,1.3011,0.5999
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,32,0.7079,1.5262,0.075,0.0,1.3169,0.6091
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,33,0.7114,1.5497,0.0678,0.0,1.3328,0.6182
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,34,0.7148,1.5731,0.0605,0.0,1.3488,0.6274
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,35,0.7183,1.5965,0.0533,0.0,1.3647,0.6366
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,36,0.7298,1.6199,0.046,0.0,1.3808,0.6478
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,37,0.7333,1.6433,0.0388,0.0,1.3968,0.657
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,38,0.7368,1.6668,0.0315,0.0,1.4129,0.6662
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,39,0.7402,1.6902,0.0243,0.0,1.429,0.6754
+IEP7,EFS7,Contested Futures and Democratic Imagination Pathway,40,0.7437,1.7136,0.017,0.0,1.4452,0.6846
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,1,0.74,0.3,0.54,0.92,0.2798,-0.1293
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,2,0.7493,0.3096,0.5422,0.9219,0.276,-0.1271
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,3,0.7586,0.3193,0.5444,0.9238,0.2723,-0.1248
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,4,0.768,0.3289,0.5466,0.9258,0.2685,-0.1226
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,5,0.7773,0.3386,0.5488,0.9277,0.2647,-0.1204
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,6,0.7946,0.3481,0.551,0.9296,0.2609,-0.1162
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,7,0.8039,0.3578,0.5532,0.9315,0.2571,-0.114
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,8,0.8132,0.3674,0.5554,0.9334,0.2533,-0.1118
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,9,0.8226,0.377,0.5576,0.9354,0.2495,-0.1096
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,10,0.8319,0.3867,0.5598,0.9373,0.2456,-0.1074
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,11,0.8412,0.3963,0.562,0.9392,0.2418,-0.1052
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,12,0.8585,0.4059,0.5642,0.9412,0.2379,-0.101
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,13,0.8678,0.4155,0.5664,0.9432,0.2341,-0.0988
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,14,0.8772,0.4252,0.5686,0.9451,0.2302,-0.0966
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,15,0.8865,0.4348,0.5708,0.947,0.2263,-0.0944
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,16,0.8958,0.4444,0.573,0.9489,0.2224,-0.0922
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,17,0.9051,0.4541,0.5752,0.9508,0.2185,-0.09
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,18,0.9224,0.4636,0.5775,0.9528,0.2145,-0.0858
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,19,0.9318,0.4733,0.5797,0.9547,0.2106,-0.0836
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,20,0.9411,0.4829,0.5819,0.9566,0.2066,-0.0814
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,21,0.9504,0.4925,0.5841,0.9586,0.2027,-0.0792
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,22,0.9597,0.5022,0.5863,0.9605,0.1987,-0.0771
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,23,0.969,0.5118,0.5885,0.9624,0.1947,-0.0749
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,24,0.9864,0.5214,0.5907,0.9643,0.1907,-0.0707
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,25,0.9957,0.531,0.5929,0.9662,0.1867,-0.0685
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,26,1.005,0.5407,0.5951,0.9682,0.1827,-0.0663
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,27,1.0143,0.5503,0.5973,0.9702,0.1787,-0.0641
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,28,1.0236,0.5599,0.5995,0.9721,0.1747,-0.062
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,29,1.033,0.5696,0.6017,0.974,0.1706,-0.0598
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,30,1.0503,0.5791,0.6039,0.9759,0.1665,-0.0556
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,31,1.0596,0.5888,0.6061,0.9779,0.1625,-0.0534
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,32,1.0689,0.5984,0.6083,0.9798,0.1584,-0.0512
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,33,1.0782,0.6081,0.6105,0.9817,0.1543,-0.049
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,34,1.0876,0.6177,0.6127,0.9836,0.1502,-0.0469
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,35,1.0969,0.6273,0.6149,0.9855,0.1461,-0.0447
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,36,1.1142,0.6369,0.6171,0.9875,0.142,-0.0405
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,37,1.1235,0.6465,0.6193,0.9894,0.1378,-0.0384
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,38,1.1328,0.6562,0.6215,0.9913,0.1337,-0.0362
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,39,1.1422,0.6658,0.6237,0.9933,0.1295,-0.034
+IEP8,EFS8,Ethical Collapse Through Short-Termism Pathway,40,1.1515,0.6754,0.6259,0.9953,0.1253,-0.0319
