@@ -1,0 +1,9 @@
+"record_id","profile_id","record_name","care_workforce_capacity","unpaid_care_burden","eldercare_demand","childcare_demand","affordable_housing_supply","urban_service_capacity","integration_capacity","public_health_capacity","description","care_stress_score"
+"CUR1","MDF1","Aging Without Care Reform Record",0.3,0.88,0.94,0.46,0.42,0.5,0.44,0.56,"Care systems lag behind aging and families absorb heavy unpaid burdens.",0.718
+"CUR8","MDF8","Demographic Fear Politics Record",0.34,0.72,0.62,0.66,0.32,0.36,0.2,0.38,"Fear politics weakens care investment integration public health and social cohesion.",0.668
+"CUR6","MDF6","Care Migration Dependency Record",0.38,0.76,0.88,0.42,0.46,0.5,0.44,0.54,"Migrant care labor is essential but insufficiently protected.",0.66
+"CUR4","MDF4","Restrictive Border Spiral Record",0.42,0.62,0.56,0.58,0.34,0.42,0.28,0.44,"Exclusion increases irregularity and weakens integration and service access.",0.5916
+"CUR5","MDF5","Climate Mobility Shock Record",0.44,0.66,0.48,0.62,0.28,0.38,0.4,0.42,"Climate mobility overwhelms housing services and public health in receiving areas.",0.5748
+"CUR2","MDF2","Youth Potential Without Opportunity Record",0.46,0.54,0.34,0.76,0.38,0.44,0.42,0.5,"Youth systems face education employment housing and participation gaps.",0.5272
+"CUR3","MDF3","Rights-Based Migration Renewal Record",0.66,0.44,0.58,0.5,0.58,0.64,0.78,0.68,"Mobility systems improve rights labor pathways integration and public services.",0.4476
+"CUR7","MDF7","Inclusive Urban Renewal Record",0.78,0.36,0.5,0.48,0.76,0.82,0.84,0.74,"Urban systems invest in housing services care integration and resilience.",0.3776

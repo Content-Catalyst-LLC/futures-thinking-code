@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,demographic_risk_priority_score,distributional_harm,preparedness,description
+DRI2,MDS5,Climate Mobility Shock,climate_mobility,0.8066,0.94,0.34,Climate stress drives displacement housing pressure protection gaps and urban absorption stress.
+DRI3,MDS1,Care System Overload,care_crisis,0.7678,0.84,0.28,Aging and care demand overwhelm unpaid families underpaid workers and weak care systems.
+DRI1,MDS8,Demographic Fear Politics,fear_politics,0.7654,0.92,0.3,Demographic narratives become dehumanizing and enable coercive or exclusionary policy.
+DRI4,MDS4,Restrictive Border Spiral,border_spiral,0.735,0.9,0.36,Exclusion increases irregularity deaths exploitation informal labor and polarization.
+DRI6,MDS6,Care Migration Exploitation,care_migration,0.706,0.86,0.38,Migrant care workers carry aging-society needs without rights wages or family protections.
+DRI5,MDS2,Youth Opportunity Failure,youth_opportunity,0.6726,0.72,0.4,Large youth cohorts face unemployment housing barriers weak education and limited voice.
+DRI8,MDS7,Urban Inclusion Funding Gap,urban_inclusion,0.5346,0.64,0.62,Inclusive urban demographic renewal is weakened by insufficient housing and service finance.
+DRI7,MDS3,Migration Renewal Implementation Gap,mobility_governance,0.5018,0.6,0.58,Legal pathways and integration reforms underperform because local capacity and finance lag.

@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,demographic_stress_score,adaptive_capacity_score,adaptation_gap_score,profile_class,description
+MDF8,Demographic Fear Politics,demographic_fear_politics,0.6914,0.3126,0.3788,Mixed or transitional demographic future,Political actors frame fertility migration aging youth or diversity as existential threat.
+MDF5,Climate Mobility Shock,climate_mobility_shock,0.6636,0.3832,0.2804,Mixed or transitional demographic future,Repeated climate disasters and slow-onset stress increase internal displacement urban absorption pressure and cross-border movement.
+MDF4,Restrictive Border Spiral,restrictive_border_spiral,0.6496,0.3782,0.2714,Mixed or transitional demographic future,States respond to mobility pressure through deterrence externalization irregularity and exclusion.
+MDF6,Care Migration Dependency,care_migration_dependency,0.616,0.4488,0.1672,Mixed or transitional demographic future,Aging societies rely heavily on migrant care workers without adequate rights or wage protections.
+MDF2,Youth Potential Without Opportunity,youth_without_opportunity,0.598,0.4012,0.1968,Mixed or transitional demographic future,Large youth cohorts face weak education unemployment housing barriers and limited political voice.
+MDF1,Aging Without Care Reform,aging_without_care_reform,0.5746,0.4538,0.1208,Mixed or transitional demographic future,Older population shares rise while care systems pensions housing and health systems remain underprepared.
+MDF3,Rights-Based Migration Renewal,rights_based_migration,0.4354,0.6498,0.0,Mixed or transitional demographic future,Legal pathways labor protections integration asylum capacity and local support improve mobility governance.
+MDF7,Inclusive Urban Demographic Renewal,inclusive_urban_renewal,0.3524,0.7362,0.0,Stronger demographic adaptation,Cities invest in housing transit schools health public space and integration as populations change.

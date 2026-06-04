@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,population,demographic_stress,care_stress,mobility_pressure,adaptive_capacity
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,1,10000000.0,0.57,0.6952,0.5148,0.36
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,2,10000000.0,0.6198,0.724,0.5216,0.3575
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,3,10000000.0,0.6707,0.7528,0.5284,0.3529
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,4,10000000.0,0.7229,0.7816,0.5352,0.3462
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,5,10000000.0,0.7764,0.8104,0.542,0.3373
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,6,10000000.0,0.8314,0.8392,0.5488,0.3262
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,7,10000000.0,0.8878,0.868,0.5556,0.3128
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,8,9981400.0,0.9459,0.8968,0.5624,0.2971
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,9,9981400.0,1.0056,0.9256,0.5692,0.279
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,10,9996571.73,1.0673,0.9544,0.58,0.2585
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,11,9996571.73,1.1309,0.9832,0.5868,0.2355
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,12,9996571.73,1.1965,1.015,0.5936,0.2099
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,13,9996571.73,1.2642,1.0438,0.6004,0.1817
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,14,9996571.73,1.3342,1.0726,0.6072,0.1508
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,15,9996571.73,1.4064,1.1014,0.614,0.1172
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,16,9977978.1,1.481,1.1302,0.6208,0.0808
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,17,9977978.1,1.5582,1.159,0.6276,0.0415
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,18,9977978.1,1.638,1.1878,0.6344,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,19,9977978.1,1.7205,1.2166,0.6412,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,20,9993144.63,1.8,1.2454,0.652,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,21,9993144.63,1.8,1.2742,0.6588,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,22,9993144.63,1.8,1.303,0.6656,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,23,9993144.63,1.8,1.3318,0.6724,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,24,9974557.38,1.8,1.3636,0.6792,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,25,9974557.38,1.8,1.3924,0.686,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,26,9974557.38,1.8,1.4212,0.6928,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,27,9974557.38,1.8,1.45,0.6996,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,28,9974557.38,1.8,1.4788,0.7064,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,29,9974557.38,1.8,1.5076,0.7132,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,30,9989718.71,1.8,1.5364,0.724,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,31,9989718.71,1.8,1.5652,0.7308,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,32,9971137.83,1.8,1.594,0.7376,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,33,9971137.83,1.8,1.6228,0.7444,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,34,9971137.83,1.8,1.6516,0.7512,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,35,9971137.83,1.8,1.6804,0.758,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,36,9971137.83,1.8,1.7122,0.7648,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,37,9971137.83,1.8,1.741,0.7716,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,38,9971137.83,1.8,1.7698,0.7784,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,39,9971137.83,1.8,1.7986,0.7852,0.0
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,40,9967747.65,1.8,1.8,0.796,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,1,10000000.0,0.5564,0.5672,0.612,0.4
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,2,10110000.0,0.6015,0.568,0.6288,0.4042
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,3,10221210.0,0.647,0.5688,0.6456,0.407
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,4,10333643.31,0.6928,0.5696,0.6624,0.4084
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,5,10447313.39,0.7392,0.5704,0.6792,0.4084
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,6,10562233.83,0.7861,0.5712,0.696,0.407
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,7,10678418.41,0.8335,0.572,0.7128,0.4042
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,8,10772815.62,0.8816,0.5728,0.7296,0.3999
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,9,10891316.6,0.9304,0.5736,0.7464,0.3941
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,10,11032032.41,0.9801,0.5744,0.7672,0.3868
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,11,11153384.76,1.0306,0.5752,0.784,0.378
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,12,11276072.0,1.0821,0.579,0.8008,0.3675
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,13,11400108.79,1.1345,0.5798,0.8176,0.3555
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,14,11525509.98,1.188,0.5806,0.8344,0.3419
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,15,11652290.59,1.2425,0.5814,0.8512,0.3266
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,16,11755296.84,1.2981,0.5822,0.868,0.3096
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,17,11884605.11,1.355,0.583,0.8848,0.2909
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,18,12015335.76,1.4131,0.5838,0.9016,0.2704
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,19,12147504.46,1.4726,0.5846,0.9184,0.2481
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,20,12304450.22,1.5336,0.5854,0.9392,0.224
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,21,12439799.17,1.5961,0.5862,0.956,0.198
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,22,12576636.96,1.6601,0.587,0.9728,0.1701
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,23,12714979.97,1.7259,0.5878,0.9896,0.1401
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,24,12827380.39,1.7934,0.5916,1.0064,0.1081
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,25,12968481.57,1.8,0.5924,1.0232,0.0758
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,26,13111134.87,1.8,0.5932,1.04,0.0436
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,27,13255357.35,1.8,0.594,1.0568,0.0113
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,28,13401166.28,1.8,0.5948,1.0736,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,29,13548579.11,1.8,0.5956,1.0904,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,30,13723626.76,1.8,0.5964,1.1112,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,31,13874586.65,1.8,0.5972,1.128,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,32,13997238.0,1.8,0.598,1.1448,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,33,14151207.61,1.8,0.5988,1.1616,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,34,14306870.9,1.8,0.5996,1.1784,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,35,14464246.48,1.8,0.6004,1.1952,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,36,14623353.19,1.8,0.6042,1.212,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,37,14784210.07,1.8,0.605,1.2288,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,38,14946836.38,1.8,0.6058,1.2456,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,39,15111251.58,1.8,0.6066,1.2624,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,40,15273848.65,1.8,0.6074,1.2832,0.0
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,1,10000000.0,0.448,0.4596,0.4352,0.66
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,2,10070000.0,0.4686,0.4456,0.4262,0.6934
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,3,10140490.0,0.4871,0.4316,0.4172,0.7266
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,4,10211473.43,0.5036,0.4176,0.4082,0.7595
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,5,10282953.74,0.5181,0.4036,0.3992,0.7923
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,6,10354934.42,0.5306,0.3896,0.3902,0.825
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,7,10427418.96,0.5411,0.3756,0.3812,0.8577
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,8,10481641.54,0.5496,0.3616,0.3722,0.8903
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,9,10555013.03,0.5561,0.3476,0.3632,0.9231
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,10,10646630.54,0.5607,0.3336,0.3582,0.956
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,11,10721156.96,0.5634,0.3196,0.3492,0.9891
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,12,10796205.06,0.5641,0.3086,0.3402,1.0224
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,13,10871778.49,0.5627,0.2946,0.3312,1.056
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,14,10947880.94,0.5594,0.2806,0.3222,1.0901
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,15,11024516.11,0.554,0.2666,0.3132,1.1245
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,16,11081843.59,0.5465,0.2526,0.3042,1.1595
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,17,11159416.5,0.5369,0.2386,0.2952,1.195
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,18,11237532.41,0.5253,0.2246,0.2862,1.2311
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,19,11316195.14,0.5115,0.2106,0.2772,1.268
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,20,11414419.71,0.4956,0.1966,0.2722,1.3056
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,21,11494320.65,0.4776,0.1826,0.2632,1.344
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,22,11574780.9,0.4573,0.1686,0.2542,1.3833
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,23,11655804.36,0.4347,0.1546,0.2452,1.4236
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,24,11716414.54,0.41,0.1436,0.2362,1.4648
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,25,11798429.45,0.3829,0.1296,0.2272,1.5071
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,26,11881018.45,0.3534,0.1156,0.2182,1.5506
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,27,11964185.58,0.3215,0.1016,0.2092,1.5953
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,28,12047934.88,0.2872,0.0876,0.2002,1.6414
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,29,12132270.42,0.2502,0.0736,0.1912,1.6888
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,30,12237578.53,0.2109,0.0596,0.1862,1.7377
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,31,12323241.58,0.1688,0.0456,0.1772,1.7881
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,32,12387322.44,0.1241,0.0316,0.1682,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,33,12474033.69,0.0782,0.0176,0.1592,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,34,12561351.93,0.0316,0.0036,0.1502,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,35,12649281.39,0.0,0.0,0.1412,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,36,12737826.36,0.0,0.0,0.1322,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,37,12826991.15,0.0,0.0,0.1232,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,38,12916780.09,0.0,0.0,0.1142,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,39,13007197.55,0.0,0.0,0.1052,1.8
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,40,13096687.07,0.0,0.0,0.1002,1.8
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,1,10000000.0,0.5864,0.6052,0.6244,0.34
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,2,9980000.0,0.6347,0.6154,0.6474,0.3405
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,3,9960040.0,0.6839,0.6256,0.6704,0.3392
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,4,9940119.92,0.7343,0.6358,0.6934,0.3363
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,5,9920239.68,0.7857,0.646,0.7164,0.3316
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,6,9900399.2,0.8383,0.6562,0.7394,0.3251
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,7,9880598.4,0.8921,0.6664,0.7624,0.3168
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,8,9838309.44,0.9473,0.6766,0.7854,0.3067
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,9,9818632.82,1.0039,0.6868,0.8084,0.2946
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,10,9820989.29,1.0621,0.697,0.8354,0.2806
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,11,9801347.32,1.1218,0.7072,0.8584,0.2646
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,12,9781744.62,1.1833,0.7204,0.8814,0.2465
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,13,9762181.13,1.2465,0.7306,0.9044,0.2263
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,14,9742656.77,1.3115,0.7408,0.9274,0.2039
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,15,9723171.46,1.3784,0.751,0.9504,0.1794
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,16,9681556.28,1.4472,0.7612,0.9734,0.1525
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,17,9662193.17,1.5182,0.7714,0.9964,0.1234
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,18,9642868.78,1.5913,0.7816,1.0194,0.0918
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,19,9623583.05,1.6666,0.7918,1.0424,0.0577
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,20,9625892.71,1.7445,0.802,1.0694,0.0212
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,21,9606640.92,1.8,0.8122,1.0924,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,22,9587427.64,1.8,0.8224,1.1154,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,23,9568252.78,1.8,0.8326,1.1384,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,24,9527300.66,1.8,0.8458,1.1614,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,25,9508246.06,1.8,0.856,1.1844,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,26,9489229.57,1.8,0.8662,1.2074,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,27,9470251.11,1.8,0.8764,1.2304,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,28,9451310.61,1.8,0.8866,1.2534,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,29,9432407.99,1.8,0.8968,1.2764,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,30,9434671.76,1.8,0.907,1.3034,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,31,9415802.42,1.8,0.9172,1.3264,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,32,9375502.79,1.8,0.9274,1.3494,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,33,9356751.78,1.8,0.9376,1.3724,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,34,9338038.28,1.8,0.9478,1.3954,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,35,9319362.2,1.8,0.958,1.4184,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,36,9300723.48,1.8,0.9712,1.4414,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,37,9282122.03,1.8,0.9814,1.4644,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,38,9263557.78,1.8,0.9916,1.4874,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,39,9245030.67,1.8,1.0018,1.5104,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,40,9226170.81,1.8,1.012,1.5374,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,1,10000000.0,0.6624,0.5632,0.736,0.38
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,2,10120000.0,0.7087,0.5712,0.773,0.3819
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,3,10241440.0,0.7563,0.5792,0.81,0.3822
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,4,10364337.28,0.8053,0.5872,0.847,0.3809
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,5,10488709.33,0.8556,0.5952,0.884,0.378
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,6,10614573.84,0.9074,0.6032,0.921,0.3733
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,7,10741948.73,0.9608,0.6112,0.958,0.3668
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,8,10844426.92,1.0157,0.6192,0.995,0.3586
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,9,10974560.04,1.0723,0.6272,1.032,0.3485
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,10,11147519.11,1.1308,0.6352,1.073,0.3364
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,11,11281289.33,1.1912,0.6432,1.11,0.3224
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,12,11416664.81,1.2535,0.6542,1.147,0.3063
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,13,11553664.78,1.3179,0.6622,1.184,0.2882
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,14,11692308.76,1.3843,0.6702,1.221,0.2678
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,15,11832616.47,1.4528,0.6782,1.258,0.2453
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,16,11945499.63,1.5237,0.6862,1.295,0.2205
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,17,12088845.62,1.5968,0.6942,1.332,0.1933
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,18,12233911.77,1.6724,0.7022,1.369,0.1636
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,19,12380718.71,1.7506,0.7102,1.406,0.1315
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,20,12575838.84,1.8,0.7182,1.447,0.0978
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,21,12726748.91,1.8,0.7262,1.484,0.0638
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,22,12879469.89,1.8,0.7342,1.521,0.0298
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,23,13034023.53,1.8,0.7422,1.558,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,24,13158368.12,1.8,0.7532,1.595,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,25,13316268.53,1.8,0.7612,1.632,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,26,13476063.76,1.8,0.7692,1.669,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,27,13637776.52,1.8,0.7772,1.706,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,28,13801429.84,1.8,0.7852,1.743,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,29,13967047.0,1.8,0.7932,1.78,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,30,14187167.66,1.8,0.8012,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,31,14357413.67,1.8,0.8092,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,32,14494383.4,1.8,0.8172,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,33,14668316.0,1.8,0.8252,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,34,14844335.79,1.8,0.8332,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,35,15022467.82,1.8,0.8412,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,36,15202737.43,1.8,0.8522,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,37,15385170.28,1.8,0.8602,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,38,15569792.32,1.8,0.8682,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,39,15756629.83,1.8,0.8762,1.8,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,40,15966193.01,1.8,0.8842,1.8,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,1,10000000.0,0.6008,0.6692,0.5644,0.36
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,2,10020000.0,0.6516,0.6894,0.576,0.3625
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,3,10040040.0,0.7032,0.7096,0.5876,0.363
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,4,10060120.08,0.7557,0.7298,0.5992,0.3615
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,5,10080240.32,0.8093,0.75,0.6108,0.358
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,6,10100400.8,0.864,0.7702,0.6224,0.3525
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,7,10120601.6,0.9198,0.7904,0.634,0.3449
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,8,10120196.78,0.9769,0.8106,0.6456,0.3352
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,9,10140437.17,1.0353,0.8308,0.6572,0.3233
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,10,10180998.92,1.0953,0.851,0.6728,0.3092
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,11,10201360.92,1.1568,0.8712,0.6844,0.2929
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,12,10221763.64,1.22,0.8944,0.696,0.2742
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,13,10242207.17,1.2849,0.9146,0.7076,0.2532
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,14,10262691.58,1.3516,0.9348,0.7192,0.2297
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,15,10283216.97,1.4202,0.955,0.7308,0.2038
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,16,10282805.64,1.4907,0.9752,0.7424,0.1754
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,17,10303371.25,1.5634,0.9954,0.754,0.1444
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,18,10323977.99,1.6383,1.0156,0.7656,0.1107
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,19,10344625.95,1.7154,1.0358,0.7772,0.0744
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,20,10386004.45,1.7951,1.056,0.7928,0.0352
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,21,10406776.46,1.8,1.0762,0.8044,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,22,10427590.01,1.8,1.0964,0.816,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,23,10448445.19,1.8,1.1166,0.8276,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,24,10448027.25,1.8,1.1398,0.8392,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,25,10468923.31,1.8,1.16,0.8508,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,26,10489861.16,1.8,1.1802,0.8624,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,27,10510840.88,1.8,1.2004,0.874,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,28,10531862.56,1.8,1.2206,0.8856,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,29,10552926.28,1.8,1.2408,0.8972,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,30,10595137.99,1.8,1.261,0.9128,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,31,10616328.27,1.8,1.2812,0.9244,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,32,10615903.61,1.8,1.3014,0.936,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,33,10637135.42,1.8,1.3216,0.9476,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,34,10658409.69,1.8,1.3418,0.9592,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,35,10679726.51,1.8,1.362,0.9708,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,36,10701085.96,1.8,1.3852,0.9824,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,37,10722488.13,1.8,1.4054,0.994,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,38,10743933.11,1.8,1.4256,1.0056,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,39,10765420.98,1.8,1.4458,1.0172,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,40,10786521.2,1.8,1.466,1.0328,0.0
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,1,10000000.0,0.3588,0.3556,0.372,0.78
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,2,10070000.0,0.3644,0.3258,0.355,0.8258
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,3,10140490.0,0.3668,0.296,0.338,0.872
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,4,10211473.43,0.3659,0.2662,0.321,0.9189
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,5,10282953.74,0.3618,0.2364,0.304,0.9665
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,6,10354934.42,0.3544,0.2066,0.287,1.015
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,7,10427418.96,0.3436,0.1768,0.27,1.0643
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,8,10487272.35,0.3294,0.147,0.253,1.1147
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,9,10560683.25,0.3118,0.1172,0.236,1.1662
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,10,10654039.69,0.2909,0.0874,0.223,1.2189
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,11,10728617.97,0.2664,0.0576,0.206,1.273
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,12,10803718.3,0.2385,0.0308,0.189,1.3284
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,13,10879344.32,0.2069,0.001,0.172,1.3854
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,14,10955499.73,0.1726,0.0,0.155,1.4434
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,15,11032188.23,0.1354,0.0,0.138,1.5026
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,16,11095512.99,0.0953,0.0,0.121,1.5629
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,17,11173181.58,0.0523,0.0,0.104,1.6245
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,18,11251393.85,0.0063,0.0,0.087,1.6875
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,19,11330153.61,0.0,0.0,0.07,1.7507
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,20,11430312.17,0.0,0.0,0.057,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,21,11510324.36,0.0,0.0,0.04,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,22,11590896.63,0.0,0.0,0.023,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,23,11672032.9,0.0,0.0,0.006,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,24,11739030.37,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,25,11821203.58,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,26,11903952.01,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,27,11987279.67,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,28,12071190.63,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,29,12155688.96,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,30,12263145.26,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,31,12348987.27,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,32,12419870.46,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,33,12506809.55,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,34,12594357.22,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,35,12682517.72,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,36,12771295.34,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,37,12860694.41,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,38,12950719.27,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,39,13041374.31,0.0,0.0,0.0,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,40,13140227.92,0.0,0.0,0.0,1.8
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,1,10000000.0,0.6296,0.668,0.6732,0.24
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,2,9990000.0,0.6881,0.6872,0.7028,0.231
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,3,9980010.0,0.7484,0.7064,0.7324,0.2198
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,4,9970029.99,0.8107,0.7256,0.762,0.2064
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,5,9960059.96,0.8749,0.7448,0.7916,0.1907
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,6,9950099.9,0.9412,0.764,0.8212,0.1725
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,7,9940149.8,1.0097,0.7832,0.8508,0.152
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,8,9908142.52,1.0805,0.8024,0.8804,0.1289
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,9,9898234.38,1.1537,0.8216,0.91,0.1033
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,10,9912883.76,1.2295,0.8408,0.9436,0.075
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,11,9902970.88,1.3079,0.86,0.9732,0.0439
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,12,9893067.91,1.3891,0.8822,1.0028,0.01
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,13,9883174.84,1.4731,0.9014,1.0324,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,14,9873291.66,1.559,0.9206,1.062,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,15,9863418.37,1.6464,0.9398,1.0916,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,16,9831658.17,1.7352,0.959,1.1212,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,17,9821826.51,1.8,0.9782,1.1508,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,18,9812004.68,1.8,0.9974,1.1804,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,19,9802192.68,1.8,1.0166,1.21,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,20,9816699.92,1.8,1.0358,1.2436,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,21,9806883.22,1.8,1.055,1.2732,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,22,9797076.34,1.8,1.0742,1.3028,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,23,9787279.26,1.8,1.0934,1.3324,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,24,9755764.22,1.8,1.1156,1.362,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,25,9746008.46,1.8,1.1348,1.3916,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,26,9736262.45,1.8,1.154,1.4212,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,27,9726526.19,1.8,1.1732,1.4508,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,28,9716799.66,1.8,1.1924,1.4804,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,29,9707082.86,1.8,1.2116,1.51,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,30,9721449.34,1.8,1.2308,1.5436,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,31,9711727.9,1.8,1.25,1.5732,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,32,9680456.13,1.8,1.2692,1.6028,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,33,9670775.68,1.8,1.2884,1.6324,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,34,9661104.9,1.8,1.3076,1.662,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,35,9651443.79,1.8,1.3268,1.6916,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,36,9641792.35,1.8,1.349,1.7212,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,37,9632150.56,1.8,1.3682,1.7508,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,38,9622518.41,1.8,1.3874,1.7804,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,39,9612895.89,1.8,1.4066,1.8,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,40,9605782.35,1.8,1.4258,1.8,0.0

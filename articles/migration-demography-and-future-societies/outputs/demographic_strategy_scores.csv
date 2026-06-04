@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,demographic_strategy_value_score,implementation_readiness_score,description
+DMS7,MDF7,Inclusive Urban Renewal,inclusive_urbanism,0.777,0.7728,Invests in housing transit services public space integration and climate resilience.
+DMS6,MDF6,Fair Care Migration System,care_migration,0.6994,0.7068,Links migrant care labor to wages rights family protection training and public funding.
+DMS3,MDF3,Rights-Based Migration Governance,mobility_rights,0.6986,0.7082,Builds legal pathways labor protections asylum capacity integration and family unity.
+DMS5,MDF5,Climate Mobility Adaptation,climate_mobility_adaptation,0.6968,0.6752,Plans adaptation relocation receiving-community support and safe mobility before crisis.
+DMS8,MDF8,Narrative Repair and Belonging,narrative_repair,0.678,0.657,Counters demographic fear through rights public communication civic inclusion and anti-discrimination systems.
+DMS1,MDF1,Care Infrastructure Reform,care_reform,0.638,0.6512,Recognizes care as public infrastructure through wages training public finance and long-term care systems.
+DMS2,MDF2,Youth Opportunity Compact,youth_opportunity,0.6244,0.6282,Connects education jobs housing civic participation and mental health for large youth cohorts.
+DMS4,MDF4,Border Harm Reduction and Regularization,border_harm_reduction,0.598,0.6002,Reduces irregularity exploitation and border harm through lawful pathways status protection and due process.

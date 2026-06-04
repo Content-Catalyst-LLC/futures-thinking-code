@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,aging_shock,youth_employment_shock,housing_shock,care_shock,climate_mobility_shock,border_restriction_pressure,labor_shortage_pressure,public_health_shock,social_cohesion_stress,rights_protection_gap,description
+MDS1,Aging Without Care Reform,aging_without_care_reform,0.94,0.40,0.62,0.92,0.38,0.42,0.72,0.68,0.52,0.48,Aging pressure intensifies while care health housing and pension systems lag.
+MDS2,Youth Potential Without Opportunity,youth_without_opportunity,0.34,0.94,0.76,0.46,0.48,0.50,0.44,0.52,0.68,0.54,Large youth cohorts experience weak opportunity and limited institutional inclusion.
+MDS3,Rights-Based Migration Renewal,rights_based_migration,0.54,0.42,0.52,0.42,0.38,0.24,0.36,0.40,0.26,0.18,Legal mobility pathways and protection systems reduce demographic stress.
+MDS4,Restrictive Border Spiral,restrictive_border_spiral,0.56,0.66,0.78,0.52,0.58,0.94,0.74,0.54,0.82,0.90,Deterrence and exclusion increase irregularity exploitation and political polarization.
+MDS5,Climate Mobility Shock,climate_mobility_shock,0.46,0.58,0.86,0.54,0.96,0.72,0.60,0.66,0.74,0.70,Climate stress drives displacement housing pressure and protection gaps.
+MDS6,Care Migration Dependency,care_migration_dependency,0.88,0.48,0.66,0.86,0.50,0.64,0.78,0.60,0.58,0.72,Aging societies rely on migrant care workers without fair labor or family protections.
+MDS7,Inclusive Urban Demographic Renewal,inclusive_urban_renewal,0.44,0.30,0.34,0.38,0.40,0.22,0.30,0.36,0.20,0.16,Inclusive urban investment improves housing care labor integration and social cohesion.
+MDS8,Demographic Fear Politics,demographic_fear_politics,0.62,0.70,0.76,0.66,0.62,0.84,0.64,0.56,0.94,0.88,Fear-driven narratives produce coercive and exclusionary demographic policy.

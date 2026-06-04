@@ -1,0 +1,6 @@
+[package]
+name = "migration_demography_future_societies_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

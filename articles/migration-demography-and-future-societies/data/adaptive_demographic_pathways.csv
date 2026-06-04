@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,population_base,birth_rate,death_rate,net_migration_rate,aging_pressure,youth_opportunity_gap,care_capacity,housing_pressure,labor_adaptation,climate_mobility_exposure,social_cohesion,initial_adaptive_capacity,time_horizon
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,10000000,0.009,0.011,0.002,0.92,0.42,0.28,0.62,0.42,0.38,0.48,0.36,40
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,10000000,0.018,0.008,0.001,0.34,0.92,0.46,0.72,0.38,0.48,0.42,0.40,40
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,10000000,0.010,0.009,0.006,0.58,0.46,0.66,0.60,0.74,0.42,0.72,0.66,40
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,10000000,0.010,0.010,-0.002,0.54,0.66,0.42,0.76,0.44,0.56,0.30,0.34,40
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,10000000,0.014,0.010,0.008,0.48,0.58,0.44,0.82,0.46,0.94,0.38,0.38,40
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,10000000,0.008,0.011,0.005,0.86,0.50,0.38,0.68,0.52,0.50,0.44,0.36,40
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,10000000,0.011,0.009,0.005,0.50,0.32,0.78,0.42,0.78,0.46,0.82,0.78,40
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,10000000,0.010,0.010,-0.001,0.62,0.70,0.34,0.74,0.36,0.62,0.22,0.24,40

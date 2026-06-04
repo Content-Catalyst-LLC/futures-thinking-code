@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_population,population_change_percent,final_demographic_stress,mean_care_stress,mean_mobility_pressure,final_adaptive_capacity
+ADP3,MDF3,MDS3,Rights-Based Migration Renewal Pathway,13096687.07,30.97,0.0,0.1969,0.2661,1.8
+ADP7,MDF7,MDS7,Inclusive Urban Renewal Pathway,13140227.92,31.4,0.0,0.0576,0.1082,1.8
+ADP1,MDF1,MDS1,Aging Without Care Reform Pathway,9967747.65,-0.32,1.8,1.2599,0.6538,0.0
+ADP2,MDF2,MDS2,Youth Potential Without Opportunity Pathway,15273848.65,52.74,1.8,0.5866,0.946,0.0
+ADP4,MDF4,MDS4,Restrictive Border Spiral Pathway,9226170.81,-7.74,1.8,0.8079,1.0793,0.0
+ADP5,MDF5,MDS5,Climate Mobility Shock Pathway,15966193.01,59.66,1.8,0.723,1.4071,0.0
+ADP6,MDF6,MDS6,Care Migration Dependency Pathway,10786521.2,7.87,1.8,1.0669,0.797,0.0
+ADP8,MDF8,MDS8,Demographic Fear Politics Pathway,9605782.35,-3.94,1.8,1.0462,1.2555,0.0

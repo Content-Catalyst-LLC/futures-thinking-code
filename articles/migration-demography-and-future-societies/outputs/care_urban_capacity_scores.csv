@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,care_stress_score,urban_absorption_capacity_score,description
+CUR1,MDF1,Aging Without Care Reform Record,0.718,0.4212,Care systems lag behind aging and families absorb heavy unpaid burdens.
+CUR8,MDF8,Demographic Fear Politics Record,0.668,0.3156,Fear politics weakens care investment integration public health and social cohesion.
+CUR6,MDF6,Care Migration Dependency Record,0.66,0.4484,Migrant care labor is essential but insufficiently protected.
+CUR4,MDF4,Restrictive Border Spiral Record,0.5916,0.3756,Exclusion increases irregularity and weakens integration and service access.
+CUR5,MDF5,Climate Mobility Shock Record,0.5748,0.3712,Climate mobility overwhelms housing services and public health in receiving areas.
+CUR2,MDF2,Youth Potential Without Opportunity Record,0.5272,0.436,Youth systems face education employment housing and participation gaps.
+CUR3,MDF3,Rights-Based Migration Renewal Record,0.4476,0.6536,Mobility systems improve rights labor pathways integration and public services.
+CUR7,MDF7,Inclusive Urban Renewal Record,0.3776,0.7764,Urban systems invest in housing services care integration and resilience.
