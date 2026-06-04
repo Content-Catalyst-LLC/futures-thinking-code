@@ -1,0 +1,9 @@
+"risk_id","scenario_id","risk_name","risk_domain","probability_proxy","severity","irreversibility","systemic_reach","visibility_gap","distributional_harm","preparedness","description","climate_risk_priority_score"
+"CR1","CS5","Earth-System Feedback Acceleration","feedback_risk",0.62,0.94,0.92,0.88,0.7,0.76,0.34,"Feedbacks weaken sinks or amplify warming beyond expected pathways.",0.804
+"CR2","CS6","Climate Shock Governance Failure","governance_risk",0.7,0.9,0.72,0.9,0.54,0.88,0.36,"Extreme climate events overwhelm public systems and emergency response.",0.7744
+"CR5","CS8","Planetary Boundary Interaction","ecological_systems",0.66,0.88,0.86,0.84,0.58,0.78,0.38,"Climate interacts with biodiversity freshwater land and pollution systems.",0.7676
+"CR3","CS3","Unequal Adaptation and Residual Loss","justice_risk",0.74,0.84,0.66,0.78,0.5,0.96,0.34,"Vulnerable communities absorb losses as adaptation follows wealth and influence.",0.7486
+"CR4","CS2","Delayed Transition Lock-In","transition_risk",0.72,0.86,0.76,0.82,0.46,0.72,0.4,"Delayed mitigation increases residual loss stranded assets and adaptation burden.",0.7272
+"CR6","CS4","Technology Solutionism and False Confidence","technology_risk",0.58,0.66,0.48,0.64,0.54,0.62,0.46,"Future technology promises delay near-term mitigation and justice obligations.",0.585
+"CR8","CS7","Just Transition Backlash Risk","legitimacy_risk",0.44,0.68,0.42,0.66,0.44,0.7,0.58,"Ambitious transformation faces backlash if participation and material protections are weak.",0.5524
+"CR7","CS1","Transition Coordination Failure","coordination_risk",0.42,0.7,0.44,0.7,0.42,0.58,0.6,"Coordinated transition weakens when institutions lose alignment or public legitimacy.",0.541

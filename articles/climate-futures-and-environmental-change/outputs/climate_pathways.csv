@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,climate_stress_index,social_vulnerability_index,adaptive_capacity_index
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,1,1.0,0.759,0.4415
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,2,1.058,0.7652,0.4581
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,3,1.116,0.7726,0.4747
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,4,1.174,0.7811,0.4912
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,5,1.232,0.7908,0.5078
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,6,1.29,0.8016,0.5244
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,7,1.348,0.8136,0.541
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,8,1.406,0.8268,0.5576
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,9,1.464,0.8411,0.5741
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,10,1.566,0.8566,0.5898
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,11,1.624,0.8741,0.6064
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,12,1.682,0.8928,0.623
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,13,1.74,0.9126,0.6396
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,14,1.798,0.9336,0.6562
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,15,1.856,0.9558,0.6727
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,16,1.914,0.9791,0.6893
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,17,1.972,1.0036,0.7059
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,18,2.03,1.0292,0.7225
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,19,2.088,1.056,0.7391
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,20,2.19,1.084,0.7548
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,21,2.248,1.114,0.7713
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,22,2.306,1.1451,0.7879
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,23,2.364,1.1774,0.8045
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,24,2.422,1.2,0.8211
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,25,2.48,1.2,0.8377
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,26,2.538,1.2,0.8542
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,27,2.596,1.2,0.8708
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,28,2.654,1.2,0.8874
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,29,2.712,1.2,0.904
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,30,2.814,1.2,0.9197
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,31,2.872,1.2,0.9363
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,32,2.93,1.2,0.9528
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,33,2.988,1.2,0.9694
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,34,3.0,1.2,0.986
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,35,3.0,1.2,1.0026
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,36,3.0,1.2,1.0192
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,37,3.0,1.2,1.0357
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,38,3.0,1.2,1.0523
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,39,3.0,1.2,1.0689
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,40,3.0,1.2,1.0846
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,1,1.0,0.7145,0.603
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,2,0.9156,0.705,0.6396
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,3,0.8312,0.6938,0.6763
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,4,0.7468,0.6809,0.7129
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,5,0.6624,0.6664,0.7496
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,6,0.578,0.6501,0.7862
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,7,0.4936,0.6322,0.8228
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,8,0.4092,0.6126,0.8595
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,9,0.3248,0.5912,0.8961
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,10,0.2624,0.5682,0.9323
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,11,0.178,0.544,0.969
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,12,0.0936,0.518,1.0056
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,13,0.0092,0.4904,1.0422
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,14,0.0,0.4611,1.0789
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,15,0.0,0.4316,1.1155
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,16,0.0,0.4021,1.1522
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,17,0.0,0.3726,1.1888
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,18,0.0,0.3431,1.2254
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,19,0.0,0.3136,1.2621
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,20,0.0,0.2841,1.2983
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,21,0.0,0.2546,1.3349
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,22,0.0,0.2251,1.3716
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,23,0.0,0.1956,1.4082
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,24,0.0,0.1661,1.4448
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,25,0.0,0.1366,1.4815
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,26,0.0,0.1071,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,27,0.0,0.0776,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,28,0.0,0.0481,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,29,0.0,0.0186,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,30,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,31,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,32,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,33,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,34,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,35,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,36,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,37,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,38,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,39,0.0,0.0,1.5
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,40,0.0,0.0,1.5
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,1,1.0,0.7615,0.4745
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,2,1.0072,0.7658,0.4949
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,3,1.0144,0.7702,0.5152
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,4,1.0216,0.7748,0.5356
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,5,1.0288,0.7796,0.5559
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,6,1.036,0.7844,0.5763
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,7,1.0432,0.7895,0.5967
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,8,1.0504,0.7946,0.617
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,9,1.0576,0.7999,0.6374
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,10,1.0978,0.8054,0.6571
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,11,1.105,0.8116,0.6774
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,12,1.1122,0.818,0.6978
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,13,1.1194,0.8246,0.7182
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,14,1.1266,0.8313,0.7385
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,15,1.1338,0.8381,0.7589
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,16,1.141,0.8451,0.7792
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,17,1.1482,0.8522,0.7996
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,18,1.1554,0.8595,0.82
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,19,1.1626,0.8669,0.8403
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,20,1.2028,0.8744,0.86
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,21,1.21,0.8828,0.8804
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,22,1.2172,0.8913,0.9007
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,23,1.2244,0.8999,0.9211
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,24,1.2316,0.9087,0.9415
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,25,1.2388,0.9176,0.9618
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,26,1.246,0.9267,0.9822
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,27,1.2532,0.9359,1.0025
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,28,1.2604,0.9453,1.0229
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,29,1.2676,0.9548,1.0433
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,30,1.3078,0.9645,1.063
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,31,1.315,0.9749,1.0833
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,32,1.3222,0.9855,1.1037
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,33,1.3294,0.9963,1.124
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,34,1.3366,1.0072,1.1444
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,35,1.3438,1.0182,1.1648
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,36,1.351,1.0294,1.1851
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,37,1.3582,1.0407,1.2055
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,38,1.3654,1.0521,1.2258
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,39,1.3726,1.0638,1.2462
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,40,1.4128,1.0755,1.2659
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,1,1.0,0.7398,0.5362
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,2,0.9349,0.7375,0.5645
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,3,0.8699,0.7339,0.5927
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,4,0.8048,0.7291,0.621
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,5,0.7398,0.7229,0.6492
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,6,0.6747,0.7155,0.6775
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,7,0.6097,0.7067,0.7057
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,8,0.5446,0.6967,0.734
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,9,0.4796,0.6853,0.7622
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,10,0.4393,0.6727,0.79
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,11,0.3742,0.6592,0.8182
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,12,0.3092,0.6444,0.8465
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,13,0.2441,0.6284,0.8747
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,14,0.1791,0.611,0.9029
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,15,0.114,0.5923,0.9312
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,16,0.049,0.5724,0.9594
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,17,0.0,0.5511,0.9877
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,18,0.0,0.5288,1.0159
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,19,0.0,0.5066,1.0442
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,20,0.0,0.4843,1.0719
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,21,0.0,0.4621,1.1002
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,22,0.0,0.4398,1.1284
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,23,0.0,0.4176,1.1567
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,24,0.0,0.3953,1.1849
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,25,0.0,0.3731,1.2131
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,26,0.0,0.3508,1.2414
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,27,0.0,0.3286,1.2696
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,28,0.0,0.3063,1.2979
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,29,0.0,0.2841,1.3261
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,30,0.0,0.2618,1.3539
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,31,0.0,0.2396,1.3821
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,32,0.0,0.2173,1.4104
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,33,0.0,0.1951,1.4386
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,34,0.0,0.1728,1.4669
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,35,0.0,0.1506,1.4951
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,36,0.0,0.1283,1.5
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,37,0.0,0.1061,1.5
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,38,0.0,0.0838,1.5
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,39,0.0,0.0616,1.5
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,40,0.0,0.0393,1.5
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,1,1.0,0.7592,0.4552
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,2,1.0523,0.7645,0.4732
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,3,1.1046,0.7708,0.4912
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,4,1.1569,0.7781,0.5091
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,5,1.2092,0.7865,0.527
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,6,1.2615,0.796,0.545
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,7,1.3138,0.8064,0.5629
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,8,1.3661,0.818,0.5809
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,9,1.4184,0.8305,0.5988
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,10,1.5257,0.8442,0.6157
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,11,1.578,0.8599,0.6336
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,12,1.6303,0.8767,0.6516
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,13,1.6826,0.8946,0.6695
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,14,1.7349,0.9135,0.6875
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,15,1.7872,0.9334,0.7054
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,16,1.8395,0.9544,0.7234
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,17,1.8918,0.9765,0.7413
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,18,1.9441,0.9996,0.7593
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,19,1.9964,1.0237,0.7772
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,20,2.1037,1.0489,0.7941
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,21,2.156,1.0762,0.812
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,22,2.2083,1.1046,0.83
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,23,2.2606,1.134,0.8479
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,24,2.3129,1.1644,0.8659
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,25,2.3652,1.1959,0.8838
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,26,2.4175,1.2,0.9018
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,27,2.4698,1.2,0.9197
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,28,2.5221,1.2,0.9377
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,29,2.5744,1.2,0.9556
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,30,2.6817,1.2,0.9725
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,31,2.734,1.2,0.9904
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,32,2.7863,1.2,1.0084
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,33,2.8386,1.2,1.0263
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,34,2.8909,1.2,1.0443
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,35,2.9432,1.2,1.0622
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,36,2.9955,1.2,1.0802
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,37,3.0,1.2,1.0981
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,38,3.0,1.2,1.1161
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,39,3.0,1.2,1.134
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,40,3.0,1.2,1.1509
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,1,1.0,0.763,0.4322
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,2,1.043,0.7704,0.4475
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,3,1.0859,0.7787,0.4628
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,4,1.1289,0.7878,0.4781
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,5,1.1718,0.7978,0.4934
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,6,1.2148,0.8086,0.5087
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,7,1.2577,0.8203,0.524
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,8,1.3007,0.8328,0.5392
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,9,1.3436,0.8463,0.5545
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,10,1.4333,0.8605,0.5689
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,11,1.4763,0.8766,0.5842
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,12,1.5192,0.8935,0.5994
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,13,1.5622,0.9113,0.6147
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,14,1.6051,0.9299,0.63
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,15,1.6481,0.9494,0.6453
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,16,1.691,0.9698,0.6606
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,17,1.734,0.991,0.6759
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,18,1.7769,1.0131,0.6912
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,19,1.8199,1.036,0.7064
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,20,1.9096,1.0598,0.7208
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,21,1.9525,1.0854,0.7361
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,22,1.9955,1.1119,0.7514
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,23,2.0384,1.1392,0.7666
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,24,2.0814,1.1674,0.7819
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,25,2.1243,1.1964,0.7972
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,26,2.1673,1.2,0.8125
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,27,2.2102,1.2,0.8278
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,28,2.2532,1.2,0.8431
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,29,2.2961,1.2,0.8584
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,30,2.3858,1.2,0.8727
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,31,2.4288,1.2,0.888
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,32,2.4717,1.2,0.9033
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,33,2.5147,1.2,0.9186
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,34,2.5576,1.2,0.9338
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,35,2.6006,1.2,0.9491
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,36,2.6435,1.2,0.9644
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,37,2.6865,1.2,0.9797
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,38,2.7294,1.2,0.995
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,39,2.7724,1.2,1.0103
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,40,2.8621,1.2,1.0246
+PW7,CF7,CS7,Just Climate Transformation Pathway,1,1.0,0.6935,0.6475
+PW7,CF7,CS7,Just Climate Transformation Pathway,2,0.8781,0.679,0.6897
+PW7,CF7,CS7,Just Climate Transformation Pathway,3,0.7563,0.6621,0.7319
+PW7,CF7,CS7,Just Climate Transformation Pathway,4,0.6344,0.6427,0.7741
+PW7,CF7,CS7,Just Climate Transformation Pathway,5,0.5126,0.6209,0.8162
+PW7,CF7,CS7,Just Climate Transformation Pathway,6,0.3907,0.5966,0.8584
+PW7,CF7,CS7,Just Climate Transformation Pathway,7,0.2689,0.5699,0.9006
+PW7,CF7,CS7,Just Climate Transformation Pathway,8,0.147,0.5408,0.9428
+PW7,CF7,CS7,Just Climate Transformation Pathway,9,0.0252,0.5093,0.985
+PW7,CF7,CS7,Just Climate Transformation Pathway,10,0.0,0.4753,1.0268
+PW7,CF7,CS7,Just Climate Transformation Pathway,11,0.0,0.4408,1.069
+PW7,CF7,CS7,Just Climate Transformation Pathway,12,0.0,0.4063,1.1112
+PW7,CF7,CS7,Just Climate Transformation Pathway,13,0.0,0.3718,1.1533
+PW7,CF7,CS7,Just Climate Transformation Pathway,14,0.0,0.3373,1.1955
+PW7,CF7,CS7,Just Climate Transformation Pathway,15,0.0,0.3028,1.2377
+PW7,CF7,CS7,Just Climate Transformation Pathway,16,0.0,0.2683,1.2799
+PW7,CF7,CS7,Just Climate Transformation Pathway,17,0.0,0.2338,1.3221
+PW7,CF7,CS7,Just Climate Transformation Pathway,18,0.0,0.1993,1.3643
+PW7,CF7,CS7,Just Climate Transformation Pathway,19,0.0,0.1648,1.4064
+PW7,CF7,CS7,Just Climate Transformation Pathway,20,0.0,0.1303,1.4482
+PW7,CF7,CS7,Just Climate Transformation Pathway,21,0.0,0.0958,1.4904
+PW7,CF7,CS7,Just Climate Transformation Pathway,22,0.0,0.0613,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,23,0.0,0.0268,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,24,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,25,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,26,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,27,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,28,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,29,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,30,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,31,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,32,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,33,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,34,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,35,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,36,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,37,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,38,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,39,0.0,0.0,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,40,0.0,0.0,1.5
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,1,1.0,0.742,0.5242
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,2,0.9776,0.7408,0.5507
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,3,0.9552,0.7392,0.5772
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,4,0.9328,0.7371,0.6037
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,5,0.9104,0.7345,0.6301
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,6,0.8879,0.7315,0.6566
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,7,0.8655,0.7281,0.6831
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,8,0.8431,0.7242,0.7096
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,9,0.8207,0.7199,0.7361
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,10,0.8396,0.7151,0.7617
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,11,0.8171,0.7107,0.7882
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,12,0.7947,0.7058,0.8147
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,13,0.7723,0.7005,0.8412
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,14,0.7499,0.6947,0.8677
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,15,0.7275,0.6885,0.8942
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,16,0.7051,0.6819,0.9207
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,17,0.6827,0.6748,0.9471
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,18,0.6603,0.6672,0.9736
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,19,0.6379,0.6593,1.0001
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,20,0.6567,0.6508,1.0258
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,21,0.6343,0.6427,1.0523
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,22,0.6119,0.6342,1.0787
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,23,0.5895,0.6253,1.1052
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,24,0.5671,0.6159,1.1317
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,25,0.5447,0.606,1.1582
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,26,0.5222,0.5957,1.1847
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,27,0.4998,0.5849,1.2112
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,28,0.4774,0.5737,1.2376
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,29,0.455,0.5621,1.2641
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,30,0.4739,0.55,1.2898
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,31,0.4514,0.5383,1.3163
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,32,0.429,0.5261,1.3428
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,33,0.4066,0.5135,1.3692
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,34,0.3842,0.5004,1.3957
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,35,0.3618,0.4869,1.4222
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,36,0.3394,0.4729,1.4487
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,37,0.317,0.4585,1.4752
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,38,0.2946,0.4436,1.5
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,39,0.2722,0.4283,1.5
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,40,0.291,0.4126,1.5

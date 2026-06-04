@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,mitigation_effect,adaptation_gain,vulnerability_reduction,ecosystem_protection,governance_gain,finance_capacity,justice_gain,implementation_capacity,description
+CA1,CF1,Accelerated Mitigation and Lock-In Reduction,mitigation_lockin,0.90,0.54,0.52,0.58,0.56,0.54,0.52,0.62,Reduces emissions infrastructure lock-in and delayed-transition risk.
+CA2,CF2,Coordinated Mitigation Adaptation Package,managed_transition,0.82,0.78,0.70,0.72,0.82,0.76,0.72,0.74,Coordinates emissions reduction adaptation investment and institutional learning.
+CA3,CF3,Equitable Adaptation and Loss Reduction,equitable_adaptation,0.54,0.86,0.92,0.62,0.66,0.72,0.90,0.66,Prioritizes vulnerable communities adaptation finance and residual loss reduction.
+CA4,CF4,Responsible Climate Technology Governance,technology_governance,0.78,0.62,0.58,0.60,0.70,0.64,0.58,0.66,Ensures climate technology supports real mitigation without shifting extraction or inequality.
+CA5,CF5,Ecosystem Protection and Feedback Risk Reduction,ecosystem_feedback,0.64,0.68,0.62,0.94,0.68,0.62,0.64,0.60,Protects carbon sinks biodiversity forests wetlands and ecological resilience.
+CA6,CF6,Climate Shock Preparedness and Public Capacity,crisis_resilience,0.56,0.90,0.78,0.68,0.82,0.80,0.76,0.64,Builds emergency systems early warning public health infrastructure and adaptive governance.
+CA7,CF7,Just Climate Transformation Strategy,just_transformation,0.88,0.84,0.88,0.82,0.86,0.82,0.94,0.72,Integrates decarbonization adaptation public finance labor protection and democratic legitimacy.
+CA8,CF8,Beyond Carbon Environmental Integrity,planetary_systems,0.76,0.68,0.66,0.88,0.72,0.66,0.70,0.68,Broadens climate action to biodiversity water land pollution and social-ecological integrity.

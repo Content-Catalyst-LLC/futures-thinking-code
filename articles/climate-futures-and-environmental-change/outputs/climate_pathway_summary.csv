@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_climate_stress,mean_climate_stress,final_social_vulnerability,final_adaptive_capacity
+PW2,CF2,CS1,Managed Low-Carbon Transition Pathway,0.0,0.1626,0.0,1.5
+PW4,CF4,CS4,Technological Rapid Decarbonization Pathway,0.0,0.2092,0.0393,1.5
+PW7,CF7,CS7,Just Climate Transformation Pathway,0.0,0.1153,0.0,1.5
+PW8,CF8,CS8,Planetary Boundaries Stress Pathway,0.291,0.629,0.4126,1.5
+PW3,CF3,CS3,Fragmented Unequal Adaptation Pathway,1.4128,1.1932,1.0755,1.2659
+PW6,CF6,CS6,Climate Shock Governance Crisis Pathway,2.8621,1.9123,1.2,1.0246
+PW1,CF1,CS2,Delayed Transition High Stress Pathway,3.0,2.1618,1.2,1.0846
+PW5,CF5,CS5,Ecological Feedback Acceleration Pathway,3.0,2.0938,1.2,1.1509

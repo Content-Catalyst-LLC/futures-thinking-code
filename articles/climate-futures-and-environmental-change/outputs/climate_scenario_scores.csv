@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,climate_stress_score,transition_opportunity_score,description
+CS6,Climate Shock Governance Crisis,governance_crisis,0.8156,0.1946,Extreme events overwhelm institutional response and public finance capacity.
+CS5,Ecological Feedback Acceleration,feedback_acceleration,0.7936,0.2292,Feedbacks weaken sinks and push climate stress beyond linear expectations.
+CS2,Delayed High-Stress Transition,delayed_transition,0.7368,0.272,Climate action arrives late while warming exposure and residual loss intensify.
+CS3,Fragmented Unequal Adaptation,unequal_adaptation,0.7038,0.3034,Adaptation protects wealthy places while exposed communities are underfunded.
+CS8,Planetary Boundaries Stress,planetary_boundaries,0.6812,0.3522,Climate change interacts with biodiversity water land and pollution stress.
+CS4,Technology-Heavy Climate Strategy,technology_heavy,0.4948,0.5446,Strategy relies heavily on technology carbon removal digital optimization and energy innovation.
+CS1,Managed Low-Carbon Transition,managed_transition,0.3626,0.6674,Coordinated mitigation adaptation public finance and governance reduce future climate stress.
+CS7,Just Climate Transformation,just_transformation,0.318,0.7156,Climate action integrates justice adaptation mitigation public investment and ecological repair.

@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,climate_governance_capacity_score,legitimacy_gap_score,description
+CG6,CF7,Just Climate Transformation Governance,just_transformation,0.8524,0.1452,Democratic climate governance protects vulnerable groups while coordinating systemic transition.
+CG1,CF2,Managed Low-Carbon Governance,managed_transition,0.7736,0.2372,Strong institutions coordinate mitigation adaptation finance monitoring and accountability.
+CG7,CF8,Planetary Systems Governance,planetary_systems,0.7064,0.302,Climate governance integrates biodiversity water land pollution and social-ecological systems.
+CG4,CF5,Feedback Risk Monitoring and Ecosystem Governance,earth_system_monitoring,0.6812,0.3316,Institutions track ecological thresholds carbon sinks and environmental early warning signals.
+CG3,CF4,Climate Technology Governance,technology_governance,0.642,0.3744,Technology deployment is monitored for emissions material dependency and public value.
+CG5,CF6,Climate Shock Emergency Governance,crisis_governance,0.5684,0.446,Emergency response and adaptation systems require stronger public capacity and legitimacy.
+CG2,CF3,Unequal Adaptation Governance Gap,unequal_adaptation,0.3868,0.6256,Weak governance directs adaptation unevenly and leaves vulnerable groups underprotected.
+CG8,CF1,Delayed Transition Governance Baseline,delayed_transition,0.35,0.6564,Weak policy delay fragmentation and low trust allow climate risk to accumulate.

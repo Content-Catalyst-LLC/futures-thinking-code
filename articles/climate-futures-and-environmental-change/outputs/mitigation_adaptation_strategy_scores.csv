@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,climate_strategy_value_score,implementation_readiness_score,description
+CA7,CF7,Just Climate Transformation Strategy,just_transformation,0.8556,0.8268,Integrates decarbonization adaptation public finance labor protection and democratic legitimacy.
+CA2,CF2,Coordinated Mitigation Adaptation Package,managed_transition,0.7618,0.7616,Coordinates emissions reduction adaptation investment and institutional learning.
+CA6,CF6,Climate Shock Preparedness and Public Capacity,crisis_resilience,0.7476,0.7352,Builds emergency systems early warning public health infrastructure and adaptive governance.
+CA3,CF3,Equitable Adaptation and Loss Reduction,equitable_adaptation,0.7356,0.7208,Prioritizes vulnerable communities adaptation finance and residual loss reduction.
+CA8,CF8,Beyond Carbon Environmental Integrity,planetary_systems,0.7236,0.704,Broadens climate action to biodiversity water land pollution and social-ecological integrity.
+CA5,CF5,Ecosystem Protection and Feedback Risk Reduction,ecosystem_feedback,0.6868,0.654,Protects carbon sinks biodiversity forests wetlands and ecological resilience.
+CA4,CF4,Responsible Climate Technology Governance,technology_governance,0.6486,0.6544,Ensures climate technology supports real mitigation without shifting extraction or inequality.
+CA1,CF1,Accelerated Mitigation and Lock-In Reduction,mitigation_lockin,0.6076,0.604,Reduces emissions infrastructure lock-in and delayed-transition risk.

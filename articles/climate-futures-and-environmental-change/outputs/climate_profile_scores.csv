@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,climate_readiness_score,climate_fragility_score,profile_class,description
+CF7,Just Climate Transformation,just_transformation,0.3396,0.2678,Stronger climate readiness,Decarbonization adaptation public finance ecological repair and justice reinforce one another.
+CF2,Managed Low-Carbon Transition,managed_low_carbon,0.269,0.3276,Stronger climate readiness,Coordinated mitigation adaptation public investment and governance reduce climate stress.
+CF4,Technological Rapid Decarbonization,technology_decarbonization,0.2142,0.402,Stronger climate readiness,Technology accelerates decarbonization but justice governance and material constraints remain unresolved.
+CF8,Carbon Tunnel Vision Future,carbon_tunnel_vision,0.0628,0.5298,Mixed or transitional climate future,Emissions fall but biodiversity water land labor and unequal vulnerability are poorly governed.
+CF3,Fragmented Unequal Adaptation,unequal_adaptation,-0.0904,0.6476,Mixed or transitional climate future,Wealthier regions adapt while exposed communities face underprotection and residual loss.
+CF5,Ecological Feedback Acceleration,feedback_acceleration,-0.185,0.737,High climate fragility,Earth-system feedbacks and ecological degradation accelerate beyond expected pathways.
+CF1,Delayed Transition High Stress,delayed_transition,-0.1931,0.7349,High climate fragility,Climate action arrives late after locked-in warming ecological stress and rising social vulnerability.
+CF6,Climate Shock Governance Crisis,governance_crisis,-0.2062,0.7486,High climate fragility,Extreme events overwhelm institutions public finance infrastructure and emergency systems.

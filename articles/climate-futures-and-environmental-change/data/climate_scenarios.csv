@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,emissions_pressure,feedback_pressure,physical_hazard_pressure,ecological_degradation,social_vulnerability_pressure,transition_momentum,governance_fragmentation,adaptation_finance_gap,description
+CS1,Managed Low-Carbon Transition,managed_transition,0.34,0.38,0.44,0.38,0.40,0.78,0.30,0.34,Coordinated mitigation adaptation public finance and governance reduce future climate stress.
+CS2,Delayed High-Stress Transition,delayed_transition,0.84,0.70,0.78,0.76,0.72,0.30,0.66,0.68,Climate action arrives late while warming exposure and residual loss intensify.
+CS3,Fragmented Unequal Adaptation,unequal_adaptation,0.62,0.58,0.72,0.66,0.90,0.38,0.74,0.78,Adaptation protects wealthy places while exposed communities are underfunded.
+CS4,Technology-Heavy Climate Strategy,technology_heavy,0.42,0.48,0.54,0.56,0.58,0.72,0.50,0.48,Strategy relies heavily on technology carbon removal digital optimization and energy innovation.
+CS5,Ecological Feedback Acceleration,feedback_acceleration,0.74,0.92,0.80,0.90,0.76,0.28,0.70,0.74,Feedbacks weaken sinks and push climate stress beyond linear expectations.
+CS6,Climate Shock Governance Crisis,governance_crisis,0.68,0.76,0.94,0.78,0.86,0.24,0.86,0.88,Extreme events overwhelm institutional response and public finance capacity.
+CS7,Just Climate Transformation,just_transformation,0.28,0.34,0.42,0.36,0.30,0.84,0.28,0.30,Climate action integrates justice adaptation mitigation public investment and ecological repair.
+CS8,Planetary Boundaries Stress,planetary_boundaries,0.58,0.70,0.72,0.92,0.68,0.46,0.60,0.62,Climate change interacts with biodiversity water land and pollution stress.
