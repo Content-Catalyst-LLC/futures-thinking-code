@@ -1,0 +1,9 @@
+profile_id,financial_future_name,financial_future_type,financial_resilience_score,systemic_risk_score,profile_class,description
+FF1,Resilient Public-Interest Finance,public_interest_resilience,0.744,0.323,Stronger financial resilience profile,Financial system prioritizes resilience public investment household protection climate readiness and strong oversight.
+FF7,Green Finance Without Accountability,green_finance_weak_accountability,0.4772,0.5612,Mixed or transitional financial future,Sustainable finance expands but weak standards allow greenwashing speculation and unequal access.
+FF4,Climate Insurance Breakdown,climate_insurance_stress,0.4508,0.5812,Mixed or transitional financial future,Physical climate risk strains insurance property credit municipal finance and household wealth.
+FF3,Digital-Speed Financial Crisis,digital_run_risk,0.4472,0.6102,Mixed or transitional financial future,Mobile finance social media and automated markets accelerate panic and liquidity flight.
+FF5,Shadow Finance Stress,shadow_finance,0.408,0.6408,Mixed or transitional financial future,Nonbank leverage private credit redemption pressure and opacity transmit financial stress.
+FF2,Debt-Fragile Household Economy,household_debt_fragility,0.404,0.59,Mixed or transitional financial future,Households rely heavily on credit amid high housing costs stagnant wages and rising essentials.
+FF8,Speculative Asset Inflation Economy,asset_bubble_financialization,0.3932,0.619,Mixed or transitional financial future,Asset inflation leverage and financial engineering dominate over productive investment.
+FF6,Sovereign Debt and Austerity Spiral,sovereign_debt_stress,0.3824,0.6016,Mixed or transitional financial future,Debt service and weak revenue reduce public capacity when investment is most needed.

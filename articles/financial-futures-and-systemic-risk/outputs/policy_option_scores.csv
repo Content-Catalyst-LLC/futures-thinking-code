@@ -1,0 +1,9 @@
+policy_id,profile_id,policy_name,policy_type,financial_stability_gain_score,implementation_risk_score,description
+PO1,FF1,Macroprudential Resilience Package,macroprudential,0.7744,0.2336,Capital buffers liquidity rules stress testing and systemic-risk monitoring strengthen resilience.
+PO3,FF3,Digital Liquidity and Operational Resilience,digital_resilience,0.6972,0.3136,Updates liquidity monitoring cyber resilience payment continuity and digital-speed crisis response.
+PO4,FF4,Climate Financial Risk and Insurance Reform,climate_finance,0.6728,0.34,Integrates climate scenarios insurance stress adaptation finance and property risk into financial oversight.
+PO5,FF5,Nonbank Finance Transparency and Leverage Rules,nonbank_oversight,0.6628,0.3548,Expands transparency leverage monitoring and redemption-risk oversight outside traditional banks.
+PO7,FF7,Verified Transition Finance Standards,transition_finance,0.6468,0.3556,Strengthens green finance verification transition plans disclosure and just-transition accountability.
+PO8,FF8,Asset Bubble and Leverage Containment,anti_bubble_policy,0.6448,0.3612,Limits speculative leverage asset bubbles collateral fragility and financial engineering.
+PO6,FF6,Debt Restructuring and Public Investment Capacity,public_finance,0.622,0.3848,Reduces sovereign debt pressure and expands fiscal capacity for resilience and development.
+PO2,FF2,Household Debt Protection and Fair Credit,consumer_finance,0.5968,0.3708,Protects households from predatory credit fees debt traps and unaffordable repayment burdens.

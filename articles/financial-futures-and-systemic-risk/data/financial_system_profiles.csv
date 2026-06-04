@@ -1,0 +1,9 @@
+profile_id,financial_future_name,financial_future_type,leverage,liquidity_resilience,household_security,climate_exposure,nonbank_exposure,digital_run_risk,regulatory_strength,public_finance_capacity,consumer_protection,productive_investment,description
+FF1,Resilient Public-Interest Finance,public_interest_resilience,0.42,0.82,0.80,0.44,0.48,0.38,0.86,0.78,0.84,0.76,Financial system prioritizes resilience public investment household protection climate readiness and strong oversight.
+FF2,Debt-Fragile Household Economy,household_debt_fragility,0.74,0.44,0.30,0.52,0.54,0.50,0.46,0.42,0.38,0.44,Households rely heavily on credit amid high housing costs stagnant wages and rising essentials.
+FF3,Digital-Speed Financial Crisis,digital_run_risk,0.62,0.36,0.46,0.46,0.66,0.92,0.54,0.50,0.52,0.50,Mobile finance social media and automated markets accelerate panic and liquidity flight.
+FF4,Climate Insurance Breakdown,climate_insurance_stress,0.58,0.50,0.42,0.90,0.58,0.46,0.58,0.46,0.50,0.48,Physical climate risk strains insurance property credit municipal finance and household wealth.
+FF5,Shadow Finance Stress,shadow_finance,0.82,0.42,0.48,0.50,0.90,0.62,0.42,0.48,0.44,0.52,Nonbank leverage private credit redemption pressure and opacity transmit financial stress.
+FF6,Sovereign Debt and Austerity Spiral,sovereign_debt_stress,0.70,0.40,0.36,0.66,0.50,0.42,0.44,0.28,0.40,0.36,Debt service and weak revenue reduce public capacity when investment is most needed.
+FF7,Green Finance Without Accountability,green_finance_weak_accountability,0.66,0.52,0.52,0.62,0.64,0.56,0.50,0.52,0.48,0.58,Sustainable finance expands but weak standards allow greenwashing speculation and unequal access.
+FF8,Speculative Asset Inflation Economy,asset_bubble_financialization,0.84,0.46,0.40,0.48,0.72,0.58,0.44,0.44,0.42,0.34,Asset inflation leverage and financial engineering dominate over productive investment.

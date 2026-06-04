@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,leverage,liquidity_resilience,household_security,climate_exposure,nonbank_exposure,digital_run_risk,regulatory_strength,public_finance_capacity,initial_stability,time_horizon
+PW1,FF1,FS1,Resilient Public-Interest Finance Pathway,0.42,0.82,0.80,0.44,0.48,0.38,0.86,0.78,1.00,40
+PW2,FF2,FS2,Debt-Fragile Household Economy Pathway,0.74,0.44,0.30,0.52,0.54,0.50,0.46,0.42,1.00,40
+PW3,FF3,FS3,Digital-Speed Crisis Pathway,0.62,0.36,0.46,0.46,0.66,0.92,0.54,0.50,1.00,40
+PW4,FF4,FS4,Climate Insurance Breakdown Pathway,0.58,0.50,0.42,0.90,0.58,0.46,0.58,0.46,1.00,40
+PW5,FF5,FS5,Shadow Finance Stress Pathway,0.82,0.42,0.48,0.50,0.90,0.62,0.42,0.48,1.00,40
+PW6,FF6,FS6,Sovereign Debt and Austerity Pathway,0.70,0.40,0.36,0.66,0.50,0.42,0.44,0.28,1.00,40
+PW7,FF7,FS7,Green Finance Accountability Gap Pathway,0.66,0.52,0.52,0.62,0.64,0.56,0.50,0.52,1.00,40
+PW8,FF8,FS8,Speculative Asset Inflation Reversal Pathway,0.84,0.46,0.40,0.48,0.72,0.58,0.44,0.44,1.00,40

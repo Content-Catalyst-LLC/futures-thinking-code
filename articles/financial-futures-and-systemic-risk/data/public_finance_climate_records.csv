@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,tax_capacity,debt_sustainability,adaptation_finance,insurance_availability,public_investment_capacity,household_protection,climate_risk_disclosure,description
+PF1,FF1,Public Resilience Finance System,public_resilience,0.82,0.76,0.78,0.72,0.84,0.86,0.80,Public finance supports climate adaptation social protection infrastructure and financial stability.
+PF2,FF2,Household Debt Burden Exposure,household_finance,0.46,0.42,0.40,0.48,0.42,0.34,0.44,Household debt pressure limits security and amplifies downturns.
+PF3,FF3,Digital Financial Infrastructure Stress,digital_finance,0.54,0.50,0.46,0.50,0.52,0.50,0.48,Digital liquidity channels require public oversight operational resilience and crisis protocols.
+PF4,FF4,Climate Insurance and Municipal Finance Stress,climate_finance,0.50,0.46,0.36,0.24,0.40,0.42,0.58,Climate losses weaken insurance availability property values and local fiscal capacity.
+PF5,FF5,Nonbank Stress and Public Backstop Exposure,nonbank_finance,0.52,0.48,0.42,0.46,0.46,0.44,0.42,Opaque nonbank losses may require public stabilization despite weak oversight.
+PF6,FF6,Sovereign Debt Constraint,sovereign_debt,0.36,0.24,0.28,0.38,0.30,0.32,0.40,Debt service and refinancing stress crowd out development adaptation and social protection.
+PF7,FF7,Transition Finance Accountability Gap,transition_finance,0.58,0.52,0.62,0.54,0.58,0.50,0.46,Green finance expands but disclosure and accountability remain insufficient.
+PF8,FF8,Asset-Inflation Fiscal Vulnerability,asset_bubble,0.48,0.44,0.42,0.46,0.38,0.36,0.40,Speculative asset dependence creates fragile revenue and wealth effects.

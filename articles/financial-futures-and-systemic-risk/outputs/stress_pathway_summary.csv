@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_financial_stability,mean_financial_stability,mean_systemic_risk,final_public_capacity
+PW1,FF1,FS1,Resilient Public-Interest Finance Pathway,1.7231,1.2882,0.1029,1.5
+PW2,FF2,FS2,Debt-Fragile Household Economy Pathway,0.0,0.1768,0.7721,0.8086
+PW3,FF3,FS3,Digital-Speed Crisis Pathway,0.0,0.1788,0.8345,1.1466
+PW4,FF4,FS4,Climate Insurance Breakdown Pathway,0.0,0.2101,0.6895,1.2857
+PW5,FF5,FS5,Shadow Finance Stress Pathway,0.0,0.1683,0.89,0.9022
+PW6,FF6,FS6,Sovereign Debt and Austerity Pathway,0.0,0.17,0.7724,0.5663
+PW7,FF7,FS7,Green Finance Accountability Gap Pathway,0.0,0.2154,0.6771,1.4035
+PW8,FF8,FS8,Speculative Asset Inflation Reversal Pathway,0.0,0.1712,0.8418,0.839

@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,financial_stress_pressure_score,social_financial_fragility_score,description
+FS8,Speculative Asset Inflation Reversal,asset_bubble_reversal,0.696,0.6756,Asset bubble reversal triggers collateral stress forced selling and broader financial fragility.
+FS6,Sovereign Debt and Austerity Spiral,sovereign_debt,0.6508,0.6756,Debt service and refinancing stress crowd out public investment and social protection.
+FS5,Shadow Finance Stress,nonbank_finance,0.6472,0.6248,Nonbank leverage redemptions private credit opacity and common asset holdings transmit stress.
+FS3,Digital-Speed Financial Crisis,digital_liquidity_crisis,0.6356,0.5888,Deposits and confidence move quickly through digital channels social media and automated markets.
+FS4,Climate Insurance Breakdown,climate_finance,0.6236,0.6432,Climate losses disrupt insurance property markets municipal finance and bank collateral.
+FS7,Green Finance Without Accountability,weak_transition_finance,0.5548,0.5512,Weak standards and speculative products misallocate transition capital and hide climate exposure.
+FS2,Debt-Fragile Household Economy,household_debt,0.5484,0.5916,Household balance sheets weaken under debt service housing costs medical costs and income insecurity.
+FS1,Resilient Public-Interest Finance,public_interest_resilience,0.366,0.3668,Strong regulation public capacity household protection and climate risk governance reduce systemic stress.

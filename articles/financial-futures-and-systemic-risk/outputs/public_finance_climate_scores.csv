@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,public_finance_resilience_score,fiscal_climate_fragility_score,description
+PF1,FF1,Public Resilience Finance System,public_resilience,0.7988,0.2024,Public finance supports climate adaptation social protection infrastructure and financial stability.
+PF7,FF7,Transition Finance Accountability Gap,transition_finance,0.5488,0.4516,Green finance expands but disclosure and accountability remain insufficient.
+PF3,FF3,Digital Financial Infrastructure Stress,digital_finance,0.5012,0.4972,Digital liquidity channels require public oversight operational resilience and crisis protocols.
+PF5,FF5,Nonbank Stress and Public Backstop Exposure,nonbank_finance,0.4596,0.5376,Opaque nonbank losses may require public stabilization despite weak oversight.
+PF2,FF2,Household Debt Burden Exposure,household_finance,0.4212,0.576,Household debt pressure limits security and amplifies downturns.
+PF4,FF4,Climate Insurance and Municipal Finance Stress,climate_finance,0.4208,0.5756,Climate losses weaken insurance availability property values and local fiscal capacity.
+PF8,FF8,Asset-Inflation Fiscal Vulnerability,asset_bubble,0.4208,0.5764,Speculative asset dependence creates fragile revenue and wealth effects.
+PF6,FF6,Sovereign Debt Constraint,sovereign_debt,0.3192,0.6808,Debt service and refinancing stress crowd out development adaptation and social protection.

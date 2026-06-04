@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,contagion_potential,opacity,recovery_difficulty,distributional_harm,policy_preparedness,description
+RI1,FS3,Digital Deposit Run,digital_liquidity,0.66,0.86,0.88,0.54,0.72,0.62,0.48,Mobile banking social media and concentrated deposits accelerate liquidity flight.
+RI2,FS5,Private Credit Valuation Shock,nonbank_finance,0.58,0.76,0.72,0.86,0.70,0.54,0.42,Opaque private credit valuations and refinancing pressure transmit stress outside banks.
+RI3,FS4,Climate Insurance Retreat,climate_finance,0.72,0.82,0.74,0.62,0.78,0.86,0.44,Insurance becomes unavailable or unaffordable in climate-exposed regions.
+RI4,FS2,Household Debt Default Wave,household_finance,0.68,0.78,0.68,0.44,0.70,0.90,0.46,Debt service pressure and income insecurity raise defaults and reduce demand.
+RI5,FS6,Sovereign Refinancing Stress,public_finance,0.62,0.84,0.76,0.58,0.82,0.78,0.38,Higher borrowing costs and debt rollover pressure reduce public investment capacity.
+RI6,FS8,Asset Bubble Reversal,asset_markets,0.60,0.86,0.84,0.56,0.76,0.64,0.42,Asset price collapse weakens collateral and triggers forced selling.
+RI7,FS7,Greenwashing and Transition Misallocation,transition_finance,0.64,0.62,0.56,0.72,0.58,0.54,0.48,Weak standards direct capital toward symbolic green claims rather than real transition.
+RI8,FS1,Payment System Operational Shock,operational_resilience,0.42,0.74,0.80,0.46,0.62,0.58,0.68,Operational cyber or settlement failure disrupts payment continuity and confidence.
