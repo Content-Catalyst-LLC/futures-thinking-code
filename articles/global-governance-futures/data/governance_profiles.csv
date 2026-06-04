@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,institutional_capacity,legitimacy,legal_authority,finance_capacity,collective_action,technology_governance,planetary_risk_coordination,adaptive_learning,public_accountability,representation_equity,description
+GGF1,Multilateral Renewal,multilateral_renewal,0.78,0.76,0.74,0.70,0.76,0.68,0.74,0.78,0.72,0.70,Global and regional institutions reform representation finance accountability and crisis capacity.
+GGF2,Competitive Institutional Fragmentation,competitive_fragmentation,0.46,0.38,0.42,0.44,0.36,0.48,0.40,0.44,0.34,0.32,Rival blocs build competing institutions standards payment systems technology regimes and security arrangements.
+GGF3,Regionalized Governance,regionalized_governance,0.62,0.58,0.56,0.58,0.60,0.52,0.62,0.66,0.56,0.54,Regional institutions become more important as global consensus weakens.
+GGF4,Technocratic Governance Without Legitimacy,technocratic_governance,0.70,0.34,0.52,0.54,0.50,0.58,0.52,0.54,0.28,0.26,Expert and private systems manage complex risks but public accountability remains weak.
+GGF5,Private Platform Governance,private_platform_governance,0.48,0.30,0.34,0.62,0.42,0.30,0.38,0.42,0.22,0.20,Digital financial supply-chain and AI infrastructures are governed largely by private actors.
+GGF6,Planetary Risk Emergency Governance,planetary_emergency_governance,0.66,0.46,0.58,0.68,0.64,0.56,0.82,0.70,0.44,0.42,Climate biodiversity food health and disaster crises force rapid institutional response.
+GGF7,Democratic and Justice-Centered Governance,democratic_justice_governance,0.82,0.88,0.78,0.80,0.84,0.78,0.86,0.88,0.90,0.92,Institutions expand participation representation transparency rights protection and distributional fairness.
+GGF8,Governance Breakdown,governance_breakdown,0.22,0.18,0.20,0.24,0.18,0.22,0.20,0.18,0.16,0.14,Institutions lose authority funding legitimacy and coordination capacity across major domains.

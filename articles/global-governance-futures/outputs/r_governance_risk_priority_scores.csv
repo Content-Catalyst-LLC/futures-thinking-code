@@ -1,0 +1,9 @@
+"risk_id","scenario_id","risk_name","risk_domain","probability_proxy","severity","cascade_potential","visibility_gap","recovery_difficulty","distributional_harm","preparedness","description","governance_risk_priority_score"
+"GRI1","GGS8","Global Governance Breakdown","governance_breakdown",0.38,0.98,0.96,0.62,0.94,0.94,0.2,"Institutions lose authority funding legitimacy and coordination capacity across multiple global domains.",0.8226
+"GRI2","GGS6","Planetary Risk Emergency Overload","planetary_risk",0.66,0.9,0.88,0.54,0.86,0.9,0.34,"Climate biodiversity health food and disaster crises overwhelm ordinary governance systems.",0.795
+"GRI3","GGS2","Institutional Fragmentation Cascade","fragmentation",0.72,0.82,0.84,0.5,0.78,0.74,0.38,"Competing blocs institutions standards payment systems and technology regimes weaken global public goods.",0.7358
+"GRI4","GGS5","Private Platform Governance Capture","private_power",0.7,0.78,0.8,0.68,0.72,0.7,0.36,"Private digital financial supply-chain and AI infrastructures govern public life without enough accountability.",0.727
+"GRI5","GGS4","Technocratic Legitimacy Crisis","legitimacy",0.62,0.74,0.7,0.52,0.66,0.72,0.42,"Expert and technical systems coordinate decisions but fail to earn public trust or participation.",0.6626
+"GRI6","GGS3","Regional Capacity Inequality","regional_governance",0.58,0.68,0.62,0.44,0.58,0.66,0.48,"Regional governance improves some areas while vulnerable states and communities remain underprotected.",0.5968
+"GRI7","GGS1","Multilateral Reform Stall","multilateral_reform",0.48,0.64,0.58,0.42,0.6,0.62,0.56,"Reform commitments fail to secure finance representation and implementation.",0.556
+"GRI8","GGS7","Justice-Centered Implementation Gap","justice_governance",0.42,0.6,0.52,0.4,0.58,0.64,0.62,"Strong legitimacy goals are weakened by implementation constraints and political resistance.",0.5236

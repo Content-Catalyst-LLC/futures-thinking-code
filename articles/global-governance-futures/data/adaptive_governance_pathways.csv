@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,initial_governance_capacity,institutional_capacity,legitimacy,legal_authority,finance_capacity,collective_action,technology_governance,planetary_coordination,adaptive_learning,public_accountability,system_stress,time_horizon
+AGP1,GGF1,GGS1,Multilateral Renewal Pathway,1.00,0.78,0.76,0.74,0.70,0.76,0.68,0.74,0.78,0.72,0.44,40
+AGP2,GGF2,GGS2,Competitive Fragmentation Pathway,1.00,0.46,0.38,0.42,0.44,0.36,0.48,0.40,0.44,0.34,0.72,40
+AGP3,GGF3,GGS3,Regionalized Governance Pathway,1.00,0.62,0.58,0.56,0.58,0.60,0.52,0.62,0.66,0.56,0.54,40
+AGP4,GGF4,GGS4,Technocratic Governance Pathway,1.00,0.70,0.34,0.52,0.54,0.50,0.58,0.52,0.54,0.28,0.60,40
+AGP5,GGF5,GGS5,Private Platform Governance Pathway,1.00,0.48,0.30,0.34,0.62,0.42,0.30,0.38,0.42,0.22,0.68,40
+AGP6,GGF6,GGS6,Planetary Emergency Governance Pathway,1.00,0.66,0.46,0.58,0.68,0.64,0.56,0.82,0.70,0.44,0.80,40
+AGP7,GGF7,GGS7,Democratic Justice Governance Pathway,1.00,0.82,0.88,0.78,0.80,0.84,0.78,0.86,0.88,0.90,0.38,40
+AGP8,GGF8,GGS8,Governance Breakdown Pathway,1.00,0.22,0.18,0.20,0.24,0.18,0.22,0.20,0.18,0.16,0.92,40

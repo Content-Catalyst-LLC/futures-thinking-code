@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,governance_strategy_value_score,implementation_readiness_score,description
+GST7,GGF7,Justice-Centered Global Governance,justice_centered_governance,0.8314,0.8036,Builds representation rights accountability finance and public participation into global governance systems.
+GST6,GGF6,Planetary Risk Finance and Emergency Capacity,planetary_risk_finance,0.7304,0.7012,Scales climate adaptation loss and damage public health disaster and ecological resilience finance.
+GST1,GGF1,Multilateral Reform Package,multilateral_reform,0.7182,0.7218,Reforms representation finance accountability coordination and implementation in global institutions.
+GST8,GGF8,Emergency Governance Stabilization,emergency_stabilization,0.6506,0.5916,Restores basic coordination humanitarian access public finance crisis communication and institutional capacity after breakdown.
+GST3,GGF3,Regional Resilience Compacts,regional_resilience,0.6368,0.6428,Strengthens regional coordination around climate health migration infrastructure and security.
+GST4,GGF4,Democratic Oversight for Technocratic Systems,technocratic_accountability,0.6344,0.6526,Adds accountability participation and rights safeguards to expert and technical governance systems.
+GST5,GGF5,Public-Interest Platform Governance,platform_accountability,0.6316,0.6492,Creates enforceable public obligations for digital finance AI cloud platform and supply-chain infrastructures.
+GST2,GGF2,Crisis Communication Across Blocs,bloc_risk_reduction,0.5358,0.5346,Maintains limited cooperation channels across competing institutions and blocs.

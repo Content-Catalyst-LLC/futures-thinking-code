@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,global_governance_stress_score,cooperation_opportunity_score,description
+GGS8,Governance Breakdown,governance_breakdown,0.8728,0.121,Governance capacity collapses across climate health finance migration technology and security domains.
+GGS2,Competitive Institutional Fragmentation,competitive_fragmentation,0.6502,0.3418,Blocs and rival standards fragment global governance capacity.
+GGS6,Planetary Risk Emergency Governance,planetary_emergency_governance,0.6488,0.3776,Crisis pressure produces rapid institutional action but also risks coercion and unequal burden.
+GGS5,Private Platform Governance,private_platform_governance,0.6212,0.3482,Private infrastructure increasingly governs public life without sufficient public accountability.
+GGS4,Technocratic Governance Without Legitimacy,technocratic_governance,0.5584,0.4204,Technical and expert systems coordinate but democratic accountability remains weak.
+GGS3,Regionalized Governance,regionalized_governance,0.5012,0.5062,Regional capacity grows while global authority remains uneven.
+GGS1,Multilateral Renewal,multilateral_renewal,0.3702,0.6452,Institutions reform before crisis stress overwhelms cooperation.
+GGS7,Democratic and Justice-Centered Governance,democratic_justice_governance,0.3336,0.6862,Participation accountability representation and public finance improve cooperation.

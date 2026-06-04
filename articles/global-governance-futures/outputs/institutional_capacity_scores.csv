@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,institutional_capacity_score,accountability_gap_score,description
+GIR7,GGF7,Democratic Justice Institutional Record,democratic_justice_governance,0.8352,0.156,Representation accountability science finance and civil society reinforce governance legitimacy.
+GIR1,GGF1,Multilateral Renewal Institutional Record,multilateral_renewal,0.732,0.2764,Reformed institutions improve coordination finance accountability and knowledge systems.
+GIR6,GGF6,Planetary Emergency Institutional Record,planetary_emergency_governance,0.6314,0.4006,Crisis governance scales capacity quickly but struggles with legitimacy and rights protections.
+GIR3,GGF3,Regionalized Governance Institutional Record,regionalized_governance,0.5908,0.4158,Regional systems improve practical coordination but global capacity remains uneven.
+GIR4,GGF4,Technocratic Institutional Record,technocratic_governance,0.5538,0.4946,Technical capacity is strong but public accountability and civic participation are weak.
+GIR5,GGF5,Private Platform Institutional Record,private_platform_governance,0.4358,0.5988,Private infrastructure governs critical systems with weak public oversight.
+GIR2,GGF2,Fragmented Bloc Institutional Record,competitive_fragmentation,0.4334,0.585,Competing institutions and standards reduce shared coordination capacity.
+GIR8,GGF8,Breakdown Institutional Record,governance_breakdown,0.1824,0.8284,Institutional authority finance implementation legitimacy and civic space collapse.

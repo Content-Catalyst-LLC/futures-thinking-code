@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_governance_capacity,mean_governance_capacity,mean_system_stress,final_legitimacy,final_adaptive_learning
+AGP1,GGF1,GGS1,Multilateral Renewal Pathway,1.8,1.7218,0.0329,1.8,1.8
+AGP3,GGF3,GGS3,Regionalized Governance Pathway,1.8,1.691,0.4408,1.8,1.8
+AGP4,GGF4,GGS4,Technocratic Governance Pathway,1.8,1.6404,1.137,0.4204,1.8
+AGP6,GGF6,GGS6,Planetary Emergency Governance Pathway,1.8,1.6775,0.4317,1.8,1.8
+AGP7,GGF7,GGS7,Democratic Justice Governance Pathway,1.8,1.731,0.0189,1.8,1.8
+AGP2,GGF2,GGS2,Competitive Fragmentation Pathway,0.0,0.6743,1.533,0.0,0.9033
+AGP5,GGF5,GGS5,Private Platform Governance Pathway,0.0,0.7053,1.5012,0.0,0.6084
+AGP8,GGF8,GGS8,Governance Breakdown Pathway,0.0,0.1951,1.7035,0.0,0.0

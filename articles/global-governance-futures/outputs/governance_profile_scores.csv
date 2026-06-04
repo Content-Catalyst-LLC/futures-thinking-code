@@ -1,0 +1,9 @@
+profile_id,future_name,future_type,governance_capacity_score,legitimacy_gap_score,profile_class,description
+GGF7,Democratic and Justice-Centered Governance,democratic_justice_governance,0.9264,0.1488,Stronger governance capacity,Institutions expand participation representation transparency rights protection and distributional fairness.
+GGF1,Multilateral Renewal,multilateral_renewal,0.8134,0.2662,Stronger governance capacity,Global and regional institutions reform representation finance accountability and crisis capacity.
+GGF6,Planetary Risk Emergency Governance,planetary_emergency_governance,0.6564,0.4474,Mixed or transitional governance future,Climate biodiversity food health and disaster crises force rapid institutional response.
+GGF3,Regionalized Governance,regionalized_governance,0.6434,0.4254,Mixed or transitional governance future,Regional institutions become more important as global consensus weakens.
+GGF4,Technocratic Governance Without Legitimacy,technocratic_governance,0.5356,0.561,Mixed or transitional governance future,Expert and private systems manage complex risks but public accountability remains weak.
+GGF2,Competitive Institutional Fragmentation,competitive_fragmentation,0.4468,0.609,High legitimacy and capacity gap,Rival blocs build competing institutions standards payment systems technology regimes and security arrangements.
+GGF5,Private Platform Governance,private_platform_governance,0.414,0.6532,High legitimacy and capacity gap,Digital financial supply-chain and AI infrastructures are governed largely by private actors.
+GGF8,Governance Breakdown,governance_breakdown,0.2138,0.813,High legitimacy and capacity gap,Institutions lose authority funding legitimacy and coordination capacity across major domains.
