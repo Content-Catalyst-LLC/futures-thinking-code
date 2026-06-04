@@ -1,0 +1,9 @@
+simulation_id,pathway_id,scenario_id,simulation_name,boundary_pressure,social_foundations,governance,justice,technology_dependence,regeneration,initial_viability,time_horizon
+SIM1,PB1,BS1,Safe and Just Transformation Pathway,0.34,0.82,0.80,0.84,0.56,0.78,1.00,40
+SIM2,PB2,BS2,Green Growth Acceleration Pathway,0.48,0.68,0.64,0.58,0.72,0.54,1.00,40
+SIM3,PB3,BS3,Technological Overshoot Pathway,0.64,0.56,0.50,0.44,0.92,0.38,1.00,40
+SIM4,PB4,BS4,Fragmented Adaptation Pathway,0.70,0.42,0.36,0.34,0.60,0.30,1.00,40
+SIM5,PB5,BS5,Extractive Crisis Pathway,0.84,0.30,0.28,0.24,0.54,0.18,1.00,40
+SIM6,PB6,BS6,Regenerative Regionalism Pathway,0.40,0.74,0.70,0.78,0.50,0.76,1.00,40
+SIM7,PB7,BS7,Global Commons Renewal Pathway,0.40,0.76,0.82,0.72,0.58,0.70,1.00,40
+SIM8,PB8,BS8,Managed Decline and Unequal Adaptation Pathway,0.74,0.38,0.42,0.26,0.64,0.28,1.00,40

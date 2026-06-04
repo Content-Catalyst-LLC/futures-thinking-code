@@ -1,0 +1,9 @@
+record_id,pathway_id,record_name,record_type,monitoring_capacity,policy_coordination,public_finance,participation,justice_safeguards,international_cooperation,implementation_capacity,description
+PG1,PB1,Safe and Just Governance Capacity,safe_just,0.86,0.84,0.82,0.88,0.92,0.78,0.80,Institutions link monitoring rights public finance participation and implementation for safe and just transformation.
+PG2,PB2,Green Growth Governance Safeguards,green_growth,0.72,0.66,0.64,0.58,0.56,0.62,0.66,Governance improves climate performance but must address material rebound and justice.
+PG3,PB3,Precautionary Technology Governance,technology_governance,0.70,0.62,0.58,0.52,0.60,0.56,0.58,Technology pathways need precaution chemical control material realism and accountability.
+PG4,PB4,Fragmented Adaptation Governance,fragmented_adaptation,0.50,0.38,0.42,0.40,0.34,0.30,0.36,Weak coordination and uneven capacity produce unequal adaptation and crisis response.
+PG5,PB5,Extractive Crisis Governance Baseline,extractive_crisis,0.34,0.28,0.30,0.26,0.24,0.28,0.26,Low capacity systems allow extraction overshoot inequality and delayed reaction.
+PG6,PB6,Regenerative Regional Governance,regenerative_regionalism,0.74,0.76,0.70,0.82,0.84,0.58,0.72,Regional institutions coordinate restoration food water energy land and infrastructure resilience.
+PG7,PB7,Global Commons Governance Renewal,commons_governance,0.80,0.82,0.78,0.72,0.76,0.92,0.74,International cooperation strengthens planetary commons governance and implementation capacity.
+PG8,PB8,Anti-Abandonment Governance Repair,anti_abandonment,0.58,0.56,0.68,0.70,0.94,0.44,0.60,Adaptation governance prioritizes vulnerable communities social foundations and rights protections.

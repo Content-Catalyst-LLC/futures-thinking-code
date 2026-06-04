@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,climate_stress,biosphere_stress,land_stress,freshwater_stress,nutrient_stress,ocean_stress,aerosol_stress,novel_entity_stress,social_stress,governance_fragmentation,description
+BS1,Safe and Just Transformation,safe_just,0.34,0.32,0.36,0.34,0.32,0.34,0.30,0.36,0.28,0.30,Boundary pressure declines while social foundations and rights-based institutions strengthen.
+BS2,Green Growth Acceleration,green_growth,0.46,0.52,0.54,0.48,0.50,0.46,0.38,0.56,0.42,0.44,Technology and markets reduce carbon intensity but material and land pressures remain.
+BS3,Technological Overshoot Management,tech_overshoot,0.64,0.68,0.62,0.60,0.64,0.58,0.48,0.76,0.52,0.58,Delayed structural reform increases dependence on future technology and risk management.
+BS4,Fragmented Adaptation World,fragmented_adaptation,0.72,0.76,0.70,0.78,0.68,0.64,0.58,0.70,0.76,0.86,Protection becomes uneven while cooperation weakens and ecological pressure remains high.
+BS5,Extractive Crisis Pathway,extractive_crisis,0.92,0.94,0.88,0.90,0.84,0.78,0.74,0.88,0.86,0.88,Extraction and fossil dependence continue until cascading crises force reactive measures.
+BS6,Regenerative Regionalism,regenerative_regionalism,0.42,0.36,0.40,0.38,0.42,0.40,0.36,0.46,0.34,0.36,Regional restoration and resilience reduce pressure but global coordination remains uneven.
+BS7,Global Commons Governance Renewal,commons_governance,0.38,0.40,0.44,0.42,0.40,0.38,0.34,0.44,0.32,0.30,International cooperation strengthens around climate biodiversity oceans chemicals finance and standards.
+BS8,Managed Decline and Unequal Adaptation,unequal_adaptation,0.82,0.78,0.76,0.80,0.72,0.66,0.62,0.76,0.88,0.72,Adaptation becomes unequal and boundary pressure remains high as vulnerable groups absorb losses.

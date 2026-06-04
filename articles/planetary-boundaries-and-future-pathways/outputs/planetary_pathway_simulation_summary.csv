@@ -1,0 +1,9 @@
+simulation_id,pathway_id,scenario_id,simulation_name,final_pathway_viability,mean_pathway_viability,mean_boundary_pressure,final_adaptive_capacity
+SIM1,PB1,BS1,Safe and Just Transformation Pathway,1.7762,1.5913,0.0318,1.6
+SIM6,PB6,BS6,Regenerative Regionalism Pathway,1.7724,1.5466,0.0456,1.6
+SIM7,PB7,BS7,Global Commons Renewal Pathway,1.7714,1.5398,0.0477,1.6
+SIM2,PB2,BS2,Green Growth Acceleration Pathway,1.7634,1.3086,0.1089,1.6
+SIM3,PB3,BS3,Technological Overshoot Pathway,0.1824,0.3569,0.4746,1.6
+SIM4,PB4,BS4,Fragmented Adaptation Pathway,0.0,0.2025,0.5301,1.2469
+SIM5,PB5,BS5,Extractive Crisis Pathway,0.0,0.1461,0.8143,0.5377
+SIM8,PB8,BS8,Managed Decline and Unequal Adaptation Pathway,0.0,0.1827,0.6053,1.0974

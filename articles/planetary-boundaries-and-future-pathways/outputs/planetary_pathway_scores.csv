@@ -1,0 +1,9 @@
+pathway_id,pathway_name,pathway_type,total_boundary_pressure_score,safe_and_just_pathway_score,pathway_class,description
+PB1,Safe and Just Transformation,safe_just_transformation,0.3356,0.5681,Stronger safe-and-just pathway,Ecological ceilings and social foundations are jointly governed through rights public investment restoration and low-carbon systems.
+PB7,Global Commons Governance Renewal,commons_governance,0.3948,0.511,Stronger safe-and-just pathway,International cooperation improves around climate biodiversity oceans chemicals finance and technology transfer.
+PB6,Regenerative Regionalism,regenerative_regionalism,0.3864,0.5079,Stronger safe-and-just pathway,Regions rebuild food water energy land and infrastructure systems around restoration and local resilience.
+PB2,Green Growth Acceleration,green_growth,0.4712,0.3862,Stronger safe-and-just pathway,Clean energy efficiency technology and markets reduce some impacts while economic expansion continues.
+PB3,Technological Overshoot Management,technological_overshoot,0.6116,0.2453,Mixed or transitional planetary pathway,Societies delay structural change and rely heavily on future technologies to manage overshoot.
+PB4,Fragmented Adaptation World,fragmented_adaptation,0.6556,0.1593,Mixed or transitional planetary pathway,Regions adapt unevenly while planetary cooperation weakens and boundary pressures remain high.
+PB8,Managed Decline and Unequal Adaptation,unequal_adaptation,0.696,0.134,Mixed or transitional planetary pathway,Adaptation protects high-value assets while vulnerable communities face abandonment and rising ecological risk.
+PB5,Extractive Crisis Pathway,extractive_crisis,0.798,0.054,High planetary overshoot risk,Extraction fossil dependence land conversion inequality and weak governance continue until crises force reactive measures.

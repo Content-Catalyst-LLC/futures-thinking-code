@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,cascade_potential,visibility_gap,recovery_difficulty,distributional_harm,preparedness,description
+PR1,BS5,Cascading Planetary Overshoot,earth_system_overshoot,0.78,0.96,0.94,0.56,0.92,0.90,0.30,Multiple boundaries intensify together and overwhelm ordinary adaptation capacity.
+PR2,BS4,Fragmented Adaptation and Abandonment,justice_adaptation,0.72,0.88,0.82,0.50,0.84,0.96,0.34,Protection becomes unequal while vulnerable communities absorb rising ecological risk.
+PR3,BS3,Technological False Confidence,technology_governance,0.68,0.82,0.76,0.70,0.78,0.68,0.38,Future technology assumptions delay mitigation restoration and governance reform.
+PR4,BS2,Green Growth Material Rebound,material_throughput,0.64,0.76,0.72,0.52,0.70,0.62,0.46,Efficiency gains are offset by total growth mineral demand land pressure and rebound effects.
+PR5,BS1,Implementation Gap in Safe and Just Transition,implementation_risk,0.44,0.66,0.58,0.42,0.58,0.58,0.64,Strong pathway design fails if finance law institutions and legitimacy are weak.
+PR6,BS6,Regional Resilience Fragmentation,regional_governance,0.50,0.68,0.64,0.44,0.62,0.56,0.56,Regional systems strengthen locally but fail to coordinate across larger planetary pressures.
+PR7,BS7,Commons Governance Enforcement Failure,global_governance,0.52,0.74,0.72,0.48,0.68,0.66,0.54,International agreements improve but weak enforcement finance and trust limit implementation.
+PR8,BS8,Managed Decline Legitimacy Crisis,legitimacy_crisis,0.70,0.86,0.80,0.54,0.80,0.98,0.32,Unequal adaptation and abandonment erode trust social stability and democratic legitimacy.

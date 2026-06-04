@@ -1,0 +1,2 @@
+ Safe and Just Transformation boundary pressure:  0.335599989    
+ Safe and Just Transformation safe-and-just score:  0.568080008    

@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,planetary_stress_score,transformation_opportunity_score,description
+BS5,Extractive Crisis Pathway,extractive_crisis,0.9596,0.1168,Extraction and fossil dependence continue until cascading crises force reactive measures.
+BS8,Managed Decline and Unequal Adaptation,unequal_adaptation,0.8348,0.23,Adaptation becomes unequal and boundary pressure remains high as vulnerable groups absorb losses.
+BS4,Fragmented Adaptation World,fragmented_adaptation,0.7924,0.2684,Protection becomes uneven while cooperation weakens and ecological pressure remains high.
+BS3,Technological Overshoot Management,tech_overshoot,0.682,0.3796,Delayed structural reform increases dependence on future technology and risk management.
+BS2,Green Growth Acceleration,green_growth,0.5304,0.5228,Technology and markets reduce carbon intensity but material and land pressures remain.
+BS6,Regenerative Regionalism,regenerative_regionalism,0.4312,0.6204,Regional restoration and resilience reduce pressure but global coordination remains uneven.
+BS7,Global Commons Governance Renewal,commons_governance,0.4268,0.624,International cooperation strengthens around climate biodiversity oceans chemicals finance and standards.
+BS1,Safe and Just Transformation,safe_just,0.362,0.6848,Boundary pressure declines while social foundations and rights-based institutions strengthen.

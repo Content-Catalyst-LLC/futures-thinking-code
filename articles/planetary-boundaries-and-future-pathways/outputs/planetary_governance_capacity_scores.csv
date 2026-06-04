@@ -1,0 +1,9 @@
+record_id,pathway_id,record_name,record_type,planetary_governance_capacity_score,legitimacy_gap_score,description
+PG1,PB1,Safe and Just Governance Capacity,safe_just,0.8462,0.1508,Institutions link monitoring rights public finance participation and implementation for safe and just transformation.
+PG7,PB7,Global Commons Governance Renewal,commons_governance,0.791,0.215,International cooperation strengthens planetary commons governance and implementation capacity.
+PG6,PB6,Regenerative Regional Governance,regenerative_regionalism,0.7422,0.2512,Regional institutions coordinate restoration food water energy land and infrastructure resilience.
+PG8,PB8,Anti-Abandonment Governance Repair,anti_abandonment,0.6478,0.3392,Adaptation governance prioritizes vulnerable communities social foundations and rights protections.
+PG2,PB2,Green Growth Governance Safeguards,green_growth,0.6356,0.3708,Governance improves climate performance but must address material rebound and justice.
+PG3,PB3,Precautionary Technology Governance,technology_governance,0.5982,0.408,Technology pathways need precaution chemical control material realism and accountability.
+PG4,PB4,Fragmented Adaptation Governance,fragmented_adaptation,0.3902,0.6132,Weak coordination and uneven capacity produce unequal adaptation and crisis response.
+PG5,PB5,Extractive Crisis Governance Baseline,extractive_crisis,0.2816,0.7222,Low capacity systems allow extraction overshoot inequality and delayed reaction.
