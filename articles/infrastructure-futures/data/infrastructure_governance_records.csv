@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,coordination,public_finance,maintenance_capacity,digital_accountability,climate_governance,procurement_integrity,equity_safeguards,description
+IG1,IF6,Adaptive Public Infrastructure Governance,adaptive_public,0.88,0.84,0.86,0.78,0.84,0.82,0.88,Strong public capacity coordinates repair adaptation digital systems procurement and equity.
+IG2,IF5,Financialized Infrastructure Governance Gap,financialized_platform,0.48,0.42,0.44,0.50,0.54,0.36,0.32,Revenue extraction and weak safeguards undermine access maintenance and public value.
+IG3,IF3,Digital Infrastructure Accountability,digital_governance,0.64,0.58,0.60,0.94,0.58,0.70,0.62,Digital systems are governed through audits cybersecurity interoperability and data rights.
+IG4,IF4,Climate Legacy Repair Governance,climate_repair,0.58,0.50,0.66,0.48,0.86,0.56,0.58,Climate exposed legacy assets require stronger adaptation finance and lifecycle repair.
+IG5,IF2,Distributed Resilience Coordination,distributed_resilience,0.72,0.66,0.70,0.62,0.72,0.68,0.72,Distributed systems need standards interoperability finance and equitable local capacity.
+IG6,IF7,Geopolitical Infrastructure Strategy,geopolitical_strategy,0.66,0.64,0.58,0.72,0.60,0.64,0.56,Strategic infrastructure governance manages bottlenecks standards and dependency risk.
+IG7,IF8,Governance Breakdown Baseline,governance_breakdown,0.28,0.30,0.26,0.32,0.34,0.28,0.30,Fragmented authority low trust weak finance and poor maintenance produce systemic fragility.
+IG8,IF1,Centralized Utility Governance,centralized_utility,0.66,0.62,0.58,0.52,0.56,0.60,0.54,Centralized governance supports coordination but may underinvest in redundancy and access.

@@ -1,0 +1,9 @@
+"risk_id","scenario_id","risk_name","risk_domain","probability_proxy","severity","cascade_potential","visibility_gap","recovery_difficulty","distributional_harm","preparedness","description","infrastructure_risk_priority_score"
+"IR5","IS7","Governance Fragmentation Cascade","governance_failure",0.74,0.9,0.88,0.54,0.84,0.86,0.3,"Fragmented institutions turn manageable physical risks into systemic failure.",0.7998
+"IR1","IS3","Climate Stress Cascade Across Legacy Assets","climate_infrastructure",0.76,0.92,0.88,0.48,0.82,0.84,0.34,"Heat flood drought and maintenance backlog interact across aging infrastructure systems.",0.7896
+"IR2","IS4","Digital Control Layer Failure","digital_cyber",0.62,0.84,0.9,0.78,0.76,0.68,0.42,"Cyber physical failure disables material systems through opaque digital dependencies.",0.753
+"IR3","IS2","Financialized Underinvestment and Access Loss","finance_access",0.7,0.8,0.72,0.52,0.76,0.92,0.36,"Asset-class logic underinvests in low-return needs and shifts costs to users.",0.7408
+"IR4","IS6","Geopolitical Bottleneck Disruption","geopolitical_dependency",0.66,0.86,0.84,0.5,0.78,0.7,0.4,"Ports cables critical minerals energy corridors and standards become strategic pressure points.",0.7262
+"IR8","IS8","Maintenance Funding Reversal","maintenance_risk",0.54,0.72,0.76,0.46,0.7,0.64,0.56,"Repair gains erode when political cycles cut lifecycle maintenance funding.",0.6316
+"IR6","IS5","Distributed Coordination Failure","distributed_coordination",0.48,0.64,0.56,0.44,0.58,0.5,0.58,"Distributed systems fail if standards governance and funding are weak.",0.5302
+"IR7","IS1","Adaptive Infrastructure Implementation Gap","implementation_risk",0.42,0.66,0.58,0.42,0.56,0.54,0.64,"Good strategy fails if budgets authority procurement and monitoring are misaligned.",0.5256

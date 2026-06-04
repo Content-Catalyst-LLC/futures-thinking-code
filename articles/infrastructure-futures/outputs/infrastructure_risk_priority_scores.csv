@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,infrastructure_risk_priority_score,distributional_harm,preparedness,description
+IR5,IS7,Governance Fragmentation Cascade,governance_failure,0.7998,0.86,0.3,Fragmented institutions turn manageable physical risks into systemic failure.
+IR1,IS3,Climate Stress Cascade Across Legacy Assets,climate_infrastructure,0.7896,0.84,0.34,Heat flood drought and maintenance backlog interact across aging infrastructure systems.
+IR2,IS4,Digital Control Layer Failure,digital_cyber,0.753,0.68,0.42,Cyber physical failure disables material systems through opaque digital dependencies.
+IR3,IS2,Financialized Underinvestment and Access Loss,finance_access,0.7408,0.92,0.36,Asset-class logic underinvests in low-return needs and shifts costs to users.
+IR4,IS6,Geopolitical Bottleneck Disruption,geopolitical_dependency,0.7262,0.7,0.4,Ports cables critical minerals energy corridors and standards become strategic pressure points.
+IR8,IS8,Maintenance Funding Reversal,maintenance_risk,0.6316,0.64,0.56,Repair gains erode when political cycles cut lifecycle maintenance funding.
+IR6,IS5,Distributed Coordination Failure,distributed_coordination,0.5302,0.5,0.58,Distributed systems fail if standards governance and funding are weak.
+IR7,IS1,Adaptive Infrastructure Implementation Gap,implementation_risk,0.5256,0.54,0.64,Good strategy fails if budgets authority procurement and monitoring are misaligned.

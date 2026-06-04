@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,infrastructure_stress_score,infrastructure_transformation_opportunity_score,description
+IS7,Governance Breakdown Infrastructure,governance_breakdown,0.823,0.1656,Fragmentation fiscal stress low trust and deferred maintenance erode infrastructure capacity.
+IS3,Climate-Stressed Legacy Network,climate_legacy,0.7464,0.2536,Aging systems face heat flooding drought maintenance backlog and public finance stress.
+IS2,Financialized Infrastructure Platform,financialized_platform,0.6446,0.3572,Infrastructure is organized around asset returns user fees and revenue extraction.
+IS6,Geopolitical Bottleneck Future,geopolitical_bottleneck,0.6218,0.378,Ports cables critical minerals energy corridors and standards become strategic pressure points.
+IS4,Digitally Intensive Smart System,digital_smart_system,0.5518,0.4596,Sensors AI cloud platforms and automated controls expand while cyber and accountability risks rise.
+IS5,Distributed Resilience Model,distributed_resilience,0.4174,0.5888,Distributed modular systems reduce single-point failure and support local recovery.
+IS8,Maintenance-First Repair Future,maintenance_first,0.3732,0.6324,Lifecycle budgeting and repair-first strategy reduce hidden fragility and cascade risk.
+IS1,Adaptive Public Infrastructure,adaptive_public,0.3584,0.652,Public investment and accountable governance strengthen repair redundancy adaptation and access.

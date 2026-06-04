@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,centralization,redundancy,digital_dependence,climate_exposure,coordination_quality,public_finance_capacity,maintenance_integrity,equity_of_access,initial_viability,time_horizon
+PW1,IF1,IS1,Centralized Utility Stress Pathway,0.85,0.38,0.42,0.51,0.63,0.58,0.52,0.50,1.00,40
+PW2,IF2,IS5,Distributed Resilience Pathway,0.35,0.82,0.48,0.46,0.69,0.62,0.70,0.68,1.00,40
+PW3,IF3,IS4,Digitally Intensive Smart System Pathway,0.62,0.51,0.91,0.58,0.56,0.54,0.56,0.46,1.00,40
+PW4,IF4,IS3,Climate-Stressed Legacy Network Pathway,0.71,0.29,0.57,0.88,0.41,0.36,0.30,0.38,1.00,40
+PW5,IF5,IS2,Financialized Infrastructure Platform Pathway,0.74,0.36,0.64,0.62,0.48,0.44,0.42,0.34,1.00,40
+PW6,IF6,IS1,Adaptive Public Infrastructure Pathway,0.46,0.78,0.58,0.42,0.78,0.76,0.80,0.76,1.00,40
+PW7,IF7,IS6,Geopolitical Bottleneck System Pathway,0.78,0.34,0.66,0.54,0.46,0.48,0.44,0.42,1.00,40
+PW8,IF8,IS7,Governance Breakdown Infrastructure Pathway,0.68,0.26,0.50,0.72,0.28,0.30,0.26,0.30,1.00,40

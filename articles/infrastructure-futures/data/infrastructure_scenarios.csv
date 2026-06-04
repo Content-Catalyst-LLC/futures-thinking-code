@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,physical_load,climate_pressure,digital_control_risk,finance_pressure,maintenance_backlog_pressure,governance_fragmentation,geopolitical_chokepoint_pressure,access_inequality_pressure,description
+IS1,Adaptive Public Infrastructure,adaptive_public,0.38,0.42,0.46,0.34,0.30,0.28,0.34,0.30,Public investment and accountable governance strengthen repair redundancy adaptation and access.
+IS2,Financialized Infrastructure Platform,financialized_platform,0.56,0.62,0.64,0.88,0.58,0.54,0.58,0.82,Infrastructure is organized around asset returns user fees and revenue extraction.
+IS3,Climate-Stressed Legacy Network,climate_legacy,0.76,0.94,0.56,0.70,0.88,0.68,0.62,0.72,Aging systems face heat flooding drought maintenance backlog and public finance stress.
+IS4,Digitally Intensive Smart System,digital_smart_system,0.48,0.52,0.94,0.46,0.42,0.56,0.54,0.50,Sensors AI cloud platforms and automated controls expand while cyber and accountability risks rise.
+IS5,Distributed Resilience Model,distributed_resilience,0.42,0.46,0.48,0.44,0.36,0.40,0.36,0.38,Distributed modular systems reduce single-point failure and support local recovery.
+IS6,Geopolitical Bottleneck Future,geopolitical_bottleneck,0.60,0.56,0.66,0.62,0.52,0.60,0.94,0.58,Ports cables critical minerals energy corridors and standards become strategic pressure points.
+IS7,Governance Breakdown Infrastructure,governance_breakdown,0.84,0.82,0.62,0.86,0.92,0.94,0.70,0.86,Fragmentation fiscal stress low trust and deferred maintenance erode infrastructure capacity.
+IS8,Maintenance-First Repair Future,maintenance_first,0.36,0.44,0.42,0.38,0.28,0.34,0.40,0.36,Lifecycle budgeting and repair-first strategy reduce hidden fragility and cascade risk.

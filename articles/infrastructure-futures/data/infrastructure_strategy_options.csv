@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,redundancy_gain,maintenance_gain,climate_adaptation_gain,digital_accountability_gain,governance_gain,finance_capacity_gain,equity_gain,implementation_capacity,description
+IO1,IF1,Redundancy and Modular Segmentation,redundancy_modularity,0.92,0.64,0.62,0.52,0.62,0.58,0.60,0.66,Adds backup pathways modular segmentation and fallback modes to centralized systems.
+IO2,IF2,Distributed Resilience Expansion,distributed_resilience,0.88,0.70,0.74,0.56,0.68,0.62,0.72,0.64,Scales distributed systems while improving standards coordination and equitable access.
+IO3,IF3,Public-Interest Digital Infrastructure,digital_accountability,0.58,0.62,0.58,0.96,0.78,0.62,0.70,0.68,Strengthens cybersecurity auditability interoperability data rights and manual fallback.
+IO4,IF4,Climate-Ready Legacy Repair,climate_repair,0.76,0.94,0.92,0.50,0.70,0.72,0.68,0.62,Combines maintenance backlog reduction with climate adaptation and vulnerability reduction.
+IO5,IF5,Public Value Safeguards and Finance Reform,finance_governance,0.62,0.70,0.66,0.56,0.82,0.88,0.84,0.58,Aligns infrastructure finance with public value affordability accountability and lifecycle integrity.
+IO6,IF6,Adaptive Public Infrastructure Platform,adaptive_public,0.86,0.88,0.84,0.78,0.88,0.84,0.88,0.74,Integrates repair redundancy adaptation governance finance digital accountability and justice.
+IO7,IF7,Strategic Diversification and Sovereignty,geopolitical_resilience,0.80,0.66,0.64,0.72,0.74,0.70,0.66,0.60,Reduces bottleneck dependency through diversification standards resilience and regional cooperation.
+IO8,IF8,Governance Repair and Maintenance Stabilization,institutional_repair,0.74,0.88,0.76,0.58,0.94,0.86,0.78,0.56,Rebuilds coordination finance trust standards procurement accountability and repair discipline.

@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_infrastructure_viability,mean_infrastructure_viability,mean_system_load,final_adaptive_capacity
+PW6,IF6,IS1,Adaptive Public Infrastructure Pathway,1.737,1.3849,0.0379,1.6
+PW2,IF2,IS5,Distributed Resilience Pathway,1.6714,1.2653,0.0422,1.6
+PW1,IF1,IS1,Centralized Utility Stress Pathway,0.0864,0.4263,0.4452,1.6
+PW3,IF3,IS4,Digitally Intensive Smart System Pathway,0.0,0.3073,0.5307,1.6
+PW4,IF4,IS3,Climate-Stressed Legacy Network Pathway,0.0,0.1591,1.1405,1.6
+PW5,IF5,IS2,Financialized Infrastructure Platform Pathway,0.0,0.1984,0.8004,1.6
+PW7,IF7,IS6,Geopolitical Bottleneck System Pathway,0.0,0.2076,0.7823,1.6
+PW8,IF8,IS7,Governance Breakdown Infrastructure Pathway,0.0,0.1507,1.1303,1.3938

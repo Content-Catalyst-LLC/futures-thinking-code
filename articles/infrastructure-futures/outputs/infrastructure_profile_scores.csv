@@ -1,0 +1,9 @@
+profile_id,system_name,system_type,infrastructure_viability_score,infrastructure_fragility_score,profile_class,description
+IF6,Adaptive Public Infrastructure,adaptive_public,0.4368,0.3722,Stronger infrastructure resilience,Public investment strengthens repair redundancy climate adaptation access and accountability.
+IF2,Distributed Resilience Model,distributed_resilience,0.4122,0.3917,Stronger infrastructure resilience,Distributed modular systems improve redundancy local recovery and reduced single-point failure.
+IF1,Centralized Utility Model,centralized_utility,0.2018,0.578,Mixed or transitional infrastructure future,High-capacity centralized infrastructure provides efficiency but concentrates operational risk.
+IF3,Digitally Intensive Smart System,digital_smart_system,0.169,0.6154,Mixed or transitional infrastructure future,Digital control systems improve monitoring but increase cyber physical opacity and vendor dependence.
+IF5,Financialized Infrastructure Platform,financialized_platform,0.0864,0.688,High infrastructure fragility,Infrastructure is governed as an asset class with revenue extraction and public value leakage.
+IF7,Geopolitical Bottleneck System,geopolitical_bottleneck,0.0804,0.7014,High infrastructure fragility,Critical corridors cables ports minerals standards and platforms create strategic dependency.
+IF4,Climate-Stressed Legacy Network,climate_legacy,0.02,0.7473,High infrastructure fragility,Aging infrastructure faces climate nonstationarity maintenance backlog and fiscal constraint.
+IF8,Governance Breakdown Infrastructure,governance_breakdown,0.0088,0.75,High infrastructure fragility,Fragmented authority deferred repair and weak trust turn manageable risks into systemic fragility.
