@@ -1,0 +1,9 @@
+pathway_id,institution_id,scenario_id,pathway_name,final_foresight_capability_score,mean_foresight_capability_score,final_governance_integration,final_learning_capacity,final_adaptive_flexibility,final_legitimacy_score
+ASP7,FCP7,FSS8,Climate Adaptation Foresight Pathway,1.5084,1.062,1.5844,1.5203,1.7787,1.4517
+ASP4,FCP4,FSS1,Research Network Translation Pathway,1.4513,1.0252,1.2432,1.565,1.8,1.1067
+ASP5,FCP5,FSS6,Multilateral Coordination Pathway,1.4018,0.9844,1.5046,1.4109,1.6266,1.3292
+ASP6,FCP6,FSS3,Public Health Early Warning Pathway,1.3896,0.9775,1.4386,1.395,1.6208,1.3419
+ASP2,FCP2,FSS4,Corporate AI-Augmented Foresight Pathway,1.3468,0.95,1.2381,1.4389,1.7124,0.9837
+ASP8,FCP8,FSS5,Civil Society Accountability Pathway,1.3424,0.9446,1.3519,1.3381,1.5596,1.4639
+ASP1,FCP1,FSS1,Government Integrated Foresight Pathway,1.2621,0.8849,1.3421,1.2728,1.4613,1.1928
+ASP3,FCP3,FSS5,City Participatory Scenario Pathway,1.233,0.8626,1.3096,1.2461,1.385,1.2975

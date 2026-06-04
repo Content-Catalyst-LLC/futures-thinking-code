@@ -1,0 +1,9 @@
+institution_id,institution_type,sector,signal_detection,scenario_capability,learning_capacity,governance_integration,adaptive_flexibility,participatory_legitimacy,ethical_accountability,data_infrastructure,ai_readiness,public_legitimacy,description
+FCP1,Government Agency,public_sector,0.62,0.66,0.57,0.63,0.51,0.52,0.56,0.58,0.46,0.60,Public agency with moderate scanning and planning capacity but uneven adaptive flexibility.
+FCP2,Multinational Firm,private_sector,0.74,0.78,0.69,0.59,0.68,0.34,0.38,0.76,0.72,0.48,Large firm with strong analytics and scenario capability but weaker legitimacy and justice review.
+FCP3,City Administration,local_government,0.58,0.55,0.61,0.52,0.49,0.70,0.64,0.50,0.42,0.68,City government with local participation strengths but limited technical infrastructure.
+FCP4,Research Network,knowledge_institution,0.81,0.83,0.80,0.48,0.72,0.46,0.52,0.78,0.66,0.54,Research network with strong analytical capability and weaker direct governance integration.
+FCP5,International Organization,multilateral,0.67,0.72,0.64,0.71,0.57,0.58,0.62,0.70,0.56,0.66,Multilateral organization with strong coordination mandate and moderate technical capacity.
+FCP6,Public Health System,public_health,0.70,0.68,0.66,0.62,0.60,0.62,0.68,0.64,0.50,0.70,Public health institution with preparedness and learning routines but variable scenario depth.
+FCP7,Climate Adaptation Authority,climate_governance,0.76,0.74,0.72,0.70,0.66,0.66,0.72,0.68,0.54,0.72,Climate authority combining scenario planning adaptation policy and ecological risk governance.
+FCP8,Civil Society Coalition,civil_society,0.64,0.60,0.68,0.44,0.62,0.84,0.82,0.46,0.32,0.80,Civil society coalition with strong legitimacy and ethical capacity but limited formal authority.

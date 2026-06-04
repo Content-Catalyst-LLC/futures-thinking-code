@@ -1,0 +1,9 @@
+signal_id,domain,signal_name,signal_strength,signal_velocity,novelty,relevance,source_quality,interpretive_confidence,uncertainty,description
+SIG1,climate,Accelerating Adaptation Finance Demands,0.74,0.68,0.52,0.86,0.78,0.70,0.42,Adaptation finance demands increase across climate-exposed regions and infrastructure systems.
+SIG2,technology,AI Governance Fragmentation,0.82,0.78,0.60,0.90,0.72,0.66,0.50,AI governance standards diverge across jurisdictions and sectors.
+SIG3,public_health,Preparedness Fatigue,0.64,0.56,0.44,0.72,0.68,0.62,0.46,Health systems show declining preparedness investment after acute crisis cycles.
+SIG4,finance,Climate Stress Testing Expansion,0.70,0.62,0.48,0.78,0.76,0.68,0.44,Financial institutions expand climate scenario analysis and stress testing.
+SIG5,governance,Future Generations Institutions,0.58,0.50,0.64,0.74,0.70,0.60,0.52,Public institutions experiment with future generations commissioners and long-term review mechanisms.
+SIG6,society,Youth Foresight Mobilization,0.66,0.60,0.58,0.76,0.64,0.62,0.50,Youth movements demand formal influence over long-term climate technology and governance decisions.
+SIG7,infrastructure,Deferred Maintenance Exposure,0.78,0.64,0.36,0.84,0.74,0.72,0.38,Infrastructure maintenance gaps become visible through failures climate exposure and fiscal stress.
+SIG8,geopolitics,Supply Chain Strategic Realignment,0.76,0.70,0.50,0.82,0.70,0.64,0.48,Geopolitical risk and climate disruptions reshape supply chain strategy and industrial policy.

@@ -1,0 +1,9 @@
+signal_id,domain,signal_name,strategic_attention_score,ambiguity_score,description
+SIG2,technology,AI Governance Fragmentation,0.7336,0.17,AI governance standards diverge across jurisdictions and sectors.
+SIG1,climate,Accelerating Adaptation Finance Demands,0.6952,0.126,Adaptation finance demands increase across climate-exposed regions and infrastructure systems.
+SIG8,geopolitics,Supply Chain Strategic Realignment,0.6788,0.1728,Geopolitical risk and climate disruptions reshape supply chain strategy and industrial policy.
+SIG7,infrastructure,Deferred Maintenance Exposure,0.6684,0.1064,Infrastructure maintenance gaps become visible through failures climate exposure and fiscal stress.
+SIG4,finance,Climate Stress Testing Expansion,0.6572,0.1408,Financial institutions expand climate scenario analysis and stress testing.
+SIG6,society,Youth Foresight Mobilization,0.636,0.19,Youth movements demand formal influence over long-term climate technology and governance decisions.
+SIG5,governance,Future Generations Institutions,0.6192,0.208,Public institutions experiment with future generations commissioners and long-term review mechanisms.
+SIG3,public_health,Preparedness Fatigue,0.606,0.1748,Health systems show declining preparedness investment after acute crisis cycles.

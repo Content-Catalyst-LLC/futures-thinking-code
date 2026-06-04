@@ -1,0 +1,9 @@
+"signal_id","domain","signal_name","signal_strength","signal_velocity","novelty","relevance","source_quality","interpretive_confidence","uncertainty","description","strategic_attention_score","ambiguity_score"
+"SIG2","technology","AI Governance Fragmentation",0.82,0.78,0.6,0.9,0.72,0.66,0.5,"AI governance standards diverge across jurisdictions and sectors.",0.7336,0.17
+"SIG1","climate","Accelerating Adaptation Finance Demands",0.74,0.68,0.52,0.86,0.78,0.7,0.42,"Adaptation finance demands increase across climate-exposed regions and infrastructure systems.",0.6952,0.126
+"SIG8","geopolitics","Supply Chain Strategic Realignment",0.76,0.7,0.5,0.82,0.7,0.64,0.48,"Geopolitical risk and climate disruptions reshape supply chain strategy and industrial policy.",0.6788,0.1728
+"SIG7","infrastructure","Deferred Maintenance Exposure",0.78,0.64,0.36,0.84,0.74,0.72,0.38,"Infrastructure maintenance gaps become visible through failures climate exposure and fiscal stress.",0.6684,0.1064
+"SIG4","finance","Climate Stress Testing Expansion",0.7,0.62,0.48,0.78,0.76,0.68,0.44,"Financial institutions expand climate scenario analysis and stress testing.",0.6572,0.1408
+"SIG6","society","Youth Foresight Mobilization",0.66,0.6,0.58,0.76,0.64,0.62,0.5,"Youth movements demand formal influence over long-term climate technology and governance decisions.",0.636,0.19
+"SIG5","governance","Future Generations Institutions",0.58,0.5,0.64,0.74,0.7,0.6,0.52,"Public institutions experiment with future generations commissioners and long-term review mechanisms.",0.6192,0.208
+"SIG3","public_health","Preparedness Fatigue",0.64,0.56,0.44,0.72,0.68,0.62,0.46,"Health systems show declining preparedness investment after acute crisis cycles.",0.606,0.1748

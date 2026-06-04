@@ -1,0 +1,9 @@
+institution_id,institution_type,sector,foresight_capability_score,technical_capability_score,governance_capability_score,legitimacy_capability_score,capability_gap_score,maturity_class,description
+FCP7,Climate Adaptation Authority,climate_governance,0.7104,0.729,0.693,0.696,0.0345,High integrated foresight capability,Climate authority combining scenario planning adaptation policy and ecological risk governance.
+FCP4,Research Network,knowledge_institution,0.6884,0.808,0.632,0.501,0.2415,Technically capable but weakly integrated,Research network with strong analytical capability and weaker direct governance integration.
+FCP5,International Organization,multilateral,0.6558,0.6965,0.6505,0.614,0.0643,Developing foresight capability,Multilateral organization with strong coordination mandate and moderate technical capacity.
+FCP6,Public Health System,public_health,0.6532,0.675,0.624,0.661,0.0325,Developing foresight capability,Public health institution with preparedness and learning routines but variable scenario depth.
+FCP2,Multinational Firm,private_sector,0.6368,0.76,0.642,0.389,0.2445,Technically capable but weakly integrated,Large firm with strong analytics and scenario capability but weaker legitimacy and justice review.
+FCP8,Civil Society Coalition,civil_society,0.6324,0.572,0.554,0.823,0.0,Governance integration gap,Civil society coalition with strong legitimacy and ethical capacity but limited formal authority.
+FCP1,Government Agency,public_sector,0.5884,0.622,0.579,0.554,0.0555,Developing foresight capability,Public agency with moderate scanning and planning capacity but uneven adaptive flexibility.
+FCP3,City Administration,local_government,0.5718,0.5455,0.5335,0.674,0.0,Developing foresight capability,City government with local participation strengths but limited technical infrastructure.

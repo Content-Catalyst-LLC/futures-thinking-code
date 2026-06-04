@@ -1,0 +1,9 @@
+risk_id,scenario_id,risk_name,risk_domain,probability_proxy,severity,irreversibility,visibility_gap,governance_gap,legitimacy_gap,preparedness,description
+FRI1,FSS2,Foresight Theater,implementation_failure,0.68,0.76,0.40,0.58,0.84,0.62,0.34,Foresight language and workshops proliferate without changing institutional decisions.
+FRI2,FSS3,Dashboard Illusion,data_misuse,0.72,0.74,0.48,0.66,0.70,0.58,0.36,Indicators and dashboards create apparent foresight while interpretation and decision rules are weak.
+FRI3,FSS4,AI-Generated Plausibility,ai_governance,0.64,0.82,0.58,0.62,0.68,0.66,0.38,AI produces fluent future narratives that hide weak evidence or biased assumptions.
+FRI4,FSS7,Crisis-Driven Reactive Strategy,reactive_governance,0.78,0.88,0.70,0.50,0.82,0.70,0.28,Continuous crisis pressure overwhelms foresight and locks institutions into short-term response.
+FRI5,FSS6,Global Coordination Failure,coordination_failure,0.58,0.84,0.62,0.54,0.72,0.64,0.40,Global risks outpace coordination across climate finance migration health and technology systems.
+FRI6,FSS8,Justice-Centered Foresight Backlash,political_backlash,0.46,0.72,0.44,0.48,0.58,0.76,0.44,Actors invested in existing power resist future-generation justice and participatory foresight.
+FRI7,FSS1,Integrated Architecture Drift,governance_drift,0.42,0.66,0.36,0.38,0.50,0.42,0.58,Foresight systems weaken over time without leadership budget and accountability support.
+FRI8,FSS5,Participatory Foresight Tokenism,participation_failure,0.56,0.70,0.38,0.62,0.54,0.82,0.46,Participation exists but has little effect on strategy authority or resource allocation.

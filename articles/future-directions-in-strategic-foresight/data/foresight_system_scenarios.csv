@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,signal_velocity,uncertainty_load,data_quality,ai_dependence,governance_authority,participatory_depth,ethical_risk,institutional_learning,coordination_complexity,description
+FSS1,Integrated Foresight Architecture,integrated_architecture,0.62,0.54,0.76,0.56,0.78,0.70,0.28,0.82,0.58,Foresight is embedded in governance data systems strategy review and institutional learning.
+FSS2,Foresight Theater,foresight_theater,0.48,0.58,0.52,0.40,0.26,0.34,0.58,0.28,0.46,Workshops and trend decks signal sophistication but do not alter decisions.
+FSS3,Dashboard Illusion,dashboard_illusion,0.72,0.62,0.66,0.52,0.38,0.30,0.54,0.36,0.54,Indicators appear useful but lack interpretation thresholds or governance protocols.
+FSS4,AI-Augmented Foresight,ai_augmented,0.82,0.68,0.74,0.86,0.56,0.42,0.66,0.62,0.70,AI supports scanning simulation and scenario generation but requires strong governance and audit.
+FSS5,Participatory Public Foresight,participatory_public,0.56,0.60,0.58,0.36,0.66,0.88,0.30,0.70,0.62,Affected communities youth workers and publics shape scenario design and strategy choices.
+FSS6,Global Foresight Coordination,global_coordination,0.70,0.76,0.62,0.58,0.64,0.56,0.48,0.66,0.88,Multiple institutions coordinate across climate technology finance migration and public health systems.
+FSS7,Crisis-Driven Reactive Strategy,reactive_strategy,0.78,0.84,0.48,0.42,0.34,0.28,0.72,0.24,0.76,Foresight is overwhelmed by crisis response short-term pressure and institutional fragmentation.
+FSS8,Justice-Centered Adaptive Foresight,justice_adaptive,0.64,0.58,0.68,0.48,0.74,0.82,0.18,0.80,0.64,Foresight integrates future generations ecological limits participation repair and accountability.
