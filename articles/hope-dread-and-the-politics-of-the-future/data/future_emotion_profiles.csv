@@ -1,0 +1,9 @@
+profile_id,scenario_name,scenario_family,hope,dread,agency,trust,polarization,institutional_capacity,future_fatigue,narrative_accountability,repair_capacity,democratic_imagination,description
+FEP1,Disciplined Hope Democracy,disciplined_hope,0.78,0.54,0.82,0.72,0.34,0.78,0.30,0.84,0.76,0.82,Societies face risk honestly while building public institutions participation repair and adaptive capacity.
+FEP2,Apocalyptic Paralysis,apocalyptic_paralysis,0.18,0.90,0.22,0.20,0.60,0.24,0.82,0.28,0.20,0.24,Collapse narratives dominate public imagination and people lose faith in action.
+FEP3,Techno-Optimist Delay,techno_optimism,0.74,0.34,0.42,0.46,0.48,0.46,0.50,0.34,0.30,0.42,Innovation narratives reassure publics while structural problems deepen.
+FEP4,Authoritarian Fear Future,authoritarian_fear,0.30,0.82,0.30,0.28,0.88,0.36,0.68,0.26,0.24,0.28,Dread is redirected toward enemies and used to justify coercive authority.
+FEP5,Future Fatigue Society,future_fatigue,0.28,0.76,0.26,0.24,0.62,0.30,0.90,0.32,0.28,0.30,Continuous crisis messaging produces exhaustion cynicism and disengagement.
+FEP6,Youth-Led Renewal,youth_renewal,0.82,0.62,0.86,0.66,0.44,0.72,0.42,0.76,0.70,0.88,Youth movements convert intergenerational anxiety and anger into public action.
+FEP7,Marketed Hope Regime,marketed_hope,0.80,0.28,0.36,0.34,0.52,0.38,0.54,0.22,0.26,0.34,Hope becomes a branding device for corporations governments or platforms.
+FEP8,Reparative Imagination,reparative_imagination,0.86,0.50,0.84,0.76,0.30,0.80,0.28,0.88,0.92,0.90,Hope is grounded in historical repair ecological restoration and redistributed authority.

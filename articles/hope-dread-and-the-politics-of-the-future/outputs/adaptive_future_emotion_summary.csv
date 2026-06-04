@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_hope,final_dread,final_agency,final_trust,final_future_fatigue,final_mobilization_score,final_paralysis_risk_score,final_disciplined_hope_score,mean_disciplined_hope_score
+AFP8,FEP8,FPS8,Reparative Imagination Pathway,1.8,0.0,1.8,1.5491,0.0,2.5,0.0,1.597,1.1764
+AFP1,FEP1,FPS1,Disciplined Hope Democracy Pathway,1.8,0.0,1.6975,1.419,0.0,2.5,0.0,1.5013,1.0818
+AFP6,FEP6,FPS6,Youth-Led Renewal Pathway,1.8,0.0992,1.5943,1.2825,0.0,2.5,0.0,1.4173,1.0215
+AFP3,FEP3,FPS3,Techno-Optimist Delay Pathway,1.3267,0.293,0.6766,0.6828,0.2176,0.6874,0.0301,0.7508,0.5429
+AFP7,FEP7,FPS7,Marketed Hope Regime Pathway,1.1707,0.3788,0.4804,0.4727,0.3749,0.3132,0.1038,0.5704,0.4409
+AFP4,FEP4,FPS4,Authoritarian Fear Future Pathway,0.2887,1.2536,0.0596,0.3062,0.92,0.0178,0.818,0.1651,0.1877
+AFP5,FEP5,FPS5,Future Fatigue Society Pathway,0.1438,1.2736,0.0002,0.2174,1.1902,0.0,0.9964,0.0887,0.1436
+AFP2,FEP2,FPS2,Apocalyptic Paralysis Pathway,0.0,1.4392,0.0,0.1356,1.2106,0.0,1.244,0.0117,0.07

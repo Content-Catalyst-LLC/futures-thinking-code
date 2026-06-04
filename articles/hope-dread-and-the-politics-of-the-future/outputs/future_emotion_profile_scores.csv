@@ -1,0 +1,9 @@
+profile_id,scenario_name,scenario_family,mobilization_score,paralysis_risk_score,disciplined_hope_score,fear_politics_risk_score,profile_class,description
+FEP8,Reparative Imagination,reparative_imagination,0.7246,0.0192,0.772,0.298,Stronger disciplined hope,Hope is grounded in historical repair ecological restoration and redistributed authority.
+FEP1,Disciplined Hope Democracy,disciplined_hope,0.6359,0.0272,0.718,0.3324,Stronger disciplined hope,Societies face risk honestly while building public institutions participation repair and adaptive capacity.
+FEP6,Youth-Led Renewal,youth_renewal,0.659,0.0295,0.688,0.3988,Stronger disciplined hope,Youth movements convert intergenerational anxiety and anger into public action.
+FEP3,Techno-Optimist Delay,techno_optimism,0.1791,0.1065,0.41,0.49,Mixed future-emotion profile,Innovation narratives reassure publics while structural problems deepen.
+FEP7,Marketed Hope Regime,marketed_hope,0.1168,0.1183,0.354,0.53,Mixed future-emotion profile,Hope becomes a branding device for corporations governments or platforms.
+FEP4,Authoritarian Fear Future,authoritarian_fear,0.0631,0.4133,0.2308,0.7728,High fear-politics risk,Dread is redirected toward enemies and used to justify coercive authority.
+FEP5,Future Fatigue Society,future_fatigue,0.0436,0.4274,0.2136,0.7364,High fear-politics risk,Continuous crisis messaging produces exhaustion cynicism and disengagement.
+FEP2,Apocalyptic Paralysis,apocalyptic_paralysis,0.0297,0.5616,0.1608,0.7728,High fear-politics risk,Collapse narratives dominate public imagination and people lose faith in action.

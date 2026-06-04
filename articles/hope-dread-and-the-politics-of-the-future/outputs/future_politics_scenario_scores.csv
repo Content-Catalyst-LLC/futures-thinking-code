@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,future_politics_risk_score,agency_opportunity_score,description
+FPS4,Authoritarian Fear Future,authoritarian_fear,0.7292,0.2658,Fear is organized around enemies and used to justify coercive authority.
+FPS2,Apocalyptic Paralysis,apocalyptic_paralysis,0.7048,0.2706,Collapse narratives intensify dread while agency and trust collapse.
+FPS5,Future Fatigue Society,future_fatigue,0.678,0.3046,Continuous crisis messaging weakens agency participation and public trust.
+FPS7,Marketed Hope Regime,marketed_hope,0.5902,0.3328,Optimism is used as branding while accountability and structural change remain weak.
+FPS3,Techno-Optimist Delay,techno_optimism,0.5496,0.394,Technology promises calm publics while climate governance and repair are deferred.
+FPS6,Youth-Led Renewal,youth_renewal,0.314,0.7578,Youth participation connects intergenerational emotion with public action.
+FPS1,Disciplined Hope Democracy,disciplined_hope,0.2618,0.7848,Risk is named honestly while action pathways institutions and repair remain visible.
+FPS8,Reparative Imagination,reparative_imagination,0.2264,0.834,Future possibility is linked to repair memory ecological care and redistributed authority.

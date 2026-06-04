@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,threat_intensity,agency_pathways,institutional_trust,scapegoating_intensity,false_reassurance,crisis_fatigue,narrative_accountability,democratic_participation,repair_orientation,learning_capacity,description
+FPS1,Disciplined Hope Democracy,disciplined_hope,0.54,0.82,0.72,0.18,0.20,0.30,0.84,0.80,0.76,0.82,Risk is named honestly while action pathways institutions and repair remain visible.
+FPS2,Apocalyptic Paralysis,apocalyptic_paralysis,0.92,0.20,0.18,0.48,0.24,0.86,0.26,0.24,0.18,0.28,Collapse narratives intensify dread while agency and trust collapse.
+FPS3,Techno-Optimist Delay,techno_optimism,0.34,0.40,0.44,0.24,0.92,0.48,0.30,0.36,0.28,0.42,Technology promises calm publics while climate governance and repair are deferred.
+FPS4,Authoritarian Fear Future,authoritarian_fear,0.88,0.30,0.26,0.92,0.30,0.70,0.22,0.24,0.20,0.30,Fear is organized around enemies and used to justify coercive authority.
+FPS5,Future Fatigue Society,future_fatigue,0.76,0.24,0.22,0.42,0.38,0.94,0.32,0.28,0.26,0.30,Continuous crisis messaging weakens agency participation and public trust.
+FPS6,Youth-Led Renewal,youth_renewal,0.62,0.86,0.66,0.28,0.24,0.44,0.78,0.88,0.72,0.78,Youth participation connects intergenerational emotion with public action.
+FPS7,Marketed Hope Regime,marketed_hope,0.30,0.34,0.34,0.26,0.96,0.50,0.20,0.30,0.24,0.36,Optimism is used as branding while accountability and structural change remain weak.
+FPS8,Reparative Imagination,reparative_imagination,0.50,0.84,0.76,0.18,0.18,0.28,0.90,0.84,0.94,0.84,Future possibility is linked to repair memory ecological care and redistributed authority.

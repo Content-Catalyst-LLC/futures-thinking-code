@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,hope,dread,agency,trust,future_fatigue,repair_capacity,polarization,narrative_accountability,time_horizon
+AFP1,FEP1,FPS1,Disciplined Hope Democracy Pathway,0.78,0.54,0.82,0.72,0.30,0.76,0.34,0.84,40
+AFP2,FEP2,FPS2,Apocalyptic Paralysis Pathway,0.18,0.90,0.22,0.20,0.82,0.20,0.60,0.28,40
+AFP3,FEP3,FPS3,Techno-Optimist Delay Pathway,0.74,0.34,0.42,0.46,0.50,0.30,0.48,0.34,40
+AFP4,FEP4,FPS4,Authoritarian Fear Future Pathway,0.30,0.82,0.30,0.28,0.68,0.24,0.88,0.26,40
+AFP5,FEP5,FPS5,Future Fatigue Society Pathway,0.28,0.76,0.26,0.24,0.90,0.28,0.62,0.32,40
+AFP6,FEP6,FPS6,Youth-Led Renewal Pathway,0.82,0.62,0.86,0.66,0.42,0.70,0.44,0.76,40
+AFP7,FEP7,FPS7,Marketed Hope Regime Pathway,0.80,0.28,0.36,0.34,0.54,0.26,0.52,0.22,40
+AFP8,FEP8,FPS8,Reparative Imagination Pathway,0.86,0.50,0.84,0.76,0.28,0.92,0.30,0.88,40

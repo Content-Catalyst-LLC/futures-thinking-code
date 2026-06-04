@@ -1,0 +1,6 @@
+[package]
+name = "hope_dread_politics_future_diagnostics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,9 @@
+"risk_id","scenario_id","risk_name","risk_domain","probability_proxy","severity","irreversibility","visibility_gap","distributional_harm","democratic_harm","preparedness","description","future_emotion_risk_priority_score"
+"FER2","FPS4","Authoritarian Fear Politics","fear_politics",0.64,0.9,0.72,0.54,0.82,0.94,0.32,"Dread is redirected toward enemies and used to weaken rights and democracy.",0.772
+"FER1","FPS2","Apocalyptic Paralysis","paralysis",0.7,0.84,0.58,0.62,0.7,0.72,0.3,"Collapse narratives turn uncertainty into inevitability and weaken action.",0.7024
+"FER4","FPS5","Future Fatigue Collapse","future_fatigue",0.76,0.76,0.54,0.66,0.7,0.68,0.34,"Continuous crisis communication produces exhaustion avoidance and distrust.",0.686
+"FER3","FPS3","Techno-Optimist Delay","false_reassurance",0.72,0.78,0.66,0.58,0.68,0.62,0.36,"Innovation promises delay governance climate action and repair.",0.6712
+"FER5","FPS7","Marketed Hope Capture","marketed_hope",0.68,0.72,0.52,0.7,0.64,0.6,0.38,"Hope is converted into branding while accountability remains weak.",0.6412
+"FER7","FPS8","Reparative Imagination Backlash","reparative_imagination",0.46,0.74,0.54,0.48,0.76,0.7,0.42,"Actors invested in existing power resist repair-centered futures.",0.6248
+"FER6","FPS6","Youth Hope Burnout","youth_futures",0.54,0.7,0.46,0.5,0.68,0.62,0.46,"Youth movements are celebrated but denied formal power and sustained support.",0.5896
+"FER8","FPS1","Disciplined Hope Drift","disciplined_hope",0.42,0.62,0.38,0.36,0.52,0.5,0.58,"Disciplined hope weakens if institutions fail to produce visible accountability and repair.",0.472

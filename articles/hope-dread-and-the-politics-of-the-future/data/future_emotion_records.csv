@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,hope,dread,agency,trust,future_fatigue,repair_capacity,polarization,narrative_accountability,description
+FCR1,FEP1,Disciplined Hope Democracy Record,0.78,0.54,0.82,0.72,0.30,0.76,0.34,0.84,Risk and hope are held together through institutions repair and democratic action.
+FCR2,FEP2,Apocalyptic Paralysis Record,0.18,0.90,0.22,0.20,0.82,0.20,0.60,0.28,Dread is high while agency trust and repair remain weak.
+FCR3,FEP3,Techno-Optimist Delay Record,0.74,0.34,0.42,0.46,0.50,0.30,0.48,0.34,Optimism remains high but accountability and repair are weak.
+FCR4,FEP4,Authoritarian Fear Future Record,0.30,0.82,0.30,0.28,0.68,0.24,0.88,0.26,Fear politics intensifies polarization and weakens agency.
+FCR5,FEP5,Future Fatigue Society Record,0.28,0.76,0.26,0.24,0.90,0.28,0.62,0.32,Crisis fatigue erodes trust and participation.
+FCR6,FEP6,Youth-Led Renewal Record,0.82,0.62,0.86,0.66,0.42,0.70,0.44,0.76,Youth-led action converts intergenerational emotion into agency.
+FCR7,FEP7,Marketed Hope Regime Record,0.80,0.28,0.36,0.34,0.54,0.26,0.52,0.22,Hope is high but weakly grounded in accountability or repair.
+FCR8,FEP8,Reparative Imagination Record,0.86,0.50,0.84,0.76,0.28,0.92,0.30,0.88,Hope is grounded in repair memory community authority and ecological care.
