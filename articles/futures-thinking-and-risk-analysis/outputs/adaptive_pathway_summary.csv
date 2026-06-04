@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,final_preparedness,mean_preparedness,mean_system_stress,final_adaptive_capacity
+AP1,RA1,RS1,Baseline Extension Pathway,1.6,1.4512,0.0211,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,1.6,1.3336,0.074,1.6
+AP3,RA3,RS3,Climate Stress Pathway,1.6,1.3364,0.0729,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,1.6,1.2891,0.0909,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,1.6,1.3245,0.0827,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,1.6,0.9318,0.2952,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,1.6,1.5007,0.0177,1.6
+AP7,RA7,RS7,Systemic Cascade Pathway,1.2295,0.5526,0.5851,1.4945

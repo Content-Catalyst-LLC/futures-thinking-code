@@ -1,0 +1,57 @@
+strategy_id,strategy_name,scenario,performance,regret
+ST1,Efficiency Strategy,Stable Baseline,0.92,0.0
+ST1,Efficiency Strategy,Technological Disruption,0.55,0.21
+ST1,Efficiency Strategy,Climate Stress,0.48,0.34
+ST1,Efficiency Strategy,Geopolitical Fragmentation,0.44,0.32
+ST1,Efficiency Strategy,Financial Contagion,0.42,0.36
+ST1,Efficiency Strategy,Institutional Breakdown,0.36,0.44
+ST1,Efficiency Strategy,Systemic Cascade,0.28,0.52
+ST2,Balanced Strategy,Stable Baseline,0.78,0.14
+ST2,Balanced Strategy,Technological Disruption,0.71,0.05
+ST2,Balanced Strategy,Climate Stress,0.66,0.16
+ST2,Balanced Strategy,Geopolitical Fragmentation,0.63,0.13
+ST2,Balanced Strategy,Financial Contagion,0.61,0.17
+ST2,Balanced Strategy,Institutional Breakdown,0.56,0.24
+ST2,Balanced Strategy,Systemic Cascade,0.52,0.28
+ST3,Adaptive Strategy,Stable Baseline,0.72,0.2
+ST3,Adaptive Strategy,Technological Disruption,0.76,0.0
+ST3,Adaptive Strategy,Climate Stress,0.73,0.09
+ST3,Adaptive Strategy,Geopolitical Fragmentation,0.7,0.06
+ST3,Adaptive Strategy,Financial Contagion,0.68,0.1
+ST3,Adaptive Strategy,Institutional Breakdown,0.64,0.16
+ST3,Adaptive Strategy,Systemic Cascade,0.6,0.2
+ST4,Precautionary Strategy,Stable Baseline,0.66,0.26
+ST4,Precautionary Strategy,Technological Disruption,0.72,0.04
+ST4,Precautionary Strategy,Climate Stress,0.76,0.06
+ST4,Precautionary Strategy,Geopolitical Fragmentation,0.68,0.08
+ST4,Precautionary Strategy,Financial Contagion,0.7,0.08
+ST4,Precautionary Strategy,Institutional Breakdown,0.66,0.14
+ST4,Precautionary Strategy,Systemic Cascade,0.64,0.16
+ST5,Resilient Redundancy,Stable Baseline,0.64,0.28
+ST5,Resilient Redundancy,Technological Disruption,0.7,0.06
+ST5,Resilient Redundancy,Climate Stress,0.74,0.08
+ST5,Resilient Redundancy,Geopolitical Fragmentation,0.72,0.04
+ST5,Resilient Redundancy,Financial Contagion,0.73,0.05
+ST5,Resilient Redundancy,Institutional Breakdown,0.7,0.1
+ST5,Resilient Redundancy,Systemic Cascade,0.68,0.12
+ST6,Institutional Capacity Renewal,Stable Baseline,0.68,0.24
+ST6,Institutional Capacity Renewal,Technological Disruption,0.7,0.06
+ST6,Institutional Capacity Renewal,Climate Stress,0.72,0.1
+ST6,Institutional Capacity Renewal,Geopolitical Fragmentation,0.74,0.02
+ST6,Institutional Capacity Renewal,Financial Contagion,0.72,0.06
+ST6,Institutional Capacity Renewal,Institutional Breakdown,0.8,0.0
+ST6,Institutional Capacity Renewal,Systemic Cascade,0.7,0.1
+ST7,Cascade Risk Reduction,Stable Baseline,0.7,0.22
+ST7,Cascade Risk Reduction,Technological Disruption,0.72,0.04
+ST7,Cascade Risk Reduction,Climate Stress,0.74,0.08
+ST7,Cascade Risk Reduction,Geopolitical Fragmentation,0.76,0.0
+ST7,Cascade Risk Reduction,Financial Contagion,0.78,0.0
+ST7,Cascade Risk Reduction,Institutional Breakdown,0.7,0.1
+ST7,Cascade Risk Reduction,Systemic Cascade,0.76,0.04
+ST8,Transformative Risk Reduction,Stable Baseline,0.62,0.3
+ST8,Transformative Risk Reduction,Technological Disruption,0.7,0.06
+ST8,Transformative Risk Reduction,Climate Stress,0.82,0.0
+ST8,Transformative Risk Reduction,Geopolitical Fragmentation,0.76,0.0
+ST8,Transformative Risk Reduction,Financial Contagion,0.74,0.04
+ST8,Transformative Risk Reduction,Institutional Breakdown,0.78,0.02
+ST8,Transformative Risk Reduction,Systemic Cascade,0.8,0.0

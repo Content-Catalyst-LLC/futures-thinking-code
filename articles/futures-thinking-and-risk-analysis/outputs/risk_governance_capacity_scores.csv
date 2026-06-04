@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,risk_governance_capacity_score,legitimacy_gap_score,description
+GV8,RA8,Adaptive Public Risk Governance,adaptive_governance,0.8484,0.1548,Monitoring scenarios trigger points learning finance legitimacy and distributional review reinforce preparedness.
+GV3,RA3,Climate Adaptation Governance,climate_stress,0.6506,0.3524,Climate risk governance improves when scenarios exposure reduction and adaptation triggers are connected.
+GV5,RA5,Financial Systemic Risk Governance,financial_contagion,0.5816,0.4258,Financial contagion governance requires stress tests liquidity planning correlation analysis and public backstops.
+GV4,RA4,Geopolitical Risk Governance,geopolitical_fragmentation,0.5406,0.4674,Strategic uncertainty requires red teaming crisis communication supply-chain mapping and public accountability.
+GV1,RA1,Baseline Risk Governance,stable_baseline,0.5372,0.464,Conventional risk governance works in stable conditions but has limited adaptation capacity.
+GV2,RA2,Technology Risk Governance,technology_disruption,0.5268,0.4854,Governance struggles to keep pace with AI cyber automation data platforms and biotechnology.
+GV6,RA6,Institutional Breakdown Governance Gap,institutional_breakdown,0.2968,0.705,Governance capacity erodes across monitoring coordination finance trust and accountability.
+GV7,RA7,Systemic Cascade Governance Gap,systemic_cascade,0.2568,0.7448,Cross-domain cascade risk overwhelms fragmented institutions with weak signals and low legitimacy.

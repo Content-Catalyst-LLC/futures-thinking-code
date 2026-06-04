@@ -1,0 +1,9 @@
+record_id,profile_id,record_name,record_type,monitoring_capacity,scenario_refresh_capacity,cross_sector_coordination,public_legitimacy,learning_capacity,flexible_finance,accountability_capacity,distributional_review_capacity,description
+GV1,RA1,Baseline Risk Governance,stable_baseline,0.62,0.48,0.54,0.58,0.50,0.56,0.54,0.46,Conventional risk governance works in stable conditions but has limited adaptation capacity.
+GV2,RA2,Technology Risk Governance,technology_disruption,0.58,0.60,0.54,0.46,0.56,0.48,0.44,0.50,Governance struggles to keep pace with AI cyber automation data platforms and biotechnology.
+GV3,RA3,Climate Adaptation Governance,climate_stress,0.66,0.72,0.64,0.60,0.68,0.54,0.58,0.76,Climate risk governance improves when scenarios exposure reduction and adaptation triggers are connected.
+GV4,RA4,Geopolitical Risk Governance,geopolitical_fragmentation,0.56,0.62,0.58,0.50,0.54,0.48,0.46,0.54,Strategic uncertainty requires red teaming crisis communication supply-chain mapping and public accountability.
+GV5,RA5,Financial Systemic Risk Governance,financial_contagion,0.64,0.58,0.62,0.52,0.60,0.56,0.54,0.56,Financial contagion governance requires stress tests liquidity planning correlation analysis and public backstops.
+GV6,RA6,Institutional Breakdown Governance Gap,institutional_breakdown,0.34,0.30,0.28,0.26,0.32,0.24,0.28,0.34,Governance capacity erodes across monitoring coordination finance trust and accountability.
+GV7,RA7,Systemic Cascade Governance Gap,systemic_cascade,0.30,0.28,0.24,0.22,0.26,0.20,0.24,0.30,Cross-domain cascade risk overwhelms fragmented institutions with weak signals and low legitimacy.
+GV8,RA8,Adaptive Public Risk Governance,adaptive_governance,0.86,0.88,0.84,0.82,0.90,0.76,0.84,0.86,Monitoring scenarios trigger points learning finance legitimacy and distributional review reinforce preparedness.

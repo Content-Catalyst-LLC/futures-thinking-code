@@ -1,0 +1,9 @@
+"strategy_id","strategy_name","strategy_type","mean_performance","worst_case","best_case","maximum_regret","mean_regret","governance_quality","robustness_score"
+"ST7","Cascade Risk Reduction","cascade_reduction",0.737142857142857,0.7,0.78,0.22,0.0685714285714286,0.71,0.5274
+"ST6","Institutional Capacity Renewal","institutional_capacity",0.722857142857143,0.68,0.8,0.24,0.0828571428571429,0.746,0.5146
+"ST8","Transformative Risk Reduction","transformative_reduction",0.745714285714286,0.62,0.82,0.3,0.06,0.764,0.4856
+"ST3","Adaptive Strategy","adaptive",0.69,0.6,0.76,0.2,0.115714285714286,0.792,0.4844
+"ST4","Precautionary Strategy","precautionary",0.688571428571429,0.64,0.76,0.26,0.117142857142857,0.698,0.4794
+"ST5","Resilient Redundancy","resilient_redundancy",0.701428571428571,0.64,0.74,0.28,0.104285714285714,0.678,0.477
+"ST2","Balanced Strategy","balanced",0.638571428571429,0.52,0.78,0.28,0.167142857142857,0.61,0.4022
+"ST1","Efficiency Strategy","efficiency",0.492857142857143,0.28,0.92,0.52,0.312857142857143,0.476,0.1992

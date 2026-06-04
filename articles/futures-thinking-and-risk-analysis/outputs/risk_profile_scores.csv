@@ -1,0 +1,9 @@
+profile_id,scenario_name,scenario_family,futures_risk_profile_score,preparedness_gap_score,profile_class,description
+RA7,Systemic Cascade,systemic_cascade,0.6085,0.7932,High futures risk,Multiple risks interact across climate finance technology infrastructure health and politics.
+RA6,Institutional Breakdown,institutional_breakdown,0.4974,0.722,High futures risk,Public agencies governance systems or coordination mechanisms lose capacity or legitimacy.
+RA4,Geopolitical Fragmentation,geopolitical_fragmentation,0.4208,0.6285,Moderate futures risk,Conflict sanctions supply disruption institutional rivalry and bloc formation increase uncertainty.
+RA3,Climate Stress Escalation,climate_stress,0.4191,0.624,Moderate futures risk,Climate hazards intensify faster than infrastructure insurance public health and planning systems adapt.
+RA5,Financial Contagion,financial_contagion,0.4016,0.6012,Moderate futures risk,Debt stress liquidity pressure asset repricing or confidence collapse spreads across institutions.
+RA2,Technological Disruption,technology_disruption,0.3415,0.5638,Moderate futures risk,AI cyber automation platforms biotechnology and data infrastructures change risk faster than governance adapts.
+RA8,Adaptive Public Risk Governance,adaptive_governance,0.125,0.312,Lower futures risk,Institutions develop monitoring trigger points learning loops and public accountability for uncertainty.
+RA1,Stable Baseline Extension,stable_baseline,0.016,0.2834,Lower futures risk,Historical patterns remain broadly useful and existing risk models perform adequately.

@@ -1,0 +1,321 @@
+pathway_id,profile_id,scenario_id,pathway_name,time_step,preparedness,system_stress,adaptive_capacity
+AP1,RA1,RS1,Baseline Extension Pathway,1,0.7,0.3356,0.554
+AP1,RA1,RS1,Baseline Extension Pathway,2,0.7556,0.252,0.6219
+AP1,RA1,RS1,Baseline Extension Pathway,3,0.8181,0.1684,0.6914
+AP1,RA1,RS1,Baseline Extension Pathway,4,0.8877,0.0848,0.7626
+AP1,RA1,RS1,Baseline Extension Pathway,5,0.9643,0.0012,0.8355
+AP1,RA1,RS1,Baseline Extension Pathway,6,1.044,0.0,0.9084
+AP1,RA1,RS1,Baseline Extension Pathway,7,1.1265,0.0,0.9813
+AP1,RA1,RS1,Baseline Extension Pathway,8,1.2086,0.0,1.0509
+AP1,RA1,RS1,Baseline Extension Pathway,9,1.2968,0.0,1.1238
+AP1,RA1,RS1,Baseline Extension Pathway,10,1.3874,0.0,1.1967
+AP1,RA1,RS1,Baseline Extension Pathway,11,1.4815,0.0,1.2696
+AP1,RA1,RS1,Baseline Extension Pathway,12,1.5785,0.0,1.3425
+AP1,RA1,RS1,Baseline Extension Pathway,13,1.6,0.0,1.4154
+AP1,RA1,RS1,Baseline Extension Pathway,14,1.6,0.0,1.4883
+AP1,RA1,RS1,Baseline Extension Pathway,15,1.6,0.0,1.5612
+AP1,RA1,RS1,Baseline Extension Pathway,16,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,17,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,18,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,19,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,20,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,21,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,22,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,23,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,24,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,25,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,26,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,27,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,28,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,29,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,30,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,31,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,32,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,33,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,34,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,35,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,36,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,37,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,38,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,39,1.6,0.0,1.6
+AP1,RA1,RS1,Baseline Extension Pathway,40,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,1,0.5,0.6336,0.5422
+AP2,RA2,RS2,Technology Disruption Pathway,2,0.5299,0.5556,0.6058
+AP2,RA2,RS2,Technology Disruption Pathway,3,0.5662,0.4776,0.6709
+AP2,RA2,RS2,Technology Disruption Pathway,4,0.6091,0.3996,0.7376
+AP2,RA2,RS2,Technology Disruption Pathway,5,0.6587,0.3216,0.8059
+AP2,RA2,RS2,Technology Disruption Pathway,6,0.7149,0.2436,0.8757
+AP2,RA2,RS2,Technology Disruption Pathway,7,0.7779,0.1656,0.9471
+AP2,RA2,RS2,Technology Disruption Pathway,8,0.844,0.0942,1.0166
+AP2,RA2,RS2,Technology Disruption Pathway,9,0.9202,0.0162,1.091
+AP2,RA2,RS2,Technology Disruption Pathway,10,0.998,0.0142,1.1654
+AP2,RA2,RS2,Technology Disruption Pathway,11,1.081,0.0,1.2401
+AP2,RA2,RS2,Technology Disruption Pathway,12,1.167,0.0,1.3148
+AP2,RA2,RS2,Technology Disruption Pathway,13,1.2538,0.0084,1.3894
+AP2,RA2,RS2,Technology Disruption Pathway,14,1.3458,0.0,1.4641
+AP2,RA2,RS2,Technology Disruption Pathway,15,1.4408,0.0,1.5388
+AP2,RA2,RS2,Technology Disruption Pathway,16,1.5349,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,17,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,18,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,19,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,20,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,21,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,22,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,23,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,24,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,25,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,26,1.6,0.0084,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,27,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,28,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,29,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,30,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,31,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,32,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,33,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,34,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,35,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,36,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,37,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,38,1.6,0.0,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,39,1.6,0.0084,1.6
+AP2,RA2,RS2,Technology Disruption Pathway,40,1.6,0.013,1.6
+AP3,RA3,RS3,Climate Stress Pathway,1,0.46,0.6748,0.613
+AP3,RA3,RS3,Climate Stress Pathway,2,0.4923,0.5846,0.6892
+AP3,RA3,RS3,Climate Stress Pathway,3,0.5323,0.4944,0.7672
+AP3,RA3,RS3,Climate Stress Pathway,4,0.58,0.4042,0.847
+AP3,RA3,RS3,Climate Stress Pathway,5,0.6354,0.314,0.9287
+AP3,RA3,RS3,Climate Stress Pathway,6,0.6987,0.2238,1.0121
+AP3,RA3,RS3,Climate Stress Pathway,7,0.7699,0.1336,1.0973
+AP3,RA3,RS3,Climate Stress Pathway,8,0.8454,0.05,1.1809
+AP3,RA3,RS3,Climate Stress Pathway,9,0.9301,0.0,1.2688
+AP3,RA3,RS3,Climate Stress Pathway,10,1.0168,0.0,1.3567
+AP3,RA3,RS3,Climate Stress Pathway,11,1.1086,0.0,1.4446
+AP3,RA3,RS3,Climate Stress Pathway,12,1.2039,0.0,1.5325
+AP3,RA3,RS3,Climate Stress Pathway,13,1.2994,0.0106,1.6
+AP3,RA3,RS3,Climate Stress Pathway,14,1.3974,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,15,1.4954,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,16,1.5901,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,17,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,18,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,19,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,20,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,21,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,22,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,23,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,24,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,25,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,26,1.6,0.0106,1.6
+AP3,RA3,RS3,Climate Stress Pathway,27,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,28,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,29,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,30,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,31,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,32,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,33,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,34,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,35,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,36,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,37,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,38,1.6,0.0,1.6
+AP3,RA3,RS3,Climate Stress Pathway,39,1.6,0.0106,1.6
+AP3,RA3,RS3,Climate Stress Pathway,40,1.6,0.005,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,1,0.44,0.6836,0.532
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,2,0.4641,0.6078,0.5949
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,3,0.4946,0.532,0.6594
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,4,0.5315,0.4562,0.7254
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,5,0.5749,0.3804,0.7929
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,6,0.6248,0.3046,0.8619
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,7,0.6814,0.2288,0.9324
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,8,0.7408,0.1596,1.001
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,9,0.8103,0.0838,1.0744
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,10,0.8808,0.09,1.1477
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,11,0.9597,0.0142,1.2226
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,12,1.0423,0.0,1.2977
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,13,1.1251,0.0178,1.3724
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,14,1.2137,0.0,1.4475
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,15,1.3053,0.0,1.5226
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,16,1.3965,0.0,1.5944
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,17,1.4912,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,18,1.5859,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,19,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,20,1.6,0.0062,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,21,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,22,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,23,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,24,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,25,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,26,1.6,0.0178,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,27,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,28,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,29,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,30,1.6,0.0062,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,31,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,32,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,33,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,34,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,35,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,36,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,37,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,38,1.6,0.0,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,39,1.6,0.0178,1.6
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,40,1.6,0.0306,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,1,0.48,0.6896,0.5696
+AP5,RA5,RS5,Financial Contagion Pathway,2,0.5073,0.6056,0.6382
+AP5,RA5,RS5,Financial Contagion Pathway,3,0.5417,0.5216,0.7085
+AP5,RA5,RS5,Financial Contagion Pathway,4,0.5831,0.4376,0.7804
+AP5,RA5,RS5,Financial Contagion Pathway,5,0.6317,0.3536,0.854
+AP5,RA5,RS5,Financial Contagion Pathway,6,0.6875,0.2696,0.9293
+AP5,RA5,RS5,Financial Contagion Pathway,7,0.7506,0.1856,1.0063
+AP5,RA5,RS5,Financial Contagion Pathway,8,0.8172,0.1082,1.0816
+AP5,RA5,RS5,Financial Contagion Pathway,9,0.8946,0.0242,1.1618
+AP5,RA5,RS5,Financial Contagion Pathway,10,0.9731,0.0302,1.2419
+AP5,RA5,RS5,Financial Contagion Pathway,11,1.0581,0.0,1.3226
+AP5,RA5,RS5,Financial Contagion Pathway,12,1.1463,0.0,1.4033
+AP5,RA5,RS5,Financial Contagion Pathway,13,1.2351,0.0144,1.4837
+AP5,RA5,RS5,Financial Contagion Pathway,14,1.3297,0.0,1.5644
+AP5,RA5,RS5,Financial Contagion Pathway,15,1.4258,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,16,1.5186,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,17,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,18,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,19,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,20,1.6,0.006,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,21,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,22,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,23,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,24,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,25,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,26,1.6,0.0144,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,27,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,28,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,29,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,30,1.6,0.006,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,31,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,32,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,33,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,34,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,35,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,36,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,37,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,38,1.6,0.0,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,39,1.6,0.0144,1.6
+AP5,RA5,RS5,Financial Contagion Pathway,40,1.6,0.027,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,1,0.34,0.7596,0.3508
+AP6,RA6,RS6,Institutional Breakdown Pathway,2,0.3398,0.722,0.3841
+AP6,RA6,RS6,Institutional Breakdown Pathway,3,0.3428,0.6844,0.4181
+AP6,RA6,RS6,Institutional Breakdown Pathway,4,0.349,0.6468,0.4528
+AP6,RA6,RS6,Institutional Breakdown Pathway,5,0.3586,0.6092,0.4884
+AP6,RA6,RS6,Institutional Breakdown Pathway,6,0.3715,0.5716,0.5246
+AP6,RA6,RS6,Institutional Breakdown Pathway,7,0.3878,0.534,0.5616
+AP6,RA6,RS6,Institutional Breakdown Pathway,8,0.4037,0.503,0.596
+AP6,RA6,RS6,Institutional Breakdown Pathway,9,0.4263,0.4654,0.6344
+AP6,RA6,RS6,Institutional Breakdown Pathway,10,0.4468,0.5058,0.672
+AP6,RA6,RS6,Institutional Breakdown Pathway,11,0.4723,0.4682,0.7103
+AP6,RA6,RS6,Institutional Breakdown Pathway,12,0.5013,0.4306,0.7494
+AP6,RA6,RS6,Institutional Breakdown Pathway,13,0.5269,0.489,0.7873
+AP6,RA6,RS6,Institutional Breakdown Pathway,14,0.5578,0.4514,0.826
+AP6,RA6,RS6,Institutional Breakdown Pathway,15,0.5923,0.4138,0.8654
+AP6,RA6,RS6,Institutional Breakdown Pathway,16,0.6264,0.3828,0.9021
+AP6,RA6,RS6,Institutional Breakdown Pathway,17,0.6674,0.3452,0.9429
+AP6,RA6,RS6,Institutional Breakdown Pathway,18,0.7119,0.3076,0.9845
+AP6,RA6,RS6,Institutional Breakdown Pathway,19,0.7599,0.27,1.0268
+AP6,RA6,RS6,Institutional Breakdown Pathway,20,0.8061,0.3104,1.0683
+AP6,RA6,RS6,Institutional Breakdown Pathway,21,0.8574,0.2728,1.1105
+AP6,RA6,RS6,Institutional Breakdown Pathway,22,0.9123,0.2352,1.1535
+AP6,RA6,RS6,Institutional Breakdown Pathway,23,0.9708,0.1976,1.1973
+AP6,RA6,RS6,Institutional Breakdown Pathway,24,1.0292,0.1666,1.2383
+AP6,RA6,RS6,Institutional Breakdown Pathway,25,1.0946,0.129,1.2835
+AP6,RA6,RS6,Institutional Breakdown Pathway,26,1.1569,0.1874,1.3274
+AP6,RA6,RS6,Institutional Breakdown Pathway,27,1.2248,0.1498,1.3721
+AP6,RA6,RS6,Institutional Breakdown Pathway,28,1.2964,0.1122,1.4176
+AP6,RA6,RS6,Institutional Breakdown Pathway,29,1.3717,0.0746,1.4638
+AP6,RA6,RS6,Institutional Breakdown Pathway,30,1.4452,0.115,1.5092
+AP6,RA6,RS6,Institutional Breakdown Pathway,31,1.5241,0.0774,1.5553
+AP6,RA6,RS6,Institutional Breakdown Pathway,32,1.6,0.0464,1.5988
+AP6,RA6,RS6,Institutional Breakdown Pathway,33,1.6,0.0088,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,34,1.6,0.0,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,35,1.6,0.0,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,36,1.6,0.0,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,37,1.6,0.0,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,38,1.6,0.0,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,39,1.6,0.0584,1.6
+AP6,RA6,RS6,Institutional Breakdown Pathway,40,1.6,0.1054,1.6
+AP7,RA7,RS7,Systemic Cascade Pathway,1,0.3,0.86,0.3122
+AP7,RA7,RS7,Systemic Cascade Pathway,2,0.2898,0.8308,0.3379
+AP7,RA7,RS7,Systemic Cascade Pathway,3,0.2821,0.8016,0.3642
+AP7,RA7,RS7,Systemic Cascade Pathway,4,0.2769,0.7724,0.391
+AP7,RA7,RS7,Systemic Cascade Pathway,5,0.2743,0.7432,0.4184
+AP7,RA7,RS7,Systemic Cascade Pathway,6,0.2742,0.714,0.4465
+AP7,RA7,RS7,Systemic Cascade Pathway,7,0.2768,0.6848,0.4751
+AP7,RA7,RS7,Systemic Cascade Pathway,8,0.2782,0.6622,0.5008
+AP7,RA7,RS7,Systemic Cascade Pathway,9,0.2856,0.633,0.5305
+AP7,RA7,RS7,Systemic Cascade Pathway,10,0.2888,0.6998,0.5588
+AP7,RA7,RS7,Systemic Cascade Pathway,11,0.2966,0.6706,0.5877
+AP7,RA7,RS7,Systemic Cascade Pathway,12,0.307,0.6414,0.6171
+AP7,RA7,RS7,Systemic Cascade Pathway,13,0.3121,0.725,0.6449
+AP7,RA7,RS7,Systemic Cascade Pathway,14,0.322,0.6958,0.6733
+AP7,RA7,RS7,Systemic Cascade Pathway,15,0.3346,0.6666,0.7023
+AP7,RA7,RS7,Systemic Cascade Pathway,16,0.346,0.644,0.7284
+AP7,RA7,RS7,Systemic Cascade Pathway,17,0.3634,0.6148,0.7584
+AP7,RA7,RS7,Systemic Cascade Pathway,18,0.3835,0.5856,0.789
+AP7,RA7,RS7,Systemic Cascade Pathway,19,0.4063,0.5564,0.8202
+AP7,RA7,RS7,Systemic Cascade Pathway,20,0.425,0.6232,0.85
+AP7,RA7,RS7,Systemic Cascade Pathway,21,0.4483,0.594,0.8804
+AP7,RA7,RS7,Systemic Cascade Pathway,22,0.4743,0.5648,0.9114
+AP7,RA7,RS7,Systemic Cascade Pathway,23,0.5031,0.5356,0.943
+AP7,RA7,RS7,Systemic Cascade Pathway,24,0.5308,0.513,0.9717
+AP7,RA7,RS7,Systemic Cascade Pathway,25,0.5646,0.4838,1.0044
+AP7,RA7,RS7,Systemic Cascade Pathway,26,0.5932,0.5674,1.0353
+AP7,RA7,RS7,Systemic Cascade Pathway,27,0.6267,0.5382,1.0669
+AP7,RA7,RS7,Systemic Cascade Pathway,28,0.6631,0.509,1.099
+AP7,RA7,RS7,Systemic Cascade Pathway,29,0.7021,0.4798,1.1317
+AP7,RA7,RS7,Systemic Cascade Pathway,30,0.7372,0.5466,1.1631
+AP7,RA7,RS7,Systemic Cascade Pathway,31,0.7769,0.5174,1.195
+AP7,RA7,RS7,Systemic Cascade Pathway,32,0.8157,0.4948,1.2241
+AP7,RA7,RS7,Systemic Cascade Pathway,33,0.8605,0.4656,1.2571
+AP7,RA7,RS7,Systemic Cascade Pathway,34,0.9081,0.4364,1.2907
+AP7,RA7,RS7,Systemic Cascade Pathway,35,0.9585,0.4072,1.3248
+AP7,RA7,RS7,Systemic Cascade Pathway,36,1.0118,0.378,1.3596
+AP7,RA7,RS7,Systemic Cascade Pathway,37,1.0679,0.3488,1.3949
+AP7,RA7,RS7,Systemic Cascade Pathway,38,1.127,0.3196,1.4308
+AP7,RA7,RS7,Systemic Cascade Pathway,39,1.181,0.4032,1.465
+AP7,RA7,RS7,Systemic Cascade Pathway,40,1.2295,0.4766,1.4945
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,1,0.76,0.3728,0.8432
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,2,0.8411,0.2362,0.9562
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,3,0.9337,0.0996,1.0719
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,4,1.036,0.0,1.1896
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,5,1.143,0.0,1.3073
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,6,1.2547,0.0,1.425
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,7,1.3711,0.0,1.5427
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,8,1.4865,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,9,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,10,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,11,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,12,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,13,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,14,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,15,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,16,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,17,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,18,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,19,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,20,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,21,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,22,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,23,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,24,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,25,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,26,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,27,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,28,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,29,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,30,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,31,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,32,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,33,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,34,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,35,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,36,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,37,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,38,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,39,1.6,0.0,1.6
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,40,1.6,0.0,1.6

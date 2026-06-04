@@ -1,0 +1,9 @@
+pathway_id,profile_id,scenario_id,pathway_name,initial_preparedness,monitoring_capacity,trigger_sensitivity,learning_capacity,governance_capacity,resilience_capacity,vulnerability_pressure,cascade_pressure,tail_pressure,public_legitimacy,time_horizon
+AP1,RA1,RS1,Baseline Extension Pathway,0.70,0.62,0.42,0.50,0.58,0.72,0.34,0.28,0.30,0.58,40
+AP2,RA2,RS2,Technology Disruption Pathway,0.50,0.58,0.60,0.56,0.46,0.55,0.58,0.76,0.72,0.46,40
+AP3,RA3,RS3,Climate Stress Pathway,0.46,0.66,0.72,0.68,0.44,0.49,0.70,0.78,0.84,0.60,40
+AP4,RA4,RS4,Geopolitical Fragmentation Pathway,0.44,0.56,0.66,0.54,0.42,0.46,0.66,0.82,0.78,0.50,40
+AP5,RA5,RS5,Financial Contagion Pathway,0.48,0.64,0.62,0.60,0.50,0.44,0.64,0.90,0.82,0.52,40
+AP6,RA6,RS6,Institutional Breakdown Pathway,0.34,0.34,0.50,0.32,0.30,0.36,0.78,0.78,0.80,0.26,40
+AP7,RA7,RS7,Systemic Cascade Pathway,0.30,0.30,0.48,0.26,0.28,0.31,0.84,0.96,0.94,0.22,40
+AP8,RA8,RS8,Adaptive Public Risk Governance Pathway,0.76,0.86,0.82,0.90,0.82,0.78,0.44,0.48,0.46,0.82,40

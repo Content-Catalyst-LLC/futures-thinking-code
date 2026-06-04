@@ -1,0 +1,9 @@
+scenario_id,scenario_name,scenario_family,systemic_risk_stress_score,adaptive_opportunity_score,description
+RS7,Systemic Cascade,systemic_cascade,0.8832,0.126,Cross-domain failure links climate finance infrastructure health technology and political instability.
+RS6,Institutional Breakdown,institutional_breakdown,0.7804,0.187,Institutional capacity legitimacy finance workforce and coordination deteriorate under stress.
+RS3,Climate Stress Escalation,climate_stress,0.7662,0.2696,Climate nonstationarity creates compound hazards and infrastructure planning uncertainty.
+RS4,Geopolitical Fragmentation,geopolitical_fragmentation,0.7404,0.2518,Conflict sanctions trade disruption cyber risk and bloc formation intensify strategic uncertainty.
+RS5,Financial Contagion,financial_contagion,0.6866,0.3178,Debt liquidity asset repricing climate exposure and confidence dynamics spread through financial systems.
+RS2,Technological Disruption,technology_disruption,0.6858,0.3176,Rapid AI cyber automation platform and biotechnology change outpace governance and accountability.
+RS8,Adaptive Public Risk Governance,adaptive_governance,0.442,0.6016,Monitoring learning accountability and adaptive pathways reduce preparedness gaps under uncertainty.
+RS1,Stable Baseline Extension,stable_baseline,0.2676,0.7322,Historical patterns remain broadly useful but complacency may hide structural change.

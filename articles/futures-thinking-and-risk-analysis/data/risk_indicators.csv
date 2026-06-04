@@ -1,0 +1,9 @@
+indicator_id,scenario_id,indicator_name,indicator_domain,signal_strength,visibility_gap,lead_time,systemic_relevance,cascade_potential,tail_severity,preparedness_gap,distributional_harm,description
+RI1,RS7,Cross-Domain Cascade Signal,systemic_cascade,0.62,0.76,0.38,0.96,0.96,0.94,0.82,0.92,Multiple stress signals appear across climate finance infrastructure health technology and politics.
+RI2,RS3,Climate Nonstationarity Indicator,climate_risk,0.72,0.58,0.52,0.86,0.78,0.84,0.70,0.82,Historical hazard assumptions diverge from observed climate and infrastructure stress patterns.
+RI3,RS2,Technology Governance Lag,technology_risk,0.66,0.68,0.42,0.82,0.76,0.72,0.74,0.62,Technical capability expands faster than standards audits liability and oversight.
+RI4,RS4,Strategic Misperception Signal,geopolitical_risk,0.54,0.70,0.36,0.84,0.82,0.78,0.72,0.76,Rival signals alliance stress information operations and economic statecraft increase escalation risk.
+RI5,RS5,Financial Correlation Tightening,financial_risk,0.58,0.62,0.34,0.88,0.90,0.82,0.66,0.70,Assets institutions and markets become more correlated under liquidity and confidence stress.
+RI6,RS6,Institutional Capacity Erosion,institutional_risk,0.68,0.54,0.46,0.86,0.78,0.80,0.86,0.86,Workforce finance legitimacy communication and coordination capacity decline before crisis.
+RI7,RS1,Baseline Complacency Signal,baseline_risk,0.42,0.48,0.62,0.56,0.46,0.44,0.52,0.48,Stable data patterns hide weak signals of structural change.
+RI8,RS8,Adaptive Governance Readiness,adaptive_governance,0.76,0.28,0.70,0.74,0.48,0.46,0.30,0.34,Monitoring trigger points scenario refresh and public accountability improve readiness.

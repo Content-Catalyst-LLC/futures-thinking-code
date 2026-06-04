@@ -1,0 +1,9 @@
+strategy_id,profile_id,strategy_name,strategy_type,baseline_performance,technology_disruption_performance,climate_stress_performance,geopolitical_fragmentation_performance,financial_contagion_performance,institutional_breakdown_performance,systemic_cascade_performance,monitoring_capacity,adaptability,implementation_capacity,public_legitimacy,description
+ST1,RA1,Efficiency Strategy,efficiency,0.92,0.55,0.48,0.44,0.42,0.36,0.28,0.42,0.34,0.74,0.50,Optimizes for stable baseline conditions but performs poorly under deep uncertainty and cascade stress.
+ST2,RA2,Balanced Strategy,balanced,0.78,0.71,0.66,0.63,0.61,0.56,0.52,0.60,0.58,0.66,0.62,Balances baseline efficiency with moderate resilience and cross-scenario viability.
+ST3,RA8,Adaptive Strategy,adaptive,0.72,0.76,0.73,0.70,0.68,0.64,0.60,0.84,0.88,0.62,0.76,Uses monitoring triggers learning loops and flexible pathways to revise action over time.
+ST4,RA3,Precautionary Strategy,precautionary,0.66,0.72,0.76,0.68,0.70,0.66,0.64,0.72,0.70,0.56,0.80,Prioritizes severe and irreversible harm reduction under uncertain probabilities.
+ST5,RA7,Resilient Redundancy,resilient_redundancy,0.64,0.70,0.74,0.72,0.73,0.70,0.68,0.68,0.74,0.54,0.72,Sacrifices peak efficiency to preserve buffers redundancy and continuity under disruption.
+ST6,RA6,Institutional Capacity Renewal,institutional_capacity,0.68,0.70,0.72,0.74,0.72,0.80,0.70,0.76,0.78,0.58,0.84,Strengthens coordination finance workforce accountability legitimacy and learning systems.
+ST7,RA4,Cascade Risk Reduction,cascade_reduction,0.70,0.72,0.74,0.76,0.78,0.70,0.76,0.74,0.72,0.60,0.76,Maps interdependencies and reduces single-point failures chokepoints and cross-domain vulnerabilities.
+ST8,RA5,Transformative Risk Reduction,transformative_reduction,0.62,0.70,0.82,0.76,0.74,0.78,0.80,0.82,0.86,0.48,0.82,Changes system structure where existing arrangements repeatedly produce unacceptable risk.
